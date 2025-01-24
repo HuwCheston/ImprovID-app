@@ -1,0 +1,2928 @@
+{
+    "[9, 3, -12]": [
+        {
+            "track_name": "1. When Lights Are Low",
+            "album_name": "Blues Ballads and a Train",
+            "recording_year": "2000",
+            "asset_path": "junior_mance_000_000"
+        },
+        {
+            "track_name": "2. CC Rider",
+            "album_name": "Softly as in a Morning Sunrise",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_000_001"
+        },
+        {
+            "track_name": "3. Love for Sale",
+            "album_name": "Milestones",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_000_002"
+        },
+        {
+            "track_name": "4. Good Bait",
+            "album_name": "Milestones",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_000_003"
+        },
+        {
+            "track_name": "5. For Dancers Only",
+            "album_name": "Happy Time",
+            "recording_year": "1962",
+            "asset_path": "junior_mance_000_004"
+        },
+        {
+            "track_name": "6. Walkin",
+            "album_name": "Milestones",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_000_005"
+        },
+        {
+            "track_name": "7. Blue Mance",
+            "album_name": "Blue Mance",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_000_006"
+        },
+        {
+            "track_name": "8. Since I Lost My Baby I Almost Lost My Mind",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_000_007"
+        },
+        {
+            "track_name": "9. Sweet Georgia Brown",
+            "album_name": "I Believe to My Soul",
+            "recording_year": "1966",
+            "asset_path": "junior_mance_000_008"
+        },
+        {
+            "track_name": "10. For Dancers Only",
+            "album_name": "Live at Caf Loup",
+            "recording_year": "2007",
+            "asset_path": "junior_mance_000_009"
+        },
+        {
+            "track_name": "11. In a Sentimental Mood",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_000_010"
+        },
+        {
+            "track_name": "12. Swingmatism",
+            "album_name": "The Soulful Piano of Junior Mance",
+            "recording_year": "1960",
+            "asset_path": "junior_mance_000_011"
+        },
+        {
+            "track_name": "13. Swingmatism",
+            "album_name": "The Soulful Piano of Junior Mance",
+            "recording_year": "1960",
+            "asset_path": "junior_mance_000_012"
+        }
+    ],
+    "[-12, 9, 3]": [
+        {
+            "track_name": "1. I Let a Song Go Out of My Heart",
+            "album_name": "The Floating Jazz Festival Trio 1995",
+            "recording_year": "1995",
+            "asset_path": "junior_mance_001_000"
+        },
+        {
+            "track_name": "2. When Lights Are Low",
+            "album_name": "Blues Ballads and a Train",
+            "recording_year": "2000",
+            "asset_path": "junior_mance_001_001"
+        },
+        {
+            "track_name": "3. Work Song",
+            "album_name": "Milestones",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_001_002"
+        },
+        {
+            "track_name": "4. For Dancers Only",
+            "album_name": "Happy Time",
+            "recording_year": "1962",
+            "asset_path": "junior_mance_001_003"
+        },
+        {
+            "track_name": "5. I Got It Bad and That Aint Good",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_001_004"
+        },
+        {
+            "track_name": "6. I Got It Bad and That Aint Good",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_001_005"
+        },
+        {
+            "track_name": "7. Jumping the Blues",
+            "album_name": "The Floating Jazz Festival Trio 1995",
+            "recording_year": "1995",
+            "asset_path": "junior_mance_001_006"
+        },
+        {
+            "track_name": "8. Lady Bird",
+            "album_name": "Softly as in a Morning Sunrise",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_001_007"
+        },
+        {
+            "track_name": "9. Blue Mance",
+            "album_name": "Blue Mance",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_001_008"
+        },
+        {
+            "track_name": "10. Whisper Not",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_001_009"
+        },
+        {
+            "track_name": "11. The Simple Waltz",
+            "album_name": "Happy Time",
+            "recording_year": "1962",
+            "asset_path": "junior_mance_001_010"
+        },
+        {
+            "track_name": "12. The Jumpin Blues",
+            "album_name": "Juniors Blues",
+            "recording_year": "1963",
+            "asset_path": "junior_mance_001_011"
+        },
+        {
+            "track_name": "13. Broadway",
+            "album_name": "Live at Caf Loup",
+            "recording_year": "2007",
+            "asset_path": "junior_mance_001_012"
+        },
+        {
+            "track_name": "14. Whisper Not",
+            "album_name": "Blues Ballads and a Train",
+            "recording_year": "2000",
+            "asset_path": "junior_mance_001_013"
+        },
+        {
+            "track_name": "15. Since I Lost My Baby I Almost Lost My Mind",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_001_014"
+        },
+        {
+            "track_name": "16. For Dancers Only",
+            "album_name": "Live at Caf Loup",
+            "recording_year": "2007",
+            "asset_path": "junior_mance_001_015"
+        },
+        {
+            "track_name": "17. For Dancers Only",
+            "album_name": "Live at Caf Loup",
+            "recording_year": "2007",
+            "asset_path": "junior_mance_001_016"
+        },
+        {
+            "track_name": "18. Holy Mama",
+            "album_name": "Holy Mama",
+            "recording_year": "1977",
+            "asset_path": "junior_mance_001_017"
+        },
+        {
+            "track_name": "19. Holy Mama",
+            "album_name": "Holy Mama",
+            "recording_year": "1977",
+            "asset_path": "junior_mance_001_018"
+        },
+        {
+            "track_name": "20. Smokey Blues",
+            "album_name": "Blues Ballads and a Train",
+            "recording_year": "2000",
+            "asset_path": "junior_mance_001_019"
+        },
+        {
+            "track_name": "21. In a Sentimental Mood",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_001_020"
+        },
+        {
+            "track_name": "22. Swingmatism",
+            "album_name": "The Soulful Piano of Junior Mance",
+            "recording_year": "1960",
+            "asset_path": "junior_mance_001_021"
+        },
+        {
+            "track_name": "23. Oh Lady Be Good",
+            "album_name": "The Floating Jazz Festival Trio 1997",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_001_022"
+        }
+    ],
+    "[3, -12, 12]": [
+        {
+            "track_name": "1. I Let a Song Go Out of My Heart",
+            "album_name": "The Floating Jazz Festival Trio 1995",
+            "recording_year": "1995",
+            "asset_path": "junior_mance_002_000"
+        },
+        {
+            "track_name": "2. I Dont Care",
+            "album_name": "The Floating Jazz Festival Trio 1997",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_002_001"
+        },
+        {
+            "track_name": "3. CC Rider",
+            "album_name": "Softly as in a Morning Sunrise",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_002_002"
+        },
+        {
+            "track_name": "4. CC Rider",
+            "album_name": "Softly as in a Morning Sunrise",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_002_003"
+        },
+        {
+            "track_name": "5. CC Rider",
+            "album_name": "Softly as in a Morning Sunrise",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_002_004"
+        },
+        {
+            "track_name": "6. Careless Love",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_002_005"
+        },
+        {
+            "track_name": "7. Careless Love",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_002_006"
+        },
+        {
+            "track_name": "8. Careless Love",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_002_007"
+        },
+        {
+            "track_name": "9. Careless Love",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_002_008"
+        },
+        {
+            "track_name": "10. Careless Love",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_002_009"
+        },
+        {
+            "track_name": "11. Careless Love",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_002_010"
+        },
+        {
+            "track_name": "12. Inside Out",
+            "album_name": "Softly as in a Morning Sunrise",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_002_011"
+        },
+        {
+            "track_name": "13. Falling In Love With Love",
+            "album_name": "Blue Mance",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_002_012"
+        },
+        {
+            "track_name": "14. Falling in Love With Love",
+            "album_name": "The Floating Jazz Festival Trio 1997",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_002_013"
+        },
+        {
+            "track_name": "15. For Dancers Only",
+            "album_name": "Happy Time",
+            "recording_year": "1962",
+            "asset_path": "junior_mance_002_014"
+        },
+        {
+            "track_name": "16. I Got It Bad and That Aint Good",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_002_015"
+        },
+        {
+            "track_name": "17. I Got It Bad and That Aint Good",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_002_016"
+        },
+        {
+            "track_name": "18. I Got It Bad and That Aint Good",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_002_017"
+        },
+        {
+            "track_name": "19. Jumping the Blues",
+            "album_name": "The Floating Jazz Festival Trio 1995",
+            "recording_year": "1995",
+            "asset_path": "junior_mance_002_018"
+        },
+        {
+            "track_name": "20. CC Rider",
+            "album_name": "Nadja",
+            "recording_year": "1998",
+            "asset_path": "junior_mance_002_019"
+        },
+        {
+            "track_name": "21. Whisper Not",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_002_020"
+        },
+        {
+            "track_name": "22. I Wish I Knew How It Would Feel To Be Free",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_002_021"
+        },
+        {
+            "track_name": "23. The Simple Waltz",
+            "album_name": "Happy Time",
+            "recording_year": "1962",
+            "asset_path": "junior_mance_002_022"
+        },
+        {
+            "track_name": "24. Flat On Your Back",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_002_023"
+        },
+        {
+            "track_name": "25. Whisper Not",
+            "album_name": "Blues Ballads and a Train",
+            "recording_year": "2000",
+            "asset_path": "junior_mance_002_024"
+        },
+        {
+            "track_name": "26. Since I Lost My Baby I Almost Lost My Mind",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_002_025"
+        },
+        {
+            "track_name": "27. Blue Monk",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_002_026"
+        },
+        {
+            "track_name": "28. Blue Monk",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_002_027"
+        },
+        {
+            "track_name": "29. Blue Monk",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_002_028"
+        },
+        {
+            "track_name": "30. Blue Monk",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_002_029"
+        },
+        {
+            "track_name": "31. Take the a Train",
+            "album_name": "The Floating Jazz Festival Trio 1997",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_002_030"
+        },
+        {
+            "track_name": "32. For Dancers Only",
+            "album_name": "Live at Caf Loup",
+            "recording_year": "2007",
+            "asset_path": "junior_mance_002_031"
+        },
+        {
+            "track_name": "33. Yancey Special",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_002_032"
+        },
+        {
+            "track_name": "34. Yancey Special",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_002_033"
+        },
+        {
+            "track_name": "35. Yancey Special",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_002_034"
+        },
+        {
+            "track_name": "36. Yancey Special",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_002_035"
+        },
+        {
+            "track_name": "37. Holy Mama",
+            "album_name": "Holy Mama",
+            "recording_year": "1977",
+            "asset_path": "junior_mance_002_036"
+        },
+        {
+            "track_name": "38. Smokey Blues",
+            "album_name": "Blues Ballads and a Train",
+            "recording_year": "2000",
+            "asset_path": "junior_mance_002_037"
+        },
+        {
+            "track_name": "39. In a Sentimental Mood",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_002_038"
+        },
+        {
+            "track_name": "40. In a Sentimental Mood",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_002_039"
+        },
+        {
+            "track_name": "41. What Is This Thing Called Love",
+            "album_name": "Mance",
+            "recording_year": "1998",
+            "asset_path": "junior_mance_002_040"
+        },
+        {
+            "track_name": "42. Out South",
+            "album_name": "Happy Time",
+            "recording_year": "1962",
+            "asset_path": "junior_mance_002_041"
+        },
+        {
+            "track_name": "43. This Cant Be Love",
+            "album_name": "Mance",
+            "recording_year": "1998",
+            "asset_path": "junior_mance_002_042"
+        },
+        {
+            "track_name": "44. Rainy Mornin Blues",
+            "album_name": "Juniors Blues",
+            "recording_year": "1963",
+            "asset_path": "junior_mance_002_043"
+        },
+        {
+            "track_name": "45. Rainy Mornin Blues",
+            "album_name": "Juniors Blues",
+            "recording_year": "1963",
+            "asset_path": "junior_mance_002_044"
+        },
+        {
+            "track_name": "46. Nadja",
+            "album_name": "Nadja",
+            "recording_year": "1998",
+            "asset_path": "junior_mance_002_045"
+        },
+        {
+            "track_name": "47. Lester Leaps In",
+            "album_name": "Milestones",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_002_046"
+        }
+    ],
+    "[-12, 12]": [
+        {
+            "track_name": "1. I Let a Song Go Out of My Heart",
+            "album_name": "The Floating Jazz Festival Trio 1995",
+            "recording_year": "1995",
+            "asset_path": "junior_mance_003_000"
+        },
+        {
+            "track_name": "2. I Let a Song Go Out of My Heart",
+            "album_name": "The Floating Jazz Festival Trio 1995",
+            "recording_year": "1995",
+            "asset_path": "junior_mance_003_001"
+        },
+        {
+            "track_name": "3. I Let a Song Go Out of My Heart",
+            "album_name": "The Floating Jazz Festival Trio 1995",
+            "recording_year": "1995",
+            "asset_path": "junior_mance_003_002"
+        },
+        {
+            "track_name": "4. I Let a Song Go Out of My Heart",
+            "album_name": "The Floating Jazz Festival Trio 1995",
+            "recording_year": "1995",
+            "asset_path": "junior_mance_003_003"
+        },
+        {
+            "track_name": "5. I Let a Song Go Out of My Heart",
+            "album_name": "The Floating Jazz Festival Trio 1995",
+            "recording_year": "1995",
+            "asset_path": "junior_mance_003_004"
+        },
+        {
+            "track_name": "6. When Lights Are Low",
+            "album_name": "Blues Ballads and a Train",
+            "recording_year": "2000",
+            "asset_path": "junior_mance_003_005"
+        },
+        {
+            "track_name": "7. When Lights Are Low",
+            "album_name": "Blues Ballads and a Train",
+            "recording_year": "2000",
+            "asset_path": "junior_mance_003_006"
+        },
+        {
+            "track_name": "8. When Lights Are Low",
+            "album_name": "Blues Ballads and a Train",
+            "recording_year": "2000",
+            "asset_path": "junior_mance_003_007"
+        },
+        {
+            "track_name": "9. Work Song",
+            "album_name": "Milestones",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_003_008"
+        },
+        {
+            "track_name": "10. Work Song",
+            "album_name": "Milestones",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_003_009"
+        },
+        {
+            "track_name": "11. Work Song",
+            "album_name": "Milestones",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_003_010"
+        },
+        {
+            "track_name": "12. Work Song",
+            "album_name": "Milestones",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_003_011"
+        },
+        {
+            "track_name": "13. Work Song",
+            "album_name": "Milestones",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_003_012"
+        },
+        {
+            "track_name": "14. Work Song",
+            "album_name": "Milestones",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_003_013"
+        },
+        {
+            "track_name": "15. I Dont Care",
+            "album_name": "The Floating Jazz Festival Trio 1997",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_003_014"
+        },
+        {
+            "track_name": "16. I Dont Care",
+            "album_name": "The Floating Jazz Festival Trio 1997",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_003_015"
+        },
+        {
+            "track_name": "17. I Dont Care",
+            "album_name": "The Floating Jazz Festival Trio 1997",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_003_016"
+        },
+        {
+            "track_name": "18. I Dont Care",
+            "album_name": "The Floating Jazz Festival Trio 1997",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_003_017"
+        },
+        {
+            "track_name": "19. CC Rider",
+            "album_name": "Softly as in a Morning Sunrise",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_003_018"
+        },
+        {
+            "track_name": "20. CC Rider",
+            "album_name": "Softly as in a Morning Sunrise",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_003_019"
+        },
+        {
+            "track_name": "21. CC Rider",
+            "album_name": "Softly as in a Morning Sunrise",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_003_020"
+        },
+        {
+            "track_name": "22. CC Rider",
+            "album_name": "Softly as in a Morning Sunrise",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_003_021"
+        },
+        {
+            "track_name": "23. CC Rider",
+            "album_name": "Softly as in a Morning Sunrise",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_003_022"
+        },
+        {
+            "track_name": "24. CC Rider",
+            "album_name": "Softly as in a Morning Sunrise",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_003_023"
+        },
+        {
+            "track_name": "25. CC Rider",
+            "album_name": "Softly as in a Morning Sunrise",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_003_024"
+        },
+        {
+            "track_name": "26. CC Rider",
+            "album_name": "Softly as in a Morning Sunrise",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_003_025"
+        },
+        {
+            "track_name": "27. Careless Love",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_026"
+        },
+        {
+            "track_name": "28. Careless Love",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_027"
+        },
+        {
+            "track_name": "29. Careless Love",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_028"
+        },
+        {
+            "track_name": "30. Careless Love",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_029"
+        },
+        {
+            "track_name": "31. Careless Love",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_030"
+        },
+        {
+            "track_name": "32. Careless Love",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_031"
+        },
+        {
+            "track_name": "33. Careless Love",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_032"
+        },
+        {
+            "track_name": "34. Careless Love",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_033"
+        },
+        {
+            "track_name": "35. Careless Love",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_034"
+        },
+        {
+            "track_name": "36. Careless Love",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_035"
+        },
+        {
+            "track_name": "37. Careless Love",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_036"
+        },
+        {
+            "track_name": "38. Inside Out",
+            "album_name": "Softly as in a Morning Sunrise",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_003_037"
+        },
+        {
+            "track_name": "39. Inside Out",
+            "album_name": "Softly as in a Morning Sunrise",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_003_038"
+        },
+        {
+            "track_name": "40. Inside Out",
+            "album_name": "Softly as in a Morning Sunrise",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_003_039"
+        },
+        {
+            "track_name": "41. Inside Out",
+            "album_name": "Softly as in a Morning Sunrise",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_003_040"
+        },
+        {
+            "track_name": "42. Softly as in a Morning Sunrise",
+            "album_name": "Softly as in a Morning Sunrise",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_003_041"
+        },
+        {
+            "track_name": "43. Softly as in a Morning Sunrise",
+            "album_name": "Softly as in a Morning Sunrise",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_003_042"
+        },
+        {
+            "track_name": "44. Softly as in a Morning Sunrise",
+            "album_name": "Softly as in a Morning Sunrise",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_003_043"
+        },
+        {
+            "track_name": "45. Falling In Love With Love",
+            "album_name": "Blue Mance",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_003_044"
+        },
+        {
+            "track_name": "46. Falling In Love With Love",
+            "album_name": "Blue Mance",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_003_045"
+        },
+        {
+            "track_name": "47. Falling In Love With Love",
+            "album_name": "Blue Mance",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_003_046"
+        },
+        {
+            "track_name": "48. Love for Sale",
+            "album_name": "Milestones",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_003_047"
+        },
+        {
+            "track_name": "49. Love for Sale",
+            "album_name": "Milestones",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_003_048"
+        },
+        {
+            "track_name": "50. Love for Sale",
+            "album_name": "Milestones",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_003_049"
+        },
+        {
+            "track_name": "51. Love for Sale",
+            "album_name": "Milestones",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_003_050"
+        },
+        {
+            "track_name": "52. Love for Sale",
+            "album_name": "Milestones",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_003_051"
+        },
+        {
+            "track_name": "53. Good Bait",
+            "album_name": "Milestones",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_003_052"
+        },
+        {
+            "track_name": "54. Good Bait",
+            "album_name": "Milestones",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_003_053"
+        },
+        {
+            "track_name": "55. Good Bait",
+            "album_name": "Milestones",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_003_054"
+        },
+        {
+            "track_name": "56. Good Bait",
+            "album_name": "Milestones",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_003_055"
+        },
+        {
+            "track_name": "57. Falling in Love With Love",
+            "album_name": "The Floating Jazz Festival Trio 1997",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_003_056"
+        },
+        {
+            "track_name": "58. Falling in Love With Love",
+            "album_name": "The Floating Jazz Festival Trio 1997",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_003_057"
+        },
+        {
+            "track_name": "59. Falling in Love With Love",
+            "album_name": "The Floating Jazz Festival Trio 1997",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_003_058"
+        },
+        {
+            "track_name": "60. Falling in Love With Love",
+            "album_name": "The Floating Jazz Festival Trio 1997",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_003_059"
+        },
+        {
+            "track_name": "61. This Cant Be Love",
+            "album_name": "Nadja",
+            "recording_year": "1998",
+            "asset_path": "junior_mance_003_060"
+        },
+        {
+            "track_name": "62. This Cant Be Love",
+            "album_name": "Nadja",
+            "recording_year": "1998",
+            "asset_path": "junior_mance_003_061"
+        },
+        {
+            "track_name": "63. In the Evening",
+            "album_name": "Juniors Blues",
+            "recording_year": "1963",
+            "asset_path": "junior_mance_003_062"
+        },
+        {
+            "track_name": "64. In the Evening",
+            "album_name": "Juniors Blues",
+            "recording_year": "1963",
+            "asset_path": "junior_mance_003_063"
+        },
+        {
+            "track_name": "65. In the Evening",
+            "album_name": "Juniors Blues",
+            "recording_year": "1963",
+            "asset_path": "junior_mance_003_064"
+        },
+        {
+            "track_name": "66. In the Evening",
+            "album_name": "Juniors Blues",
+            "recording_year": "1963",
+            "asset_path": "junior_mance_003_065"
+        },
+        {
+            "track_name": "67. For Dancers Only",
+            "album_name": "Happy Time",
+            "recording_year": "1962",
+            "asset_path": "junior_mance_003_066"
+        },
+        {
+            "track_name": "68. Moanin",
+            "album_name": "The Floating Jazz Festival Trio 1995",
+            "recording_year": "1995",
+            "asset_path": "junior_mance_003_067"
+        },
+        {
+            "track_name": "69. Moanin",
+            "album_name": "The Floating Jazz Festival Trio 1995",
+            "recording_year": "1995",
+            "asset_path": "junior_mance_003_068"
+        },
+        {
+            "track_name": "70. Moanin",
+            "album_name": "The Floating Jazz Festival Trio 1995",
+            "recording_year": "1995",
+            "asset_path": "junior_mance_003_069"
+        },
+        {
+            "track_name": "71. Moanin",
+            "album_name": "The Floating Jazz Festival Trio 1995",
+            "recording_year": "1995",
+            "asset_path": "junior_mance_003_070"
+        },
+        {
+            "track_name": "72. I Got It Bad and That Aint Good",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_071"
+        },
+        {
+            "track_name": "73. I Got It Bad and That Aint Good",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_072"
+        },
+        {
+            "track_name": "74. I Got It Bad and That Aint Good",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_073"
+        },
+        {
+            "track_name": "75. I Got It Bad and That Aint Good",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_074"
+        },
+        {
+            "track_name": "76. I Got It Bad and That Aint Good",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_075"
+        },
+        {
+            "track_name": "77. I Got It Bad and That Aint Good",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_076"
+        },
+        {
+            "track_name": "78. I Got It Bad and That Aint Good",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_077"
+        },
+        {
+            "track_name": "79. If You Could See Me Now",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_078"
+        },
+        {
+            "track_name": "80. If You Could See Me Now",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_079"
+        },
+        {
+            "track_name": "81. If You Could See Me Now",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_080"
+        },
+        {
+            "track_name": "82. If You Could See Me Now",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_081"
+        },
+        {
+            "track_name": "83. If You Could See Me Now",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_082"
+        },
+        {
+            "track_name": "84. If You Could See Me Now",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_083"
+        },
+        {
+            "track_name": "85. Main Stem",
+            "album_name": "The Soulful Piano of Junior Mance",
+            "recording_year": "1960",
+            "asset_path": "junior_mance_003_084"
+        },
+        {
+            "track_name": "86. Main Stem",
+            "album_name": "The Soulful Piano of Junior Mance",
+            "recording_year": "1960",
+            "asset_path": "junior_mance_003_085"
+        },
+        {
+            "track_name": "87. Main Stem",
+            "album_name": "The Soulful Piano of Junior Mance",
+            "recording_year": "1960",
+            "asset_path": "junior_mance_003_086"
+        },
+        {
+            "track_name": "88. Main Stem",
+            "album_name": "The Soulful Piano of Junior Mance",
+            "recording_year": "1960",
+            "asset_path": "junior_mance_003_087"
+        },
+        {
+            "track_name": "89. Jumping the Blues",
+            "album_name": "The Floating Jazz Festival Trio 1995",
+            "recording_year": "1995",
+            "asset_path": "junior_mance_003_088"
+        },
+        {
+            "track_name": "90. Jumping the Blues",
+            "album_name": "The Floating Jazz Festival Trio 1995",
+            "recording_year": "1995",
+            "asset_path": "junior_mance_003_089"
+        },
+        {
+            "track_name": "91. Jumping the Blues",
+            "album_name": "The Floating Jazz Festival Trio 1995",
+            "recording_year": "1995",
+            "asset_path": "junior_mance_003_090"
+        },
+        {
+            "track_name": "92. Jumping the Blues",
+            "album_name": "The Floating Jazz Festival Trio 1995",
+            "recording_year": "1995",
+            "asset_path": "junior_mance_003_091"
+        },
+        {
+            "track_name": "93. Lady Bird",
+            "album_name": "Softly as in a Morning Sunrise",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_003_092"
+        },
+        {
+            "track_name": "94. Lady Bird",
+            "album_name": "Softly as in a Morning Sunrise",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_003_093"
+        },
+        {
+            "track_name": "95. Lady Bird",
+            "album_name": "Softly as in a Morning Sunrise",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_003_094"
+        },
+        {
+            "track_name": "96. Walkin",
+            "album_name": "Milestones",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_003_095"
+        },
+        {
+            "track_name": "97. Walkin",
+            "album_name": "Milestones",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_003_096"
+        },
+        {
+            "track_name": "98. Walkin",
+            "album_name": "Milestones",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_003_097"
+        },
+        {
+            "track_name": "99. Walkin",
+            "album_name": "Milestones",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_003_098"
+        },
+        {
+            "track_name": "100. CC Rider",
+            "album_name": "Nadja",
+            "recording_year": "1998",
+            "asset_path": "junior_mance_003_099"
+        },
+        {
+            "track_name": "101. CC Rider",
+            "album_name": "Nadja",
+            "recording_year": "1998",
+            "asset_path": "junior_mance_003_100"
+        },
+        {
+            "track_name": "102. Blue Mance",
+            "album_name": "Blue Mance",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_003_101"
+        },
+        {
+            "track_name": "103. Blue Mance",
+            "album_name": "Blue Mance",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_003_102"
+        },
+        {
+            "track_name": "104. Blue Mance",
+            "album_name": "Blue Mance",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_003_103"
+        },
+        {
+            "track_name": "105. Blue Mance",
+            "album_name": "Blue Mance",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_003_104"
+        },
+        {
+            "track_name": "106. Blue Mance",
+            "album_name": "Blue Mance",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_003_105"
+        },
+        {
+            "track_name": "107. Blue Mance",
+            "album_name": "Blue Mance",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_003_106"
+        },
+        {
+            "track_name": "108. Whisper Not",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_107"
+        },
+        {
+            "track_name": "109. Whisper Not",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_108"
+        },
+        {
+            "track_name": "110. Whisper Not",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_109"
+        },
+        {
+            "track_name": "111. Whisper Not",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_110"
+        },
+        {
+            "track_name": "112. Whisper Not",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_111"
+        },
+        {
+            "track_name": "113. Whisper Not",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_112"
+        },
+        {
+            "track_name": "114. Whisper Not",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_113"
+        },
+        {
+            "track_name": "115. Whisper Not",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_114"
+        },
+        {
+            "track_name": "116. I Wish I Knew How It Would Feel To Be Free",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_115"
+        },
+        {
+            "track_name": "117. I Wish I Knew How It Would Feel To Be Free",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_116"
+        },
+        {
+            "track_name": "118. I Wish I Knew How It Would Feel To Be Free",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_117"
+        },
+        {
+            "track_name": "119. I Wish I Knew How It Would Feel To Be Free",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_118"
+        },
+        {
+            "track_name": "120. I Wish I Knew How It Would Feel To Be Free",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_119"
+        },
+        {
+            "track_name": "121. I Wish I Knew How It Would Feel To Be Free",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_120"
+        },
+        {
+            "track_name": "122. I Wish I Knew How It Would Feel To Be Free",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_121"
+        },
+        {
+            "track_name": "123. I Wish I Knew How It Would Feel To Be Free",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_122"
+        },
+        {
+            "track_name": "124. Sunday Go to Meetin",
+            "album_name": "Softly as in a Morning Sunrise",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_003_123"
+        },
+        {
+            "track_name": "125. Sunday Go to Meetin",
+            "album_name": "Softly as in a Morning Sunrise",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_003_124"
+        },
+        {
+            "track_name": "126. Sunday Go to Meetin",
+            "album_name": "Softly as in a Morning Sunrise",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_003_125"
+        },
+        {
+            "track_name": "127. Sunday Go to Meetin",
+            "album_name": "Softly as in a Morning Sunrise",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_003_126"
+        },
+        {
+            "track_name": "128. The Simple Waltz",
+            "album_name": "Happy Time",
+            "recording_year": "1962",
+            "asset_path": "junior_mance_003_127"
+        },
+        {
+            "track_name": "129. The Simple Waltz",
+            "album_name": "Happy Time",
+            "recording_year": "1962",
+            "asset_path": "junior_mance_003_128"
+        },
+        {
+            "track_name": "130. The Simple Waltz",
+            "album_name": "Happy Time",
+            "recording_year": "1962",
+            "asset_path": "junior_mance_003_129"
+        },
+        {
+            "track_name": "131. Flat On Your Back",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_130"
+        },
+        {
+            "track_name": "132. Flat On Your Back",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_131"
+        },
+        {
+            "track_name": "133. Flat On Your Back",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_132"
+        },
+        {
+            "track_name": "134. Flat On Your Back",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_133"
+        },
+        {
+            "track_name": "135. Flat On Your Back",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_134"
+        },
+        {
+            "track_name": "136. Wee",
+            "album_name": "Softly as in a Morning Sunrise",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_003_135"
+        },
+        {
+            "track_name": "137. Wee",
+            "album_name": "Softly as in a Morning Sunrise",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_003_136"
+        },
+        {
+            "track_name": "138. Wee",
+            "album_name": "Softly as in a Morning Sunrise",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_003_137"
+        },
+        {
+            "track_name": "139. Wee",
+            "album_name": "Softly as in a Morning Sunrise",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_003_138"
+        },
+        {
+            "track_name": "140. Wee",
+            "album_name": "Softly as in a Morning Sunrise",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_003_139"
+        },
+        {
+            "track_name": "141. The Jumpin Blues",
+            "album_name": "Juniors Blues",
+            "recording_year": "1963",
+            "asset_path": "junior_mance_003_140"
+        },
+        {
+            "track_name": "142. The Jumpin Blues",
+            "album_name": "Juniors Blues",
+            "recording_year": "1963",
+            "asset_path": "junior_mance_003_141"
+        },
+        {
+            "track_name": "143. The Jumpin Blues",
+            "album_name": "Juniors Blues",
+            "recording_year": "1963",
+            "asset_path": "junior_mance_003_142"
+        },
+        {
+            "track_name": "144. Broadway",
+            "album_name": "Live at Caf Loup",
+            "recording_year": "2007",
+            "asset_path": "junior_mance_003_143"
+        },
+        {
+            "track_name": "145. Broadway",
+            "album_name": "Live at Caf Loup",
+            "recording_year": "2007",
+            "asset_path": "junior_mance_003_144"
+        },
+        {
+            "track_name": "146. Broadway",
+            "album_name": "Live at Caf Loup",
+            "recording_year": "2007",
+            "asset_path": "junior_mance_003_145"
+        },
+        {
+            "track_name": "147. Whisper Not",
+            "album_name": "Blues Ballads and a Train",
+            "recording_year": "2000",
+            "asset_path": "junior_mance_003_146"
+        },
+        {
+            "track_name": "148. Whisper Not",
+            "album_name": "Blues Ballads and a Train",
+            "recording_year": "2000",
+            "asset_path": "junior_mance_003_147"
+        },
+        {
+            "track_name": "149. Whisper Not",
+            "album_name": "Blues Ballads and a Train",
+            "recording_year": "2000",
+            "asset_path": "junior_mance_003_148"
+        },
+        {
+            "track_name": "150. Whisper Not",
+            "album_name": "Blues Ballads and a Train",
+            "recording_year": "2000",
+            "asset_path": "junior_mance_003_149"
+        },
+        {
+            "track_name": "151. Whisper Not",
+            "album_name": "Blues Ballads and a Train",
+            "recording_year": "2000",
+            "asset_path": "junior_mance_003_150"
+        },
+        {
+            "track_name": "152. Take the a Train",
+            "album_name": "Blues Ballads and a Train",
+            "recording_year": "2000",
+            "asset_path": "junior_mance_003_151"
+        },
+        {
+            "track_name": "153. Take the a Train",
+            "album_name": "Blues Ballads and a Train",
+            "recording_year": "2000",
+            "asset_path": "junior_mance_003_152"
+        },
+        {
+            "track_name": "154. Since I Lost My Baby I Almost Lost My Mind",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_153"
+        },
+        {
+            "track_name": "155. Since I Lost My Baby I Almost Lost My Mind",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_154"
+        },
+        {
+            "track_name": "156. Since I Lost My Baby I Almost Lost My Mind",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_155"
+        },
+        {
+            "track_name": "157. Since I Lost My Baby I Almost Lost My Mind",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_156"
+        },
+        {
+            "track_name": "158. Since I Lost My Baby I Almost Lost My Mind",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_157"
+        },
+        {
+            "track_name": "159. Since I Lost My Baby I Almost Lost My Mind",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_158"
+        },
+        {
+            "track_name": "160. Since I Lost My Baby I Almost Lost My Mind",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_159"
+        },
+        {
+            "track_name": "161. Since I Lost My Baby I Almost Lost My Mind",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_160"
+        },
+        {
+            "track_name": "162. Ralphs New Blues",
+            "album_name": "The Soulful Piano of Junior Mance",
+            "recording_year": "1960",
+            "asset_path": "junior_mance_003_161"
+        },
+        {
+            "track_name": "163. Ralphs New Blues",
+            "album_name": "The Soulful Piano of Junior Mance",
+            "recording_year": "1960",
+            "asset_path": "junior_mance_003_162"
+        },
+        {
+            "track_name": "164. Blue Monk",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_163"
+        },
+        {
+            "track_name": "165. Blue Monk",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_164"
+        },
+        {
+            "track_name": "166. Blue Monk",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_165"
+        },
+        {
+            "track_name": "167. Blue Monk",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_166"
+        },
+        {
+            "track_name": "168. Blue Monk",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_167"
+        },
+        {
+            "track_name": "169. Blue Monk",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_168"
+        },
+        {
+            "track_name": "170. Blue Monk",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_169"
+        },
+        {
+            "track_name": "171. Blue Monk",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_170"
+        },
+        {
+            "track_name": "172. Blue Monk",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_171"
+        },
+        {
+            "track_name": "173. Sweet Georgia Brown",
+            "album_name": "I Believe to My Soul",
+            "recording_year": "1966",
+            "asset_path": "junior_mance_003_172"
+        },
+        {
+            "track_name": "174. Sweet Georgia Brown",
+            "album_name": "I Believe to My Soul",
+            "recording_year": "1966",
+            "asset_path": "junior_mance_003_173"
+        },
+        {
+            "track_name": "175. Sweet Georgia Brown",
+            "album_name": "I Believe to My Soul",
+            "recording_year": "1966",
+            "asset_path": "junior_mance_003_174"
+        },
+        {
+            "track_name": "176. Take the a Train",
+            "album_name": "The Floating Jazz Festival Trio 1997",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_003_175"
+        },
+        {
+            "track_name": "177. Take the a Train",
+            "album_name": "The Floating Jazz Festival Trio 1997",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_003_176"
+        },
+        {
+            "track_name": "178. Take the a Train",
+            "album_name": "The Floating Jazz Festival Trio 1997",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_003_177"
+        },
+        {
+            "track_name": "179. Take the a Train",
+            "album_name": "The Floating Jazz Festival Trio 1997",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_003_178"
+        },
+        {
+            "track_name": "180. Take the a Train",
+            "album_name": "The Floating Jazz Festival Trio 1997",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_003_179"
+        },
+        {
+            "track_name": "181. Take the a Train",
+            "album_name": "The Floating Jazz Festival Trio 1997",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_003_180"
+        },
+        {
+            "track_name": "182. For Dancers Only",
+            "album_name": "Live at Caf Loup",
+            "recording_year": "2007",
+            "asset_path": "junior_mance_003_181"
+        },
+        {
+            "track_name": "183. For Dancers Only",
+            "album_name": "Live at Caf Loup",
+            "recording_year": "2007",
+            "asset_path": "junior_mance_003_182"
+        },
+        {
+            "track_name": "184. For Dancers Only",
+            "album_name": "Live at Caf Loup",
+            "recording_year": "2007",
+            "asset_path": "junior_mance_003_183"
+        },
+        {
+            "track_name": "185. For Dancers Only",
+            "album_name": "Live at Caf Loup",
+            "recording_year": "2007",
+            "asset_path": "junior_mance_003_184"
+        },
+        {
+            "track_name": "186. Milestones",
+            "album_name": "Milestones",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_003_185"
+        },
+        {
+            "track_name": "187. Milestones",
+            "album_name": "Milestones",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_003_186"
+        },
+        {
+            "track_name": "188. Yancey Special",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_187"
+        },
+        {
+            "track_name": "189. Yancey Special",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_188"
+        },
+        {
+            "track_name": "190. Yancey Special",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_189"
+        },
+        {
+            "track_name": "191. Yancey Special",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_190"
+        },
+        {
+            "track_name": "192. Yancey Special",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_191"
+        },
+        {
+            "track_name": "193. Yancey Special",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_192"
+        },
+        {
+            "track_name": "194. Yancey Special",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_193"
+        },
+        {
+            "track_name": "195. Yancey Special",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_194"
+        },
+        {
+            "track_name": "196. Yancey Special",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_195"
+        },
+        {
+            "track_name": "197. Holy Mama",
+            "album_name": "Holy Mama",
+            "recording_year": "1977",
+            "asset_path": "junior_mance_003_196"
+        },
+        {
+            "track_name": "198. Holy Mama",
+            "album_name": "Holy Mama",
+            "recording_year": "1977",
+            "asset_path": "junior_mance_003_197"
+        },
+        {
+            "track_name": "199. Holy Mama",
+            "album_name": "Holy Mama",
+            "recording_year": "1977",
+            "asset_path": "junior_mance_003_198"
+        },
+        {
+            "track_name": "200. Holy Mama",
+            "album_name": "Holy Mama",
+            "recording_year": "1977",
+            "asset_path": "junior_mance_003_199"
+        },
+        {
+            "track_name": "201. Holy Mama",
+            "album_name": "Holy Mama",
+            "recording_year": "1977",
+            "asset_path": "junior_mance_003_200"
+        },
+        {
+            "track_name": "202. Smokey Blues",
+            "album_name": "Blues Ballads and a Train",
+            "recording_year": "2000",
+            "asset_path": "junior_mance_003_201"
+        },
+        {
+            "track_name": "203. In a Sentimental Mood",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_202"
+        },
+        {
+            "track_name": "204. In a Sentimental Mood",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_203"
+        },
+        {
+            "track_name": "205. In a Sentimental Mood",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_204"
+        },
+        {
+            "track_name": "206. In a Sentimental Mood",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_205"
+        },
+        {
+            "track_name": "207. In a Sentimental Mood",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_206"
+        },
+        {
+            "track_name": "208. In a Sentimental Mood",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_207"
+        },
+        {
+            "track_name": "209. In a Sentimental Mood",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_208"
+        },
+        {
+            "track_name": "210. In a Sentimental Mood",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_003_209"
+        },
+        {
+            "track_name": "211. Swingmatism",
+            "album_name": "The Soulful Piano of Junior Mance",
+            "recording_year": "1960",
+            "asset_path": "junior_mance_003_210"
+        },
+        {
+            "track_name": "212. Swingmatism",
+            "album_name": "The Soulful Piano of Junior Mance",
+            "recording_year": "1960",
+            "asset_path": "junior_mance_003_211"
+        },
+        {
+            "track_name": "213. Swingmatism",
+            "album_name": "The Soulful Piano of Junior Mance",
+            "recording_year": "1960",
+            "asset_path": "junior_mance_003_212"
+        },
+        {
+            "track_name": "214. What Is This Thing Called Love",
+            "album_name": "Mance",
+            "recording_year": "1998",
+            "asset_path": "junior_mance_003_213"
+        },
+        {
+            "track_name": "215. What Is This Thing Called Love",
+            "album_name": "Mance",
+            "recording_year": "1998",
+            "asset_path": "junior_mance_003_214"
+        },
+        {
+            "track_name": "216. What Is This Thing Called Love",
+            "album_name": "Mance",
+            "recording_year": "1998",
+            "asset_path": "junior_mance_003_215"
+        },
+        {
+            "track_name": "217. What Is This Thing Called Love",
+            "album_name": "Mance",
+            "recording_year": "1998",
+            "asset_path": "junior_mance_003_216"
+        },
+        {
+            "track_name": "218. Out South",
+            "album_name": "Happy Time",
+            "recording_year": "1962",
+            "asset_path": "junior_mance_003_217"
+        },
+        {
+            "track_name": "219. This Cant Be Love",
+            "album_name": "Mance",
+            "recording_year": "1998",
+            "asset_path": "junior_mance_003_218"
+        },
+        {
+            "track_name": "220. This Cant Be Love",
+            "album_name": "Mance",
+            "recording_year": "1998",
+            "asset_path": "junior_mance_003_219"
+        },
+        {
+            "track_name": "221. This Cant Be Love",
+            "album_name": "Mance",
+            "recording_year": "1998",
+            "asset_path": "junior_mance_003_220"
+        },
+        {
+            "track_name": "222. This Cant Be Love",
+            "album_name": "Mance",
+            "recording_year": "1998",
+            "asset_path": "junior_mance_003_221"
+        },
+        {
+            "track_name": "223. This Cant Be Love",
+            "album_name": "Mance",
+            "recording_year": "1998",
+            "asset_path": "junior_mance_003_222"
+        },
+        {
+            "track_name": "224. This Cant Be Love",
+            "album_name": "Mance",
+            "recording_year": "1998",
+            "asset_path": "junior_mance_003_223"
+        },
+        {
+            "track_name": "225. Oh Lady Be Good",
+            "album_name": "The Floating Jazz Festival Trio 1997",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_003_224"
+        },
+        {
+            "track_name": "226. Oh Lady Be Good",
+            "album_name": "The Floating Jazz Festival Trio 1997",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_003_225"
+        },
+        {
+            "track_name": "227. Oh Lady Be Good",
+            "album_name": "The Floating Jazz Festival Trio 1997",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_003_226"
+        },
+        {
+            "track_name": "228. Rainy Mornin Blues",
+            "album_name": "Juniors Blues",
+            "recording_year": "1963",
+            "asset_path": "junior_mance_003_227"
+        },
+        {
+            "track_name": "229. Rainy Mornin Blues",
+            "album_name": "Juniors Blues",
+            "recording_year": "1963",
+            "asset_path": "junior_mance_003_228"
+        },
+        {
+            "track_name": "230. Rainy Mornin Blues",
+            "album_name": "Juniors Blues",
+            "recording_year": "1963",
+            "asset_path": "junior_mance_003_229"
+        },
+        {
+            "track_name": "231. Nadja",
+            "album_name": "Nadja",
+            "recording_year": "1998",
+            "asset_path": "junior_mance_003_230"
+        },
+        {
+            "track_name": "232. Nadja",
+            "album_name": "Nadja",
+            "recording_year": "1998",
+            "asset_path": "junior_mance_003_231"
+        },
+        {
+            "track_name": "233. Nadja",
+            "album_name": "Nadja",
+            "recording_year": "1998",
+            "asset_path": "junior_mance_003_232"
+        },
+        {
+            "track_name": "234. Nadja",
+            "album_name": "Nadja",
+            "recording_year": "1998",
+            "asset_path": "junior_mance_003_233"
+        },
+        {
+            "track_name": "235. Lester Leaps In",
+            "album_name": "Milestones",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_003_234"
+        },
+        {
+            "track_name": "236. Lester Leaps In",
+            "album_name": "Milestones",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_003_235"
+        },
+        {
+            "track_name": "237. Lester Leaps In",
+            "album_name": "Milestones",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_003_236"
+        },
+        {
+            "track_name": "238. Lester Leaps In",
+            "album_name": "Milestones",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_003_237"
+        }
+    ],
+    "[-12, 12, -12]": [
+        {
+            "track_name": "1. I Let a Song Go Out of My Heart",
+            "album_name": "The Floating Jazz Festival Trio 1995",
+            "recording_year": "1995",
+            "asset_path": "junior_mance_004_000"
+        },
+        {
+            "track_name": "2. I Let a Song Go Out of My Heart",
+            "album_name": "The Floating Jazz Festival Trio 1995",
+            "recording_year": "1995",
+            "asset_path": "junior_mance_004_001"
+        },
+        {
+            "track_name": "3. I Let a Song Go Out of My Heart",
+            "album_name": "The Floating Jazz Festival Trio 1995",
+            "recording_year": "1995",
+            "asset_path": "junior_mance_004_002"
+        },
+        {
+            "track_name": "4. I Let a Song Go Out of My Heart",
+            "album_name": "The Floating Jazz Festival Trio 1995",
+            "recording_year": "1995",
+            "asset_path": "junior_mance_004_003"
+        },
+        {
+            "track_name": "5. When Lights Are Low",
+            "album_name": "Blues Ballads and a Train",
+            "recording_year": "2000",
+            "asset_path": "junior_mance_004_004"
+        },
+        {
+            "track_name": "6. When Lights Are Low",
+            "album_name": "Blues Ballads and a Train",
+            "recording_year": "2000",
+            "asset_path": "junior_mance_004_005"
+        },
+        {
+            "track_name": "7. Work Song",
+            "album_name": "Milestones",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_004_006"
+        },
+        {
+            "track_name": "8. Work Song",
+            "album_name": "Milestones",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_004_007"
+        },
+        {
+            "track_name": "9. Work Song",
+            "album_name": "Milestones",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_004_008"
+        },
+        {
+            "track_name": "10. Work Song",
+            "album_name": "Milestones",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_004_009"
+        },
+        {
+            "track_name": "11. Work Song",
+            "album_name": "Milestones",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_004_010"
+        },
+        {
+            "track_name": "12. I Dont Care",
+            "album_name": "The Floating Jazz Festival Trio 1997",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_004_011"
+        },
+        {
+            "track_name": "13. I Dont Care",
+            "album_name": "The Floating Jazz Festival Trio 1997",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_004_012"
+        },
+        {
+            "track_name": "14. CC Rider",
+            "album_name": "Softly as in a Morning Sunrise",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_004_013"
+        },
+        {
+            "track_name": "15. CC Rider",
+            "album_name": "Softly as in a Morning Sunrise",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_004_014"
+        },
+        {
+            "track_name": "16. CC Rider",
+            "album_name": "Softly as in a Morning Sunrise",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_004_015"
+        },
+        {
+            "track_name": "17. CC Rider",
+            "album_name": "Softly as in a Morning Sunrise",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_004_016"
+        },
+        {
+            "track_name": "18. Careless Love",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_017"
+        },
+        {
+            "track_name": "19. Careless Love",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_018"
+        },
+        {
+            "track_name": "20. Careless Love",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_019"
+        },
+        {
+            "track_name": "21. Careless Love",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_020"
+        },
+        {
+            "track_name": "22. Careless Love",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_021"
+        },
+        {
+            "track_name": "23. Careless Love",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_022"
+        },
+        {
+            "track_name": "24. Careless Love",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_023"
+        },
+        {
+            "track_name": "25. Careless Love",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_024"
+        },
+        {
+            "track_name": "26. Careless Love",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_025"
+        },
+        {
+            "track_name": "27. Careless Love",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_026"
+        },
+        {
+            "track_name": "28. Careless Love",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_027"
+        },
+        {
+            "track_name": "29. Inside Out",
+            "album_name": "Softly as in a Morning Sunrise",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_004_028"
+        },
+        {
+            "track_name": "30. Inside Out",
+            "album_name": "Softly as in a Morning Sunrise",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_004_029"
+        },
+        {
+            "track_name": "31. Inside Out",
+            "album_name": "Softly as in a Morning Sunrise",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_004_030"
+        },
+        {
+            "track_name": "32. Softly as in a Morning Sunrise",
+            "album_name": "Softly as in a Morning Sunrise",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_004_031"
+        },
+        {
+            "track_name": "33. Softly as in a Morning Sunrise",
+            "album_name": "Softly as in a Morning Sunrise",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_004_032"
+        },
+        {
+            "track_name": "34. Softly as in a Morning Sunrise",
+            "album_name": "Softly as in a Morning Sunrise",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_004_033"
+        },
+        {
+            "track_name": "35. Falling In Love With Love",
+            "album_name": "Blue Mance",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_004_034"
+        },
+        {
+            "track_name": "36. Falling In Love With Love",
+            "album_name": "Blue Mance",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_004_035"
+        },
+        {
+            "track_name": "37. Falling In Love With Love",
+            "album_name": "Blue Mance",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_004_036"
+        },
+        {
+            "track_name": "38. Love for Sale",
+            "album_name": "Milestones",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_004_037"
+        },
+        {
+            "track_name": "39. Love for Sale",
+            "album_name": "Milestones",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_004_038"
+        },
+        {
+            "track_name": "40. Good Bait",
+            "album_name": "Milestones",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_004_039"
+        },
+        {
+            "track_name": "41. Good Bait",
+            "album_name": "Milestones",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_004_040"
+        },
+        {
+            "track_name": "42. Falling in Love With Love",
+            "album_name": "The Floating Jazz Festival Trio 1997",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_004_041"
+        },
+        {
+            "track_name": "43. Falling in Love With Love",
+            "album_name": "The Floating Jazz Festival Trio 1997",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_004_042"
+        },
+        {
+            "track_name": "44. This Cant Be Love",
+            "album_name": "Nadja",
+            "recording_year": "1998",
+            "asset_path": "junior_mance_004_043"
+        },
+        {
+            "track_name": "45. This Cant Be Love",
+            "album_name": "Nadja",
+            "recording_year": "1998",
+            "asset_path": "junior_mance_004_044"
+        },
+        {
+            "track_name": "46. In the Evening",
+            "album_name": "Juniors Blues",
+            "recording_year": "1963",
+            "asset_path": "junior_mance_004_045"
+        },
+        {
+            "track_name": "47. In the Evening",
+            "album_name": "Juniors Blues",
+            "recording_year": "1963",
+            "asset_path": "junior_mance_004_046"
+        },
+        {
+            "track_name": "48. In the Evening",
+            "album_name": "Juniors Blues",
+            "recording_year": "1963",
+            "asset_path": "junior_mance_004_047"
+        },
+        {
+            "track_name": "49. In the Evening",
+            "album_name": "Juniors Blues",
+            "recording_year": "1963",
+            "asset_path": "junior_mance_004_048"
+        },
+        {
+            "track_name": "50. For Dancers Only",
+            "album_name": "Happy Time",
+            "recording_year": "1962",
+            "asset_path": "junior_mance_004_049"
+        },
+        {
+            "track_name": "51. Moanin",
+            "album_name": "The Floating Jazz Festival Trio 1995",
+            "recording_year": "1995",
+            "asset_path": "junior_mance_004_050"
+        },
+        {
+            "track_name": "52. Moanin",
+            "album_name": "The Floating Jazz Festival Trio 1995",
+            "recording_year": "1995",
+            "asset_path": "junior_mance_004_051"
+        },
+        {
+            "track_name": "53. I Got It Bad and That Aint Good",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_052"
+        },
+        {
+            "track_name": "54. I Got It Bad and That Aint Good",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_053"
+        },
+        {
+            "track_name": "55. I Got It Bad and That Aint Good",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_054"
+        },
+        {
+            "track_name": "56. I Got It Bad and That Aint Good",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_055"
+        },
+        {
+            "track_name": "57. I Got It Bad and That Aint Good",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_056"
+        },
+        {
+            "track_name": "58. I Got It Bad and That Aint Good",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_057"
+        },
+        {
+            "track_name": "59. If You Could See Me Now",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_058"
+        },
+        {
+            "track_name": "60. If You Could See Me Now",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_059"
+        },
+        {
+            "track_name": "61. If You Could See Me Now",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_060"
+        },
+        {
+            "track_name": "62. If You Could See Me Now",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_061"
+        },
+        {
+            "track_name": "63. If You Could See Me Now",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_062"
+        },
+        {
+            "track_name": "64. If You Could See Me Now",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_063"
+        },
+        {
+            "track_name": "65. Main Stem",
+            "album_name": "The Soulful Piano of Junior Mance",
+            "recording_year": "1960",
+            "asset_path": "junior_mance_004_064"
+        },
+        {
+            "track_name": "66. Jumping the Blues",
+            "album_name": "The Floating Jazz Festival Trio 1995",
+            "recording_year": "1995",
+            "asset_path": "junior_mance_004_065"
+        },
+        {
+            "track_name": "67. Jumping the Blues",
+            "album_name": "The Floating Jazz Festival Trio 1995",
+            "recording_year": "1995",
+            "asset_path": "junior_mance_004_066"
+        },
+        {
+            "track_name": "68. Lady Bird",
+            "album_name": "Softly as in a Morning Sunrise",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_004_067"
+        },
+        {
+            "track_name": "69. Lady Bird",
+            "album_name": "Softly as in a Morning Sunrise",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_004_068"
+        },
+        {
+            "track_name": "70. Lady Bird",
+            "album_name": "Softly as in a Morning Sunrise",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_004_069"
+        },
+        {
+            "track_name": "71. Walkin",
+            "album_name": "Milestones",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_004_070"
+        },
+        {
+            "track_name": "72. Walkin",
+            "album_name": "Milestones",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_004_071"
+        },
+        {
+            "track_name": "73. Walkin",
+            "album_name": "Milestones",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_004_072"
+        },
+        {
+            "track_name": "74. Walkin",
+            "album_name": "Milestones",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_004_073"
+        },
+        {
+            "track_name": "75. Blue Mance",
+            "album_name": "Blue Mance",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_004_074"
+        },
+        {
+            "track_name": "76. Blue Mance",
+            "album_name": "Blue Mance",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_004_075"
+        },
+        {
+            "track_name": "77. Blue Mance",
+            "album_name": "Blue Mance",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_004_076"
+        },
+        {
+            "track_name": "78. Blue Mance",
+            "album_name": "Blue Mance",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_004_077"
+        },
+        {
+            "track_name": "79. Blue Mance",
+            "album_name": "Blue Mance",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_004_078"
+        },
+        {
+            "track_name": "80. Whisper Not",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_079"
+        },
+        {
+            "track_name": "81. Whisper Not",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_080"
+        },
+        {
+            "track_name": "82. Whisper Not",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_081"
+        },
+        {
+            "track_name": "83. Whisper Not",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_082"
+        },
+        {
+            "track_name": "84. Whisper Not",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_083"
+        },
+        {
+            "track_name": "85. Whisper Not",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_084"
+        },
+        {
+            "track_name": "86. I Wish I Knew How It Would Feel To Be Free",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_085"
+        },
+        {
+            "track_name": "87. I Wish I Knew How It Would Feel To Be Free",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_086"
+        },
+        {
+            "track_name": "88. I Wish I Knew How It Would Feel To Be Free",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_087"
+        },
+        {
+            "track_name": "89. I Wish I Knew How It Would Feel To Be Free",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_088"
+        },
+        {
+            "track_name": "90. I Wish I Knew How It Would Feel To Be Free",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_089"
+        },
+        {
+            "track_name": "91. I Wish I Knew How It Would Feel To Be Free",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_090"
+        },
+        {
+            "track_name": "92. I Wish I Knew How It Would Feel To Be Free",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_091"
+        },
+        {
+            "track_name": "93. I Wish I Knew How It Would Feel To Be Free",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_092"
+        },
+        {
+            "track_name": "94. Sunday Go to Meetin",
+            "album_name": "Softly as in a Morning Sunrise",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_004_093"
+        },
+        {
+            "track_name": "95. Sunday Go to Meetin",
+            "album_name": "Softly as in a Morning Sunrise",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_004_094"
+        },
+        {
+            "track_name": "96. The Simple Waltz",
+            "album_name": "Happy Time",
+            "recording_year": "1962",
+            "asset_path": "junior_mance_004_095"
+        },
+        {
+            "track_name": "97. The Simple Waltz",
+            "album_name": "Happy Time",
+            "recording_year": "1962",
+            "asset_path": "junior_mance_004_096"
+        },
+        {
+            "track_name": "98. The Simple Waltz",
+            "album_name": "Happy Time",
+            "recording_year": "1962",
+            "asset_path": "junior_mance_004_097"
+        },
+        {
+            "track_name": "99. Flat On Your Back",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_098"
+        },
+        {
+            "track_name": "100. Flat On Your Back",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_099"
+        },
+        {
+            "track_name": "101. Flat On Your Back",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_100"
+        },
+        {
+            "track_name": "102. Wee",
+            "album_name": "Softly as in a Morning Sunrise",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_004_101"
+        },
+        {
+            "track_name": "103. Wee",
+            "album_name": "Softly as in a Morning Sunrise",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_004_102"
+        },
+        {
+            "track_name": "104. Wee",
+            "album_name": "Softly as in a Morning Sunrise",
+            "recording_year": "1994",
+            "asset_path": "junior_mance_004_103"
+        },
+        {
+            "track_name": "105. The Jumpin Blues",
+            "album_name": "Juniors Blues",
+            "recording_year": "1963",
+            "asset_path": "junior_mance_004_104"
+        },
+        {
+            "track_name": "106. The Jumpin Blues",
+            "album_name": "Juniors Blues",
+            "recording_year": "1963",
+            "asset_path": "junior_mance_004_105"
+        },
+        {
+            "track_name": "107. Whisper Not",
+            "album_name": "Blues Ballads and a Train",
+            "recording_year": "2000",
+            "asset_path": "junior_mance_004_106"
+        },
+        {
+            "track_name": "108. Whisper Not",
+            "album_name": "Blues Ballads and a Train",
+            "recording_year": "2000",
+            "asset_path": "junior_mance_004_107"
+        },
+        {
+            "track_name": "109. Whisper Not",
+            "album_name": "Blues Ballads and a Train",
+            "recording_year": "2000",
+            "asset_path": "junior_mance_004_108"
+        },
+        {
+            "track_name": "110. Since I Lost My Baby I Almost Lost My Mind",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_109"
+        },
+        {
+            "track_name": "111. Since I Lost My Baby I Almost Lost My Mind",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_110"
+        },
+        {
+            "track_name": "112. Since I Lost My Baby I Almost Lost My Mind",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_111"
+        },
+        {
+            "track_name": "113. Since I Lost My Baby I Almost Lost My Mind",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_112"
+        },
+        {
+            "track_name": "114. Since I Lost My Baby I Almost Lost My Mind",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_113"
+        },
+        {
+            "track_name": "115. Since I Lost My Baby I Almost Lost My Mind",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_114"
+        },
+        {
+            "track_name": "116. Since I Lost My Baby I Almost Lost My Mind",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_115"
+        },
+        {
+            "track_name": "117. Ralphs New Blues",
+            "album_name": "The Soulful Piano of Junior Mance",
+            "recording_year": "1960",
+            "asset_path": "junior_mance_004_116"
+        },
+        {
+            "track_name": "118. Blue Monk",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_117"
+        },
+        {
+            "track_name": "119. Blue Monk",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_118"
+        },
+        {
+            "track_name": "120. Blue Monk",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_119"
+        },
+        {
+            "track_name": "121. Blue Monk",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_120"
+        },
+        {
+            "track_name": "122. Blue Monk",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_121"
+        },
+        {
+            "track_name": "123. Blue Monk",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_122"
+        },
+        {
+            "track_name": "124. Blue Monk",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_123"
+        },
+        {
+            "track_name": "125. Take the a Train",
+            "album_name": "The Floating Jazz Festival Trio 1997",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_004_124"
+        },
+        {
+            "track_name": "126. Take the a Train",
+            "album_name": "The Floating Jazz Festival Trio 1997",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_004_125"
+        },
+        {
+            "track_name": "127. For Dancers Only",
+            "album_name": "Live at Caf Loup",
+            "recording_year": "2007",
+            "asset_path": "junior_mance_004_126"
+        },
+        {
+            "track_name": "128. Milestones",
+            "album_name": "Milestones",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_004_127"
+        },
+        {
+            "track_name": "129. Milestones",
+            "album_name": "Milestones",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_004_128"
+        },
+        {
+            "track_name": "130. Yancey Special",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_129"
+        },
+        {
+            "track_name": "131. Yancey Special",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_130"
+        },
+        {
+            "track_name": "132. Yancey Special",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_131"
+        },
+        {
+            "track_name": "133. Yancey Special",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_132"
+        },
+        {
+            "track_name": "134. Yancey Special",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_133"
+        },
+        {
+            "track_name": "135. Holy Mama",
+            "album_name": "Holy Mama",
+            "recording_year": "1977",
+            "asset_path": "junior_mance_004_134"
+        },
+        {
+            "track_name": "136. Holy Mama",
+            "album_name": "Holy Mama",
+            "recording_year": "1977",
+            "asset_path": "junior_mance_004_135"
+        },
+        {
+            "track_name": "137. Holy Mama",
+            "album_name": "Holy Mama",
+            "recording_year": "1977",
+            "asset_path": "junior_mance_004_136"
+        },
+        {
+            "track_name": "138. Holy Mama",
+            "album_name": "Holy Mama",
+            "recording_year": "1977",
+            "asset_path": "junior_mance_004_137"
+        },
+        {
+            "track_name": "139. Holy Mama",
+            "album_name": "Holy Mama",
+            "recording_year": "1977",
+            "asset_path": "junior_mance_004_138"
+        },
+        {
+            "track_name": "140. In a Sentimental Mood",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_139"
+        },
+        {
+            "track_name": "141. In a Sentimental Mood",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_140"
+        },
+        {
+            "track_name": "142. In a Sentimental Mood",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_141"
+        },
+        {
+            "track_name": "143. In a Sentimental Mood",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_142"
+        },
+        {
+            "track_name": "144. In a Sentimental Mood",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_143"
+        },
+        {
+            "track_name": "145. In a Sentimental Mood",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "junior_mance_004_144"
+        },
+        {
+            "track_name": "146. Swingmatism",
+            "album_name": "The Soulful Piano of Junior Mance",
+            "recording_year": "1960",
+            "asset_path": "junior_mance_004_145"
+        },
+        {
+            "track_name": "147. Swingmatism",
+            "album_name": "The Soulful Piano of Junior Mance",
+            "recording_year": "1960",
+            "asset_path": "junior_mance_004_146"
+        },
+        {
+            "track_name": "148. What Is This Thing Called Love",
+            "album_name": "Mance",
+            "recording_year": "1998",
+            "asset_path": "junior_mance_004_147"
+        },
+        {
+            "track_name": "149. Out South",
+            "album_name": "Happy Time",
+            "recording_year": "1962",
+            "asset_path": "junior_mance_004_148"
+        },
+        {
+            "track_name": "150. This Cant Be Love",
+            "album_name": "Mance",
+            "recording_year": "1998",
+            "asset_path": "junior_mance_004_149"
+        },
+        {
+            "track_name": "151. This Cant Be Love",
+            "album_name": "Mance",
+            "recording_year": "1998",
+            "asset_path": "junior_mance_004_150"
+        },
+        {
+            "track_name": "152. This Cant Be Love",
+            "album_name": "Mance",
+            "recording_year": "1998",
+            "asset_path": "junior_mance_004_151"
+        },
+        {
+            "track_name": "153. This Cant Be Love",
+            "album_name": "Mance",
+            "recording_year": "1998",
+            "asset_path": "junior_mance_004_152"
+        },
+        {
+            "track_name": "154. This Cant Be Love",
+            "album_name": "Mance",
+            "recording_year": "1998",
+            "asset_path": "junior_mance_004_153"
+        },
+        {
+            "track_name": "155. Oh Lady Be Good",
+            "album_name": "The Floating Jazz Festival Trio 1997",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_004_154"
+        },
+        {
+            "track_name": "156. Oh Lady Be Good",
+            "album_name": "The Floating Jazz Festival Trio 1997",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_004_155"
+        },
+        {
+            "track_name": "157. Oh Lady Be Good",
+            "album_name": "The Floating Jazz Festival Trio 1997",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_004_156"
+        },
+        {
+            "track_name": "158. Rainy Mornin Blues",
+            "album_name": "Juniors Blues",
+            "recording_year": "1963",
+            "asset_path": "junior_mance_004_157"
+        },
+        {
+            "track_name": "159. Rainy Mornin Blues",
+            "album_name": "Juniors Blues",
+            "recording_year": "1963",
+            "asset_path": "junior_mance_004_158"
+        },
+        {
+            "track_name": "160. Rainy Mornin Blues",
+            "album_name": "Juniors Blues",
+            "recording_year": "1963",
+            "asset_path": "junior_mance_004_159"
+        },
+        {
+            "track_name": "161. Nadja",
+            "album_name": "Nadja",
+            "recording_year": "1998",
+            "asset_path": "junior_mance_004_160"
+        },
+        {
+            "track_name": "162. Nadja",
+            "album_name": "Nadja",
+            "recording_year": "1998",
+            "asset_path": "junior_mance_004_161"
+        },
+        {
+            "track_name": "163. Lester Leaps In",
+            "album_name": "Milestones",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_004_162"
+        },
+        {
+            "track_name": "164. Lester Leaps In",
+            "album_name": "Milestones",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_004_163"
+        },
+        {
+            "track_name": "165. Lester Leaps In",
+            "album_name": "Milestones",
+            "recording_year": "1997",
+            "asset_path": "junior_mance_004_164"
+        }
+    ]
+}

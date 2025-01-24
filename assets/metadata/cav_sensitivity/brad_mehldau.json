@@ -1,0 +1,82 @@
+{
+    "Minor Blues Voicings": [
+        {
+            "track_name": "IX",
+            "album_name": "Suite   April 2020",
+            "recording_year": 2020,
+            "asset_path": "pijama_mehldaub-ix-unaccompanied-xxxx-id6ylbmq_clip_002_cav_017",
+            "original_sensitivity": 0.00043693126644939184
+        },
+        {
+            "track_name": "Intro",
+            "album_name": "Live in Tokyo",
+            "recording_year": 2004,
+            "asset_path": "pijama_mehldaub-intro-unaccompanied-xxxx-h9fpvdpi_clip_001_cav_017",
+            "original_sensitivity": 0.0003013872483279556
+        }
+    ],
+    "Block Chords": [
+        {
+            "track_name": "CTA",
+            "album_name": "Brad Mehldau Trio Live",
+            "recording_year": "2006",
+            "asset_path": "jtd_mehldaub-cta-grenadierlballardj-2006-9cdbc460_clip_005_cav_001",
+            "original_sensitivity": 0.002434857189655304
+        },
+        {
+            "track_name": "CTA",
+            "album_name": "Brad Mehldau Trio Live",
+            "recording_year": "2006",
+            "asset_path": "jtd_mehldaub-cta-grenadierlballardj-2006-9cdbc460_clip_013_cav_001",
+            "original_sensitivity": 0.002275936771184206
+        }
+    ],
+    "Polychordal II-V-I's": [
+        {
+            "track_name": "CTA",
+            "album_name": "Brad Mehldau Trio Live",
+            "recording_year": "2006",
+            "asset_path": "jtd_mehldaub-cta-grenadierlballardj-2006-9cdbc460_clip_012_cav_012",
+            "original_sensitivity": 0.0008858031360432506
+        },
+        {
+            "track_name": "Knives Out  Live",
+            "album_name": "10 Years Solo Live",
+            "recording_year": 2015,
+            "asset_path": "pijama_mehldaub-knivesoutlive-unaccompanied-xxxx-kwpzz1ym_clip_012_cav_012",
+            "original_sensitivity": 0.0008144310559146106
+        }
+    ],
+    "II-V-I's in Major and Minor": [
+        {
+            "track_name": "And I Love Her  Live",
+            "album_name": "10 Years Solo Live",
+            "recording_year": 2015,
+            "asset_path": "pijama_mehldaub-andiloveherlive-unaccompanied-xxxx-as1cgema_clip_011_cav_005",
+            "original_sensitivity": 0.0012213964946568012
+        },
+        {
+            "track_name": "CTA",
+            "album_name": "Brad Mehldau Trio Live",
+            "recording_year": "2006",
+            "asset_path": "jtd_mehldaub-cta-grenadierlballardj-2006-9cdbc460_clip_008_cav_005",
+            "original_sensitivity": 0.0010955922771245241
+        }
+    ],
+    "So What Voicings": [
+        {
+            "track_name": "New York State of Mind",
+            "album_name": "Suite   April 2020",
+            "recording_year": 2020,
+            "asset_path": "pijama_mehldaub-newyorkstateofmind-unaccompanied-xxxx-yali5f0z_clip_004_cav_008",
+            "original_sensitivity": 0.0005716446903534234
+        },
+        {
+            "track_name": "Look for the Silver Lining",
+            "album_name": "Suite   April 2020",
+            "recording_year": 2020,
+            "asset_path": "pijama_mehldaub-lookforthesilverlining-unaccompanied-xxxx-jr3tnirt_clip_003_cav_008",
+            "original_sensitivity": 0.0004983601393178105
+        }
+    ]
+}

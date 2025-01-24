@@ -1,0 +1,150 @@
+{
+    "[12, -8, 4]": [
+        {
+            "track_name": "1. You Dont Know What Love Is",
+            "album_name": "The Perfect Set",
+            "recording_year": "1996",
+            "asset_path": "kenny_barron_000_000"
+        },
+        {
+            "track_name": "2. Skylark  Live At Maybeck Recital Hall Berkeley CA  December 3 1990",
+            "album_name": "Live At Maybeck Recital Hall Volume 10",
+            "recording_year": 1991,
+            "asset_path": "kenny_barron_000_001"
+        },
+        {
+            "track_name": "3. There Is No Greater Love",
+            "album_name": "Green Chimneys",
+            "recording_year": "1984",
+            "asset_path": "kenny_barron_000_002"
+        },
+        {
+            "track_name": "4. HushABye",
+            "album_name": "Minor Blues",
+            "recording_year": "2009",
+            "asset_path": "kenny_barron_000_003"
+        }
+    ],
+    "[-10, -2, 1]": [
+        {
+            "track_name": "1. Wazuri Blues",
+            "album_name": "At The Piano",
+            "recording_year": 1982,
+            "asset_path": "kenny_barron_001_000"
+        }
+    ],
+    "[4, 7, -10]": [
+        {
+            "track_name": "1. Take the Coltrane",
+            "album_name": "Wanton Spirit",
+            "recording_year": "1994",
+            "asset_path": "kenny_barron_002_000"
+        }
+    ],
+    "[9, -4, -1]": [
+        {
+            "track_name": "1. You Dont Know What Love Is",
+            "album_name": "The Perfect Set",
+            "recording_year": "1996",
+            "asset_path": "kenny_barron_003_000"
+        },
+        {
+            "track_name": "2. You Dont Know What Love Is",
+            "album_name": "The Perfect Set",
+            "recording_year": "1996",
+            "asset_path": "kenny_barron_003_001"
+        },
+        {
+            "track_name": "3. Straight No Chaser",
+            "album_name": "Green Chimneys",
+            "recording_year": "1984",
+            "asset_path": "kenny_barron_003_002"
+        },
+        {
+            "track_name": "4. Out of Nowhere",
+            "album_name": "Live in Japan 2003",
+            "recording_year": "2003",
+            "asset_path": "kenny_barron_003_003"
+        },
+        {
+            "track_name": "5. RhythmaNing",
+            "album_name": "At The Piano",
+            "recording_year": 1982,
+            "asset_path": "kenny_barron_003_004"
+        },
+        {
+            "track_name": "6. Tour de Force",
+            "album_name": "Live in Japan 2003",
+            "recording_year": "2003",
+            "asset_path": "kenny_barron_003_005"
+        },
+        {
+            "track_name": "7. And Then Again  Live At Maybeck Recital Hall Berkeley CA  December 3 1990",
+            "album_name": "Live At Maybeck Recital Hall Volume 10",
+            "recording_year": 1991,
+            "asset_path": "kenny_barron_003_006"
+        },
+        {
+            "track_name": "8. Sunshower  Live At Maybeck Recital Hall Berkeley CA  December 3 1990",
+            "album_name": "Live At Maybeck Recital Hall Volume 10",
+            "recording_year": 1991,
+            "asset_path": "kenny_barron_003_007"
+        },
+        {
+            "track_name": "9. Minority",
+            "album_name": "The Moment",
+            "recording_year": "1991",
+            "asset_path": "kenny_barron_003_008"
+        },
+        {
+            "track_name": "10. One Finger Snap",
+            "album_name": "Wanton Spirit",
+            "recording_year": "1994",
+            "asset_path": "kenny_barron_003_009"
+        },
+        {
+            "track_name": "11. Lunacy",
+            "album_name": "Book of Intuition",
+            "recording_year": "2015",
+            "asset_path": "kenny_barron_003_010"
+        },
+        {
+            "track_name": "12. How Deep Is The Ocean",
+            "album_name": "The Moment",
+            "recording_year": "1991",
+            "asset_path": "kenny_barron_003_011"
+        },
+        {
+            "track_name": "13. Minor Blues",
+            "album_name": "Minor Blues",
+            "recording_year": "2009",
+            "asset_path": "kenny_barron_003_012"
+        }
+    ],
+    "[9, -6, 2]": [
+        {
+            "track_name": "1. You Dont Know What Love Is",
+            "album_name": "The Perfect Set",
+            "recording_year": "1996",
+            "asset_path": "kenny_barron_004_000"
+        },
+        {
+            "track_name": "2. Jackieing",
+            "album_name": "The Moment",
+            "recording_year": "1991",
+            "asset_path": "kenny_barron_004_001"
+        },
+        {
+            "track_name": "3. How Deep Is the Ocean",
+            "album_name": "Minor Blues",
+            "recording_year": "2009",
+            "asset_path": "kenny_barron_004_002"
+        },
+        {
+            "track_name": "4. RhythmANing",
+            "album_name": "Live",
+            "recording_year": "1982",
+            "asset_path": "kenny_barron_004_003"
+        }
+    ]
+}

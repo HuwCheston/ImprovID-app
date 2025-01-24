@@ -1,0 +1,82 @@
+{
+    "Fourthy Blues Voicings": [
+        {
+            "track_name": "Put on a Happy Face",
+            "album_name": "The London House Sessions",
+            "recording_year": "1961",
+            "asset_path": "jtd_petersono-putonahappyface-brownrthigpene-1961-fde602cb_clip_008_cav_015",
+            "original_sensitivity": 0.0010713392402976751
+        },
+        {
+            "track_name": "D  E",
+            "album_name": "We Get Requests",
+            "recording_year": "1964",
+            "asset_path": "jtd_petersono-de-brownrthigpene-1964-58663e57_clip_002_cav_015",
+            "original_sensitivity": 0.001002548262476921
+        }
+    ],
+    "Minor Blues Voicings": [
+        {
+            "track_name": "Stella by Starlight",
+            "album_name": "Live The Champslyses 1965 Pleyel 1966",
+            "recording_year": "1966",
+            "asset_path": "jtd_petersono-stellabystarlight-jonesshayesl-1966-990184dc_clip_003_cav_017",
+            "original_sensitivity": 0.0004970148438587785
+        },
+        {
+            "track_name": "All Of You",
+            "album_name": "Walking The Line",
+            "recording_year": "1970",
+            "asset_path": "jtd_petersono-allofyou-mrazgpricer-1970-7ebdc5e1_clip_002_cav_017",
+            "original_sensitivity": 0.00047841155901551247
+        }
+    ],
+    "II-V-I's in Major and Minor": [
+        {
+            "track_name": "Put on a Happy Face",
+            "album_name": "The London House Sessions",
+            "recording_year": "1961",
+            "asset_path": "jtd_petersono-putonahappyface-brownrthigpene-1961-fde602cb_clip_007_cav_005",
+            "original_sensitivity": 0.0025332572404295206
+        },
+        {
+            "track_name": "Put on a Happy Face",
+            "album_name": "The London House Sessions",
+            "recording_year": "1961",
+            "asset_path": "jtd_petersono-putonahappyface-brownrthigpene-1961-fde602cb_clip_003_cav_005",
+            "original_sensitivity": 0.0022622239775955677
+        }
+    ],
+    "Tri-Tone Sub II-V-I's": [
+        {
+            "track_name": "It Happened in Monterey",
+            "album_name": "A Jazz Portrait of Frank Sinatra",
+            "recording_year": "1959",
+            "asset_path": "jtd_petersono-ithappenedinmonterey-brownrthigpene-1959-53040c03_clip_000_cav_011",
+            "original_sensitivity": 0.0005490491748787463
+        },
+        {
+            "track_name": "All Of You",
+            "album_name": "Walking The Line",
+            "recording_year": "1970",
+            "asset_path": "jtd_petersono-allofyou-mrazgpricer-1970-7ebdc5e1_clip_002_cav_011",
+            "original_sensitivity": 0.0003900363517459482
+        }
+    ],
+    "Polychordal II-V-I's": [
+        {
+            "track_name": "Better Luck Next Time",
+            "album_name": "The London House Sessions",
+            "recording_year": "1961",
+            "asset_path": "jtd_petersono-betterlucknexttime-brownrthigpene-1961-db8ec00c_clip_007_cav_012",
+            "original_sensitivity": 0.001513830153271556
+        },
+        {
+            "track_name": "Hogtown Blues  Live",
+            "album_name": "Solo",
+            "recording_year": 2002,
+            "asset_path": "pijama_petersono-hogtownblueslive-unaccompanied-xxxx-piez7842_clip_009_cav_012",
+            "original_sensitivity": 0.0014678214211016893
+        }
+    ]
+}

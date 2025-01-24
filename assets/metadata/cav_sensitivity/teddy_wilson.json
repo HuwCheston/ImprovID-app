@@ -1,0 +1,82 @@
+{
+    "Diatonic 7th Chords": [
+        {
+            "track_name": "Moon Glow",
+            "album_name": "Marian McPartlands Piano Jazz Radio Broadcast",
+            "recording_year": 1993,
+            "asset_path": "pijama_wilsont-moonglow-unaccompanied-xxxx-qia4tsgg_clip_003_cav_003",
+            "original_sensitivity": 0.0012924945913255215
+        },
+        {
+            "track_name": "I Cant Get Started  Moonglow",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "pijama_wilsont-icantgetstartedmoonglow-unaccompanied-xxxx-n7602dri_clip_004_cav_003",
+            "original_sensitivity": 0.0012314944760873914
+        }
+    ],
+    "Major 7th Blues Voicings": [
+        {
+            "track_name": "Moon Glow",
+            "album_name": "Marian McPartlands Piano Jazz Radio Broadcast",
+            "recording_year": 1993,
+            "asset_path": "pijama_wilsont-moonglow-unaccompanied-xxxx-qia4tsgg_clip_004_cav_016",
+            "original_sensitivity": 0.0008413774776272476
+        },
+        {
+            "track_name": "Moon Glow",
+            "album_name": "Marian McPartlands Piano Jazz Radio Broadcast",
+            "recording_year": 1993,
+            "asset_path": "pijama_wilsont-moonglow-unaccompanied-xxxx-qia4tsgg_clip_002_cav_016",
+            "original_sensitivity": 0.0006963448831811547
+        }
+    ],
+    "Diminished Substitutions": [
+        {
+            "track_name": "I Cant Get Started  Moonglow",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "pijama_wilsont-icantgetstartedmoonglow-unaccompanied-xxxx-n7602dri_clip_000_cav_020",
+            "original_sensitivity": 0.0013520647771656513
+        },
+        {
+            "track_name": "Shiny Stockings",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "pijama_wilsont-shinystockings-unaccompanied-xxxx-swlsd0wg_clip_001_cav_020",
+            "original_sensitivity": 0.0011251389514654875
+        }
+    ],
+    "I-IV Cycle Progression": [
+        {
+            "track_name": "Moon Glow",
+            "album_name": "Marian McPartlands Piano Jazz Radio Broadcast",
+            "recording_year": 1993,
+            "asset_path": "pijama_wilsont-moonglow-unaccompanied-xxxx-qia4tsgg_clip_004_cav_006",
+            "original_sensitivity": 0.000964533188380301
+        },
+        {
+            "track_name": "I Cant Get Started  Moonglow",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "pijama_wilsont-icantgetstartedmoonglow-unaccompanied-xxxx-n7602dri_clip_004_cav_006",
+            "original_sensitivity": 0.0007518513593822718
+        }
+    ],
+    "Block Chords": [
+        {
+            "track_name": "Moon Glow",
+            "album_name": "Marian McPartlands Piano Jazz Radio Broadcast",
+            "recording_year": 1993,
+            "asset_path": "pijama_wilsont-moonglow-unaccompanied-xxxx-qia4tsgg_clip_002_cav_001",
+            "original_sensitivity": 0.004492355976253748
+        },
+        {
+            "track_name": "Sunday",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "pijama_wilsont-sunday-unaccompanied-xxxx-1gc4easf_clip_003_cav_001",
+            "original_sensitivity": 0.00441748509183526
+        }
+    ]
+}

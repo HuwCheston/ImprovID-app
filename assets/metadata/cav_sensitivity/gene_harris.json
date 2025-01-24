@@ -1,0 +1,82 @@
+{
+    "Block Chords": [
+        {
+            "track_name": "Old Folks  Live At Maybeck Recital Hall Berkeley CA  1993",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "pijama_harrisg-oldfolksliveatmaybeck-unaccompanied-xxxx-ye7y9atl_clip_005_cav_001",
+            "original_sensitivity": 0.003715355647727847
+        },
+        {
+            "track_name": "Old Folks  Live At Maybeck Recital Hall Berkeley CA  1993",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "pijama_harrisg-oldfolksliveatmaybeck-unaccompanied-xxxx-ye7y9atl_clip_008_cav_001",
+            "original_sensitivity": 0.003240633988752961
+        }
+    ],
+    "Modal Fourthy Voicings": [
+        {
+            "track_name": "Blues For Rhonda  Live At Maybeck Recital Hall Berkeley CA  1993",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "pijama_harrisg-bluesforrhondaliveat-unaccompanied-xxxx-imvllmaq_clip_008_cav_007",
+            "original_sensitivity": 0.0008373766904696822
+        },
+        {
+            "track_name": "Old Folks  Live At Maybeck Recital Hall Berkeley CA  1993",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "pijama_harrisg-oldfolksliveatmaybeck-unaccompanied-xxxx-ye7y9atl_clip_003_cav_007",
+            "original_sensitivity": 0.0008213822147808969
+        }
+    ],
+    "II-V-I's in Major and Minor": [
+        {
+            "track_name": "Old Folks  Live At Maybeck Recital Hall Berkeley CA  1993",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "pijama_harrisg-oldfolksliveatmaybeck-unaccompanied-xxxx-ye7y9atl_clip_009_cav_005",
+            "original_sensitivity": 0.0015996047295629978
+        },
+        {
+            "track_name": "Old Folks  Live At Maybeck Recital Hall Berkeley CA  1993",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "pijama_harrisg-oldfolksliveatmaybeck-unaccompanied-xxxx-ye7y9atl_clip_013_cav_005",
+            "original_sensitivity": 0.001574787893332541
+        }
+    ],
+    "Fourth II-V-I's": [
+        {
+            "track_name": "Old Folks  Live At Maybeck Recital Hall Berkeley CA  1993",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "pijama_harrisg-oldfolksliveatmaybeck-unaccompanied-xxxx-ye7y9atl_clip_005_cav_010",
+            "original_sensitivity": 0.0006451356457546353
+        },
+        {
+            "track_name": "Old Folks  Live At Maybeck Recital Hall Berkeley CA  1993",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "pijama_harrisg-oldfolksliveatmaybeck-unaccompanied-xxxx-ye7y9atl_clip_008_cav_010",
+            "original_sensitivity": 0.000631320639513433
+        }
+    ],
+    "Tri-Tone Sub II-V-I's": [
+        {
+            "track_name": "Blues For Rhonda  Live At Maybeck Recital Hall Berkeley CA  1993",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "pijama_harrisg-bluesforrhondaliveat-unaccompanied-xxxx-imvllmaq_clip_006_cav_011",
+            "original_sensitivity": 0.00042034691432490945
+        },
+        {
+            "track_name": "Blues For Rhonda  Live At Maybeck Recital Hall Berkeley CA  1993",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "pijama_harrisg-bluesforrhondaliveat-unaccompanied-xxxx-imvllmaq_clip_008_cav_011",
+            "original_sensitivity": 0.00039043024298734963
+        }
+    ]
+}

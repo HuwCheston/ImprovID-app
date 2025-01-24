@@ -1,0 +1,222 @@
+{
+    "[-9, 12, -9]": [
+        {
+            "track_name": "1. John Boy  Live",
+            "album_name": "10 Years Solo Live",
+            "recording_year": 2015,
+            "asset_path": "brad_mehldau_000_000"
+        },
+        {
+            "track_name": "2. John Boy  Live",
+            "album_name": "10 Years Solo Live",
+            "recording_year": 2015,
+            "asset_path": "brad_mehldau_000_001"
+        },
+        {
+            "track_name": "3. John Boy  Live",
+            "album_name": "10 Years Solo Live",
+            "recording_year": 2015,
+            "asset_path": "brad_mehldau_000_002"
+        },
+        {
+            "track_name": "4. I",
+            "album_name": "Suite   April 2020",
+            "recording_year": 2020,
+            "asset_path": "brad_mehldau_000_003"
+        }
+    ],
+    "[-12, 4, -4]": [
+        {
+            "track_name": "1. VI",
+            "album_name": "Suite   April 2020",
+            "recording_year": 2020,
+            "asset_path": "brad_mehldau_001_000"
+        },
+        {
+            "track_name": "2. VI",
+            "album_name": "Suite   April 2020",
+            "recording_year": 2020,
+            "asset_path": "brad_mehldau_001_001"
+        },
+        {
+            "track_name": "3. Jigsaw Falling into Place  Live",
+            "album_name": "10 Years Solo Live",
+            "recording_year": 2015,
+            "asset_path": "brad_mehldau_001_002"
+        },
+        {
+            "track_name": "4. Meditation II  Love Meditation  Live",
+            "album_name": "10 Years Solo Live",
+            "recording_year": 2015,
+            "asset_path": "brad_mehldau_001_003"
+        },
+        {
+            "track_name": "5. Interstate Love Song  Live",
+            "album_name": "10 Years Solo Live",
+            "recording_year": 2015,
+            "asset_path": "brad_mehldau_001_004"
+        },
+        {
+            "track_name": "6. Dont Let It Bring You Down",
+            "album_name": "Suite   April 2020",
+            "recording_year": 2020,
+            "asset_path": "brad_mehldau_001_005"
+        },
+        {
+            "track_name": "7. Meditation I  Lord Watch Over Me  Live",
+            "album_name": "10 Years Solo Live",
+            "recording_year": 2015,
+            "asset_path": "brad_mehldau_001_006"
+        },
+        {
+            "track_name": "8. Dream Brother  Live",
+            "album_name": "10 Years Solo Live",
+            "recording_year": 2015,
+            "asset_path": "brad_mehldau_001_007"
+        },
+        {
+            "track_name": "9. Im Old Fashioned  Live",
+            "album_name": "10 Years Solo Live",
+            "recording_year": 2015,
+            "asset_path": "brad_mehldau_001_008"
+        },
+        {
+            "track_name": "10. V",
+            "album_name": "Suite   April 2020",
+            "recording_year": 2020,
+            "asset_path": "brad_mehldau_001_009"
+        },
+        {
+            "track_name": "11. Blackbird  Live",
+            "album_name": "10 Years Solo Live",
+            "recording_year": 2015,
+            "asset_path": "brad_mehldau_001_010"
+        },
+        {
+            "track_name": "12. And I Love Her  Live",
+            "album_name": "10 Years Solo Live",
+            "recording_year": 2015,
+            "asset_path": "brad_mehldau_001_011"
+        },
+        {
+            "track_name": "13. And I Love Her  Live",
+            "album_name": "10 Years Solo Live",
+            "recording_year": 2015,
+            "asset_path": "brad_mehldau_001_012"
+        },
+        {
+            "track_name": "14. And I Love Her  Live",
+            "album_name": "10 Years Solo Live",
+            "recording_year": 2015,
+            "asset_path": "brad_mehldau_001_013"
+        },
+        {
+            "track_name": "15. Junk  Live",
+            "album_name": "10 Years Solo Live",
+            "recording_year": 2015,
+            "asset_path": "brad_mehldau_001_014"
+        },
+        {
+            "track_name": "16. Junk  Live",
+            "album_name": "10 Years Solo Live",
+            "recording_year": 2015,
+            "asset_path": "brad_mehldau_001_015"
+        },
+        {
+            "track_name": "17. Paranoid Android",
+            "album_name": "Live in Tokyo",
+            "recording_year": 2004,
+            "asset_path": "brad_mehldau_001_016"
+        },
+        {
+            "track_name": "18. Paranoid Android",
+            "album_name": "Live in Tokyo",
+            "recording_year": 2004,
+            "asset_path": "brad_mehldau_001_017"
+        },
+        {
+            "track_name": "19. Knives Out  Live",
+            "album_name": "10 Years Solo Live",
+            "recording_year": 2015,
+            "asset_path": "brad_mehldau_001_018"
+        },
+        {
+            "track_name": "20. Knives Out  Live",
+            "album_name": "10 Years Solo Live",
+            "recording_year": 2015,
+            "asset_path": "brad_mehldau_001_019"
+        },
+        {
+            "track_name": "21. Hey You  Live",
+            "album_name": "10 Years Solo Live",
+            "recording_year": 2015,
+            "asset_path": "brad_mehldau_001_020"
+        }
+    ],
+    "[-6, 7, -8]": [
+        {
+            "track_name": "1. Brahms   Intermezzo in E minor Op",
+            "album_name": "10 Years Solo Live",
+            "recording_year": 2015,
+            "asset_path": "brad_mehldau_002_000"
+        },
+        {
+            "track_name": "2. IV",
+            "album_name": "Suite   April 2020",
+            "recording_year": 2020,
+            "asset_path": "brad_mehldau_002_001"
+        },
+        {
+            "track_name": "3. IV",
+            "album_name": "Suite   April 2020",
+            "recording_year": 2020,
+            "asset_path": "brad_mehldau_002_002"
+        },
+        {
+            "track_name": "4. Medley   Zingaro  Paris  Live",
+            "album_name": "10 Years Solo Live",
+            "recording_year": 2015,
+            "asset_path": "brad_mehldau_002_003"
+        },
+        {
+            "track_name": "5. Paranoid Android",
+            "album_name": "Live in Tokyo",
+            "recording_year": 2004,
+            "asset_path": "brad_mehldau_002_004"
+        }
+    ],
+    "[2, 8, -4]": [
+        {
+            "track_name": "1. Waltz for J",
+            "album_name": "10 Years Solo Live",
+            "recording_year": 2015,
+            "asset_path": "brad_mehldau_003_000"
+        },
+        {
+            "track_name": "2. Los Angeles II  Live",
+            "album_name": "10 Years Solo Live",
+            "recording_year": 2015,
+            "asset_path": "brad_mehldau_003_001"
+        },
+        {
+            "track_name": "3. I",
+            "album_name": "Suite   April 2020",
+            "recording_year": 2020,
+            "asset_path": "brad_mehldau_003_002"
+        }
+    ],
+    "[-5, 9, -8]": [
+        {
+            "track_name": "1. Paranoid Android",
+            "album_name": "Live in Tokyo",
+            "recording_year": 2004,
+            "asset_path": "brad_mehldau_004_000"
+        },
+        {
+            "track_name": "2. Intro",
+            "album_name": "Live in Tokyo",
+            "recording_year": 2004,
+            "asset_path": "brad_mehldau_004_001"
+        }
+    ]
+}

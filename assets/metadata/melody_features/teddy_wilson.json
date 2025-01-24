@@ -1,0 +1,354 @@
+{
+    "[-3, 7, -12]": [
+        {
+            "track_name": "1. Sophisticated Lady",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_000_000"
+        },
+        {
+            "track_name": "2. But Not for Me",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_000_001"
+        }
+    ],
+    "[8, -12, 1]": [
+        {
+            "track_name": "1. Rhythmatics",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_001_000"
+        },
+        {
+            "track_name": "2. The Duke",
+            "album_name": "And Then They Wrote",
+            "recording_year": "1959",
+            "asset_path": "teddy_wilson_001_001"
+        },
+        {
+            "track_name": "3. At Sundown",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_001_002"
+        },
+        {
+            "track_name": "4. Moon Glow",
+            "album_name": "Marian McPartlands Piano Jazz Radio Broadcast",
+            "recording_year": 1993,
+            "asset_path": "teddy_wilson_001_003"
+        }
+    ],
+    "[9, -12, 11]": [
+        {
+            "track_name": "1. Ive Got the World on a String",
+            "album_name": "Three Little Words",
+            "recording_year": "1976",
+            "asset_path": "teddy_wilson_002_000"
+        },
+        {
+            "track_name": "2. The Moon Is Low",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_002_001"
+        }
+    ],
+    "[-4, -3, -3]": [
+        {
+            "track_name": "1. Lady Be Good",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_003_000"
+        },
+        {
+            "track_name": "2. Why Shouldnt",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_003_001"
+        },
+        {
+            "track_name": "3. Sweet Georgia Brown",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_003_002"
+        },
+        {
+            "track_name": "4. Saint Louis Blues",
+            "album_name": "Three Little Words",
+            "recording_year": "1976",
+            "asset_path": "teddy_wilson_003_003"
+        },
+        {
+            "track_name": "5. Lil Darling",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_003_004"
+        },
+        {
+            "track_name": "6. One Oclock Jump",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_003_005"
+        },
+        {
+            "track_name": "7. Body and Soul",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_003_006"
+        },
+        {
+            "track_name": "8. Rhythmatics",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_003_007"
+        },
+        {
+            "track_name": "9. Rhythmatics",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_003_008"
+        },
+        {
+            "track_name": "10. Rhythmatics",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_003_009"
+        },
+        {
+            "track_name": "11. Tempo Positioned",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_003_010"
+        },
+        {
+            "track_name": "12. Tempo Positioned",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_003_011"
+        },
+        {
+            "track_name": "13. Sophisticated Lady",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_003_012"
+        },
+        {
+            "track_name": "14. But Not for Me",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_003_013"
+        },
+        {
+            "track_name": "15. Ive Got the World on a String",
+            "album_name": "Three Little Words",
+            "recording_year": "1976",
+            "asset_path": "teddy_wilson_003_014"
+        },
+        {
+            "track_name": "16. Rose Room",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_003_015"
+        },
+        {
+            "track_name": "17. Rose Room",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_003_016"
+        },
+        {
+            "track_name": "18. Rose Room",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_003_017"
+        },
+        {
+            "track_name": "19. In a Sentimental Mood  Dont Mean a Thing",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_003_018"
+        },
+        {
+            "track_name": "20. It Aint Necessarily So  Bess You Is My Woman  Summertime",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_003_019"
+        },
+        {
+            "track_name": "21. Youre My Favorite Memory",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_003_020"
+        },
+        {
+            "track_name": "22. Medley",
+            "album_name": "Marian McPartlands Piano Jazz Radio Broadcast",
+            "recording_year": 1993,
+            "asset_path": "teddy_wilson_003_021"
+        },
+        {
+            "track_name": "23. Tuesday Jump",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_003_022"
+        },
+        {
+            "track_name": "24. Tuesday Jump",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_003_023"
+        },
+        {
+            "track_name": "25. Out Of Nowhere",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_003_024"
+        },
+        {
+            "track_name": "26. Out Of Nowhere",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_003_025"
+        },
+        {
+            "track_name": "27. Lush Life  Take the A Train",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_003_026"
+        },
+        {
+            "track_name": "28. Almost Blues",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_003_027"
+        },
+        {
+            "track_name": "29. Almost Blues",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_003_028"
+        },
+        {
+            "track_name": "30. More Than You Know",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_003_029"
+        },
+        {
+            "track_name": "31. Afternoon Blues",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_003_030"
+        },
+        {
+            "track_name": "32. At Sundown",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_003_031"
+        },
+        {
+            "track_name": "33. Youll Be Sorry",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_003_032"
+        },
+        {
+            "track_name": "34. Youll Be Sorry",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_003_033"
+        },
+        {
+            "track_name": "35. Summers End",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_003_034"
+        },
+        {
+            "track_name": "36. I Didnt Know What Time It Was",
+            "album_name": "Three Little Words",
+            "recording_year": "1976",
+            "asset_path": "teddy_wilson_003_035"
+        },
+        {
+            "track_name": "37. I Didnt Know What Time It Was",
+            "album_name": "Three Little Words",
+            "recording_year": "1976",
+            "asset_path": "teddy_wilson_003_036"
+        },
+        {
+            "track_name": "38. Sunday",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_003_037"
+        },
+        {
+            "track_name": "39. After Youve Gone",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_003_038"
+        },
+        {
+            "track_name": "40. Night And Day",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_003_039"
+        },
+        {
+            "track_name": "41. Night And Day",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_003_040"
+        },
+        {
+            "track_name": "42. Moon Glow",
+            "album_name": "Marian McPartlands Piano Jazz Radio Broadcast",
+            "recording_year": 1993,
+            "asset_path": "teddy_wilson_003_041"
+        }
+    ],
+    "[9, 1, 1]": [
+        {
+            "track_name": "1. Lil Darling",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_004_000"
+        },
+        {
+            "track_name": "2. Body and Soul",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_004_001"
+        },
+        {
+            "track_name": "3. Rose Room",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_004_002"
+        },
+        {
+            "track_name": "4. Youre My Favorite Memory",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_004_003"
+        },
+        {
+            "track_name": "5. Medley",
+            "album_name": "Marian McPartlands Piano Jazz Radio Broadcast",
+            "recording_year": 1993,
+            "asset_path": "teddy_wilson_004_004"
+        },
+        {
+            "track_name": "6. Lush Life  Take the A Train",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_004_005"
+        },
+        {
+            "track_name": "7. Moon Glow",
+            "album_name": "Marian McPartlands Piano Jazz Radio Broadcast",
+            "recording_year": 1993,
+            "asset_path": "teddy_wilson_004_006"
+        }
+    ]
+}

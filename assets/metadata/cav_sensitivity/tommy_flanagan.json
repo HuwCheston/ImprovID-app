@@ -1,0 +1,82 @@
+{
+    "Cycle Progressions": [
+        {
+            "track_name": "Yesterdays",
+            "album_name": "Solo Piano",
+            "recording_year": 2005,
+            "asset_path": "pijama_flanagant-yesterdays-unaccompanied-xxxx-4hhed1km_clip_003_cav_004",
+            "original_sensitivity": 0.0036115290131419897
+        },
+        {
+            "track_name": "Cup Bearers",
+            "album_name": "Eclypso",
+            "recording_year": "1976",
+            "asset_path": "jtd_flanagant-cupbearers-mrazgjonese-1976-9f95221a_clip_002_cav_004",
+            "original_sensitivity": 0.0035709738731384277
+        }
+    ],
+    "Major 7th Blues Voicings": [
+        {
+            "track_name": "All Gods Children",
+            "album_name": "Nights at the Vanguard",
+            "recording_year": "1986",
+            "asset_path": "jtd_flanagant-allgodschildren-mrazgfostera-1986-3f6be687_clip_004_cav_016",
+            "original_sensitivity": 0.0005941243725828826
+        },
+        {
+            "track_name": "Isnt It Romantic",
+            "album_name": "Solo Piano",
+            "recording_year": 2005,
+            "asset_path": "pijama_flanagant-isntitromantic-unaccompanied-xxxx-ni9y5wer_clip_005_cav_016",
+            "original_sensitivity": 0.0005847332649864256
+        }
+    ],
+    "Modal Fourthy Voicings": [
+        {
+            "track_name": "All Gods Children",
+            "album_name": "Nights at the Vanguard",
+            "recording_year": "1986",
+            "asset_path": "jtd_flanagant-allgodschildren-mrazgfostera-1986-3f6be687_clip_004_cav_007",
+            "original_sensitivity": 0.0010463673388585448
+        },
+        {
+            "track_name": "Yesterdays",
+            "album_name": "Solo Piano",
+            "recording_year": 2005,
+            "asset_path": "pijama_flanagant-yesterdays-unaccompanied-xxxx-4hhed1km_clip_003_cav_007",
+            "original_sensitivity": 0.000989113817922771
+        }
+    ],
+    "Modal \"So What\" Voicings": [
+        {
+            "track_name": "The Balanced Scales",
+            "album_name": "Flanagans Shenanigans",
+            "recording_year": "1993",
+            "asset_path": "jtd_flanagant-thebalancedscales-lundgaardjnashl-1993-c5831559_clip_002_cav_009",
+            "original_sensitivity": 0.0006299781962297857
+        },
+        {
+            "track_name": "Things Aint What They Used to Be",
+            "album_name": "Super Session",
+            "recording_year": "1980",
+            "asset_path": "jtd_flanagant-thingsaintwhattheyused-mitchellrjonese-1980-43759bc4_clip_003_cav_009",
+            "original_sensitivity": 0.0005927166785113513
+        }
+    ],
+    "Polychordal Blues Voicings": [
+        {
+            "track_name": "Take the A Train",
+            "album_name": "The Tommy Flanagan Tokyo Recital",
+            "recording_year": "1975",
+            "asset_path": "jtd_flanagant-taketheatrain-bettskdurhamb-1975-739531cd_clip_001_cav_014",
+            "original_sensitivity": 0.0004367116780485958
+        },
+        {
+            "track_name": "St Louis Blues",
+            "album_name": "Jazz Poet",
+            "recording_year": "1989",
+            "asset_path": "jtd_flanagant-stlouisblues-mrazgwashingtonk-1989-b8ad6c4c_clip_001_cav_014",
+            "original_sensitivity": 0.00043601368088275194
+        }
+    ]
+}

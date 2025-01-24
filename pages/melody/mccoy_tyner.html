@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>McCoy Tyner – Melody</title>
+<script charset="utf-8" src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
+<script src="https://cdn.jsdelivr.net/combine/npm/tone@14.7.58,npm/@magenta/music@1.23.1/es6/core.js,npm/focus-visible@5,npm/html-midi-player@1.5.0"></script>
+<link href="../../assets/css/melody_features.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+<div class="page-title">McCoy Tyner – Melody</div>
+<div class="grid-container">
+<div class="concept-gallery">
+<div><h2>Patterns</h2></div>
+<div><strong>[10, -6, 6]</strong>
+<button class="listen-button" onclick="playExampleMidi(0, 'McCoy Tyner')">🔊</button>
+<a alt="[10, -6, 6]" href="#" onclick="popSelect('[10, -6, 6]', 'McCoy Tyner')"><img alt="[10, -6, 6]" src="../../assets/images/melody_features/mccoy_tyner_000.png"/></a></div>
+<div><strong>[-4, 7, -5]</strong>
+<button class="listen-button" onclick="playExampleMidi(1, 'McCoy Tyner')">🔊</button>
+<a alt="[-4, 7, -5]" href="#" onclick="popSelect('[-4, 7, -5]', 'McCoy Tyner')"><img alt="[-4, 7, -5]" src="../../assets/images/melody_features/mccoy_tyner_001.png"/></a></div>
+<div><strong>[-8, -4, 12]</strong>
+<button class="listen-button" onclick="playExampleMidi(2, 'McCoy Tyner')">🔊</button>
+<a alt="[-8, -4, 12]" href="#" onclick="popSelect('[-8, -4, 12]', 'McCoy Tyner')"><img alt="[-8, -4, 12]" src="../../assets/images/melody_features/mccoy_tyner_002.png"/></a></div>
+<div><strong>[2, -12, 2]</strong>
+<button class="listen-button" onclick="playExampleMidi(3, 'McCoy Tyner')">🔊</button>
+<a alt="[2, -12, 2]" href="#" onclick="popSelect('[2, -12, 2]', 'McCoy Tyner')"><img alt="[2, -12, 2]" src="../../assets/images/melody_features/mccoy_tyner_003.png"/></a></div>
+<div><strong>[-10, 9, -4]</strong>
+<button class="listen-button" onclick="playExampleMidi(4, 'McCoy Tyner')">🔊</button>
+<a alt="[-10, 9, -4]" href="#" onclick="popSelect('[-10, 9, -4]', 'McCoy Tyner')"><img alt="[-10, 9, -4]" src="../../assets/images/melody_features/mccoy_tyner_004.png"/></a></div>
+</div>
+<div class="tab-container">
+<div><h2 id="progressionName">Choose a Pattern</h2></div>
+<div class="custom-dropdown">
+<select id="dropdown-menu" onchange="setTrack(this.value)">
+<option>Select a track...</option>
+</select>
+</div>
+<midi-player class="mplayer" id="mplayer" sound-font="https://storage.googleapis.com/magentadata/js/soundfonts/sgm_plus" style="width:100%"></midi-player>
+<midi-visualizer id="mvis" type="piano-roll"></midi-visualizer>
+<div class="vl" id="playback-line" style="display: none"></div>
+</div>
+<button class="info-button" onclick="showInfoPopup()" style="bottom: 2%; left: 97%">i</button>
+<button class="return-button" onclick="backToSelection()">Select another pianist...</button>
+</div>
+<div class="popup" id="popup">
+<button class="closeButton" onclick="closeInfoPopup()">✖</button>
+<h2 id="popupTitle">Pianist</h2>
+<div class="popupContent">
+<div class="popupText">
+<h2>Patterns</h2>
+<span>
+<em>Patterns</em> capture <strong>common jazz melodies and licks</strong>. Hover each image to zoom and click 🔊 to play the pattern. Click the image for a pattern to show examples of this pianist using it <strong>in an actual performance</strong>!
+                </span>
+<h2>Examples</h2>
+<span>
+                    Use the dropdown menu to show all available recordings. Click a performance to load audio and a special type of graph called a <strong>piano roll</strong>. The piano roll shows the notes played on the piano in the performance. You can use the playback bar to seek the audio.<br/><br/>Notes contained in the pattern are shown in <strong>red</strong> on the piano roll; all other notes are shown in <strong>grey</strong>.
+                </span>
+</div>
+</div>
+</div>
+<script src="../../assets/scripts/melody_features.js"></script>
+</body>
+</html>

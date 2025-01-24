@@ -1,0 +1,82 @@
+{
+    "Cycling Altered Dominants": [
+        {
+            "track_name": "Alone Together",
+            "album_name": "Your Soft Eyes",
+            "recording_year": "1981",
+            "asset_path": "jtd_drewk-alonetogether-vindingmthigpene-1981-54d718b9_clip_003_cav_013",
+            "original_sensitivity": 0.001518532633781433
+        },
+        {
+            "track_name": "Autumn Leaves",
+            "album_name": "Impressions",
+            "recording_year": "1988",
+            "asset_path": "jtd_drewk-autumnleaves-rstednqueena-1988-23c5fddd_clip_002_cav_013",
+            "original_sensitivity": 0.0014486550353467464
+        }
+    ],
+    "Modal \"So What\" Voicings": [
+        {
+            "track_name": "A Simple Need",
+            "album_name": "SoloDuo",
+            "recording_year": 1996,
+            "asset_path": "pijama_drewk-asimpleneed-unaccompanied-xxxx-krntn236_clip_004_cav_009",
+            "original_sensitivity": 0.0009425563039258122
+        },
+        {
+            "track_name": "A Simple Need",
+            "album_name": "SoloDuo",
+            "recording_year": 1996,
+            "asset_path": "pijama_drewk-asimpleneed-unaccompanied-xxxx-krntn236_clip_002_cav_009",
+            "original_sensitivity": 0.0009069422958418727
+        }
+    ],
+    "I-IV Cycle Progression": [
+        {
+            "track_name": "A Simple Need",
+            "album_name": "SoloDuo",
+            "recording_year": 1996,
+            "asset_path": "pijama_drewk-asimpleneed-unaccompanied-xxxx-krntn236_clip_001_cav_006",
+            "original_sensitivity": 0.0005851183668710291
+        },
+        {
+            "track_name": "A Simple Need",
+            "album_name": "SoloDuo",
+            "recording_year": 1996,
+            "asset_path": "pijama_drewk-asimpleneed-unaccompanied-xxxx-krntn236_clip_004_cav_006",
+            "original_sensitivity": 0.000558028114028275
+        }
+    ],
+    "Major 7th Blues Voicings": [
+        {
+            "track_name": "A Simple Need",
+            "album_name": "SoloDuo",
+            "recording_year": 1996,
+            "asset_path": "pijama_drewk-asimpleneed-unaccompanied-xxxx-krntn236_clip_000_cav_016",
+            "original_sensitivity": 0.0004959286889061332
+        },
+        {
+            "track_name": "A Simple Need",
+            "album_name": "SoloDuo",
+            "recording_year": 1996,
+            "asset_path": "pijama_drewk-asimpleneed-unaccompanied-xxxx-krntn236_clip_001_cav_016",
+            "original_sensitivity": 0.0004670740745496005
+        }
+    ],
+    "Modal Fourthy Voicings": [
+        {
+            "track_name": "A Simple Need",
+            "album_name": "SoloDuo",
+            "recording_year": 1996,
+            "asset_path": "pijama_drewk-asimpleneed-unaccompanied-xxxx-krntn236_clip_004_cav_007",
+            "original_sensitivity": 0.000506935641169548
+        },
+        {
+            "track_name": "Bassment",
+            "album_name": "Ruby My Dear",
+            "recording_year": "1977",
+            "asset_path": "jtd_drewk-bassment-friesendjarvisc-1977-ef70dba2_clip_002_cav_007",
+            "original_sensitivity": 0.0004508645215537399
+        }
+    ]
+}

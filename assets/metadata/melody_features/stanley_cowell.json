@@ -1,0 +1,120 @@
+{
+    "[4, -3, 4]": [
+        {
+            "track_name": "1. Nefertiti  Live At Maybeck Recital Hall Berkeley CA  1990",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_000_000"
+        },
+        {
+            "track_name": "2. Round About Midnight",
+            "album_name": "Bright Passion",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_000_001"
+        },
+        {
+            "track_name": "3. Cal Massey  Live At Maybeck Recital Hall Berkeley CA  1990",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_000_002"
+        }
+    ],
+    "[-1, 10, -5]": [
+        {
+            "track_name": "1. Softly As In A Morning Sunrise  Live At Maybeck Recital Hall Berkeley CA  1990",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_001_000"
+        },
+        {
+            "track_name": "2. Akua",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_001_001"
+        }
+    ],
+    "[10, -8, 1]": [
+        {
+            "track_name": "1. Big Foot A",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_002_000"
+        },
+        {
+            "track_name": "2. Lament  Live At Maybeck Recital Hall Berkeley CA  1990",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_002_001"
+        },
+        {
+            "track_name": "3. Eronel",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_002_002"
+        },
+        {
+            "track_name": "4. Anthropology",
+            "album_name": "Live at Copenhagen Jazz House",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_002_003"
+        }
+    ],
+    "[-12, 6, 4]": [
+        {
+            "track_name": "1. Lament  Live At Maybeck Recital Hall Berkeley CA  1990",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_003_000"
+        },
+        {
+            "track_name": "2. Photon in a Paper World",
+            "album_name": "Travellin Man",
+            "recording_year": "1969",
+            "asset_path": "stanley_cowell_003_001"
+        },
+        {
+            "track_name": "3. Round About Midnight",
+            "album_name": "Bright Passion",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_003_002"
+        }
+    ],
+    "[-3, 7, 3]": [
+        {
+            "track_name": "1. In Walked Bud",
+            "album_name": "Live at Copenhagen Jazz House",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_004_000"
+        },
+        {
+            "track_name": "2. Stella by Starlight",
+            "album_name": "Live at Copenhagen Jazz House",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_004_001"
+        },
+        {
+            "track_name": "3. Imagine",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_004_002"
+        },
+        {
+            "track_name": "4. Sendai sendoff",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_004_003"
+        },
+        {
+            "track_name": "5. Piano Concerto No 1 Tribute to Tatum",
+            "album_name": "Bright Passion",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_004_004"
+        },
+        {
+            "track_name": "6. Morning star",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_004_005"
+        }
+    ]
+}

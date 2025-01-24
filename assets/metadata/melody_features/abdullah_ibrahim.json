@@ -1,0 +1,324 @@
+{
+    "[11, -3, 3]": [
+        {
+            "track_name": "1. Ocean  The River",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_000_000"
+        },
+        {
+            "track_name": "2. Trieste My Love",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_000_001"
+        },
+        {
+            "track_name": "3. Trieste My Love",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_000_002"
+        },
+        {
+            "track_name": "4. Trieste My Love",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_000_003"
+        }
+    ],
+    "[5, 4, -4]": [
+        {
+            "track_name": "1. Pula",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_001_000"
+        },
+        {
+            "track_name": "2. Trieste My Love",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_001_001"
+        },
+        {
+            "track_name": "3. Anatomy of a South African Village",
+            "album_name": "Anatomy of a South African Village",
+            "recording_year": "1965",
+            "asset_path": "abdullah_ibrahim_001_002"
+        },
+        {
+            "track_name": "4. Capetown District Six",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_001_003"
+        },
+        {
+            "track_name": "5. Nisa",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_001_004"
+        },
+        {
+            "track_name": "6. Tokai",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_001_005"
+        },
+        {
+            "track_name": "7. Did You Hear That Sound",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_001_006"
+        },
+        {
+            "track_name": "8. In a Sentimental Mood",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_001_007"
+        },
+        {
+            "track_name": "9. In a Sentimental Mood",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_001_008"
+        },
+        {
+            "track_name": "10. In a Sentimental Mood",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_001_009"
+        },
+        {
+            "track_name": "11. Trieste My Love",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_001_010"
+        },
+        {
+            "track_name": "12. Blues for a Hip King",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_001_011"
+        },
+        {
+            "track_name": "13. Blues for a Hip King",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_001_012"
+        },
+        {
+            "track_name": "14. Open Door Within",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_001_013"
+        },
+        {
+            "track_name": "15. Open Door Within",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_001_014"
+        },
+        {
+            "track_name": "16. For Coltrane",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_001_015"
+        }
+    ],
+    "[-12, 11, -7]": [
+        {
+            "track_name": "1. Blue Bolero  Blue Bolero II",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_002_000"
+        },
+        {
+            "track_name": "2. Blue Bolero",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_002_001"
+        },
+        {
+            "track_name": "3. Blue Bolero",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_002_002"
+        },
+        {
+            "track_name": "4. Once Upon A Midnight",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_002_003"
+        },
+        {
+            "track_name": "5. Blue Bolero",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_002_004"
+        }
+    ],
+    "[-2, 12, -5]": [
+        {
+            "track_name": "1. Trieste My Love",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_003_000"
+        },
+        {
+            "track_name": "2. Blue Bolero First Reprise",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_003_001"
+        }
+    ],
+    "[5, 7, -7]": [
+        {
+            "track_name": "1. Pula",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_004_000"
+        },
+        {
+            "track_name": "2. What Really Happened in the Cornfields Is That the Birds Made Music All the Day and so I Let a Song Go out of My Heart at Dukes Place",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_004_001"
+        },
+        {
+            "track_name": "3. What Really Happened in the Cornfields Is That the Birds Made Music All the Day and so I Let a Song Go out of My Heart at Dukes Place",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_004_002"
+        },
+        {
+            "track_name": "4. What Really Happened in the Cornfields Is That the Birds Made Music All the Day and so I Let a Song Go out of My Heart at Dukes Place",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_004_003"
+        },
+        {
+            "track_name": "5. Just Arrived",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_004_004"
+        },
+        {
+            "track_name": "6. In A Sentimental Mood",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_004_005"
+        },
+        {
+            "track_name": "7. Ode to Duke",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_004_006"
+        },
+        {
+            "track_name": "8. Impressions on a Caravan",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_004_007"
+        },
+        {
+            "track_name": "9. Twelve By Twelve",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_004_008"
+        },
+        {
+            "track_name": "10. Twelve By Twelve",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_004_009"
+        },
+        {
+            "track_name": "11. Anatomy of a South African Village",
+            "album_name": "Anatomy of a South African Village",
+            "recording_year": "1965",
+            "asset_path": "abdullah_ibrahim_004_010"
+        },
+        {
+            "track_name": "12. Song for Lawrence Brown",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_004_011"
+        },
+        {
+            "track_name": "13. Song for Lawrence Brown",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_004_012"
+        },
+        {
+            "track_name": "14. Capetown District Six",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_004_013"
+        },
+        {
+            "track_name": "15. Nisa",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_004_014"
+        },
+        {
+            "track_name": "16. Threshold",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_004_015"
+        },
+        {
+            "track_name": "17. Threshold",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_004_016"
+        },
+        {
+            "track_name": "18. Did You Hear That Sound",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_004_017"
+        },
+        {
+            "track_name": "19. Kalahari Pleiades",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_004_018"
+        },
+        {
+            "track_name": "20. Two Spirituals",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_004_019"
+        },
+        {
+            "track_name": "21. Blues for a Hip King",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_004_020"
+        },
+        {
+            "track_name": "22. Blues for a Hip King",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_004_021"
+        },
+        {
+            "track_name": "23. Spiral Mist",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_004_022"
+        },
+        {
+            "track_name": "24. Corridors Radiant",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_004_023"
+        },
+        {
+            "track_name": "25. Open Door Within",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_004_024"
+        }
+    ]
+}

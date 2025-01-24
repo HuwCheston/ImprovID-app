@@ -1,0 +1,82 @@
+{
+    "Polychordal Blues Voicings": [
+        {
+            "track_name": "Lullaby of Birdland",
+            "album_name": "Chicago Revisited",
+            "recording_year": "1992",
+            "asset_path": "jtd_jamala-lullabyofbirdland-heardjisraely-1992-8a3fdd08_clip_000_cav_014",
+            "original_sensitivity": 0.00031083691283129156
+        },
+        {
+            "track_name": "Dolphin Dance",
+            "album_name": "Freeflight",
+            "recording_year": "1971",
+            "asset_path": "jtd_jamala-dolphindance-nasserjgantf-1971-87cd9343_clip_001_cav_014",
+            "original_sensitivity": 0.0002910391485784203
+        }
+    ],
+    "Shell Voicings": [
+        {
+            "track_name": "Im Old Fashioned",
+            "album_name": "The Complete 1961 Alhambra Performances",
+            "recording_year": "1961",
+            "asset_path": "jtd_jamala-imoldfashioned-crosbyifournierv-1961-7a0348c6_clip_002_cav_002",
+            "original_sensitivity": 0.004189491271972656
+        },
+        {
+            "track_name": "Because I Love You",
+            "album_name": "Ballades",
+            "recording_year": 2019,
+            "asset_path": "pijama_jamala-becauseiloveyou-unaccompanied-xxxx-te5rksau_clip_002_cav_002",
+            "original_sensitivity": 0.004031760152429342
+        }
+    ],
+    "Modal \"So What\" Voicings": [
+        {
+            "track_name": "But Not for Me",
+            "album_name": "But Not For Me",
+            "recording_year": "1957",
+            "asset_path": "jtd_jamala-butnotforme-crosbyifournierv-1957-9d444787_clip_000_cav_009",
+            "original_sensitivity": 0.0006199867348186672
+        },
+        {
+            "track_name": "It Could Happen to You",
+            "album_name": "Ahmads Blues",
+            "recording_year": "1958",
+            "asset_path": "jtd_jamala-itcouldhappentoyou-crosbyifournierv-1958-428c7e1e_clip_000_cav_009",
+            "original_sensitivity": 0.0005963498842902482
+        }
+    ],
+    "Dominant Polychord Groups": [
+        {
+            "track_name": "Because I Love You",
+            "album_name": "Ballades",
+            "recording_year": 2019,
+            "asset_path": "pijama_jamala-becauseiloveyou-unaccompanied-xxxx-te5rksau_clip_000_cav_019",
+            "original_sensitivity": 0.00045846248394809663
+        },
+        {
+            "track_name": "It Could Happen to You",
+            "album_name": "Ahmads Blues",
+            "recording_year": "1958",
+            "asset_path": "jtd_jamala-itcouldhappentoyou-crosbyifournierv-1958-428c7e1e_clip_000_cav_019",
+            "original_sensitivity": 0.000380251178285107
+        }
+    ],
+    "So What Voicings": [
+        {
+            "track_name": "Because I Love You",
+            "album_name": "Ballades",
+            "recording_year": 2019,
+            "asset_path": "pijama_jamala-becauseiloveyou-unaccompanied-xxxx-te5rksau_clip_001_cav_008",
+            "original_sensitivity": 0.0003260749508626759
+        },
+        {
+            "track_name": "Whats New",
+            "album_name": "Ballades",
+            "recording_year": 2019,
+            "asset_path": "pijama_jamala-whatsnew-unaccompanied-xxxx-85rfsefo_clip_008_cav_008",
+            "original_sensitivity": 0.00031016423599794507
+        }
+    ]
+}

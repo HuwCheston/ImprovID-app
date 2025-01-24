@@ -1,0 +1,96 @@
+{
+    "[-6, 11, 1]": [
+        {
+            "track_name": "1. Doxy",
+            "album_name": "After the Fall",
+            "recording_year": "1998",
+            "asset_path": "keith_jarrett_000_000"
+        },
+        {
+            "track_name": "2. Five Brothers",
+            "album_name": "The OutofTowners",
+            "recording_year": "2002",
+            "asset_path": "keith_jarrett_000_001"
+        },
+        {
+            "track_name": "3. Basin Street Blues",
+            "album_name": "Live at Open Theater East",
+            "recording_year": "1993",
+            "asset_path": "keith_jarrett_000_002"
+        }
+    ],
+    "[5, -11, 4]": [
+        {
+            "track_name": "1. All the Things You Are",
+            "album_name": "Tribute",
+            "recording_year": "1989",
+            "asset_path": "keith_jarrett_001_000"
+        },
+        {
+            "track_name": "2. U Dance",
+            "album_name": "Tribute",
+            "recording_year": "1989",
+            "asset_path": "keith_jarrett_001_001"
+        }
+    ],
+    "[5, -6, 11]": [
+        {
+            "track_name": "1. Basin Street Blues",
+            "album_name": "Live at Open Theater East",
+            "recording_year": "1993",
+            "asset_path": "keith_jarrett_002_000"
+        }
+    ],
+    "[7, 4, -3]": [
+        {
+            "track_name": "1. Pt",
+            "album_name": "Paris  London Testament",
+            "recording_year": 2009,
+            "asset_path": "keith_jarrett_003_000"
+        },
+        {
+            "track_name": "2. Riot",
+            "album_name": "Inside Out",
+            "recording_year": "2001",
+            "asset_path": "keith_jarrett_003_001"
+        },
+        {
+            "track_name": "3. I Thought About You",
+            "album_name": "Live at Open Theater East",
+            "recording_year": "1993",
+            "asset_path": "keith_jarrett_003_002"
+        },
+        {
+            "track_name": "4. Everything I Love",
+            "album_name": "Foundations The Keith Jarrett Anthology",
+            "recording_year": "1970",
+            "asset_path": "keith_jarrett_003_003"
+        }
+    ],
+    "[-10, 2, -4]": [
+        {
+            "track_name": "1. Butch  Butch",
+            "album_name": "Live at Open Theater East",
+            "recording_year": "1993",
+            "asset_path": "keith_jarrett_004_000"
+        },
+        {
+            "track_name": "2. Pt",
+            "album_name": "Paris  London Testament",
+            "recording_year": 2009,
+            "asset_path": "keith_jarrett_004_001"
+        },
+        {
+            "track_name": "3. Osaka November 8 1976 Part 1",
+            "album_name": "Sun Bear Concerts",
+            "recording_year": 1978,
+            "asset_path": "keith_jarrett_004_002"
+        },
+        {
+            "track_name": "4. All the Things You Are",
+            "album_name": "Standards Volume 1",
+            "recording_year": "1983",
+            "asset_path": "keith_jarrett_004_003"
+        }
+    ]
+}

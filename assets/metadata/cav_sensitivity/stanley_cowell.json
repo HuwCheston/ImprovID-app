@@ -1,0 +1,82 @@
+{
+    "Cycling Altered Dominants": [
+        {
+            "track_name": "Morning star",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "pijama_cowells-morningstar-unaccompanied-xxxx-676wafzv_clip_000_cav_013",
+            "original_sensitivity": 0.0012874194653704762
+        },
+        {
+            "track_name": "Cal Massey  Live At Maybeck Recital Hall Berkeley CA  1990",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "pijama_cowells-calmasseyliveatmaybeck-unaccompanied-xxxx-o4fuy04f_clip_005_cav_013",
+            "original_sensitivity": 0.0012449385831132531
+        }
+    ],
+    "Minor Blues Voicings": [
+        {
+            "track_name": "Sendai sendoff",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "pijama_cowells-sendaisendoff-unaccompanied-xxxx-76hpa5yu_clip_009_cav_017",
+            "original_sensitivity": 0.0005764334928244352
+        },
+        {
+            "track_name": "Piano Concerto No 1 Tribute to Tatum",
+            "album_name": "Bright Passion",
+            "recording_year": "1993",
+            "asset_path": "jtd_cowells-pianoconcertono1tribute-thomascthomasw-1993-e7cdea67_clip_000_cav_017",
+            "original_sensitivity": 0.0005612899549305439
+        }
+    ],
+    "Polychordal II-V-I's": [
+        {
+            "track_name": "Stompin At The Savoy  Live At Maybeck Recital Hall Berkeley CA  1990",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "pijama_cowells-stompinatthesavoylive-unaccompanied-xxxx-8w2qfmig_clip_000_cav_012",
+            "original_sensitivity": 0.0025141555815935135
+        },
+        {
+            "track_name": "Round About Midnight",
+            "album_name": "Bright Passion",
+            "recording_year": "1993",
+            "asset_path": "jtd_cowells-roundaboutmidnight-thomascthomasw-1993-66ae7207_clip_002_cav_012",
+            "original_sensitivity": 0.002191092586144805
+        }
+    ],
+    "Polychordal Blues Voicings": [
+        {
+            "track_name": "Stompin At The Savoy  Live At Maybeck Recital Hall Berkeley CA  1990",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "pijama_cowells-stompinatthesavoylive-unaccompanied-xxxx-8w2qfmig_clip_000_cav_014",
+            "original_sensitivity": 0.0005352955777198076
+        },
+        {
+            "track_name": "The ladder",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "pijama_cowells-theladder-unaccompanied-xxxx-zls8p2lz_clip_012_cav_014",
+            "original_sensitivity": 0.0004713209345936775
+        }
+    ],
+    "Fourthy Blues Voicings": [
+        {
+            "track_name": "Cal Massey  Live At Maybeck Recital Hall Berkeley CA  1990",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "pijama_cowells-calmasseyliveatmaybeck-unaccompanied-xxxx-o4fuy04f_clip_006_cav_015",
+            "original_sensitivity": 0.00039505044696852565
+        },
+        {
+            "track_name": "Morning star",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "pijama_cowells-morningstar-unaccompanied-xxxx-676wafzv_clip_008_cav_015",
+            "original_sensitivity": 0.00036900732084177434
+        }
+    ]
+}

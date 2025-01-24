@@ -1,0 +1,2838 @@
+{
+    "[3, -5, -1]": [
+        {
+            "track_name": "1. 34 Skidoo",
+            "album_name": "Re Person I Knew",
+            "recording_year": "1973",
+            "asset_path": "bill_evans_000_000"
+        },
+        {
+            "track_name": "2. Who Can I Turn To",
+            "album_name": "Another Time  The Hilversum Concert",
+            "recording_year": "1967",
+            "asset_path": "bill_evans_000_001"
+        },
+        {
+            "track_name": "3. Sareen Jurer",
+            "album_name": "The Sesjun Radio Shows",
+            "recording_year": "1977",
+            "asset_path": "bill_evans_000_002"
+        },
+        {
+            "track_name": "4. On A Clear Day You Can See Forever",
+            "album_name": "Alone",
+            "recording_year": 1970,
+            "asset_path": "bill_evans_000_003"
+        },
+        {
+            "track_name": "5. I Love You",
+            "album_name": "The Complete Bill Evans on Verve",
+            "recording_year": "1966",
+            "asset_path": "bill_evans_000_004"
+        },
+        {
+            "track_name": "6. Turn Out the Stars",
+            "album_name": "Another Time  The Hilversum Concert",
+            "recording_year": "1967",
+            "asset_path": "bill_evans_000_005"
+        },
+        {
+            "track_name": "7. My Romance",
+            "album_name": "Live In Paris 1972 Vol 2",
+            "recording_year": "1972",
+            "asset_path": "bill_evans_000_006"
+        },
+        {
+            "track_name": "8. Waltz For Debby",
+            "album_name": "The Paris Concert",
+            "recording_year": "1976",
+            "asset_path": "bill_evans_000_007"
+        },
+        {
+            "track_name": "9. Conception",
+            "album_name": "12 Classic Albums 1956  1962",
+            "recording_year": "1960",
+            "asset_path": "bill_evans_000_008"
+        },
+        {
+            "track_name": "10. Someday My Prince Will Come",
+            "album_name": "Half Moon Bay",
+            "recording_year": "1974",
+            "asset_path": "bill_evans_000_009"
+        },
+        {
+            "track_name": "11. Someday My Prince Will Come",
+            "album_name": "Half Moon Bay",
+            "recording_year": "1974",
+            "asset_path": "bill_evans_000_010"
+        },
+        {
+            "track_name": "12. Peris Scope",
+            "album_name": "Sharp Notes",
+            "recording_year": "1958",
+            "asset_path": "bill_evans_000_011"
+        },
+        {
+            "track_name": "13. Are You All the Things",
+            "album_name": "Complete Fantasy Recordings",
+            "recording_year": "1974",
+            "asset_path": "bill_evans_000_012"
+        },
+        {
+            "track_name": "14. Peris Scope",
+            "album_name": "The Complete Riverside Recordings",
+            "recording_year": "1961",
+            "asset_path": "bill_evans_000_013"
+        },
+        {
+            "track_name": "15. Waltz for Debby",
+            "album_name": "Youre Gonna Hear From Me",
+            "recording_year": "1969",
+            "asset_path": "bill_evans_000_014"
+        },
+        {
+            "track_name": "16. One for Helen",
+            "album_name": "Blue in Green The Concert in Canada",
+            "recording_year": "1975",
+            "asset_path": "bill_evans_000_015"
+        },
+        {
+            "track_name": "17. What Is This Thing Called Love",
+            "album_name": "The Complete Bill Evans on Verve",
+            "recording_year": "1966",
+            "asset_path": "bill_evans_000_016"
+        },
+        {
+            "track_name": "18. Letter to Evan",
+            "album_name": "The Last Waltz",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_000_017"
+        },
+        {
+            "track_name": "19. Song From MASH Suicide Is Painless",
+            "album_name": "Consecration",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_000_018"
+        },
+        {
+            "track_name": "20. Bills Hit Tune",
+            "album_name": "Turn Out the Stars The Final Village Vanguard Sessions",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_000_019"
+        },
+        {
+            "track_name": "21. No Cover No Minimum",
+            "album_name": "New Jazz Conceptions",
+            "recording_year": "1956",
+            "asset_path": "bill_evans_000_020"
+        },
+        {
+            "track_name": "22. Yet Never Broken",
+            "album_name": "His Last Concert in Germany",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_000_021"
+        },
+        {
+            "track_name": "23. Nardis",
+            "album_name": "A Jazz Hour With Bill Evans Autumn Leaves",
+            "recording_year": "1969",
+            "asset_path": "bill_evans_000_022"
+        },
+        {
+            "track_name": "24. SeeSaw",
+            "album_name": "Since We Met",
+            "recording_year": "1973",
+            "asset_path": "bill_evans_000_023"
+        },
+        {
+            "track_name": "25. Days of Wine and Roses",
+            "album_name": "Consecration",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_000_024"
+        },
+        {
+            "track_name": "26. Beautiful Love",
+            "album_name": "The Paris Concert Edition One",
+            "recording_year": "1979",
+            "asset_path": "bill_evans_000_025"
+        },
+        {
+            "track_name": "27. 34 Skidoo",
+            "album_name": "Complete Fantasy Recordings",
+            "recording_year": "1975",
+            "asset_path": "bill_evans_000_026"
+        },
+        {
+            "track_name": "28. 34 Skidoo",
+            "album_name": "Complete Fantasy Recordings",
+            "recording_year": "1975",
+            "asset_path": "bill_evans_000_027"
+        },
+        {
+            "track_name": "29. Re Person I Knew",
+            "album_name": "The Complete Bill Evans on Verve",
+            "recording_year": "1966",
+            "asset_path": "bill_evans_000_028"
+        },
+        {
+            "track_name": "30. Deed I Do",
+            "album_name": "The Complete Bill Evans on Verve",
+            "recording_year": "1966",
+            "asset_path": "bill_evans_000_029"
+        },
+        {
+            "track_name": "31. My Heart Stood Still",
+            "album_name": "Peace Piece and Other Pieces",
+            "recording_year": "1958",
+            "asset_path": "bill_evans_000_030"
+        },
+        {
+            "track_name": "32. Beautiful Love",
+            "album_name": "My Foolish Heart",
+            "recording_year": "1975",
+            "asset_path": "bill_evans_000_031"
+        },
+        {
+            "track_name": "33. Gone With the Wind",
+            "album_name": "The Complete Bill Evans on Verve",
+            "recording_year": "1966",
+            "asset_path": "bill_evans_000_032"
+        },
+        {
+            "track_name": "34. Minority",
+            "album_name": "Everybody Digs Bill Evans",
+            "recording_year": "1958",
+            "asset_path": "bill_evans_000_033"
+        },
+        {
+            "track_name": "35. Midnight Mood",
+            "album_name": "Turn Out the Stars The Final Village Vanguard Sessions",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_000_034"
+        },
+        {
+            "track_name": "36. All Of You",
+            "album_name": "The Paris Concert",
+            "recording_year": "1976",
+            "asset_path": "bill_evans_000_035"
+        },
+        {
+            "track_name": "37. Star Eyes",
+            "album_name": "The Complete Bill Evans on Verve",
+            "recording_year": "1966",
+            "asset_path": "bill_evans_000_036"
+        },
+        {
+            "track_name": "38. Like Someone in Love",
+            "album_name": "Consecration",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_000_037"
+        },
+        {
+            "track_name": "39. Our Delight",
+            "album_name": "Sharp Notes",
+            "recording_year": "1958",
+            "asset_path": "bill_evans_000_038"
+        },
+        {
+            "track_name": "40. Someday My Prince Will Come",
+            "album_name": "Live In Paris 1972 Vol 2",
+            "recording_year": "1972",
+            "asset_path": "bill_evans_000_039"
+        },
+        {
+            "track_name": "41. Letter to Evan",
+            "album_name": "Consecration",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_000_040"
+        },
+        {
+            "track_name": "42. A Time For Love",
+            "album_name": "Alone",
+            "recording_year": 1970,
+            "asset_path": "bill_evans_000_041"
+        },
+        {
+            "track_name": "43. My Romance",
+            "album_name": "Turn Out the Stars The Final Village Vanguard Sessions",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_000_042"
+        },
+        {
+            "track_name": "44. Waltz For Debby",
+            "album_name": "Live In Paris 1972 Vol 1",
+            "recording_year": "1972",
+            "asset_path": "bill_evans_000_043"
+        },
+        {
+            "track_name": "45. My Romance",
+            "album_name": "Complete Live at Ronnie Scotts 1980",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_000_044"
+        },
+        {
+            "track_name": "46. Peris Scope",
+            "album_name": "Live In Paris 1972 Vol 3",
+            "recording_year": "1973",
+            "asset_path": "bill_evans_000_045"
+        },
+        {
+            "track_name": "47. Peris Scope",
+            "album_name": "Live In Paris 1972 Vol 3",
+            "recording_year": "1973",
+            "asset_path": "bill_evans_000_046"
+        },
+        {
+            "track_name": "48. Like Someone I Love",
+            "album_name": "Consecration",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_000_047"
+        },
+        {
+            "track_name": "49. Gone With the Wind",
+            "album_name": "The Complete Bill Evans on Verve",
+            "recording_year": "1966",
+            "asset_path": "bill_evans_000_048"
+        },
+        {
+            "track_name": "50. Gone With the Wind",
+            "album_name": "The Complete Bill Evans on Verve",
+            "recording_year": "1966",
+            "asset_path": "bill_evans_000_049"
+        },
+        {
+            "track_name": "51. Gone With the Wind",
+            "album_name": "The Complete Bill Evans on Verve",
+            "recording_year": "1966",
+            "asset_path": "bill_evans_000_050"
+        },
+        {
+            "track_name": "52. Someday My Prince Will Come",
+            "album_name": "Yesterday I Heard the Rain",
+            "recording_year": "1972",
+            "asset_path": "bill_evans_000_051"
+        },
+        {
+            "track_name": "53. Someday My Prince Will Come",
+            "album_name": "Yesterday I Heard the Rain",
+            "recording_year": "1972",
+            "asset_path": "bill_evans_000_052"
+        },
+        {
+            "track_name": "54. Turn Out the Stars",
+            "album_name": "Complete Fantasy Recordings",
+            "recording_year": "1974",
+            "asset_path": "bill_evans_000_053"
+        },
+        {
+            "track_name": "55. You and the Night and the Music",
+            "album_name": "Consecration",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_000_054"
+        },
+        {
+            "track_name": "56. Never Let Me Go",
+            "album_name": "Alone",
+            "recording_year": 1970,
+            "asset_path": "bill_evans_000_055"
+        }
+    ],
+    "[-4, -3, -4]": [
+        {
+            "track_name": "1. Glorias Step",
+            "album_name": "Complete Fantasy Recordings",
+            "recording_year": "1974",
+            "asset_path": "bill_evans_001_000"
+        },
+        {
+            "track_name": "2. 34 Skidoo",
+            "album_name": "Re Person I Knew",
+            "recording_year": "1973",
+            "asset_path": "bill_evans_001_001"
+        },
+        {
+            "track_name": "3. Who Can I Turn To",
+            "album_name": "Another Time  The Hilversum Concert",
+            "recording_year": "1967",
+            "asset_path": "bill_evans_001_002"
+        },
+        {
+            "track_name": "4. The Opener",
+            "album_name": "Complete Fantasy Recordings",
+            "recording_year": "1974",
+            "asset_path": "bill_evans_001_003"
+        },
+        {
+            "track_name": "5. Bills Hit Tune",
+            "album_name": "Turn Out the Stars The Final Village Vanguard Sessions",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_001_004"
+        },
+        {
+            "track_name": "6. Bills Hit Tune",
+            "album_name": "Turn Out the Stars The Final Village Vanguard Sessions",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_001_005"
+        },
+        {
+            "track_name": "7. On A Clear Day You Can See Forever",
+            "album_name": "Alone",
+            "recording_year": 1970,
+            "asset_path": "bill_evans_001_006"
+        },
+        {
+            "track_name": "8. On A Clear Day You Can See Forever",
+            "album_name": "Alone",
+            "recording_year": 1970,
+            "asset_path": "bill_evans_001_007"
+        },
+        {
+            "track_name": "9. On A Clear Day You Can See Forever",
+            "album_name": "Alone",
+            "recording_year": 1970,
+            "asset_path": "bill_evans_001_008"
+        },
+        {
+            "track_name": "10. Youre Gonna Hear From Me",
+            "album_name": "Some Other Time The Lost Session From the Black Forest",
+            "recording_year": "1967",
+            "asset_path": "bill_evans_001_009"
+        },
+        {
+            "track_name": "11. I Love You",
+            "album_name": "The Complete Bill Evans on Verve",
+            "recording_year": "1966",
+            "asset_path": "bill_evans_001_010"
+        },
+        {
+            "track_name": "12. TTTT",
+            "album_name": "Complete Fantasy Recordings",
+            "recording_year": "1975",
+            "asset_path": "bill_evans_001_011"
+        },
+        {
+            "track_name": "13. Like Someone in Love",
+            "album_name": "Complete Live at Ronnie Scotts 1980",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_001_012"
+        },
+        {
+            "track_name": "14. Autumn Leaves Take 1",
+            "album_name": "Seven Classic Albums",
+            "recording_year": "1960",
+            "asset_path": "bill_evans_001_013"
+        },
+        {
+            "track_name": "15. All of You",
+            "album_name": "Complete Fantasy Recordings",
+            "recording_year": "1974",
+            "asset_path": "bill_evans_001_014"
+        },
+        {
+            "track_name": "16. All of You",
+            "album_name": "Complete Fantasy Recordings",
+            "recording_year": "1974",
+            "asset_path": "bill_evans_001_015"
+        },
+        {
+            "track_name": "17. Up With the Lark",
+            "album_name": "Consecration",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_001_016"
+        },
+        {
+            "track_name": "18. Turn Out the Stars",
+            "album_name": "The Complete Bill Evans on Verve",
+            "recording_year": "1966",
+            "asset_path": "bill_evans_001_017"
+        },
+        {
+            "track_name": "19. Turn Out the Stars",
+            "album_name": "The Complete Bill Evans on Verve",
+            "recording_year": "1966",
+            "asset_path": "bill_evans_001_018"
+        },
+        {
+            "track_name": "20. Theme From MASH",
+            "album_name": "Turn Out the Stars The Final Village Vanguard Sessions",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_001_019"
+        },
+        {
+            "track_name": "21. Theme From MASH",
+            "album_name": "Turn Out the Stars The Final Village Vanguard Sessions",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_001_020"
+        },
+        {
+            "track_name": "22. Turn Out the Stars",
+            "album_name": "The Last Waltz",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_001_021"
+        },
+        {
+            "track_name": "23. Turn Out the Stars",
+            "album_name": "The Last Waltz",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_001_022"
+        },
+        {
+            "track_name": "24. Nardis",
+            "album_name": "At the Montreux Jazz Festival",
+            "recording_year": "1967",
+            "asset_path": "bill_evans_001_023"
+        },
+        {
+            "track_name": "25. Someday My Prince Will Come",
+            "album_name": "Half Moon Bay",
+            "recording_year": "1974",
+            "asset_path": "bill_evans_001_024"
+        },
+        {
+            "track_name": "26. Someday My Prince Will Come",
+            "album_name": "Live at Art DLugoffs Top of the Gate",
+            "recording_year": "1968",
+            "asset_path": "bill_evans_001_025"
+        },
+        {
+            "track_name": "27. On Green Dolphin Street",
+            "album_name": "Bill Evans Live In Tokyo",
+            "recording_year": "1972",
+            "asset_path": "bill_evans_001_026"
+        },
+        {
+            "track_name": "28. Peris Scope",
+            "album_name": "Sharp Notes",
+            "recording_year": "1958",
+            "asset_path": "bill_evans_001_027"
+        },
+        {
+            "track_name": "29. Are You All the Things",
+            "album_name": "Complete Fantasy Recordings",
+            "recording_year": "1974",
+            "asset_path": "bill_evans_001_028"
+        },
+        {
+            "track_name": "30. Are You All the Things",
+            "album_name": "Complete Fantasy Recordings",
+            "recording_year": "1974",
+            "asset_path": "bill_evans_001_029"
+        },
+        {
+            "track_name": "31. Santa Claus Is Coming to Town",
+            "album_name": "The Complete Bill Evans on Verve",
+            "recording_year": "1966",
+            "asset_path": "bill_evans_001_030"
+        },
+        {
+            "track_name": "32. Peris Scope",
+            "album_name": "The Complete Riverside Recordings",
+            "recording_year": "1961",
+            "asset_path": "bill_evans_001_031"
+        },
+        {
+            "track_name": "33. Nardis",
+            "album_name": "Lund 1975 Helsinki 1970",
+            "recording_year": "1975",
+            "asset_path": "bill_evans_001_032"
+        },
+        {
+            "track_name": "34. Deed I Do",
+            "album_name": "The Complete Bill Evans on Verve",
+            "recording_year": "1966",
+            "asset_path": "bill_evans_001_033"
+        },
+        {
+            "track_name": "35. Walking Up",
+            "album_name": "The Complete Riverside Recordings",
+            "recording_year": "1961",
+            "asset_path": "bill_evans_001_034"
+        },
+        {
+            "track_name": "36. Walking Up",
+            "album_name": "The Complete Riverside Recordings",
+            "recording_year": "1961",
+            "asset_path": "bill_evans_001_035"
+        },
+        {
+            "track_name": "37. Woodyn You take 1",
+            "album_name": "Peace Piece and Other Pieces",
+            "recording_year": "1958",
+            "asset_path": "bill_evans_001_036"
+        },
+        {
+            "track_name": "38. California Here I Come",
+            "album_name": "The Complete Bill Evans on Verve",
+            "recording_year": "1966",
+            "asset_path": "bill_evans_001_037"
+        },
+        {
+            "track_name": "39. Who Can I Turn to",
+            "album_name": "Half Moon Bay",
+            "recording_year": "1974",
+            "asset_path": "bill_evans_001_038"
+        },
+        {
+            "track_name": "40. You Must Believe in Spring",
+            "album_name": "You Must Believe in Spring",
+            "recording_year": "1977",
+            "asset_path": "bill_evans_001_039"
+        },
+        {
+            "track_name": "41. Solar",
+            "album_name": "At the Village Vanguard",
+            "recording_year": "1961",
+            "asset_path": "bill_evans_001_040"
+        },
+        {
+            "track_name": "42. Solar",
+            "album_name": "At the Village Vanguard",
+            "recording_year": "1961",
+            "asset_path": "bill_evans_001_041"
+        },
+        {
+            "track_name": "43. Bills Hit Tune",
+            "album_name": "Turn Out the Stars The Final Village Vanguard Sessions",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_001_042"
+        },
+        {
+            "track_name": "44. Bills Hit Tune",
+            "album_name": "Turn Out the Stars The Final Village Vanguard Sessions",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_001_043"
+        },
+        {
+            "track_name": "45. Turn Out the Stars",
+            "album_name": "The Last Waltz",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_001_044"
+        },
+        {
+            "track_name": "46. TTTT Twelve Tone Tune Two",
+            "album_name": "The Sesjun Radio Shows",
+            "recording_year": "1977",
+            "asset_path": "bill_evans_001_045"
+        },
+        {
+            "track_name": "47. Yet Never Broken",
+            "album_name": "His Last Concert in Germany",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_001_046"
+        },
+        {
+            "track_name": "48. Yet Never Broken",
+            "album_name": "His Last Concert in Germany",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_001_047"
+        },
+        {
+            "track_name": "49. 34 Skidoo",
+            "album_name": "Blue in Green The Concert in Canada",
+            "recording_year": "1975",
+            "asset_path": "bill_evans_001_048"
+        },
+        {
+            "track_name": "50. 34 Skidoo",
+            "album_name": "Blue in Green The Concert in Canada",
+            "recording_year": "1975",
+            "asset_path": "bill_evans_001_049"
+        },
+        {
+            "track_name": "51. Turn Out the Stars",
+            "album_name": "Turn Out the Stars The Final Village Vanguard Sessions",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_001_050"
+        },
+        {
+            "track_name": "52. Turn Out the Stars",
+            "album_name": "Turn Out the Stars The Final Village Vanguard Sessions",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_001_051"
+        },
+        {
+            "track_name": "53. Turn Out the Stars",
+            "album_name": "Turn Out the Stars The Final Village Vanguard Sessions",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_001_052"
+        },
+        {
+            "track_name": "54. Turn Out the Stars",
+            "album_name": "Turn Out the Stars The Final Village Vanguard Sessions",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_001_053"
+        },
+        {
+            "track_name": "55. Waking Up",
+            "album_name": "The Second Trio",
+            "recording_year": "1962",
+            "asset_path": "bill_evans_001_054"
+        },
+        {
+            "track_name": "56. Waking Up",
+            "album_name": "The Second Trio",
+            "recording_year": "1962",
+            "asset_path": "bill_evans_001_055"
+        },
+        {
+            "track_name": "57. Days of Wine  Roses",
+            "album_name": "Turn Out the Stars The Final Village Vanguard Sessions",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_001_056"
+        },
+        {
+            "track_name": "58. Days of Wine  Roses",
+            "album_name": "Turn Out the Stars The Final Village Vanguard Sessions",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_001_057"
+        },
+        {
+            "track_name": "59. Days of Wine  Roses",
+            "album_name": "Turn Out the Stars The Final Village Vanguard Sessions",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_001_058"
+        },
+        {
+            "track_name": "60. Days of Wine  Roses",
+            "album_name": "Turn Out the Stars The Final Village Vanguard Sessions",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_001_059"
+        },
+        {
+            "track_name": "61. Deed I Do",
+            "album_name": "The Complete Bill Evans on Verve",
+            "recording_year": "1966",
+            "asset_path": "bill_evans_001_060"
+        },
+        {
+            "track_name": "62. But Not for Me",
+            "album_name": "Turn Out the Stars The Final Village Vanguard Sessions",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_001_061"
+        },
+        {
+            "track_name": "63. Nardis",
+            "album_name": "Live In Paris 1972 Vol 3",
+            "recording_year": "1973",
+            "asset_path": "bill_evans_001_062"
+        },
+        {
+            "track_name": "64. Nardis",
+            "album_name": "Live In Paris 1972 Vol 3",
+            "recording_year": "1973",
+            "asset_path": "bill_evans_001_063"
+        },
+        {
+            "track_name": "65. Someday My Prince Will Come",
+            "album_name": "Consecration",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_001_064"
+        },
+        {
+            "track_name": "66. 34 Skidoo",
+            "album_name": "The Paris Concert Edition Two",
+            "recording_year": "1979",
+            "asset_path": "bill_evans_001_065"
+        },
+        {
+            "track_name": "67. 34 Skidoo",
+            "album_name": "The Paris Concert Edition Two",
+            "recording_year": "1979",
+            "asset_path": "bill_evans_001_066"
+        },
+        {
+            "track_name": "68. Nardis",
+            "album_name": "Youre Gonna Hear From Me",
+            "recording_year": "1969",
+            "asset_path": "bill_evans_001_067"
+        },
+        {
+            "track_name": "69. A Sleepin Bee",
+            "album_name": "At the Montreux Jazz Festival",
+            "recording_year": "1967",
+            "asset_path": "bill_evans_001_068"
+        },
+        {
+            "track_name": "70. Autumn Leaves",
+            "album_name": "The Last Waltz",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_001_069"
+        },
+        {
+            "track_name": "71. Autumn Leaves",
+            "album_name": "The Last Waltz",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_001_070"
+        },
+        {
+            "track_name": "72. My Heart Stood Still",
+            "album_name": "Time Remembered",
+            "recording_year": "1962",
+            "asset_path": "bill_evans_001_071"
+        },
+        {
+            "track_name": "73. Minority",
+            "album_name": "Everybody Digs Bill Evans",
+            "recording_year": "1958",
+            "asset_path": "bill_evans_001_072"
+        },
+        {
+            "track_name": "74. Midnight Mood",
+            "album_name": "Alone",
+            "recording_year": 1970,
+            "asset_path": "bill_evans_001_073"
+        },
+        {
+            "track_name": "75. How About You",
+            "album_name": "Some Other Time The Lost Session From the Black Forest",
+            "recording_year": "1967",
+            "asset_path": "bill_evans_001_074"
+        },
+        {
+            "track_name": "76. Time Remembered",
+            "album_name": "Live In Paris 1972 Vol 2",
+            "recording_year": "1972",
+            "asset_path": "bill_evans_001_075"
+        },
+        {
+            "track_name": "77. Who Can I Turn to When Nobody Needs Me",
+            "album_name": "Consecration",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_001_076"
+        },
+        {
+            "track_name": "78. Very Early",
+            "album_name": "Live In Paris 1972 Vol 2",
+            "recording_year": "1972",
+            "asset_path": "bill_evans_001_077"
+        },
+        {
+            "track_name": "79. How Deep Is the Ocean",
+            "album_name": "Jazzhouse",
+            "recording_year": "1969",
+            "asset_path": "bill_evans_001_078"
+        },
+        {
+            "track_name": "80. Walkin Up",
+            "album_name": "At the Montreux Jazz Festival",
+            "recording_year": "1967",
+            "asset_path": "bill_evans_001_079"
+        },
+        {
+            "track_name": "81. Days of Wine and Roses",
+            "album_name": "Consecration",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_001_080"
+        },
+        {
+            "track_name": "82. Days of Wine and Roses",
+            "album_name": "Consecration",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_001_081"
+        },
+        {
+            "track_name": "83. All Of You",
+            "album_name": "The Paris Concert",
+            "recording_year": "1976",
+            "asset_path": "bill_evans_001_082"
+        },
+        {
+            "track_name": "84. 34 Skidoo",
+            "album_name": "Live in Europe II",
+            "recording_year": "1974",
+            "asset_path": "bill_evans_001_083"
+        },
+        {
+            "track_name": "85. Sugarplum",
+            "album_name": "Live In Paris 1972 Vol 2",
+            "recording_year": "1972",
+            "asset_path": "bill_evans_001_084"
+        },
+        {
+            "track_name": "86. The Day of Wine and Roses",
+            "album_name": "His Last Concert in Germany",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_001_085"
+        },
+        {
+            "track_name": "87. Dolphin Dance",
+            "album_name": "Complete Fantasy Recordings",
+            "recording_year": "1975",
+            "asset_path": "bill_evans_001_086"
+        },
+        {
+            "track_name": "88. Emily",
+            "album_name": "Youre Gonna Hear From Me",
+            "recording_year": "1969",
+            "asset_path": "bill_evans_001_087"
+        },
+        {
+            "track_name": "89. Turn Out the Stars",
+            "album_name": "Consecration",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_001_088"
+        },
+        {
+            "track_name": "90. Turn Out the Stars",
+            "album_name": "Consecration",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_001_089"
+        },
+        {
+            "track_name": "91. Like Someone in Love",
+            "album_name": "Consecration",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_001_090"
+        },
+        {
+            "track_name": "92. Very Early",
+            "album_name": "A Jazz Hour With Bill Evans Autumn Leaves",
+            "recording_year": "1969",
+            "asset_path": "bill_evans_001_091"
+        },
+        {
+            "track_name": "93. Twelve Tone Tune",
+            "album_name": "Live In Paris 1972 Vol 2",
+            "recording_year": "1972",
+            "asset_path": "bill_evans_001_092"
+        },
+        {
+            "track_name": "94. My Romance",
+            "album_name": "Consecration",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_001_093"
+        },
+        {
+            "track_name": "95. Letter to Evan",
+            "album_name": "Consecration",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_001_094"
+        },
+        {
+            "track_name": "96. Glorias Step",
+            "album_name": "Live In Paris 1972 Vol 1",
+            "recording_year": "1972",
+            "asset_path": "bill_evans_001_095"
+        },
+        {
+            "track_name": "97. Beautiful Love take 1",
+            "album_name": "The Complete Riverside Recordings",
+            "recording_year": "1961",
+            "asset_path": "bill_evans_001_096"
+        },
+        {
+            "track_name": "98. Glorias Step take 1 interrupted",
+            "album_name": "The Complete Village Vanguard Recordings 1961",
+            "recording_year": "1961",
+            "asset_path": "bill_evans_001_097"
+        },
+        {
+            "track_name": "99. TTTT Twelve Tone Tune Two",
+            "album_name": "Complete Fantasy Recordings",
+            "recording_year": "1975",
+            "asset_path": "bill_evans_001_098"
+        },
+        {
+            "track_name": "100. Like Someone in Love",
+            "album_name": "Consecration",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_001_099"
+        },
+        {
+            "track_name": "101. Like Someone in Love",
+            "album_name": "Turn Out the Stars The Final Village Vanguard Sessions",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_001_100"
+        },
+        {
+            "track_name": "102. Like Someone in Love",
+            "album_name": "Turn Out the Stars The Final Village Vanguard Sessions",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_001_101"
+        },
+        {
+            "track_name": "103. Song From MASH Suicide Is Painless",
+            "album_name": "Consecration",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_001_102"
+        },
+        {
+            "track_name": "104. Song From MASH Suicide Is Painless",
+            "album_name": "Consecration",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_001_103"
+        },
+        {
+            "track_name": "105. Song From MASH Suicide Is Painless",
+            "album_name": "Consecration",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_001_104"
+        },
+        {
+            "track_name": "106. Like Someone I Love",
+            "album_name": "Consecration",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_001_105"
+        },
+        {
+            "track_name": "107. Who Can I Turn To",
+            "album_name": "Live In Paris 1972 Vol 3",
+            "recording_year": "1973",
+            "asset_path": "bill_evans_001_106"
+        },
+        {
+            "track_name": "108. Who Can I Turn To When Nobody Needs Me",
+            "album_name": "Yesterday I Heard the Rain",
+            "recording_year": "1972",
+            "asset_path": "bill_evans_001_107"
+        },
+        {
+            "track_name": "109. Who Can I Turn To When Nobody Needs Me",
+            "album_name": "Yesterday I Heard the Rain",
+            "recording_year": "1972",
+            "asset_path": "bill_evans_001_108"
+        },
+        {
+            "track_name": "110. Like Someone in Love",
+            "album_name": "Consecration",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_001_109"
+        },
+        {
+            "track_name": "111. Days of Wine and Roses",
+            "album_name": "Consecration",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_001_110"
+        },
+        {
+            "track_name": "112. Youre Gonna Hear From Me",
+            "album_name": "Another Time  The Hilversum Concert",
+            "recording_year": "1967",
+            "asset_path": "bill_evans_001_111"
+        },
+        {
+            "track_name": "113. Turn Out the Stars",
+            "album_name": "Complete Fantasy Recordings",
+            "recording_year": "1974",
+            "asset_path": "bill_evans_001_112"
+        },
+        {
+            "track_name": "114. I Love You",
+            "album_name": "Kind of Evans",
+            "recording_year": "1958",
+            "asset_path": "bill_evans_001_113"
+        },
+        {
+            "track_name": "115. You and the Night and the Music",
+            "album_name": "Consecration",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_001_114"
+        },
+        {
+            "track_name": "116. Never Let Me Go",
+            "album_name": "Alone",
+            "recording_year": 1970,
+            "asset_path": "bill_evans_001_115"
+        },
+        {
+            "track_name": "117. Never Let Me Go",
+            "album_name": "Alone",
+            "recording_year": 1970,
+            "asset_path": "bill_evans_001_116"
+        },
+        {
+            "track_name": "118. TTT Twelve Tone Tune",
+            "album_name": "The Bill Evans Album",
+            "recording_year": "1971",
+            "asset_path": "bill_evans_001_117"
+        }
+    ],
+    "[4, 3, 4]": [
+        {
+            "track_name": "1. Who Cares",
+            "album_name": "The Complete Riverside Recordings",
+            "recording_year": "1961",
+            "asset_path": "bill_evans_002_000"
+        },
+        {
+            "track_name": "2. Glorias Step",
+            "album_name": "Complete Fantasy Recordings",
+            "recording_year": "1974",
+            "asset_path": "bill_evans_002_001"
+        },
+        {
+            "track_name": "3. Youre Gonna Hear From Me",
+            "album_name": "The Complete Bill Evans on Verve",
+            "recording_year": "1966",
+            "asset_path": "bill_evans_002_002"
+        },
+        {
+            "track_name": "4. Youre Gonna Hear From Me",
+            "album_name": "The Complete Bill Evans on Verve",
+            "recording_year": "1966",
+            "asset_path": "bill_evans_002_003"
+        },
+        {
+            "track_name": "5. 34 Skidoo",
+            "album_name": "Re Person I Knew",
+            "recording_year": "1973",
+            "asset_path": "bill_evans_002_004"
+        },
+        {
+            "track_name": "6. 34 Skidoo",
+            "album_name": "Re Person I Knew",
+            "recording_year": "1973",
+            "asset_path": "bill_evans_002_005"
+        },
+        {
+            "track_name": "7. SeeSaw",
+            "album_name": "But Beautiful",
+            "recording_year": "1975",
+            "asset_path": "bill_evans_002_006"
+        },
+        {
+            "track_name": "8. Make Someone Happy",
+            "album_name": "The Best of Bill Evans Live",
+            "recording_year": "1966",
+            "asset_path": "bill_evans_002_007"
+        },
+        {
+            "track_name": "9. Waltz For Debby",
+            "album_name": "Live In Paris 1972 Vol 3",
+            "recording_year": "1973",
+            "asset_path": "bill_evans_002_008"
+        },
+        {
+            "track_name": "10. Someday my Prince Will Come",
+            "album_name": "Complete Fantasy Recordings",
+            "recording_year": "1975",
+            "asset_path": "bill_evans_002_009"
+        },
+        {
+            "track_name": "11. Letter To Evan",
+            "album_name": "Complete Live at Ronnie Scotts 1980",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_002_010"
+        },
+        {
+            "track_name": "12. Letter To Evan",
+            "album_name": "Complete Live at Ronnie Scotts 1980",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_002_011"
+        },
+        {
+            "track_name": "13. Stella By Starlight",
+            "album_name": "The Complete Bill Evans on Verve",
+            "recording_year": "1964",
+            "asset_path": "bill_evans_002_012"
+        },
+        {
+            "track_name": "14. Bills Hit Tune",
+            "album_name": "Turn Out the Stars The Final Village Vanguard Sessions",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_002_013"
+        },
+        {
+            "track_name": "15. Sareen Jurer",
+            "album_name": "The Sesjun Radio Shows",
+            "recording_year": "1977",
+            "asset_path": "bill_evans_002_014"
+        },
+        {
+            "track_name": "16. On A Clear Day You Can See Forever",
+            "album_name": "Alone",
+            "recording_year": 1970,
+            "asset_path": "bill_evans_002_015"
+        },
+        {
+            "track_name": "17. On A Clear Day You Can See Forever",
+            "album_name": "Alone",
+            "recording_year": 1970,
+            "asset_path": "bill_evans_002_016"
+        },
+        {
+            "track_name": "18. On A Clear Day You Can See Forever",
+            "album_name": "Alone",
+            "recording_year": 1970,
+            "asset_path": "bill_evans_002_017"
+        },
+        {
+            "track_name": "19. On A Clear Day You Can See Forever",
+            "album_name": "Alone",
+            "recording_year": 1970,
+            "asset_path": "bill_evans_002_018"
+        },
+        {
+            "track_name": "20. How My Heart Sings",
+            "album_name": "Jazzhouse",
+            "recording_year": "1969",
+            "asset_path": "bill_evans_002_019"
+        },
+        {
+            "track_name": "21. Baubles Bangles and Beads",
+            "album_name": "Some Other Time The Lost Session From the Black Forest",
+            "recording_year": "1967",
+            "asset_path": "bill_evans_002_020"
+        },
+        {
+            "track_name": "22. I Love You",
+            "album_name": "The Complete Bill Evans on Verve",
+            "recording_year": "1966",
+            "asset_path": "bill_evans_002_021"
+        },
+        {
+            "track_name": "23. TTTT",
+            "album_name": "Complete Fantasy Recordings",
+            "recording_year": "1975",
+            "asset_path": "bill_evans_002_022"
+        },
+        {
+            "track_name": "24. TTTT",
+            "album_name": "Complete Fantasy Recordings",
+            "recording_year": "1975",
+            "asset_path": "bill_evans_002_023"
+        },
+        {
+            "track_name": "25. Autumn Leaves Take 1",
+            "album_name": "Seven Classic Albums",
+            "recording_year": "1960",
+            "asset_path": "bill_evans_002_024"
+        },
+        {
+            "track_name": "26. Autumn Leaves Take 1",
+            "album_name": "Seven Classic Albums",
+            "recording_year": "1960",
+            "asset_path": "bill_evans_002_025"
+        },
+        {
+            "track_name": "27. Emily",
+            "album_name": "Live at Art DLugoffs Top of the Gate",
+            "recording_year": "1968",
+            "asset_path": "bill_evans_002_026"
+        },
+        {
+            "track_name": "28. Bills Hit Tune",
+            "album_name": "His Last Concert in Germany",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_002_027"
+        },
+        {
+            "track_name": "29. Up With the Lark",
+            "album_name": "Consecration",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_002_028"
+        },
+        {
+            "track_name": "30. Up With the Lark",
+            "album_name": "Consecration",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_002_029"
+        },
+        {
+            "track_name": "31. Turn Out the Stars",
+            "album_name": "The Complete Bill Evans on Verve",
+            "recording_year": "1966",
+            "asset_path": "bill_evans_002_030"
+        },
+        {
+            "track_name": "32. Turn Out the Stars",
+            "album_name": "The Complete Bill Evans on Verve",
+            "recording_year": "1966",
+            "asset_path": "bill_evans_002_031"
+        },
+        {
+            "track_name": "33. Turn Out the Stars",
+            "album_name": "The Complete Bill Evans on Verve",
+            "recording_year": "1966",
+            "asset_path": "bill_evans_002_032"
+        },
+        {
+            "track_name": "34. Youre Gonna Hear From Me",
+            "album_name": "California Here I Come",
+            "recording_year": "1967",
+            "asset_path": "bill_evans_002_033"
+        },
+        {
+            "track_name": "35. Theme From MASH",
+            "album_name": "Turn Out the Stars The Final Village Vanguard Sessions",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_002_034"
+        },
+        {
+            "track_name": "36. Theme From MASH",
+            "album_name": "Turn Out the Stars The Final Village Vanguard Sessions",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_002_035"
+        },
+        {
+            "track_name": "37. Conception",
+            "album_name": "12 Classic Albums 1956  1962",
+            "recording_year": "1960",
+            "asset_path": "bill_evans_002_036"
+        },
+        {
+            "track_name": "38. Turn Out the Stars",
+            "album_name": "The Last Waltz",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_002_037"
+        },
+        {
+            "track_name": "39. Nardis",
+            "album_name": "At the Montreux Jazz Festival",
+            "recording_year": "1967",
+            "asset_path": "bill_evans_002_038"
+        },
+        {
+            "track_name": "40. Nardis",
+            "album_name": "At the Montreux Jazz Festival",
+            "recording_year": "1967",
+            "asset_path": "bill_evans_002_039"
+        },
+        {
+            "track_name": "41. Someday My Prince Will Come",
+            "album_name": "Half Moon Bay",
+            "recording_year": "1974",
+            "asset_path": "bill_evans_002_040"
+        },
+        {
+            "track_name": "42. Very Early",
+            "album_name": "The Complete Bill Evans on Verve",
+            "recording_year": "1966",
+            "asset_path": "bill_evans_002_041"
+        },
+        {
+            "track_name": "43. Peris Scope",
+            "album_name": "Sharp Notes",
+            "recording_year": "1958",
+            "asset_path": "bill_evans_002_042"
+        },
+        {
+            "track_name": "44. Are You All the Things",
+            "album_name": "Complete Fantasy Recordings",
+            "recording_year": "1974",
+            "asset_path": "bill_evans_002_043"
+        },
+        {
+            "track_name": "45. Peris Scope",
+            "album_name": "The Complete Riverside Recordings",
+            "recording_year": "1961",
+            "asset_path": "bill_evans_002_044"
+        },
+        {
+            "track_name": "46. Deed I Do",
+            "album_name": "The Complete Bill Evans on Verve",
+            "recording_year": "1966",
+            "asset_path": "bill_evans_002_045"
+        },
+        {
+            "track_name": "47. Stella by Starlight",
+            "album_name": "Jazzhouse",
+            "recording_year": "1969",
+            "asset_path": "bill_evans_002_046"
+        },
+        {
+            "track_name": "48. Stella by Starlight",
+            "album_name": "Jazzhouse",
+            "recording_year": "1969",
+            "asset_path": "bill_evans_002_047"
+        },
+        {
+            "track_name": "49. What Is This Thing Called Love",
+            "album_name": "The Complete Bill Evans on Verve",
+            "recording_year": "1966",
+            "asset_path": "bill_evans_002_048"
+        },
+        {
+            "track_name": "50. Walking Up",
+            "album_name": "The Complete Riverside Recordings",
+            "recording_year": "1961",
+            "asset_path": "bill_evans_002_049"
+        },
+        {
+            "track_name": "51. Woodyn You take 1",
+            "album_name": "Peace Piece and Other Pieces",
+            "recording_year": "1958",
+            "asset_path": "bill_evans_002_050"
+        },
+        {
+            "track_name": "52. Woodyn You take 1",
+            "album_name": "Peace Piece and Other Pieces",
+            "recording_year": "1958",
+            "asset_path": "bill_evans_002_051"
+        },
+        {
+            "track_name": "53. Who Can I Turn to",
+            "album_name": "Half Moon Bay",
+            "recording_year": "1974",
+            "asset_path": "bill_evans_002_052"
+        },
+        {
+            "track_name": "54. Heres That Rainy Day",
+            "album_name": "Alone",
+            "recording_year": 1970,
+            "asset_path": "bill_evans_002_053"
+        },
+        {
+            "track_name": "55. You Must Believe in Spring",
+            "album_name": "You Must Believe in Spring",
+            "recording_year": "1977",
+            "asset_path": "bill_evans_002_054"
+        },
+        {
+            "track_name": "56. You Must Believe in Spring",
+            "album_name": "You Must Believe in Spring",
+            "recording_year": "1977",
+            "asset_path": "bill_evans_002_055"
+        },
+        {
+            "track_name": "57. You Must Believe in Spring",
+            "album_name": "You Must Believe in Spring",
+            "recording_year": "1977",
+            "asset_path": "bill_evans_002_056"
+        },
+        {
+            "track_name": "58. You Must Believe in Spring",
+            "album_name": "You Must Believe in Spring",
+            "recording_year": "1977",
+            "asset_path": "bill_evans_002_057"
+        },
+        {
+            "track_name": "59. Solar",
+            "album_name": "At the Village Vanguard",
+            "recording_year": "1961",
+            "asset_path": "bill_evans_002_058"
+        },
+        {
+            "track_name": "60. Solar",
+            "album_name": "At the Village Vanguard",
+            "recording_year": "1961",
+            "asset_path": "bill_evans_002_059"
+        },
+        {
+            "track_name": "61. Bills Hit Tune",
+            "album_name": "Turn Out the Stars The Final Village Vanguard Sessions",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_002_060"
+        },
+        {
+            "track_name": "62. Bills Hit Tune",
+            "album_name": "Turn Out the Stars The Final Village Vanguard Sessions",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_002_061"
+        },
+        {
+            "track_name": "63. Sugar Plum",
+            "album_name": "Momentum",
+            "recording_year": "1972",
+            "asset_path": "bill_evans_002_062"
+        },
+        {
+            "track_name": "64. Sugar Plum",
+            "album_name": "Momentum",
+            "recording_year": "1972",
+            "asset_path": "bill_evans_002_063"
+        },
+        {
+            "track_name": "65. Glorias Step take 3",
+            "album_name": "The Complete Village Vanguard Recordings 1961",
+            "recording_year": "1961",
+            "asset_path": "bill_evans_002_064"
+        },
+        {
+            "track_name": "66. California Here I Come",
+            "album_name": "Jazzhouse",
+            "recording_year": "1969",
+            "asset_path": "bill_evans_002_065"
+        },
+        {
+            "track_name": "67. Like Someone in Love",
+            "album_name": "Turn Out the Stars The Final Village Vanguard Sessions",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_002_066"
+        },
+        {
+            "track_name": "68. Like Someone in Love",
+            "album_name": "Turn Out the Stars The Final Village Vanguard Sessions",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_002_067"
+        },
+        {
+            "track_name": "69. TTTT Twelve Tone Tune Two",
+            "album_name": "The Sesjun Radio Shows",
+            "recording_year": "1977",
+            "asset_path": "bill_evans_002_068"
+        },
+        {
+            "track_name": "70. TTTT Twelve Tone Tune Two",
+            "album_name": "The Sesjun Radio Shows",
+            "recording_year": "1977",
+            "asset_path": "bill_evans_002_069"
+        },
+        {
+            "track_name": "71. No Cover No Minimum",
+            "album_name": "New Jazz Conceptions",
+            "recording_year": "1956",
+            "asset_path": "bill_evans_002_070"
+        },
+        {
+            "track_name": "72. Peau Douce",
+            "album_name": "Complete Fantasy Recordings",
+            "recording_year": "1974",
+            "asset_path": "bill_evans_002_071"
+        },
+        {
+            "track_name": "73. Nardis",
+            "album_name": "A Jazz Hour With Bill Evans Autumn Leaves",
+            "recording_year": "1969",
+            "asset_path": "bill_evans_002_072"
+        },
+        {
+            "track_name": "74. Nardis",
+            "album_name": "A Jazz Hour With Bill Evans Autumn Leaves",
+            "recording_year": "1969",
+            "asset_path": "bill_evans_002_073"
+        },
+        {
+            "track_name": "75. Who Can I Turn To",
+            "album_name": "In Buenos Aires  Vol 1",
+            "recording_year": "1972",
+            "asset_path": "bill_evans_002_074"
+        },
+        {
+            "track_name": "76. Israel",
+            "album_name": "Explorations",
+            "recording_year": "1960",
+            "asset_path": "bill_evans_002_075"
+        },
+        {
+            "track_name": "77. SeeSaw",
+            "album_name": "Since We Met",
+            "recording_year": "1973",
+            "asset_path": "bill_evans_002_076"
+        },
+        {
+            "track_name": "78. What Kind of Fool Am I",
+            "album_name": "The Complete Bill Evans on Verve",
+            "recording_year": "1966",
+            "asset_path": "bill_evans_002_077"
+        },
+        {
+            "track_name": "79. What Kind of Fool Am I",
+            "album_name": "The Complete Bill Evans on Verve",
+            "recording_year": "1966",
+            "asset_path": "bill_evans_002_078"
+        },
+        {
+            "track_name": "80. If You Could See Me Now",
+            "album_name": "Live in Europe II",
+            "recording_year": "1974",
+            "asset_path": "bill_evans_002_079"
+        },
+        {
+            "track_name": "81. 34 Skidoo",
+            "album_name": "Blue in Green The Concert in Canada",
+            "recording_year": "1975",
+            "asset_path": "bill_evans_002_080"
+        },
+        {
+            "track_name": "82. 34 Skidoo",
+            "album_name": "Blue in Green The Concert in Canada",
+            "recording_year": "1975",
+            "asset_path": "bill_evans_002_081"
+        },
+        {
+            "track_name": "83. 34 Skidoo",
+            "album_name": "Blue in Green The Concert in Canada",
+            "recording_year": "1975",
+            "asset_path": "bill_evans_002_082"
+        },
+        {
+            "track_name": "84. Days of Wine  Roses",
+            "album_name": "Turn Out the Stars The Final Village Vanguard Sessions",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_002_083"
+        },
+        {
+            "track_name": "85. Days of Wine and Roses",
+            "album_name": "Consecration",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_002_084"
+        },
+        {
+            "track_name": "86. Make Someone Happy",
+            "album_name": "Bill Evans at Town Hall Volume 1",
+            "recording_year": "1965",
+            "asset_path": "bill_evans_002_085"
+        },
+        {
+            "track_name": "87. Yet Neer Broken",
+            "album_name": "Turn Out the Stars The Final Village Vanguard Sessions",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_002_086"
+        },
+        {
+            "track_name": "88. Milestones",
+            "album_name": "12 Classic Albums 1956  1962",
+            "recording_year": "1961",
+            "asset_path": "bill_evans_002_087"
+        },
+        {
+            "track_name": "89. Turn Out the Stars",
+            "album_name": "Turn Out the Stars The Final Village Vanguard Sessions",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_002_088"
+        },
+        {
+            "track_name": "90. Beautiful Love",
+            "album_name": "The Paris Concert Edition One",
+            "recording_year": "1979",
+            "asset_path": "bill_evans_002_089"
+        },
+        {
+            "track_name": "91. 34 Skidoo",
+            "album_name": "Complete Fantasy Recordings",
+            "recording_year": "1975",
+            "asset_path": "bill_evans_002_090"
+        },
+        {
+            "track_name": "92. 34 Skidoo",
+            "album_name": "Complete Fantasy Recordings",
+            "recording_year": "1975",
+            "asset_path": "bill_evans_002_091"
+        },
+        {
+            "track_name": "93. How Am I To Know",
+            "album_name": "Peace Piece and Other Pieces",
+            "recording_year": "1958",
+            "asset_path": "bill_evans_002_092"
+        },
+        {
+            "track_name": "94. In Your Own Sweet Way",
+            "album_name": "Turn Out the Stars The Final Village Vanguard Sessions",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_002_093"
+        },
+        {
+            "track_name": "95. In Your Own Sweet Way",
+            "album_name": "Turn Out the Stars The Final Village Vanguard Sessions",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_002_094"
+        },
+        {
+            "track_name": "96. In Your Own Sweet Way",
+            "album_name": "Turn Out the Stars The Final Village Vanguard Sessions",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_002_095"
+        },
+        {
+            "track_name": "97. Days of Wine  Roses",
+            "album_name": "Turn Out the Stars The Final Village Vanguard Sessions",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_002_096"
+        },
+        {
+            "track_name": "98. Deed I Do",
+            "album_name": "The Complete Bill Evans on Verve",
+            "recording_year": "1966",
+            "asset_path": "bill_evans_002_097"
+        },
+        {
+            "track_name": "99. Deed I Do",
+            "album_name": "The Complete Bill Evans on Verve",
+            "recording_year": "1966",
+            "asset_path": "bill_evans_002_098"
+        },
+        {
+            "track_name": "100. But Not for Me",
+            "album_name": "Turn Out the Stars The Final Village Vanguard Sessions",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_002_099"
+        },
+        {
+            "track_name": "101. Nardis",
+            "album_name": "Live In Paris 1972 Vol 3",
+            "recording_year": "1973",
+            "asset_path": "bill_evans_002_100"
+        },
+        {
+            "track_name": "102. Nardis",
+            "album_name": "Live In Paris 1972 Vol 3",
+            "recording_year": "1973",
+            "asset_path": "bill_evans_002_101"
+        },
+        {
+            "track_name": "103. Nardis",
+            "album_name": "Live In Paris 1972 Vol 3",
+            "recording_year": "1973",
+            "asset_path": "bill_evans_002_102"
+        },
+        {
+            "track_name": "104. How Am I to Know",
+            "album_name": "The Complete Riverside Recordings",
+            "recording_year": "1961",
+            "asset_path": "bill_evans_002_103"
+        },
+        {
+            "track_name": "105. My Heart Stood Still",
+            "album_name": "Peace Piece and Other Pieces",
+            "recording_year": "1958",
+            "asset_path": "bill_evans_002_104"
+        },
+        {
+            "track_name": "106. My Heart Stood Still",
+            "album_name": "Peace Piece and Other Pieces",
+            "recording_year": "1958",
+            "asset_path": "bill_evans_002_105"
+        },
+        {
+            "track_name": "107. Someday My Prince Will Come",
+            "album_name": "The Complete Bill Evans on Verve",
+            "recording_year": "1966",
+            "asset_path": "bill_evans_002_106"
+        },
+        {
+            "track_name": "108. A Sleepin Bee",
+            "album_name": "At the Montreux Jazz Festival",
+            "recording_year": "1967",
+            "asset_path": "bill_evans_002_107"
+        },
+        {
+            "track_name": "109. Autumn Leaves",
+            "album_name": "The Last Waltz",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_002_108"
+        },
+        {
+            "track_name": "110. My Heart Stood Still",
+            "album_name": "Time Remembered",
+            "recording_year": "1962",
+            "asset_path": "bill_evans_002_109"
+        },
+        {
+            "track_name": "111. Love Is Here to Stay",
+            "album_name": "The Complete Riverside Recordings",
+            "recording_year": "1961",
+            "asset_path": "bill_evans_002_110"
+        },
+        {
+            "track_name": "112. Love Is Here to Stay",
+            "album_name": "The Complete Riverside Recordings",
+            "recording_year": "1961",
+            "asset_path": "bill_evans_002_111"
+        },
+        {
+            "track_name": "113. Gone With the Wind",
+            "album_name": "The Complete Bill Evans on Verve",
+            "recording_year": "1966",
+            "asset_path": "bill_evans_002_112"
+        },
+        {
+            "track_name": "114. So What",
+            "album_name": "Blue in Green The Concert in Canada",
+            "recording_year": "1975",
+            "asset_path": "bill_evans_002_113"
+        },
+        {
+            "track_name": "115. So What",
+            "album_name": "Blue in Green The Concert in Canada",
+            "recording_year": "1975",
+            "asset_path": "bill_evans_002_114"
+        },
+        {
+            "track_name": "116. So What",
+            "album_name": "Blue in Green The Concert in Canada",
+            "recording_year": "1975",
+            "asset_path": "bill_evans_002_115"
+        },
+        {
+            "track_name": "117. Minority",
+            "album_name": "Everybody Digs Bill Evans",
+            "recording_year": "1958",
+            "asset_path": "bill_evans_002_116"
+        },
+        {
+            "track_name": "118. Sleepin Bee",
+            "album_name": "Jazzhouse",
+            "recording_year": "1969",
+            "asset_path": "bill_evans_002_117"
+        },
+        {
+            "track_name": "119. Midnight Mood",
+            "album_name": "Alone",
+            "recording_year": 1970,
+            "asset_path": "bill_evans_002_118"
+        },
+        {
+            "track_name": "120. Midnight Mood",
+            "album_name": "Alone",
+            "recording_year": 1970,
+            "asset_path": "bill_evans_002_119"
+        },
+        {
+            "track_name": "121. Midnight Mood",
+            "album_name": "Alone",
+            "recording_year": 1970,
+            "asset_path": "bill_evans_002_120"
+        },
+        {
+            "track_name": "122. Midnight Mood",
+            "album_name": "Alone",
+            "recording_year": 1970,
+            "asset_path": "bill_evans_002_121"
+        },
+        {
+            "track_name": "123. How About You",
+            "album_name": "Some Other Time The Lost Session From the Black Forest",
+            "recording_year": "1967",
+            "asset_path": "bill_evans_002_122"
+        },
+        {
+            "track_name": "124. Midnight Mood",
+            "album_name": "Turn Out the Stars The Final Village Vanguard Sessions",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_002_123"
+        },
+        {
+            "track_name": "125. Up With the Lark",
+            "album_name": "The Last Waltz",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_002_124"
+        },
+        {
+            "track_name": "126. Up With the Lark",
+            "album_name": "Turn Out the Stars The Final Village Vanguard Sessions",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_002_125"
+        },
+        {
+            "track_name": "127. How Deep Is the Ocean",
+            "album_name": "Jazzhouse",
+            "recording_year": "1969",
+            "asset_path": "bill_evans_002_126"
+        },
+        {
+            "track_name": "128. How Deep Is the Ocean",
+            "album_name": "Jazzhouse",
+            "recording_year": "1969",
+            "asset_path": "bill_evans_002_127"
+        },
+        {
+            "track_name": "129. How Deep Is the Ocean",
+            "album_name": "Jazzhouse",
+            "recording_year": "1969",
+            "asset_path": "bill_evans_002_128"
+        },
+        {
+            "track_name": "130. Days of Wine and Roses",
+            "album_name": "Consecration",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_002_129"
+        },
+        {
+            "track_name": "131. All Of You",
+            "album_name": "The Paris Concert",
+            "recording_year": "1976",
+            "asset_path": "bill_evans_002_130"
+        },
+        {
+            "track_name": "132. Like Someone in Love",
+            "album_name": "Consecration",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_002_131"
+        },
+        {
+            "track_name": "133. What Is This Thing Called Love",
+            "album_name": "The Complete Riverside Recordings",
+            "recording_year": "1961",
+            "asset_path": "bill_evans_002_132"
+        },
+        {
+            "track_name": "134. 34 Skidoo",
+            "album_name": "Live in Europe II",
+            "recording_year": "1974",
+            "asset_path": "bill_evans_002_133"
+        },
+        {
+            "track_name": "135. 34 Skidoo",
+            "album_name": "Live in Europe II",
+            "recording_year": "1974",
+            "asset_path": "bill_evans_002_134"
+        },
+        {
+            "track_name": "136. Star Eyes",
+            "album_name": "The Complete Bill Evans on Verve",
+            "recording_year": "1966",
+            "asset_path": "bill_evans_002_135"
+        },
+        {
+            "track_name": "137. Ill See You Again",
+            "album_name": "Trio 64",
+            "recording_year": "1963",
+            "asset_path": "bill_evans_002_136"
+        },
+        {
+            "track_name": "138. Turn Out the Stars",
+            "album_name": "Consecration",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_002_137"
+        },
+        {
+            "track_name": "139. Like Someone in Love",
+            "album_name": "Consecration",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_002_138"
+        },
+        {
+            "track_name": "140. Like Someone in Love",
+            "album_name": "Consecration",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_002_139"
+        },
+        {
+            "track_name": "141. Very Early",
+            "album_name": "A Jazz Hour With Bill Evans Autumn Leaves",
+            "recording_year": "1969",
+            "asset_path": "bill_evans_002_140"
+        },
+        {
+            "track_name": "142. Twelve Tone Tune",
+            "album_name": "Live In Paris 1972 Vol 2",
+            "recording_year": "1972",
+            "asset_path": "bill_evans_002_141"
+        },
+        {
+            "track_name": "143. Love Is Here to Stay",
+            "album_name": "The Complete Bill Evans on Verve",
+            "recording_year": "1966",
+            "asset_path": "bill_evans_002_142"
+        },
+        {
+            "track_name": "144. California Here I Come",
+            "album_name": "California Here I Come",
+            "recording_year": "1967",
+            "asset_path": "bill_evans_002_143"
+        },
+        {
+            "track_name": "145. Our Delight",
+            "album_name": "Sharp Notes",
+            "recording_year": "1958",
+            "asset_path": "bill_evans_002_144"
+        },
+        {
+            "track_name": "146. Very Early",
+            "album_name": "Some Other Time The Lost Session From the Black Forest",
+            "recording_year": "1967",
+            "asset_path": "bill_evans_002_145"
+        },
+        {
+            "track_name": "147. Someday My Prince Will Come",
+            "album_name": "Live In Paris 1972 Vol 2",
+            "recording_year": "1972",
+            "asset_path": "bill_evans_002_146"
+        },
+        {
+            "track_name": "148. Letter to Evan",
+            "album_name": "Consecration",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_002_147"
+        },
+        {
+            "track_name": "149. Glorias Step",
+            "album_name": "Live In Paris 1972 Vol 1",
+            "recording_year": "1972",
+            "asset_path": "bill_evans_002_148"
+        },
+        {
+            "track_name": "150. Glorias Step",
+            "album_name": "Live In Paris 1972 Vol 1",
+            "recording_year": "1972",
+            "asset_path": "bill_evans_002_149"
+        },
+        {
+            "track_name": "151. Beautiful Love take 1",
+            "album_name": "The Complete Riverside Recordings",
+            "recording_year": "1961",
+            "asset_path": "bill_evans_002_150"
+        },
+        {
+            "track_name": "152. Turn Out the Stars",
+            "album_name": "Some Other Time The Lost Session From the Black Forest",
+            "recording_year": "1967",
+            "asset_path": "bill_evans_002_151"
+        },
+        {
+            "track_name": "153. Turn Out the Stars",
+            "album_name": "Some Other Time The Lost Session From the Black Forest",
+            "recording_year": "1967",
+            "asset_path": "bill_evans_002_152"
+        },
+        {
+            "track_name": "154. You and the Night and the Music",
+            "album_name": "Peace Piece and Other Pieces",
+            "recording_year": "1958",
+            "asset_path": "bill_evans_002_153"
+        },
+        {
+            "track_name": "155. TTTT Twelve Tone Tune Two",
+            "album_name": "Complete Fantasy Recordings",
+            "recording_year": "1975",
+            "asset_path": "bill_evans_002_154"
+        },
+        {
+            "track_name": "156. TTTT Twelve Tone Tune Two",
+            "album_name": "Complete Fantasy Recordings",
+            "recording_year": "1975",
+            "asset_path": "bill_evans_002_155"
+        },
+        {
+            "track_name": "157. Always",
+            "album_name": "Trio 64",
+            "recording_year": "1963",
+            "asset_path": "bill_evans_002_156"
+        },
+        {
+            "track_name": "158. A Time For Love",
+            "album_name": "Alone",
+            "recording_year": 1970,
+            "asset_path": "bill_evans_002_157"
+        },
+        {
+            "track_name": "159. A Time For Love",
+            "album_name": "Alone",
+            "recording_year": 1970,
+            "asset_path": "bill_evans_002_158"
+        },
+        {
+            "track_name": "160. A Time For Love",
+            "album_name": "Alone",
+            "recording_year": 1970,
+            "asset_path": "bill_evans_002_159"
+        },
+        {
+            "track_name": "161. A Time For Love",
+            "album_name": "Alone",
+            "recording_year": 1970,
+            "asset_path": "bill_evans_002_160"
+        },
+        {
+            "track_name": "162. Like Someone in Love",
+            "album_name": "Turn Out the Stars The Final Village Vanguard Sessions",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_002_161"
+        },
+        {
+            "track_name": "163. Like Someone in Love",
+            "album_name": "Turn Out the Stars The Final Village Vanguard Sessions",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_002_162"
+        },
+        {
+            "track_name": "164. Like Someone in Love",
+            "album_name": "Turn Out the Stars The Final Village Vanguard Sessions",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_002_163"
+        },
+        {
+            "track_name": "165. My Romance take 2",
+            "album_name": "The Complete Village Vanguard Recordings 1961",
+            "recording_year": "1961",
+            "asset_path": "bill_evans_002_164"
+        },
+        {
+            "track_name": "166. My Romance take 2",
+            "album_name": "The Complete Village Vanguard Recordings 1961",
+            "recording_year": "1961",
+            "asset_path": "bill_evans_002_165"
+        },
+        {
+            "track_name": "167. Make Someone Happy",
+            "album_name": "The Complete Bill Evans on Verve",
+            "recording_year": "1966",
+            "asset_path": "bill_evans_002_166"
+        },
+        {
+            "track_name": "168. Make Someone Happy",
+            "album_name": "The Complete Bill Evans on Verve",
+            "recording_year": "1966",
+            "asset_path": "bill_evans_002_167"
+        },
+        {
+            "track_name": "169. Song From MASH Suicide Is Painless",
+            "album_name": "Consecration",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_002_168"
+        },
+        {
+            "track_name": "170. Autumn Leaves",
+            "album_name": "Live at Art DLugoffs Top of the Gate",
+            "recording_year": "1968",
+            "asset_path": "bill_evans_002_169"
+        },
+        {
+            "track_name": "171. Peris Scope",
+            "album_name": "Live In Paris 1972 Vol 3",
+            "recording_year": "1973",
+            "asset_path": "bill_evans_002_170"
+        },
+        {
+            "track_name": "172. Gone With the Wind",
+            "album_name": "The Complete Bill Evans on Verve",
+            "recording_year": "1966",
+            "asset_path": "bill_evans_002_171"
+        },
+        {
+            "track_name": "173. Gone With the Wind",
+            "album_name": "The Complete Bill Evans on Verve",
+            "recording_year": "1966",
+            "asset_path": "bill_evans_002_172"
+        },
+        {
+            "track_name": "174. Gone With the Wind",
+            "album_name": "The Complete Bill Evans on Verve",
+            "recording_year": "1966",
+            "asset_path": "bill_evans_002_173"
+        },
+        {
+            "track_name": "175. Who Can I Turn To",
+            "album_name": "Live In Paris 1972 Vol 3",
+            "recording_year": "1973",
+            "asset_path": "bill_evans_002_174"
+        },
+        {
+            "track_name": "176. Who Can I Turn To When Nobody Needs Me",
+            "album_name": "Yesterday I Heard the Rain",
+            "recording_year": "1972",
+            "asset_path": "bill_evans_002_175"
+        },
+        {
+            "track_name": "177. Who Can I Turn To When Nobody Needs Me",
+            "album_name": "Yesterday I Heard the Rain",
+            "recording_year": "1972",
+            "asset_path": "bill_evans_002_176"
+        },
+        {
+            "track_name": "178. Like Someone in Love",
+            "album_name": "Consecration",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_002_177"
+        },
+        {
+            "track_name": "179. Emily",
+            "album_name": "Live In Paris 1972 Vol 3",
+            "recording_year": "1973",
+            "asset_path": "bill_evans_002_178"
+        },
+        {
+            "track_name": "180. Autumn Leaves Take 2",
+            "album_name": "Seven Classic Albums",
+            "recording_year": "1960",
+            "asset_path": "bill_evans_002_179"
+        },
+        {
+            "track_name": "181. Autumn Leaves Take 2",
+            "album_name": "Seven Classic Albums",
+            "recording_year": "1960",
+            "asset_path": "bill_evans_002_180"
+        },
+        {
+            "track_name": "182. Turn Out the Stars",
+            "album_name": "Complete Fantasy Recordings",
+            "recording_year": "1974",
+            "asset_path": "bill_evans_002_181"
+        },
+        {
+            "track_name": "183. Turn Out the Stars",
+            "album_name": "Complete Fantasy Recordings",
+            "recording_year": "1974",
+            "asset_path": "bill_evans_002_182"
+        },
+        {
+            "track_name": "184. I Love You",
+            "album_name": "Kind of Evans",
+            "recording_year": "1958",
+            "asset_path": "bill_evans_002_183"
+        },
+        {
+            "track_name": "185. I Love You",
+            "album_name": "Kind of Evans",
+            "recording_year": "1958",
+            "asset_path": "bill_evans_002_184"
+        },
+        {
+            "track_name": "186. Like Someone In Love",
+            "album_name": "The Complete Riverside Recordings",
+            "recording_year": 1984,
+            "asset_path": "bill_evans_002_185"
+        },
+        {
+            "track_name": "187. Like Someone In Love",
+            "album_name": "The Complete Riverside Recordings",
+            "recording_year": 1984,
+            "asset_path": "bill_evans_002_186"
+        },
+        {
+            "track_name": "188. Like Someone In Love",
+            "album_name": "The Complete Riverside Recordings",
+            "recording_year": 1984,
+            "asset_path": "bill_evans_002_187"
+        },
+        {
+            "track_name": "189. Like Someone In Love",
+            "album_name": "The Complete Riverside Recordings",
+            "recording_year": 1984,
+            "asset_path": "bill_evans_002_188"
+        },
+        {
+            "track_name": "190. Wrap Your Troubles in Dreams",
+            "album_name": "Bill Evanss Finest Hour",
+            "recording_year": "1967",
+            "asset_path": "bill_evans_002_189"
+        },
+        {
+            "track_name": "191. You and the Night and the Music",
+            "album_name": "Consecration",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_002_190"
+        },
+        {
+            "track_name": "192. You and the Night and the Music",
+            "album_name": "Consecration",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_002_191"
+        },
+        {
+            "track_name": "193. Never Let Me Go",
+            "album_name": "Alone",
+            "recording_year": 1970,
+            "asset_path": "bill_evans_002_192"
+        },
+        {
+            "track_name": "194. Never Let Me Go",
+            "album_name": "Alone",
+            "recording_year": 1970,
+            "asset_path": "bill_evans_002_193"
+        },
+        {
+            "track_name": "195. Never Let Me Go",
+            "album_name": "Alone",
+            "recording_year": 1970,
+            "asset_path": "bill_evans_002_194"
+        },
+        {
+            "track_name": "196. Never Let Me Go",
+            "album_name": "Alone",
+            "recording_year": 1970,
+            "asset_path": "bill_evans_002_195"
+        },
+        {
+            "track_name": "197. Never Let Me Go",
+            "album_name": "Alone",
+            "recording_year": 1970,
+            "asset_path": "bill_evans_002_196"
+        },
+        {
+            "track_name": "198. Never Let Me Go",
+            "album_name": "Alone",
+            "recording_year": 1970,
+            "asset_path": "bill_evans_002_197"
+        },
+        {
+            "track_name": "199. Never Let Me Go",
+            "album_name": "Alone",
+            "recording_year": 1970,
+            "asset_path": "bill_evans_002_198"
+        },
+        {
+            "track_name": "200. Never Let Me Go",
+            "album_name": "Alone",
+            "recording_year": 1970,
+            "asset_path": "bill_evans_002_199"
+        },
+        {
+            "track_name": "201. Never Let Me Go",
+            "album_name": "Alone",
+            "recording_year": 1970,
+            "asset_path": "bill_evans_002_200"
+        },
+        {
+            "track_name": "202. Make Someone Happy",
+            "album_name": "The Complete Bill Evans on Verve",
+            "recording_year": "1966",
+            "asset_path": "bill_evans_002_201"
+        },
+        {
+            "track_name": "203. Emily",
+            "album_name": "Another Time  The Hilversum Concert",
+            "recording_year": "1967",
+            "asset_path": "bill_evans_002_202"
+        }
+    ],
+    "[-8, 4, -7]": [
+        {
+            "track_name": "1. Glorias Step",
+            "album_name": "Momentum",
+            "recording_year": "1972",
+            "asset_path": "bill_evans_003_000"
+        },
+        {
+            "track_name": "2. 34 Skidoo",
+            "album_name": "The Paris Concert Edition Two",
+            "recording_year": "1979",
+            "asset_path": "bill_evans_003_001"
+        },
+        {
+            "track_name": "3. Never Let Me Go",
+            "album_name": "Alone",
+            "recording_year": 1970,
+            "asset_path": "bill_evans_003_002"
+        }
+    ],
+    "[-5, -1, -1]": [
+        {
+            "track_name": "1. 34 Skidoo",
+            "album_name": "Re Person I Knew",
+            "recording_year": "1973",
+            "asset_path": "bill_evans_004_000"
+        },
+        {
+            "track_name": "2. Make Someone Happy",
+            "album_name": "The Best of Bill Evans Live",
+            "recording_year": "1966",
+            "asset_path": "bill_evans_004_001"
+        },
+        {
+            "track_name": "3. Sareen Jurer",
+            "album_name": "The Sesjun Radio Shows",
+            "recording_year": "1977",
+            "asset_path": "bill_evans_004_002"
+        },
+        {
+            "track_name": "4. I Love You",
+            "album_name": "The Complete Bill Evans on Verve",
+            "recording_year": "1966",
+            "asset_path": "bill_evans_004_003"
+        },
+        {
+            "track_name": "5. Turn Out the Stars",
+            "album_name": "Another Time  The Hilversum Concert",
+            "recording_year": "1967",
+            "asset_path": "bill_evans_004_004"
+        },
+        {
+            "track_name": "6. All of You",
+            "album_name": "Complete Fantasy Recordings",
+            "recording_year": "1974",
+            "asset_path": "bill_evans_004_005"
+        },
+        {
+            "track_name": "7. Up With the Lark",
+            "album_name": "Consecration",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_004_006"
+        },
+        {
+            "track_name": "8. My Romance",
+            "album_name": "Live In Paris 1972 Vol 2",
+            "recording_year": "1972",
+            "asset_path": "bill_evans_004_007"
+        },
+        {
+            "track_name": "9. Walkin Up",
+            "album_name": "Some Other Time The Lost Session From the Black Forest",
+            "recording_year": "1967",
+            "asset_path": "bill_evans_004_008"
+        },
+        {
+            "track_name": "10. The Touch of Your Lips",
+            "album_name": "The Last Waltz",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_004_009"
+        },
+        {
+            "track_name": "11. The Touch of Your Lips",
+            "album_name": "The Last Waltz",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_004_010"
+        },
+        {
+            "track_name": "12. Conception",
+            "album_name": "12 Classic Albums 1956  1962",
+            "recording_year": "1960",
+            "asset_path": "bill_evans_004_011"
+        },
+        {
+            "track_name": "13. Turn Out the Stars",
+            "album_name": "The Last Waltz",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_004_012"
+        },
+        {
+            "track_name": "14. Someday My Prince Will Come",
+            "album_name": "Half Moon Bay",
+            "recording_year": "1974",
+            "asset_path": "bill_evans_004_013"
+        },
+        {
+            "track_name": "15. Someday My Prince Will Come",
+            "album_name": "Half Moon Bay",
+            "recording_year": "1974",
+            "asset_path": "bill_evans_004_014"
+        },
+        {
+            "track_name": "16. Peris Scope",
+            "album_name": "Sharp Notes",
+            "recording_year": "1958",
+            "asset_path": "bill_evans_004_015"
+        },
+        {
+            "track_name": "17. Are You All the Things",
+            "album_name": "Complete Fantasy Recordings",
+            "recording_year": "1974",
+            "asset_path": "bill_evans_004_016"
+        },
+        {
+            "track_name": "18. Peris Scope",
+            "album_name": "The Complete Riverside Recordings",
+            "recording_year": "1961",
+            "asset_path": "bill_evans_004_017"
+        },
+        {
+            "track_name": "19. Orbit Unless Its You",
+            "album_name": "Empathy  A Simple Matter of Conviction",
+            "recording_year": "1965",
+            "asset_path": "bill_evans_004_018"
+        },
+        {
+            "track_name": "20. Stella by Starlight",
+            "album_name": "Jazzhouse",
+            "recording_year": "1969",
+            "asset_path": "bill_evans_004_019"
+        },
+        {
+            "track_name": "21. What Is This Thing Called Love",
+            "album_name": "The Complete Bill Evans on Verve",
+            "recording_year": "1966",
+            "asset_path": "bill_evans_004_020"
+        },
+        {
+            "track_name": "22. Letter to Evan",
+            "album_name": "The Last Waltz",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_004_021"
+        },
+        {
+            "track_name": "23. California Here I Come",
+            "album_name": "The Complete Bill Evans on Verve",
+            "recording_year": "1966",
+            "asset_path": "bill_evans_004_022"
+        },
+        {
+            "track_name": "24. Who Can I Turn to",
+            "album_name": "Half Moon Bay",
+            "recording_year": "1974",
+            "asset_path": "bill_evans_004_023"
+        },
+        {
+            "track_name": "25. You Must Believe in Spring",
+            "album_name": "You Must Believe in Spring",
+            "recording_year": "1977",
+            "asset_path": "bill_evans_004_024"
+        },
+        {
+            "track_name": "26. Bills Hit Tune",
+            "album_name": "Turn Out the Stars The Final Village Vanguard Sessions",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_004_025"
+        },
+        {
+            "track_name": "27. Days of Wine and Roses",
+            "album_name": "Consecration",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_004_026"
+        },
+        {
+            "track_name": "28. Like Someone in Love",
+            "album_name": "Turn Out the Stars The Final Village Vanguard Sessions",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_004_027"
+        },
+        {
+            "track_name": "29. Like Someone in Love",
+            "album_name": "Turn Out the Stars The Final Village Vanguard Sessions",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_004_028"
+        },
+        {
+            "track_name": "30. Like Someone in Love",
+            "album_name": "Turn Out the Stars The Final Village Vanguard Sessions",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_004_029"
+        },
+        {
+            "track_name": "31. California Here I Come",
+            "album_name": "The Complete Bill Evans on Verve",
+            "recording_year": "1966",
+            "asset_path": "bill_evans_004_030"
+        },
+        {
+            "track_name": "32. Yet Never Broken",
+            "album_name": "His Last Concert in Germany",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_004_031"
+        },
+        {
+            "track_name": "33. Nardis",
+            "album_name": "A Jazz Hour With Bill Evans Autumn Leaves",
+            "recording_year": "1969",
+            "asset_path": "bill_evans_004_032"
+        },
+        {
+            "track_name": "34. My Romance",
+            "album_name": "Consecration",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_004_033"
+        },
+        {
+            "track_name": "35. SeeSaw",
+            "album_name": "Since We Met",
+            "recording_year": "1973",
+            "asset_path": "bill_evans_004_034"
+        },
+        {
+            "track_name": "36. What Kind of Fool Am I",
+            "album_name": "The Complete Bill Evans on Verve",
+            "recording_year": "1966",
+            "asset_path": "bill_evans_004_035"
+        },
+        {
+            "track_name": "37. What Kind of Fool Am I",
+            "album_name": "The Complete Bill Evans on Verve",
+            "recording_year": "1966",
+            "asset_path": "bill_evans_004_036"
+        },
+        {
+            "track_name": "38. Days of Wine and Roses",
+            "album_name": "Consecration",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_004_037"
+        },
+        {
+            "track_name": "39. Turn Out the Stars",
+            "album_name": "Turn Out the Stars The Final Village Vanguard Sessions",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_004_038"
+        },
+        {
+            "track_name": "40. Turn Out the Stars",
+            "album_name": "Turn Out the Stars The Final Village Vanguard Sessions",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_004_039"
+        },
+        {
+            "track_name": "41. Beautiful Love",
+            "album_name": "The Paris Concert Edition One",
+            "recording_year": "1979",
+            "asset_path": "bill_evans_004_040"
+        },
+        {
+            "track_name": "42. Beautiful Love",
+            "album_name": "The Paris Concert Edition One",
+            "recording_year": "1979",
+            "asset_path": "bill_evans_004_041"
+        },
+        {
+            "track_name": "43. 34 Skidoo",
+            "album_name": "Complete Fantasy Recordings",
+            "recording_year": "1975",
+            "asset_path": "bill_evans_004_042"
+        },
+        {
+            "track_name": "44. 34 Skidoo",
+            "album_name": "Complete Fantasy Recordings",
+            "recording_year": "1975",
+            "asset_path": "bill_evans_004_043"
+        },
+        {
+            "track_name": "45. Re Person I Knew",
+            "album_name": "The Complete Bill Evans on Verve",
+            "recording_year": "1966",
+            "asset_path": "bill_evans_004_044"
+        },
+        {
+            "track_name": "46. Re Person I Knew",
+            "album_name": "The Complete Bill Evans on Verve",
+            "recording_year": "1966",
+            "asset_path": "bill_evans_004_045"
+        },
+        {
+            "track_name": "47. In Your Own Sweet Way",
+            "album_name": "Turn Out the Stars The Final Village Vanguard Sessions",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_004_046"
+        },
+        {
+            "track_name": "48. Deed I Do",
+            "album_name": "The Complete Bill Evans on Verve",
+            "recording_year": "1966",
+            "asset_path": "bill_evans_004_047"
+        },
+        {
+            "track_name": "49. My Heart Stood Still",
+            "album_name": "Peace Piece and Other Pieces",
+            "recording_year": "1958",
+            "asset_path": "bill_evans_004_048"
+        },
+        {
+            "track_name": "50. Beautiful Love",
+            "album_name": "My Foolish Heart",
+            "recording_year": "1975",
+            "asset_path": "bill_evans_004_049"
+        },
+        {
+            "track_name": "51. Someday My Prince Will Come",
+            "album_name": "Consecration",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_004_050"
+        },
+        {
+            "track_name": "52. Someday My Prince Will Come",
+            "album_name": "The Complete Bill Evans on Verve",
+            "recording_year": "1966",
+            "asset_path": "bill_evans_004_051"
+        },
+        {
+            "track_name": "53. A Sleepin Bee",
+            "album_name": "At the Montreux Jazz Festival",
+            "recording_year": "1967",
+            "asset_path": "bill_evans_004_052"
+        },
+        {
+            "track_name": "54. Autumn Leaves",
+            "album_name": "The Last Waltz",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_004_053"
+        },
+        {
+            "track_name": "55. Gone With the Wind",
+            "album_name": "The Complete Bill Evans on Verve",
+            "recording_year": "1966",
+            "asset_path": "bill_evans_004_054"
+        },
+        {
+            "track_name": "56. In a Sentimental Mood",
+            "album_name": "California Here I Come",
+            "recording_year": "1967",
+            "asset_path": "bill_evans_004_055"
+        },
+        {
+            "track_name": "57. Minority",
+            "album_name": "Everybody Digs Bill Evans",
+            "recording_year": "1958",
+            "asset_path": "bill_evans_004_056"
+        },
+        {
+            "track_name": "58. How Deep Is the Ocean",
+            "album_name": "Jazzhouse",
+            "recording_year": "1969",
+            "asset_path": "bill_evans_004_057"
+        },
+        {
+            "track_name": "59. How Deep Is the Ocean",
+            "album_name": "Jazzhouse",
+            "recording_year": "1969",
+            "asset_path": "bill_evans_004_058"
+        },
+        {
+            "track_name": "60. All Of You",
+            "album_name": "The Paris Concert",
+            "recording_year": "1976",
+            "asset_path": "bill_evans_004_059"
+        },
+        {
+            "track_name": "61. All Of You",
+            "album_name": "The Paris Concert",
+            "recording_year": "1976",
+            "asset_path": "bill_evans_004_060"
+        },
+        {
+            "track_name": "62. Star Eyes",
+            "album_name": "The Complete Bill Evans on Verve",
+            "recording_year": "1966",
+            "asset_path": "bill_evans_004_061"
+        },
+        {
+            "track_name": "63. Dolphin Dance",
+            "album_name": "Complete Fantasy Recordings",
+            "recording_year": "1975",
+            "asset_path": "bill_evans_004_062"
+        },
+        {
+            "track_name": "64. Emily",
+            "album_name": "Youre Gonna Hear From Me",
+            "recording_year": "1969",
+            "asset_path": "bill_evans_004_063"
+        },
+        {
+            "track_name": "65. Turn Out the Stars",
+            "album_name": "Consecration",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_004_064"
+        },
+        {
+            "track_name": "66. Our Delight",
+            "album_name": "Sharp Notes",
+            "recording_year": "1958",
+            "asset_path": "bill_evans_004_065"
+        },
+        {
+            "track_name": "67. Someday My Prince Will Come",
+            "album_name": "Live In Paris 1972 Vol 2",
+            "recording_year": "1972",
+            "asset_path": "bill_evans_004_066"
+        },
+        {
+            "track_name": "68. Letter to Evan",
+            "album_name": "Consecration",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_004_067"
+        },
+        {
+            "track_name": "69. Swedish Pastry",
+            "album_name": "Bill Evans Trio at Shellys ManneHole Hollywood California",
+            "recording_year": "1963",
+            "asset_path": "bill_evans_004_068"
+        },
+        {
+            "track_name": "70. A Time For Love",
+            "album_name": "Alone",
+            "recording_year": 1970,
+            "asset_path": "bill_evans_004_069"
+        },
+        {
+            "track_name": "71. A Time For Love",
+            "album_name": "Alone",
+            "recording_year": 1970,
+            "asset_path": "bill_evans_004_070"
+        },
+        {
+            "track_name": "72. My Romance",
+            "album_name": "Turn Out the Stars The Final Village Vanguard Sessions",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_004_071"
+        },
+        {
+            "track_name": "73. Waltz For Debby",
+            "album_name": "Live In Paris 1972 Vol 1",
+            "recording_year": "1972",
+            "asset_path": "bill_evans_004_072"
+        },
+        {
+            "track_name": "74. My Romance",
+            "album_name": "Complete Live at Ronnie Scotts 1980",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_004_073"
+        },
+        {
+            "track_name": "75. Make Someone Happy",
+            "album_name": "The Complete Bill Evans on Verve",
+            "recording_year": "1966",
+            "asset_path": "bill_evans_004_074"
+        },
+        {
+            "track_name": "76. Peris Scope",
+            "album_name": "Live In Paris 1972 Vol 3",
+            "recording_year": "1973",
+            "asset_path": "bill_evans_004_075"
+        },
+        {
+            "track_name": "77. Peris Scope",
+            "album_name": "Live In Paris 1972 Vol 3",
+            "recording_year": "1973",
+            "asset_path": "bill_evans_004_076"
+        },
+        {
+            "track_name": "78. Like Someone I Love",
+            "album_name": "Consecration",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_004_077"
+        },
+        {
+            "track_name": "79. Gone With the Wind",
+            "album_name": "The Complete Bill Evans on Verve",
+            "recording_year": "1966",
+            "asset_path": "bill_evans_004_078"
+        },
+        {
+            "track_name": "80. Gone With the Wind",
+            "album_name": "The Complete Bill Evans on Verve",
+            "recording_year": "1966",
+            "asset_path": "bill_evans_004_079"
+        },
+        {
+            "track_name": "81. Gone With the Wind",
+            "album_name": "The Complete Bill Evans on Verve",
+            "recording_year": "1966",
+            "asset_path": "bill_evans_004_080"
+        },
+        {
+            "track_name": "82. Someday My Prince Will Come",
+            "album_name": "Yesterday I Heard the Rain",
+            "recording_year": "1972",
+            "asset_path": "bill_evans_004_081"
+        },
+        {
+            "track_name": "83. Someday My Prince Will Come",
+            "album_name": "Yesterday I Heard the Rain",
+            "recording_year": "1972",
+            "asset_path": "bill_evans_004_082"
+        },
+        {
+            "track_name": "84. Autumn Leaves Take 2",
+            "album_name": "Seven Classic Albums",
+            "recording_year": "1960",
+            "asset_path": "bill_evans_004_083"
+        },
+        {
+            "track_name": "85. Turn Out the Stars",
+            "album_name": "Complete Fantasy Recordings",
+            "recording_year": "1974",
+            "asset_path": "bill_evans_004_084"
+        },
+        {
+            "track_name": "86. You and the Night and the Music",
+            "album_name": "Consecration",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_004_085"
+        },
+        {
+            "track_name": "87. Never Let Me Go",
+            "album_name": "Alone",
+            "recording_year": 1970,
+            "asset_path": "bill_evans_004_086"
+        },
+        {
+            "track_name": "88. Never Let Me Go",
+            "album_name": "Alone",
+            "recording_year": 1970,
+            "asset_path": "bill_evans_004_087"
+        },
+        {
+            "track_name": "89. Never Let Me Go",
+            "album_name": "Alone",
+            "recording_year": 1970,
+            "asset_path": "bill_evans_004_088"
+        },
+        {
+            "track_name": "90. Never Let Me Go",
+            "album_name": "Alone",
+            "recording_year": 1970,
+            "asset_path": "bill_evans_004_089"
+        },
+        {
+            "track_name": "91. My Romance",
+            "album_name": "Consecration",
+            "recording_year": "1980",
+            "asset_path": "bill_evans_004_090"
+        }
+    ]
+}

@@ -1,0 +1,1464 @@
+{
+    "[-4, 9, 2]": [
+        {
+            "track_name": "1. Thadrack",
+            "album_name": "Lets Play the Music of Thad Jones",
+            "recording_year": "1993",
+            "asset_path": "tommy_flanagan_000_000"
+        },
+        {
+            "track_name": "2. Con Alma",
+            "album_name": "Solo Piano",
+            "recording_year": 2005,
+            "asset_path": "tommy_flanagan_000_001"
+        },
+        {
+            "track_name": "3. Minor Perhaps",
+            "album_name": "Super Session",
+            "recording_year": "1980",
+            "asset_path": "tommy_flanagan_000_002"
+        },
+        {
+            "track_name": "4. Cherokee",
+            "album_name": "Lady Be Good  for Ella",
+            "recording_year": "1993",
+            "asset_path": "tommy_flanagan_000_003"
+        },
+        {
+            "track_name": "5. Three in One",
+            "album_name": "Lets Play the Music of Thad Jones",
+            "recording_year": "1993",
+            "asset_path": "tommy_flanagan_000_004"
+        },
+        {
+            "track_name": "6. Mean What You Say",
+            "album_name": "Lets Play the Music of Thad Jones",
+            "recording_year": "1993",
+            "asset_path": "tommy_flanagan_000_005"
+        }
+    ],
+    "[-2, 9, 3]": [
+        {
+            "track_name": "1. Scratch",
+            "album_name": "Lets Play the Music of Thad Jones",
+            "recording_year": "1993",
+            "asset_path": "tommy_flanagan_001_000"
+        }
+    ],
+    "[2, 2, 3]": [
+        {
+            "track_name": "1. Oh Lady Be Good",
+            "album_name": "Lady Be Good  for Ella",
+            "recording_year": "1993",
+            "asset_path": "tommy_flanagan_002_000"
+        },
+        {
+            "track_name": "2. My Shining Hour",
+            "album_name": "Plays the Music of Harold Arlen",
+            "recording_year": "1977",
+            "asset_path": "tommy_flanagan_002_001"
+        },
+        {
+            "track_name": "3. Cousin Mary",
+            "album_name": "Giant Steps In Memory of John Coltrane",
+            "recording_year": "1982",
+            "asset_path": "tommy_flanagan_002_002"
+        },
+        {
+            "track_name": "4. Cousin Mary",
+            "album_name": "Giant Steps In Memory of John Coltrane",
+            "recording_year": "1982",
+            "asset_path": "tommy_flanagan_002_003"
+        },
+        {
+            "track_name": "5. Cousin Mary",
+            "album_name": "Giant Steps In Memory of John Coltrane",
+            "recording_year": "1982",
+            "asset_path": "tommy_flanagan_002_004"
+        },
+        {
+            "track_name": "6. Denzils Best",
+            "album_name": "Eclypso",
+            "recording_year": "1976",
+            "asset_path": "tommy_flanagan_002_005"
+        },
+        {
+            "track_name": "7. Denzils Best",
+            "album_name": "Eclypso",
+            "recording_year": "1976",
+            "asset_path": "tommy_flanagan_002_006"
+        },
+        {
+            "track_name": "8. Mr PC",
+            "album_name": "Giant Steps In Memory of John Coltrane",
+            "recording_year": "1982",
+            "asset_path": "tommy_flanagan_002_007"
+        },
+        {
+            "track_name": "9. Wail",
+            "album_name": "Solo Piano",
+            "recording_year": 2005,
+            "asset_path": "tommy_flanagan_002_008"
+        },
+        {
+            "track_name": "10. Wail",
+            "album_name": "Solo Piano",
+            "recording_year": 2005,
+            "asset_path": "tommy_flanagan_002_009"
+        },
+        {
+            "track_name": "11. Wail",
+            "album_name": "Solo Piano",
+            "recording_year": 2005,
+            "asset_path": "tommy_flanagan_002_010"
+        },
+        {
+            "track_name": "12. Wail",
+            "album_name": "Solo Piano",
+            "recording_year": 2005,
+            "asset_path": "tommy_flanagan_002_011"
+        },
+        {
+            "track_name": "13. Wail",
+            "album_name": "Solo Piano",
+            "recording_year": 2005,
+            "asset_path": "tommy_flanagan_002_012"
+        },
+        {
+            "track_name": "14. Woodyn You",
+            "album_name": "Montreux 77",
+            "recording_year": "1978",
+            "asset_path": "tommy_flanagan_002_013"
+        },
+        {
+            "track_name": "15. Woodyn You",
+            "album_name": "Montreux 77",
+            "recording_year": "1978",
+            "asset_path": "tommy_flanagan_002_014"
+        },
+        {
+            "track_name": "16. Main Stem",
+            "album_name": "The Tommy Flanagan Tokyo Recital",
+            "recording_year": "1975",
+            "asset_path": "tommy_flanagan_002_015"
+        },
+        {
+            "track_name": "17. Quietude",
+            "album_name": "Lets Play the Music of Thad Jones",
+            "recording_year": "1993",
+            "asset_path": "tommy_flanagan_002_016"
+        },
+        {
+            "track_name": "18. Quietude",
+            "album_name": "Lets Play the Music of Thad Jones",
+            "recording_year": "1993",
+            "asset_path": "tommy_flanagan_002_017"
+        },
+        {
+            "track_name": "19. Thadrack",
+            "album_name": "Lets Play the Music of Thad Jones",
+            "recording_year": "1993",
+            "asset_path": "tommy_flanagan_002_018"
+        },
+        {
+            "track_name": "20. Cup Bearers",
+            "album_name": "Confirmation",
+            "recording_year": "1978",
+            "asset_path": "tommy_flanagan_002_019"
+        },
+        {
+            "track_name": "21. Cup Bearers",
+            "album_name": "Confirmation",
+            "recording_year": "1978",
+            "asset_path": "tommy_flanagan_002_020"
+        },
+        {
+            "track_name": "22. Caravan",
+            "album_name": "The Tommy Flanagan Tokyo Recital",
+            "recording_year": "1975",
+            "asset_path": "tommy_flanagan_002_021"
+        },
+        {
+            "track_name": "23. Caravan",
+            "album_name": "The Tommy Flanagan Tokyo Recital",
+            "recording_year": "1975",
+            "asset_path": "tommy_flanagan_002_022"
+        },
+        {
+            "track_name": "24. Caravan",
+            "album_name": "The Tommy Flanagan Tokyo Recital",
+            "recording_year": "1975",
+            "asset_path": "tommy_flanagan_002_023"
+        },
+        {
+            "track_name": "25. Caravan",
+            "album_name": "The Tommy Flanagan Tokyo Recital",
+            "recording_year": "1975",
+            "asset_path": "tommy_flanagan_002_024"
+        },
+        {
+            "track_name": "26. Caravan",
+            "album_name": "The Tommy Flanagan Tokyo Recital",
+            "recording_year": "1975",
+            "asset_path": "tommy_flanagan_002_025"
+        },
+        {
+            "track_name": "27. Relaxin at Caramillo",
+            "album_name": "Sea Changes",
+            "recording_year": "1996",
+            "asset_path": "tommy_flanagan_002_026"
+        },
+        {
+            "track_name": "28. Strayhorn Medley",
+            "album_name": "Solo Piano",
+            "recording_year": 2005,
+            "asset_path": "tommy_flanagan_002_027"
+        },
+        {
+            "track_name": "29. Strayhorn Medley",
+            "album_name": "Solo Piano",
+            "recording_year": 2005,
+            "asset_path": "tommy_flanagan_002_028"
+        },
+        {
+            "track_name": "30. Strayhorn Medley",
+            "album_name": "Solo Piano",
+            "recording_year": 2005,
+            "asset_path": "tommy_flanagan_002_029"
+        },
+        {
+            "track_name": "31. Strayhorn Medley",
+            "album_name": "Solo Piano",
+            "recording_year": 2005,
+            "asset_path": "tommy_flanagan_002_030"
+        },
+        {
+            "track_name": "32. Strayhorn Medley",
+            "album_name": "Solo Piano",
+            "recording_year": 2005,
+            "asset_path": "tommy_flanagan_002_031"
+        },
+        {
+            "track_name": "33. Strayhorn Medley",
+            "album_name": "Solo Piano",
+            "recording_year": 2005,
+            "asset_path": "tommy_flanagan_002_032"
+        },
+        {
+            "track_name": "34. A Sleepin Bee",
+            "album_name": "Plays the Music of Harold Arlen",
+            "recording_year": "1977",
+            "asset_path": "tommy_flanagan_002_033"
+        },
+        {
+            "track_name": "35. I Love You",
+            "album_name": "Super Session",
+            "recording_year": "1980",
+            "asset_path": "tommy_flanagan_002_034"
+        },
+        {
+            "track_name": "36. Lets",
+            "album_name": "Sunset and the Mockingbird",
+            "recording_year": "1997",
+            "asset_path": "tommy_flanagan_002_035"
+        },
+        {
+            "track_name": "37. Out of This World",
+            "album_name": "Plays the Music of Harold Arlen",
+            "recording_year": "1977",
+            "asset_path": "tommy_flanagan_002_036"
+        },
+        {
+            "track_name": "38. Out of This World",
+            "album_name": "Plays the Music of Harold Arlen",
+            "recording_year": "1977",
+            "asset_path": "tommy_flanagan_002_037"
+        },
+        {
+            "track_name": "39. West Coast Blues",
+            "album_name": "Something Borrowed Something Blue",
+            "recording_year": "1977",
+            "asset_path": "tommy_flanagan_002_038"
+        },
+        {
+            "track_name": "40. West Coast Blues",
+            "album_name": "Something Borrowed Something Blue",
+            "recording_year": "1977",
+            "asset_path": "tommy_flanagan_002_039"
+        },
+        {
+            "track_name": "41. West Coast Blues",
+            "album_name": "Something Borrowed Something Blue",
+            "recording_year": "1977",
+            "asset_path": "tommy_flanagan_002_040"
+        },
+        {
+            "track_name": "42. Barbados",
+            "album_name": "Montreux 77",
+            "recording_year": "1978",
+            "asset_path": "tommy_flanagan_002_041"
+        },
+        {
+            "track_name": "43. Barbados",
+            "album_name": "Montreux 77",
+            "recording_year": "1978",
+            "asset_path": "tommy_flanagan_002_042"
+        },
+        {
+            "track_name": "44. Con Alma",
+            "album_name": "Solo Piano",
+            "recording_year": 2005,
+            "asset_path": "tommy_flanagan_002_043"
+        },
+        {
+            "track_name": "45. Con Alma",
+            "album_name": "Solo Piano",
+            "recording_year": 2005,
+            "asset_path": "tommy_flanagan_002_044"
+        },
+        {
+            "track_name": "46. Beats Up",
+            "album_name": "Sea Changes",
+            "recording_year": "1996",
+            "asset_path": "tommy_flanagan_002_045"
+        },
+        {
+            "track_name": "47. Beats Up",
+            "album_name": "Sea Changes",
+            "recording_year": "1996",
+            "asset_path": "tommy_flanagan_002_046"
+        },
+        {
+            "track_name": "48. 5021",
+            "album_name": "Confirmation",
+            "recording_year": "1978",
+            "asset_path": "tommy_flanagan_002_047"
+        },
+        {
+            "track_name": "49. 5021",
+            "album_name": "Confirmation",
+            "recording_year": "1978",
+            "asset_path": "tommy_flanagan_002_048"
+        },
+        {
+            "track_name": "50. Lets",
+            "album_name": "Lets Play the Music of Thad Jones",
+            "recording_year": "1993",
+            "asset_path": "tommy_flanagan_002_049"
+        },
+        {
+            "track_name": "51. Birdsong",
+            "album_name": "Sunset and the Mockingbird",
+            "recording_year": "1997",
+            "asset_path": "tommy_flanagan_002_050"
+        },
+        {
+            "track_name": "52. Sleepin Bee",
+            "album_name": "Solo Piano",
+            "recording_year": 2005,
+            "asset_path": "tommy_flanagan_002_051"
+        },
+        {
+            "track_name": "53. Eclypso",
+            "album_name": "Eclypso",
+            "recording_year": "1976",
+            "asset_path": "tommy_flanagan_002_052"
+        },
+        {
+            "track_name": "54. Eclypso",
+            "album_name": "Eclypso",
+            "recording_year": "1976",
+            "asset_path": "tommy_flanagan_002_053"
+        },
+        {
+            "track_name": "55. Eclypso",
+            "album_name": "Eclypso",
+            "recording_year": "1976",
+            "asset_path": "tommy_flanagan_002_054"
+        },
+        {
+            "track_name": "56. Eclypso",
+            "album_name": "Eclypso",
+            "recording_year": "1976",
+            "asset_path": "tommy_flanagan_002_055"
+        },
+        {
+            "track_name": "57. That Tired Routine Called Love",
+            "album_name": "Jazz Poet",
+            "recording_year": "1989",
+            "asset_path": "tommy_flanagan_002_056"
+        },
+        {
+            "track_name": "58. Scratch",
+            "album_name": "Lets Play the Music of Thad Jones",
+            "recording_year": "1993",
+            "asset_path": "tommy_flanagan_002_057"
+        },
+        {
+            "track_name": "59. Cherokee",
+            "album_name": "Lady Be Good  for Ella",
+            "recording_year": "1993",
+            "asset_path": "tommy_flanagan_002_058"
+        },
+        {
+            "track_name": "60. Cherokee",
+            "album_name": "Lady Be Good  for Ella",
+            "recording_year": "1993",
+            "asset_path": "tommy_flanagan_002_059"
+        },
+        {
+            "track_name": "61. Cherokee",
+            "album_name": "Lady Be Good  for Ella",
+            "recording_year": "1993",
+            "asset_path": "tommy_flanagan_002_060"
+        },
+        {
+            "track_name": "62. Ill Wind",
+            "album_name": "Plays the Music of Harold Arlen",
+            "recording_year": "1977",
+            "asset_path": "tommy_flanagan_002_061"
+        },
+        {
+            "track_name": "63. Out of the Past",
+            "album_name": "Nights at the Vanguard",
+            "recording_year": "1986",
+            "asset_path": "tommy_flanagan_002_062"
+        },
+        {
+            "track_name": "64. Out of the Past",
+            "album_name": "Nights at the Vanguard",
+            "recording_year": "1986",
+            "asset_path": "tommy_flanagan_002_063"
+        },
+        {
+            "track_name": "65. If You Could See Me Now",
+            "album_name": "Solo Piano",
+            "recording_year": 2005,
+            "asset_path": "tommy_flanagan_002_064"
+        },
+        {
+            "track_name": "66. If You Could See Me Now",
+            "album_name": "Solo Piano",
+            "recording_year": 2005,
+            "asset_path": "tommy_flanagan_002_065"
+        },
+        {
+            "track_name": "67. If You Could See Me Now",
+            "album_name": "Solo Piano",
+            "recording_year": 2005,
+            "asset_path": "tommy_flanagan_002_066"
+        },
+        {
+            "track_name": "68. Parisian Thoroughfare",
+            "album_name": "Solo Piano",
+            "recording_year": 2005,
+            "asset_path": "tommy_flanagan_002_067"
+        },
+        {
+            "track_name": "69. Parisian Thoroughfare",
+            "album_name": "Solo Piano",
+            "recording_year": 2005,
+            "asset_path": "tommy_flanagan_002_068"
+        },
+        {
+            "track_name": "70. Parisian Thoroughfare",
+            "album_name": "Solo Piano",
+            "recording_year": 2005,
+            "asset_path": "tommy_flanagan_002_069"
+        },
+        {
+            "track_name": "71. Parisian Thoroughfare",
+            "album_name": "Solo Piano",
+            "recording_year": 2005,
+            "asset_path": "tommy_flanagan_002_070"
+        },
+        {
+            "track_name": "72. Parisian Thoroughfare",
+            "album_name": "Solo Piano",
+            "recording_year": 2005,
+            "asset_path": "tommy_flanagan_002_071"
+        },
+        {
+            "track_name": "73. Smooth as the Wind",
+            "album_name": "Positive Intensity",
+            "recording_year": "1976",
+            "asset_path": "tommy_flanagan_002_072"
+        },
+        {
+            "track_name": "74. Flanagans Shenanigans",
+            "album_name": "Flanagans Shenanigans",
+            "recording_year": "1993",
+            "asset_path": "tommy_flanagan_002_073"
+        },
+        {
+            "track_name": "75. Eclypso",
+            "album_name": "Sea Changes",
+            "recording_year": "1996",
+            "asset_path": "tommy_flanagan_002_074"
+        },
+        {
+            "track_name": "76. Between the Devil and the Deep Blue Sea",
+            "album_name": "Plays the Music of Harold Arlen",
+            "recording_year": "1978",
+            "asset_path": "tommy_flanagan_002_075"
+        },
+        {
+            "track_name": "77. Giant Steps",
+            "album_name": "Giant Steps In Memory of John Coltrane",
+            "recording_year": "1982",
+            "asset_path": "tommy_flanagan_002_076"
+        },
+        {
+            "track_name": "78. Giant Steps",
+            "album_name": "Giant Steps In Memory of John Coltrane",
+            "recording_year": "1982",
+            "asset_path": "tommy_flanagan_002_077"
+        },
+        {
+            "track_name": "79. Three in One",
+            "album_name": "Lets Play the Music of Thad Jones",
+            "recording_year": "1993",
+            "asset_path": "tommy_flanagan_002_078"
+        },
+        {
+            "track_name": "80. Ruby My Dear",
+            "album_name": "Solo Piano",
+            "recording_year": 2005,
+            "asset_path": "tommy_flanagan_002_079"
+        },
+        {
+            "track_name": "81. Ruby My Dear",
+            "album_name": "Solo Piano",
+            "recording_year": 2005,
+            "asset_path": "tommy_flanagan_002_080"
+        },
+        {
+            "track_name": "82. Stompin At The Savoy",
+            "album_name": "Solo Piano",
+            "recording_year": 2005,
+            "asset_path": "tommy_flanagan_002_081"
+        },
+        {
+            "track_name": "83. Stompin At The Savoy",
+            "album_name": "Solo Piano",
+            "recording_year": 2005,
+            "asset_path": "tommy_flanagan_002_082"
+        },
+        {
+            "track_name": "84. Stompin At The Savoy",
+            "album_name": "Solo Piano",
+            "recording_year": 2005,
+            "asset_path": "tommy_flanagan_002_083"
+        },
+        {
+            "track_name": "85. Stompin At The Savoy",
+            "album_name": "Solo Piano",
+            "recording_year": 2005,
+            "asset_path": "tommy_flanagan_002_084"
+        },
+        {
+            "track_name": "86. Stompin At The Savoy",
+            "album_name": "Solo Piano",
+            "recording_year": 2005,
+            "asset_path": "tommy_flanagan_002_085"
+        },
+        {
+            "track_name": "87. Stompin At The Savoy",
+            "album_name": "Solo Piano",
+            "recording_year": 2005,
+            "asset_path": "tommy_flanagan_002_086"
+        },
+        {
+            "track_name": "88. Rachels Rondo",
+            "album_name": "Super Session",
+            "recording_year": "1980",
+            "asset_path": "tommy_flanagan_002_087"
+        },
+        {
+            "track_name": "89. Rachels Rondo",
+            "album_name": "Super Session",
+            "recording_year": "1980",
+            "asset_path": "tommy_flanagan_002_088"
+        },
+        {
+            "track_name": "90. Rachels Rondo",
+            "album_name": "Super Session",
+            "recording_year": "1980",
+            "asset_path": "tommy_flanagan_002_089"
+        },
+        {
+            "track_name": "91. Rachels Rondo",
+            "album_name": "Super Session",
+            "recording_year": "1980",
+            "asset_path": "tommy_flanagan_002_090"
+        },
+        {
+            "track_name": "92. Lets",
+            "album_name": "Flanagans Shenanigans",
+            "recording_year": "1993",
+            "asset_path": "tommy_flanagan_002_091"
+        },
+        {
+            "track_name": "93. Sea Changes",
+            "album_name": "Sea Changes",
+            "recording_year": "1996",
+            "asset_path": "tommy_flanagan_002_092"
+        },
+        {
+            "track_name": "94. Sea Changes",
+            "album_name": "Sea Changes",
+            "recording_year": "1996",
+            "asset_path": "tommy_flanagan_002_093"
+        },
+        {
+            "track_name": "95. All Day Long",
+            "album_name": "The Tommy Flanagan Tokyo Recital",
+            "recording_year": "1975",
+            "asset_path": "tommy_flanagan_002_094"
+        },
+        {
+            "track_name": "96. Bird Song",
+            "album_name": "Something Borrowed Something Blue",
+            "recording_year": "1978",
+            "asset_path": "tommy_flanagan_002_095"
+        },
+        {
+            "track_name": "97. Yesterdays",
+            "album_name": "Solo Piano",
+            "recording_year": 2005,
+            "asset_path": "tommy_flanagan_002_096"
+        },
+        {
+            "track_name": "98. Things Aint What They Used to Be",
+            "album_name": "Super Session",
+            "recording_year": "1980",
+            "asset_path": "tommy_flanagan_002_097"
+        },
+        {
+            "track_name": "99. Bird Song",
+            "album_name": "Lets Play the Music of Thad Jones",
+            "recording_year": "1993",
+            "asset_path": "tommy_flanagan_002_098"
+        },
+        {
+            "track_name": "100. Groovin High",
+            "album_name": "Something Borrowed Something Blue",
+            "recording_year": "1977",
+            "asset_path": "tommy_flanagan_002_099"
+        },
+        {
+            "track_name": "101. Groovin High",
+            "album_name": "Something Borrowed Something Blue",
+            "recording_year": "1977",
+            "asset_path": "tommy_flanagan_002_100"
+        },
+        {
+            "track_name": "102. Groovin High",
+            "album_name": "Something Borrowed Something Blue",
+            "recording_year": "1977",
+            "asset_path": "tommy_flanagan_002_101"
+        },
+        {
+            "track_name": "103. Groovin High",
+            "album_name": "Something Borrowed Something Blue",
+            "recording_year": "1977",
+            "asset_path": "tommy_flanagan_002_102"
+        },
+        {
+            "track_name": "104. Groovin High",
+            "album_name": "Something Borrowed Something Blue",
+            "recording_year": "1977",
+            "asset_path": "tommy_flanagan_002_103"
+        },
+        {
+            "track_name": "105. Cup Bearers",
+            "album_name": "Eclypso",
+            "recording_year": "1976",
+            "asset_path": "tommy_flanagan_002_104"
+        },
+        {
+            "track_name": "106. Cup Bearers",
+            "album_name": "Eclypso",
+            "recording_year": "1976",
+            "asset_path": "tommy_flanagan_002_105"
+        },
+        {
+            "track_name": "107. Cup Bearers",
+            "album_name": "Eclypso",
+            "recording_year": "1976",
+            "asset_path": "tommy_flanagan_002_106"
+        },
+        {
+            "track_name": "108. With Malice Toward None",
+            "album_name": "Sunset and the Mockingbird",
+            "recording_year": "1997",
+            "asset_path": "tommy_flanagan_002_107"
+        },
+        {
+            "track_name": "109. The Balanced Scales",
+            "album_name": "Flanagans Shenanigans",
+            "recording_year": "1993",
+            "asset_path": "tommy_flanagan_002_108"
+        },
+        {
+            "track_name": "110. St Louis Blues",
+            "album_name": "Jazz Poet",
+            "recording_year": "1989",
+            "asset_path": "tommy_flanagan_002_109"
+        },
+        {
+            "track_name": "111. St Louis Blues",
+            "album_name": "Jazz Poet",
+            "recording_year": "1989",
+            "asset_path": "tommy_flanagan_002_110"
+        },
+        {
+            "track_name": "112. Isnt It Romantic",
+            "album_name": "Solo Piano",
+            "recording_year": 2005,
+            "asset_path": "tommy_flanagan_002_111"
+        },
+        {
+            "track_name": "113. Isnt It Romantic",
+            "album_name": "Solo Piano",
+            "recording_year": 2005,
+            "asset_path": "tommy_flanagan_002_112"
+        },
+        {
+            "track_name": "114. The Con Man",
+            "album_name": "Beyond the Bluebird",
+            "recording_year": "1990",
+            "asset_path": "tommy_flanagan_002_113"
+        },
+        {
+            "track_name": "115. The Con Man",
+            "album_name": "Beyond the Bluebird",
+            "recording_year": "1990",
+            "asset_path": "tommy_flanagan_002_114"
+        },
+        {
+            "track_name": "116. All Gods Children",
+            "album_name": "Nights at the Vanguard",
+            "recording_year": "1986",
+            "asset_path": "tommy_flanagan_002_115"
+        },
+        {
+            "track_name": "117. Take the A Train",
+            "album_name": "The Tommy Flanagan Tokyo Recital",
+            "recording_year": "1975",
+            "asset_path": "tommy_flanagan_002_116"
+        }
+    ],
+    "[-2, -1, 3]": [
+        {
+            "track_name": "1. Oh Lady Be Good",
+            "album_name": "Lady Be Good  for Ella",
+            "recording_year": "1993",
+            "asset_path": "tommy_flanagan_003_000"
+        },
+        {
+            "track_name": "2. Oh Lady Be Good",
+            "album_name": "Lady Be Good  for Ella",
+            "recording_year": "1993",
+            "asset_path": "tommy_flanagan_003_001"
+        },
+        {
+            "track_name": "3. Oh Lady Be Good",
+            "album_name": "Lady Be Good  for Ella",
+            "recording_year": "1993",
+            "asset_path": "tommy_flanagan_003_002"
+        },
+        {
+            "track_name": "4. Love You Madly",
+            "album_name": "Lady Be Good  for Ella",
+            "recording_year": "1993",
+            "asset_path": "tommy_flanagan_003_003"
+        },
+        {
+            "track_name": "5. Cousin Mary",
+            "album_name": "Giant Steps In Memory of John Coltrane",
+            "recording_year": "1982",
+            "asset_path": "tommy_flanagan_003_004"
+        },
+        {
+            "track_name": "6. Cousin Mary",
+            "album_name": "Giant Steps In Memory of John Coltrane",
+            "recording_year": "1982",
+            "asset_path": "tommy_flanagan_003_005"
+        },
+        {
+            "track_name": "7. Cousin Mary",
+            "album_name": "Giant Steps In Memory of John Coltrane",
+            "recording_year": "1982",
+            "asset_path": "tommy_flanagan_003_006"
+        },
+        {
+            "track_name": "8. Denzils Best",
+            "album_name": "Eclypso",
+            "recording_year": "1976",
+            "asset_path": "tommy_flanagan_003_007"
+        },
+        {
+            "track_name": "9. Denzils Best",
+            "album_name": "Eclypso",
+            "recording_year": "1976",
+            "asset_path": "tommy_flanagan_003_008"
+        },
+        {
+            "track_name": "10. Denzils Best",
+            "album_name": "Eclypso",
+            "recording_year": "1976",
+            "asset_path": "tommy_flanagan_003_009"
+        },
+        {
+            "track_name": "11. Mr PC",
+            "album_name": "Giant Steps In Memory of John Coltrane",
+            "recording_year": "1982",
+            "asset_path": "tommy_flanagan_003_010"
+        },
+        {
+            "track_name": "12. Mr PC",
+            "album_name": "Giant Steps In Memory of John Coltrane",
+            "recording_year": "1982",
+            "asset_path": "tommy_flanagan_003_011"
+        },
+        {
+            "track_name": "13. Wail",
+            "album_name": "Solo Piano",
+            "recording_year": 2005,
+            "asset_path": "tommy_flanagan_003_012"
+        },
+        {
+            "track_name": "14. Wail",
+            "album_name": "Solo Piano",
+            "recording_year": 2005,
+            "asset_path": "tommy_flanagan_003_013"
+        },
+        {
+            "track_name": "15. Wail",
+            "album_name": "Solo Piano",
+            "recording_year": 2005,
+            "asset_path": "tommy_flanagan_003_014"
+        },
+        {
+            "track_name": "16. Wail",
+            "album_name": "Solo Piano",
+            "recording_year": 2005,
+            "asset_path": "tommy_flanagan_003_015"
+        },
+        {
+            "track_name": "17. Woodyn You",
+            "album_name": "Montreux 77",
+            "recording_year": "1978",
+            "asset_path": "tommy_flanagan_003_016"
+        },
+        {
+            "track_name": "18. Woodyn You",
+            "album_name": "Montreux 77",
+            "recording_year": "1978",
+            "asset_path": "tommy_flanagan_003_017"
+        },
+        {
+            "track_name": "19. Zec",
+            "album_name": "Lets Play the Music of Thad Jones",
+            "recording_year": "1993",
+            "asset_path": "tommy_flanagan_003_018"
+        },
+        {
+            "track_name": "20. Between the Devil and the Deep Blue Sea",
+            "album_name": "Sea Changes",
+            "recording_year": "1996",
+            "asset_path": "tommy_flanagan_003_019"
+        },
+        {
+            "track_name": "21. Main Stem",
+            "album_name": "The Tommy Flanagan Tokyo Recital",
+            "recording_year": "1975",
+            "asset_path": "tommy_flanagan_003_020"
+        },
+        {
+            "track_name": "22. Cup Bearers",
+            "album_name": "Confirmation",
+            "recording_year": "1978",
+            "asset_path": "tommy_flanagan_003_021"
+        },
+        {
+            "track_name": "23. Cup Bearers",
+            "album_name": "Confirmation",
+            "recording_year": "1978",
+            "asset_path": "tommy_flanagan_003_022"
+        },
+        {
+            "track_name": "24. Caravan",
+            "album_name": "The Tommy Flanagan Tokyo Recital",
+            "recording_year": "1975",
+            "asset_path": "tommy_flanagan_003_023"
+        },
+        {
+            "track_name": "25. Caravan",
+            "album_name": "The Tommy Flanagan Tokyo Recital",
+            "recording_year": "1975",
+            "asset_path": "tommy_flanagan_003_024"
+        },
+        {
+            "track_name": "26. Caravan",
+            "album_name": "The Tommy Flanagan Tokyo Recital",
+            "recording_year": "1975",
+            "asset_path": "tommy_flanagan_003_025"
+        },
+        {
+            "track_name": "27. Caravan",
+            "album_name": "The Tommy Flanagan Tokyo Recital",
+            "recording_year": "1975",
+            "asset_path": "tommy_flanagan_003_026"
+        },
+        {
+            "track_name": "28. Caravan",
+            "album_name": "The Tommy Flanagan Tokyo Recital",
+            "recording_year": "1975",
+            "asset_path": "tommy_flanagan_003_027"
+        },
+        {
+            "track_name": "29. Relaxin at Caramillo",
+            "album_name": "Sea Changes",
+            "recording_year": "1996",
+            "asset_path": "tommy_flanagan_003_028"
+        },
+        {
+            "track_name": "30. Just Friends",
+            "album_name": "Trio  Sextet",
+            "recording_year": "1961",
+            "asset_path": "tommy_flanagan_003_029"
+        },
+        {
+            "track_name": "31. A Sleepin Bee",
+            "album_name": "Plays the Music of Harold Arlen",
+            "recording_year": "1977",
+            "asset_path": "tommy_flanagan_003_030"
+        },
+        {
+            "track_name": "32. A Sleepin Bee",
+            "album_name": "Plays the Music of Harold Arlen",
+            "recording_year": "1977",
+            "asset_path": "tommy_flanagan_003_031"
+        },
+        {
+            "track_name": "33. Lets",
+            "album_name": "Sunset and the Mockingbird",
+            "recording_year": "1997",
+            "asset_path": "tommy_flanagan_003_032"
+        },
+        {
+            "track_name": "34. Lets",
+            "album_name": "Sunset and the Mockingbird",
+            "recording_year": "1997",
+            "asset_path": "tommy_flanagan_003_033"
+        },
+        {
+            "track_name": "35. Lover",
+            "album_name": "Solo Piano",
+            "recording_year": 2005,
+            "asset_path": "tommy_flanagan_003_034"
+        },
+        {
+            "track_name": "36. Lover",
+            "album_name": "Solo Piano",
+            "recording_year": 2005,
+            "asset_path": "tommy_flanagan_003_035"
+        },
+        {
+            "track_name": "37. Lover",
+            "album_name": "Solo Piano",
+            "recording_year": 2005,
+            "asset_path": "tommy_flanagan_003_036"
+        },
+        {
+            "track_name": "38. Lover",
+            "album_name": "Solo Piano",
+            "recording_year": 2005,
+            "asset_path": "tommy_flanagan_003_037"
+        },
+        {
+            "track_name": "39. Out of This World",
+            "album_name": "Plays the Music of Harold Arlen",
+            "recording_year": "1977",
+            "asset_path": "tommy_flanagan_003_038"
+        },
+        {
+            "track_name": "40. Out of This World",
+            "album_name": "Plays the Music of Harold Arlen",
+            "recording_year": "1977",
+            "asset_path": "tommy_flanagan_003_039"
+        },
+        {
+            "track_name": "41. West Coast Blues",
+            "album_name": "Something Borrowed Something Blue",
+            "recording_year": "1977",
+            "asset_path": "tommy_flanagan_003_040"
+        },
+        {
+            "track_name": "42. Barbados",
+            "album_name": "Montreux 77",
+            "recording_year": "1978",
+            "asset_path": "tommy_flanagan_003_041"
+        },
+        {
+            "track_name": "43. Barbados",
+            "album_name": "Montreux 77",
+            "recording_year": "1978",
+            "asset_path": "tommy_flanagan_003_042"
+        },
+        {
+            "track_name": "44. Barbados",
+            "album_name": "Montreux 77",
+            "recording_year": "1978",
+            "asset_path": "tommy_flanagan_003_043"
+        },
+        {
+            "track_name": "45. Barbados",
+            "album_name": "Montreux 77",
+            "recording_year": "1978",
+            "asset_path": "tommy_flanagan_003_044"
+        },
+        {
+            "track_name": "46. Barbados",
+            "album_name": "Montreux 77",
+            "recording_year": "1978",
+            "asset_path": "tommy_flanagan_003_045"
+        },
+        {
+            "track_name": "47. Barbados",
+            "album_name": "Montreux 77",
+            "recording_year": "1978",
+            "asset_path": "tommy_flanagan_003_046"
+        },
+        {
+            "track_name": "48. Barbados",
+            "album_name": "Montreux 77",
+            "recording_year": "1978",
+            "asset_path": "tommy_flanagan_003_047"
+        },
+        {
+            "track_name": "49. Con Alma",
+            "album_name": "Solo Piano",
+            "recording_year": 2005,
+            "asset_path": "tommy_flanagan_003_048"
+        },
+        {
+            "track_name": "50. Con Alma",
+            "album_name": "Solo Piano",
+            "recording_year": 2005,
+            "asset_path": "tommy_flanagan_003_049"
+        },
+        {
+            "track_name": "51. Beats Up",
+            "album_name": "Sea Changes",
+            "recording_year": "1996",
+            "asset_path": "tommy_flanagan_003_050"
+        },
+        {
+            "track_name": "52. Beats Up",
+            "album_name": "Sea Changes",
+            "recording_year": "1996",
+            "asset_path": "tommy_flanagan_003_051"
+        },
+        {
+            "track_name": "53. Beats Up",
+            "album_name": "Sea Changes",
+            "recording_year": "1996",
+            "asset_path": "tommy_flanagan_003_052"
+        },
+        {
+            "track_name": "54. 5021",
+            "album_name": "Confirmation",
+            "recording_year": "1978",
+            "asset_path": "tommy_flanagan_003_053"
+        },
+        {
+            "track_name": "55. 5021",
+            "album_name": "Confirmation",
+            "recording_year": "1978",
+            "asset_path": "tommy_flanagan_003_054"
+        },
+        {
+            "track_name": "56. Lets",
+            "album_name": "Lets Play the Music of Thad Jones",
+            "recording_year": "1993",
+            "asset_path": "tommy_flanagan_003_055"
+        },
+        {
+            "track_name": "57. Lets",
+            "album_name": "Lets Play the Music of Thad Jones",
+            "recording_year": "1993",
+            "asset_path": "tommy_flanagan_003_056"
+        },
+        {
+            "track_name": "58. Lets",
+            "album_name": "Lets Play the Music of Thad Jones",
+            "recording_year": "1993",
+            "asset_path": "tommy_flanagan_003_057"
+        },
+        {
+            "track_name": "59. Minor Perhaps",
+            "album_name": "Super Session",
+            "recording_year": "1980",
+            "asset_path": "tommy_flanagan_003_058"
+        },
+        {
+            "track_name": "60. Minor Perhaps",
+            "album_name": "Super Session",
+            "recording_year": "1980",
+            "asset_path": "tommy_flanagan_003_059"
+        },
+        {
+            "track_name": "61. Birdsong",
+            "album_name": "Sunset and the Mockingbird",
+            "recording_year": "1997",
+            "asset_path": "tommy_flanagan_003_060"
+        },
+        {
+            "track_name": "62. Birdsong",
+            "album_name": "Sunset and the Mockingbird",
+            "recording_year": "1997",
+            "asset_path": "tommy_flanagan_003_061"
+        },
+        {
+            "track_name": "63. How High the Moon",
+            "album_name": "Lady Be Good  for Ella",
+            "recording_year": "1993",
+            "asset_path": "tommy_flanagan_003_062"
+        },
+        {
+            "track_name": "64. How High the Moon",
+            "album_name": "Lady Be Good  for Ella",
+            "recording_year": "1993",
+            "asset_path": "tommy_flanagan_003_063"
+        },
+        {
+            "track_name": "65. How High the Moon",
+            "album_name": "Lady Be Good  for Ella",
+            "recording_year": "1993",
+            "asset_path": "tommy_flanagan_003_064"
+        },
+        {
+            "track_name": "66. Eclypso",
+            "album_name": "Eclypso",
+            "recording_year": "1976",
+            "asset_path": "tommy_flanagan_003_065"
+        },
+        {
+            "track_name": "67. Eclypso",
+            "album_name": "Eclypso",
+            "recording_year": "1976",
+            "asset_path": "tommy_flanagan_003_066"
+        },
+        {
+            "track_name": "68. That Tired Routine Called Love",
+            "album_name": "Jazz Poet",
+            "recording_year": "1989",
+            "asset_path": "tommy_flanagan_003_067"
+        },
+        {
+            "track_name": "69. Cherokee",
+            "album_name": "Lady Be Good  for Ella",
+            "recording_year": "1993",
+            "asset_path": "tommy_flanagan_003_068"
+        },
+        {
+            "track_name": "70. Out of the Past",
+            "album_name": "Nights at the Vanguard",
+            "recording_year": "1986",
+            "asset_path": "tommy_flanagan_003_069"
+        },
+        {
+            "track_name": "71. Parisian Thoroughfare",
+            "album_name": "Solo Piano",
+            "recording_year": 2005,
+            "asset_path": "tommy_flanagan_003_070"
+        },
+        {
+            "track_name": "72. Parisian Thoroughfare",
+            "album_name": "Solo Piano",
+            "recording_year": 2005,
+            "asset_path": "tommy_flanagan_003_071"
+        },
+        {
+            "track_name": "73. Parisian Thoroughfare",
+            "album_name": "Solo Piano",
+            "recording_year": 2005,
+            "asset_path": "tommy_flanagan_003_072"
+        },
+        {
+            "track_name": "74. Smooth as the Wind",
+            "album_name": "Positive Intensity",
+            "recording_year": "1976",
+            "asset_path": "tommy_flanagan_003_073"
+        },
+        {
+            "track_name": "75. Between the Devil and the Deep Blue Sea",
+            "album_name": "Plays the Music of Harold Arlen",
+            "recording_year": "1978",
+            "asset_path": "tommy_flanagan_003_074"
+        },
+        {
+            "track_name": "76. Tin Tin Deo",
+            "album_name": "Sunset and the Mockingbird",
+            "recording_year": "1997",
+            "asset_path": "tommy_flanagan_003_075"
+        },
+        {
+            "track_name": "77. Giant Steps",
+            "album_name": "Giant Steps In Memory of John Coltrane",
+            "recording_year": "1982",
+            "asset_path": "tommy_flanagan_003_076"
+        },
+        {
+            "track_name": "78. Giant Steps",
+            "album_name": "Giant Steps In Memory of John Coltrane",
+            "recording_year": "1982",
+            "asset_path": "tommy_flanagan_003_077"
+        },
+        {
+            "track_name": "79. Giant Steps",
+            "album_name": "Giant Steps In Memory of John Coltrane",
+            "recording_year": "1982",
+            "asset_path": "tommy_flanagan_003_078"
+        },
+        {
+            "track_name": "80. Three in One",
+            "album_name": "Lets Play the Music of Thad Jones",
+            "recording_year": "1993",
+            "asset_path": "tommy_flanagan_003_079"
+        },
+        {
+            "track_name": "81. Ruby My Dear",
+            "album_name": "Solo Piano",
+            "recording_year": 2005,
+            "asset_path": "tommy_flanagan_003_080"
+        },
+        {
+            "track_name": "82. Ruby My Dear",
+            "album_name": "Solo Piano",
+            "recording_year": 2005,
+            "asset_path": "tommy_flanagan_003_081"
+        },
+        {
+            "track_name": "83. Stompin At The Savoy",
+            "album_name": "Solo Piano",
+            "recording_year": 2005,
+            "asset_path": "tommy_flanagan_003_082"
+        },
+        {
+            "track_name": "84. Stompin At The Savoy",
+            "album_name": "Solo Piano",
+            "recording_year": 2005,
+            "asset_path": "tommy_flanagan_003_083"
+        },
+        {
+            "track_name": "85. Rachels Rondo",
+            "album_name": "Super Session",
+            "recording_year": "1980",
+            "asset_path": "tommy_flanagan_003_084"
+        },
+        {
+            "track_name": "86. Rachels Rondo",
+            "album_name": "Super Session",
+            "recording_year": "1980",
+            "asset_path": "tommy_flanagan_003_085"
+        },
+        {
+            "track_name": "87. Rachels Rondo",
+            "album_name": "Super Session",
+            "recording_year": "1980",
+            "asset_path": "tommy_flanagan_003_086"
+        },
+        {
+            "track_name": "88. Get Happy",
+            "album_name": "Plays the Music of Harold Arlen",
+            "recording_year": "1977",
+            "asset_path": "tommy_flanagan_003_087"
+        },
+        {
+            "track_name": "89. Get Happy",
+            "album_name": "Plays the Music of Harold Arlen",
+            "recording_year": "1977",
+            "asset_path": "tommy_flanagan_003_088"
+        },
+        {
+            "track_name": "90. Lets",
+            "album_name": "Flanagans Shenanigans",
+            "recording_year": "1993",
+            "asset_path": "tommy_flanagan_003_089"
+        },
+        {
+            "track_name": "91. Lets",
+            "album_name": "Flanagans Shenanigans",
+            "recording_year": "1993",
+            "asset_path": "tommy_flanagan_003_090"
+        },
+        {
+            "track_name": "92. All Day Long",
+            "album_name": "The Tommy Flanagan Tokyo Recital",
+            "recording_year": "1975",
+            "asset_path": "tommy_flanagan_003_091"
+        },
+        {
+            "track_name": "93. All Day Long",
+            "album_name": "The Tommy Flanagan Tokyo Recital",
+            "recording_year": "1975",
+            "asset_path": "tommy_flanagan_003_092"
+        },
+        {
+            "track_name": "94. Bird Song",
+            "album_name": "Something Borrowed Something Blue",
+            "recording_year": "1978",
+            "asset_path": "tommy_flanagan_003_093"
+        },
+        {
+            "track_name": "95. Bird Song",
+            "album_name": "Something Borrowed Something Blue",
+            "recording_year": "1978",
+            "asset_path": "tommy_flanagan_003_094"
+        },
+        {
+            "track_name": "96. Mean What You Say",
+            "album_name": "Lets Play the Music of Thad Jones",
+            "recording_year": "1993",
+            "asset_path": "tommy_flanagan_003_095"
+        },
+        {
+            "track_name": "97. Bird Song",
+            "album_name": "Lets Play the Music of Thad Jones",
+            "recording_year": "1993",
+            "asset_path": "tommy_flanagan_003_096"
+        },
+        {
+            "track_name": "98. Bird Song",
+            "album_name": "Lets Play the Music of Thad Jones",
+            "recording_year": "1993",
+            "asset_path": "tommy_flanagan_003_097"
+        },
+        {
+            "track_name": "99. Groovin High",
+            "album_name": "Something Borrowed Something Blue",
+            "recording_year": "1977",
+            "asset_path": "tommy_flanagan_003_098"
+        },
+        {
+            "track_name": "100. Groovin High",
+            "album_name": "Something Borrowed Something Blue",
+            "recording_year": "1977",
+            "asset_path": "tommy_flanagan_003_099"
+        },
+        {
+            "track_name": "101. Groovin High",
+            "album_name": "Something Borrowed Something Blue",
+            "recording_year": "1977",
+            "asset_path": "tommy_flanagan_003_100"
+        },
+        {
+            "track_name": "102. Groovin High",
+            "album_name": "Something Borrowed Something Blue",
+            "recording_year": "1977",
+            "asset_path": "tommy_flanagan_003_101"
+        },
+        {
+            "track_name": "103. Cup Bearers",
+            "album_name": "Eclypso",
+            "recording_year": "1976",
+            "asset_path": "tommy_flanagan_003_102"
+        },
+        {
+            "track_name": "104. Cup Bearers",
+            "album_name": "Eclypso",
+            "recording_year": "1976",
+            "asset_path": "tommy_flanagan_003_103"
+        },
+        {
+            "track_name": "105. With Malice Toward None",
+            "album_name": "Sunset and the Mockingbird",
+            "recording_year": "1997",
+            "asset_path": "tommy_flanagan_003_104"
+        },
+        {
+            "track_name": "106. The Balanced Scales",
+            "album_name": "Flanagans Shenanigans",
+            "recording_year": "1993",
+            "asset_path": "tommy_flanagan_003_105"
+        },
+        {
+            "track_name": "107. The Con Man",
+            "album_name": "Beyond the Bluebird",
+            "recording_year": "1990",
+            "asset_path": "tommy_flanagan_003_106"
+        },
+        {
+            "track_name": "108. All Gods Children",
+            "album_name": "Nights at the Vanguard",
+            "recording_year": "1986",
+            "asset_path": "tommy_flanagan_003_107"
+        },
+        {
+            "track_name": "109. All Gods Children",
+            "album_name": "Nights at the Vanguard",
+            "recording_year": "1986",
+            "asset_path": "tommy_flanagan_003_108"
+        },
+        {
+            "track_name": "110. All Gods Children",
+            "album_name": "Nights at the Vanguard",
+            "recording_year": "1986",
+            "asset_path": "tommy_flanagan_003_109"
+        }
+    ],
+    "[10, -5, -2]": [
+        {
+            "track_name": "1. Cousin Mary",
+            "album_name": "Giant Steps In Memory of John Coltrane",
+            "recording_year": "1982",
+            "asset_path": "tommy_flanagan_004_000"
+        },
+        {
+            "track_name": "2. Relaxin at Caramillo",
+            "album_name": "Sea Changes",
+            "recording_year": "1996",
+            "asset_path": "tommy_flanagan_004_001"
+        },
+        {
+            "track_name": "3. If You Could See Me Now",
+            "album_name": "Solo Piano",
+            "recording_year": 2005,
+            "asset_path": "tommy_flanagan_004_002"
+        },
+        {
+            "track_name": "4. Rachels Rondo",
+            "album_name": "Super Session",
+            "recording_year": "1980",
+            "asset_path": "tommy_flanagan_004_003"
+        },
+        {
+            "track_name": "5. All Day Long",
+            "album_name": "The Tommy Flanagan Tokyo Recital",
+            "recording_year": "1975",
+            "asset_path": "tommy_flanagan_004_004"
+        },
+        {
+            "track_name": "6. Mean What You Say",
+            "album_name": "Lets Play the Music of Thad Jones",
+            "recording_year": "1993",
+            "asset_path": "tommy_flanagan_004_005"
+        },
+        {
+            "track_name": "7. Groovin High",
+            "album_name": "Something Borrowed Something Blue",
+            "recording_year": "1977",
+            "asset_path": "tommy_flanagan_004_006"
+        },
+        {
+            "track_name": "8. The Con Man",
+            "album_name": "Beyond the Bluebird",
+            "recording_year": "1990",
+            "asset_path": "tommy_flanagan_004_007"
+        }
+    ]
+}

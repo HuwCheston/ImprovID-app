@@ -1,0 +1,82 @@
+{
+    "Polychordal Blues Voicings": [
+        {
+            "track_name": "Dukes Place",
+            "album_name": "Power Trio",
+            "recording_year": "1990",
+            "asset_path": "jtd_hicksj-dukesplace-mcbeecjonese-1990-a9d320e9_clip_006_cav_014",
+            "original_sensitivity": 0.0009971095714718103
+        },
+        {
+            "track_name": "Times Slimes",
+            "album_name": "Newklear Music",
+            "recording_year": "1997",
+            "asset_path": "jtd_hicksj-timesslimes-mrazgmuhammadi-1997-4d31365f_clip_003_cav_014",
+            "original_sensitivity": 0.0009779215324670076
+        }
+    ],
+    "Cycling Altered Dominants": [
+        {
+            "track_name": "Darkside Lightside",
+            "album_name": "Some Other Time",
+            "recording_year": "1981",
+            "asset_path": "jtd_hicksj-darksidelightside-bookerwmuhammadi-1981-42071967_clip_006_cav_013",
+            "original_sensitivity": 0.001495572505518794
+        },
+        {
+            "track_name": "Darkside Lightside",
+            "album_name": "Some Other Time",
+            "recording_year": "1981",
+            "asset_path": "jtd_hicksj-darksidelightside-bookerwmuhammadi-1981-42071967_clip_003_cav_013",
+            "original_sensitivity": 0.0014836490154266357
+        }
+    ],
+    "Dominant 7th Polychords": [
+        {
+            "track_name": "Sonnymoon for Two",
+            "album_name": "Is That So",
+            "recording_year": "1990",
+            "asset_path": "jtd_hicksj-sonnymoonfortwo-drummondrmuhammadi-1990-f9e230ce_clip_001_cav_018",
+            "original_sensitivity": 0.002866060473024845
+        },
+        {
+            "track_name": "Dukes Place",
+            "album_name": "Power Trio",
+            "recording_year": "1990",
+            "asset_path": "jtd_hicksj-dukesplace-mcbeecjonese-1990-a9d320e9_clip_003_cav_018",
+            "original_sensitivity": 0.0026706077624112368
+        }
+    ],
+    "Block Chords": [
+        {
+            "track_name": "Heart to Heart",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "pijama_hicksj-hearttoheart-unaccompanied-xxxx-ekeypw0j_clip_003_cav_001",
+            "original_sensitivity": 0.001884249970316887
+        },
+        {
+            "track_name": "Darkside Lightside",
+            "album_name": "Some Other Time",
+            "recording_year": "1981",
+            "asset_path": "jtd_hicksj-darksidelightside-bookerwmuhammadi-1981-42071967_clip_004_cav_001",
+            "original_sensitivity": 0.0017437884816899896
+        }
+    ],
+    "Diminished Substitutions": [
+        {
+            "track_name": "With Malice Towards None",
+            "album_name": "Some Other Time",
+            "recording_year": "1981",
+            "asset_path": "jtd_hicksj-withmalicetowardsnone-bookerwmuhammadi-1981-d5c51907_clip_000_cav_020",
+            "original_sensitivity": 0.000551024975720793
+        },
+        {
+            "track_name": "Sonnymoon for Two",
+            "album_name": "Is That So",
+            "recording_year": "1990",
+            "asset_path": "jtd_hicksj-sonnymoonfortwo-drummondrmuhammadi-1990-f9e230ce_clip_000_cav_020",
+            "original_sensitivity": 0.0004748435749206692
+        }
+    ]
+}

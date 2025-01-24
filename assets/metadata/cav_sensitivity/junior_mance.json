@@ -1,0 +1,82 @@
+{
+    "Diatonic 7th Chords": [
+        {
+            "track_name": "Rainy Mornin Blues",
+            "album_name": "Juniors Blues",
+            "recording_year": "1963",
+            "asset_path": "jtd_mancej-rainymorninblues-cranshawbrokerm-1963-9c6dcae4_clip_001_cav_003",
+            "original_sensitivity": 0.0015081384917721152
+        },
+        {
+            "track_name": "In a Sentimental Mood",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "pijama_mancej-inasentimentalmood-unaccompanied-xxxx-fe8pcgz3_clip_002_cav_003",
+            "original_sensitivity": 0.0013331391382962465
+        }
+    ],
+    "Major 7th Blues Voicings": [
+        {
+            "track_name": "Rainy Mornin Blues",
+            "album_name": "Juniors Blues",
+            "recording_year": "1963",
+            "asset_path": "jtd_mancej-rainymorninblues-cranshawbrokerm-1963-9c6dcae4_clip_001_cav_016",
+            "original_sensitivity": 0.000592694035731256
+        },
+        {
+            "track_name": "Lester Leaps In",
+            "album_name": "Milestones",
+            "recording_year": "1997",
+            "asset_path": "jtd_mancej-lesterleapsin-thompsondalleynea-1997-bfbe7a50_clip_003_cav_016",
+            "original_sensitivity": 0.000587540736887604
+        }
+    ],
+    "I-IV Cycle Progression": [
+        {
+            "track_name": "In a Sentimental Mood",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "pijama_mancej-inasentimentalmood-unaccompanied-xxxx-fe8pcgz3_clip_002_cav_006",
+            "original_sensitivity": 0.0007799518061801791
+        },
+        {
+            "track_name": "This Cant Be Love",
+            "album_name": "Mance",
+            "recording_year": "1998",
+            "asset_path": "jtd_mancej-thiscantbelove-bettskwilliamsj-1998-531c49f7_clip_006_cav_006",
+            "original_sensitivity": 0.000728595710825175
+        }
+    ],
+    "Modal \"So What\" Voicings": [
+        {
+            "track_name": "Rainy Mornin Blues",
+            "album_name": "Juniors Blues",
+            "recording_year": "1963",
+            "asset_path": "jtd_mancej-rainymorninblues-cranshawbrokerm-1963-9c6dcae4_clip_001_cav_009",
+            "original_sensitivity": 0.0008378771599382162
+        },
+        {
+            "track_name": "In a Sentimental Mood",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "pijama_mancej-inasentimentalmood-unaccompanied-xxxx-fe8pcgz3_clip_003_cav_009",
+            "original_sensitivity": 0.0008104080334305763
+        }
+    ],
+    "Fourth II-V-I's": [
+        {
+            "track_name": "In a Sentimental Mood",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "pijama_mancej-inasentimentalmood-unaccompanied-xxxx-fe8pcgz3_clip_010_cav_010",
+            "original_sensitivity": 0.0011778525076806545
+        },
+        {
+            "track_name": "In a Sentimental Mood",
+            "album_name": "Junior Mance Special",
+            "recording_year": 1989,
+            "asset_path": "pijama_mancej-inasentimentalmood-unaccompanied-xxxx-fe8pcgz3_clip_003_cav_010",
+            "original_sensitivity": 0.0009765511495061219
+        }
+    ]
+}

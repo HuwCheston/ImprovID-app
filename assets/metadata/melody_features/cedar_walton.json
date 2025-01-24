@@ -1,0 +1,270 @@
+{
+    "[4, 2, -9]": [
+        {
+            "track_name": "1. Ebony",
+            "album_name": "Walton Carter  DeJohnette",
+            "recording_year": "1983",
+            "asset_path": "cedar_walton_000_000"
+        },
+        {
+            "track_name": "2. Wonder Why",
+            "album_name": "Blues For Myself Piano Solo",
+            "recording_year": 1987,
+            "asset_path": "cedar_walton_000_001"
+        },
+        {
+            "track_name": "3. Shiny Stockings",
+            "album_name": "Three Sundays in the Seventies Live at the Left Bank",
+            "recording_year": "1973",
+            "asset_path": "cedar_walton_000_002"
+        }
+    ],
+    "[-3, -6, 3]": [
+        {
+            "track_name": "1. Bluesville",
+            "album_name": "The Trio Volume 2",
+            "recording_year": "1985",
+            "asset_path": "cedar_walton_001_000"
+        },
+        {
+            "track_name": "2. Just in Time",
+            "album_name": "My Funny Valentine",
+            "recording_year": "1991",
+            "asset_path": "cedar_walton_001_001"
+        },
+        {
+            "track_name": "3. Everytime We Say Goodbye",
+            "album_name": "Underground Memoirs",
+            "recording_year": 2005,
+            "asset_path": "cedar_walton_001_002"
+        },
+        {
+            "track_name": "4. Skylark",
+            "album_name": "Underground Memoirs",
+            "recording_year": 2005,
+            "asset_path": "cedar_walton_001_003"
+        },
+        {
+            "track_name": "5. Around the World",
+            "album_name": "Song of Delilah  The Music of Victor Young",
+            "recording_year": "2010",
+            "asset_path": "cedar_walton_001_004"
+        },
+        {
+            "track_name": "6. Someday My Prince Will Come",
+            "album_name": "Underground Memoirs",
+            "recording_year": 2005,
+            "asset_path": "cedar_walton_001_005"
+        }
+    ],
+    "[12, -7, -2]": [
+        {
+            "track_name": "1. Ebony",
+            "album_name": "Walton Carter  DeJohnette",
+            "recording_year": "1983",
+            "asset_path": "cedar_walton_002_000"
+        },
+        {
+            "track_name": "2. There Is No Greater Love",
+            "album_name": "Manhattan Afternoon",
+            "recording_year": "1992",
+            "asset_path": "cedar_walton_002_001"
+        }
+    ],
+    "[-4, 4, -2]": [
+        {
+            "track_name": "1. Ebony",
+            "album_name": "Walton Carter  DeJohnette",
+            "recording_year": "1983",
+            "asset_path": "cedar_walton_003_000"
+        },
+        {
+            "track_name": "2. Love Walked In",
+            "album_name": "Something for Lester",
+            "recording_year": "1977",
+            "asset_path": "cedar_walton_003_001"
+        },
+        {
+            "track_name": "3. The Maybeck Blues  Live At Maybeck Recital Hall Berkeley CA  August 9 1992",
+            "album_name": "The Maybeck Recital Series Vol 25",
+            "recording_year": 1992,
+            "asset_path": "cedar_walton_003_002"
+        },
+        {
+            "track_name": "4. Little Darlin",
+            "album_name": "Blues For Myself Piano Solo",
+            "recording_year": 1987,
+            "asset_path": "cedar_walton_003_003"
+        },
+        {
+            "track_name": "5. Hammer Head",
+            "album_name": "One Flight Down",
+            "recording_year": "2006",
+            "asset_path": "cedar_walton_003_004"
+        },
+        {
+            "track_name": "6. All the Things You Are",
+            "album_name": "Walton Carter  DeJohnette",
+            "recording_year": "1983",
+            "asset_path": "cedar_walton_003_005"
+        },
+        {
+            "track_name": "7. Zingaro  Caminhos Cruzados  Live At Maybeck Recital Hall Berkeley CA  August 9 1992",
+            "album_name": "The Maybeck Recital Series Vol 25",
+            "recording_year": 1992,
+            "asset_path": "cedar_walton_003_006"
+        },
+        {
+            "track_name": "8. I Didnt Know What Time It Was",
+            "album_name": "Charmed Circle Live at the Keystone Korner",
+            "recording_year": "1979",
+            "asset_path": "cedar_walton_003_007"
+        },
+        {
+            "track_name": "9. Wonder Why",
+            "album_name": "Blues For Myself Piano Solo",
+            "recording_year": 1987,
+            "asset_path": "cedar_walton_003_008"
+        },
+        {
+            "track_name": "10. Bremonds Blues  Live At Maybeck Recital Hall Berkeley CA  August 9 1992",
+            "album_name": "The Maybeck Recital Series Vol 25",
+            "recording_year": 1992,
+            "asset_path": "cedar_walton_003_009"
+        },
+        {
+            "track_name": "11. Bremonds Blues  Live At Maybeck Recital Hall Berkeley CA  August 9 1992",
+            "album_name": "The Maybeck Recital Series Vol 25",
+            "recording_year": 1992,
+            "asset_path": "cedar_walton_003_010"
+        },
+        {
+            "track_name": "12. Bremonds Blues  Live At Maybeck Recital Hall Berkeley CA  August 9 1992",
+            "album_name": "The Maybeck Recital Series Vol 25",
+            "recording_year": 1992,
+            "asset_path": "cedar_walton_003_011"
+        },
+        {
+            "track_name": "13. Bleeker Street Team",
+            "album_name": "Cedar",
+            "recording_year": "1985",
+            "asset_path": "cedar_walton_003_012"
+        },
+        {
+            "track_name": "14. Around the World",
+            "album_name": "Song of Delilah  The Music of Victor Young",
+            "recording_year": "2010",
+            "asset_path": "cedar_walton_003_013"
+        },
+        {
+            "track_name": "15. Short Comings",
+            "album_name": "Cedar",
+            "recording_year": "1985",
+            "asset_path": "cedar_walton_003_014"
+        },
+        {
+            "track_name": "16. The Newest Blues",
+            "album_name": "Manhattan Afternoon",
+            "recording_year": "1992",
+            "asset_path": "cedar_walton_003_015"
+        }
+    ],
+    "[-4, 3, -1]": [
+        {
+            "track_name": "1. Without A Song",
+            "album_name": "Blues For Myself Piano Solo",
+            "recording_year": 1987,
+            "asset_path": "cedar_walton_004_000"
+        },
+        {
+            "track_name": "2. Without a Song",
+            "album_name": "Pit Inn",
+            "recording_year": "1974",
+            "asset_path": "cedar_walton_004_001"
+        },
+        {
+            "track_name": "3. My Funny Valentine",
+            "album_name": "My Funny Valentine",
+            "recording_year": "1991",
+            "asset_path": "cedar_walton_004_002"
+        },
+        {
+            "track_name": "4. My Funny Valentine",
+            "album_name": "My Funny Valentine",
+            "recording_year": "1991",
+            "asset_path": "cedar_walton_004_003"
+        },
+        {
+            "track_name": "5. Cedars Blues",
+            "album_name": "Midnight Waltz",
+            "recording_year": "2005",
+            "asset_path": "cedar_walton_004_004"
+        },
+        {
+            "track_name": "6. Cedars Blues",
+            "album_name": "Midnight Waltz",
+            "recording_year": "2005",
+            "asset_path": "cedar_walton_004_005"
+        },
+        {
+            "track_name": "7. Off Minor",
+            "album_name": "The Trio Volume 2",
+            "recording_year": "1985",
+            "asset_path": "cedar_walton_004_006"
+        },
+        {
+            "track_name": "8. Sweet Lorraine  Live At Maybeck Recital Hall Berkeley CA  August 9 1992",
+            "album_name": "The Maybeck Recital Series Vol 25",
+            "recording_year": 1992,
+            "asset_path": "cedar_walton_004_007"
+        },
+        {
+            "track_name": "9. All the Things You Are",
+            "album_name": "Walton Carter  DeJohnette",
+            "recording_year": "1983",
+            "asset_path": "cedar_walton_004_008"
+        },
+        {
+            "track_name": "10. Im Old Fashioned  Live At Maybeck Recital Hall Berkeley CA  August 9 1992",
+            "album_name": "The Maybeck Recital Series Vol 25",
+            "recording_year": 1992,
+            "asset_path": "cedar_walton_004_009"
+        },
+        {
+            "track_name": "11. Georgia on My Mind",
+            "album_name": "Something for Lester",
+            "recording_year": "1977",
+            "asset_path": "cedar_walton_004_010"
+        },
+        {
+            "track_name": "12. Time After Time",
+            "album_name": "One Flight Down",
+            "recording_year": "2006",
+            "asset_path": "cedar_walton_004_011"
+        },
+        {
+            "track_name": "13. Skylark",
+            "album_name": "Underground Memoirs",
+            "recording_year": 2005,
+            "asset_path": "cedar_walton_004_012"
+        },
+        {
+            "track_name": "14. Skylark",
+            "album_name": "Underground Memoirs",
+            "recording_year": 2005,
+            "asset_path": "cedar_walton_004_013"
+        },
+        {
+            "track_name": "15. Someday My Prince Will Come",
+            "album_name": "Underground Memoirs",
+            "recording_year": 2005,
+            "asset_path": "cedar_walton_004_014"
+        },
+        {
+            "track_name": "16. Fantasy in D",
+            "album_name": "Pit Inn",
+            "recording_year": "1974",
+            "asset_path": "cedar_walton_004_015"
+        }
+    ]
+}

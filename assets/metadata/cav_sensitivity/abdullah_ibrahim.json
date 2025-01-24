@@ -1,0 +1,82 @@
+{
+    "Modal Fourthy Voicings": [
+        {
+            "track_name": "For Coltrane",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "pijama_ibrahima-forcoltrane-unaccompanied-xxxx-e0s6790u_clip_000_cav_007",
+            "original_sensitivity": 0.0006732670008204877
+        },
+        {
+            "track_name": "For Coltrane Pt",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "pijama_ibrahima-forcoltranept-unaccompanied-xxxx-pdygnkxw_clip_007_cav_007",
+            "original_sensitivity": 0.0006351956399157643
+        }
+    ],
+    "Tri-Tone Sub II-V-I's": [
+        {
+            "track_name": "For Coltrane Pt",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "pijama_ibrahima-forcoltranept-unaccompanied-xxxx-pdygnkxw_clip_007_cav_011",
+            "original_sensitivity": 0.0009418313857167959
+        },
+        {
+            "track_name": "For Coltrane Pt",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "pijama_ibrahima-forcoltranept-unaccompanied-xxxx-pdygnkxw_clip_000_cav_011",
+            "original_sensitivity": 0.0008771102875471115
+        }
+    ],
+    "Modal \"So What\" Voicings": [
+        {
+            "track_name": "Dust",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "pijama_ibrahima-dust-unaccompanied-xxxx-jlqwqj07_clip_001_cav_009",
+            "original_sensitivity": 0.0003253320464864373
+        },
+        {
+            "track_name": "Monk in Harlem",
+            "album_name": "Cape Town Flowers",
+            "recording_year": "1996",
+            "asset_path": "jtd_ibrahima-monkinharlem-mclaurinemgrayg-1996-acf05be8_clip_001_cav_009",
+            "original_sensitivity": 0.0002944181323982775
+        }
+    ],
+    "Shell Voicings": [
+        {
+            "track_name": "For Coltrane",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "pijama_ibrahima-forcoltrane-unaccompanied-xxxx-e0s6790u_clip_000_cav_002",
+            "original_sensitivity": 0.004941363353282213
+        },
+        {
+            "track_name": "For Coltrane",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "pijama_ibrahima-forcoltrane-unaccompanied-xxxx-esbwjxxi_clip_000_cav_002",
+            "original_sensitivity": 0.003824301529675722
+        }
+    ],
+    "Cycle Progressions": [
+        {
+            "track_name": "For Coltrane",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "pijama_ibrahima-forcoltrane-unaccompanied-xxxx-esbwjxxi_clip_001_cav_004",
+            "original_sensitivity": 0.0033379243686795235
+        },
+        {
+            "track_name": "Senzo  Contours And Time",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "pijama_ibrahima-senzocontoursandtime-unaccompanied-xxxx-q9v1a1y4_clip_002_cav_004",
+            "original_sensitivity": 0.0033004251308739185
+        }
+    ]
+}

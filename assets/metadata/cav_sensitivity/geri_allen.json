@@ -1,0 +1,82 @@
+{
+    "Fourth II-V-I's": [
+        {
+            "track_name": "Gods Ancient Sky",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "pijama_alleng-godsancientsky-unaccompanied-xxxx-224gmzlu_clip_003_cav_010",
+            "original_sensitivity": 0.0012811447959393263
+        },
+        {
+            "track_name": "Red Velvet in Winter",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "pijama_alleng-redvelvetinwinter-unaccompanied-xxxx-lwgiwjp3_clip_004_cav_010",
+            "original_sensitivity": 0.001057437970302999
+        }
+    ],
+    "Modal \"So What\" Voicings": [
+        {
+            "track_name": "Red Velvet in Winter",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "pijama_alleng-redvelvetinwinter-unaccompanied-xxxx-lwgiwjp3_clip_010_cav_009",
+            "original_sensitivity": 0.0006281857495196164
+        },
+        {
+            "track_name": "Dancing Mystic Poets at Dawn",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "pijama_alleng-dancingmysticpoetsatdawn-unaccompanied-xxxx-8jyumey5_clip_010_cav_009",
+            "original_sensitivity": 0.000601043866481632
+        }
+    ],
+    "So What Voicings": [
+        {
+            "track_name": "Gods Ancient Sky",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "pijama_alleng-godsancientsky-unaccompanied-xxxx-224gmzlu_clip_003_cav_008",
+            "original_sensitivity": 0.0006867810734547675
+        },
+        {
+            "track_name": "Alone Together",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "pijama_alleng-alonetogether-unaccompanied-xxxx-fbbw4vkv_clip_004_cav_008",
+            "original_sensitivity": 0.0006198929622769356
+        }
+    ],
+    "Modal Fourthy Voicings": [
+        {
+            "track_name": "Alone Together",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "pijama_alleng-alonetogether-unaccompanied-xxxx-fbbw4vkv_clip_001_cav_007",
+            "original_sensitivity": 0.00044984344276599586
+        },
+        {
+            "track_name": "Red Velvet in Winter",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "pijama_alleng-redvelvetinwinter-unaccompanied-xxxx-lwgiwjp3_clip_006_cav_007",
+            "original_sensitivity": 0.0004106249543838203
+        }
+    ],
+    "Shell Voicings": [
+        {
+            "track_name": "Red Velvet in Winter",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "pijama_alleng-redvelvetinwinter-unaccompanied-xxxx-lwgiwjp3_clip_001_cav_002",
+            "original_sensitivity": 0.0017773231957107782
+        },
+        {
+            "track_name": "Red Velvet in Winter",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "pijama_alleng-redvelvetinwinter-unaccompanied-xxxx-lwgiwjp3_clip_008_cav_002",
+            "original_sensitivity": 0.0014924252172932029
+        }
+    ]
+}

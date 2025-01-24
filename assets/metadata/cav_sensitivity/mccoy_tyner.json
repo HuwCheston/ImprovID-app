@@ -1,0 +1,82 @@
+{
+    "Modal \"So What\" Voicings": [
+        {
+            "track_name": "Three Flowers",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "pijama_tynerm-threeflowers-unaccompanied-xxxx-cr1n7eos_clip_001_cav_009",
+            "original_sensitivity": 0.0005954965599812567
+        },
+        {
+            "track_name": "Whats New  Live At Merkin Hall NYC  1989",
+            "album_name": "Things Aint What They Used To Be Live",
+            "recording_year": 1990,
+            "asset_path": "pijama_tynerm-whatsnewliveatmerkin-unaccompanied-xxxx-uvvg6cbt_clip_001_cav_009",
+            "original_sensitivity": 0.0005882740369997919
+        }
+    ],
+    "Minor Blues Voicings": [
+        {
+            "track_name": "Satin Doll",
+            "album_name": "Double Trios",
+            "recording_year": "1986",
+            "asset_path": "jtd_tynerm-satindoll-sharpeahayesl-1986-e475823a_clip_006_cav_017",
+            "original_sensitivity": 0.0007273254450410604
+        },
+        {
+            "track_name": "Afro Blue",
+            "album_name": "McCoy Tyner plays John Coltrane Live at the Village Vanguard",
+            "recording_year": "1997",
+            "asset_path": "jtd_tynerm-afroblue-mrazgfostera-1997-86159faa_clip_001_cav_017",
+            "original_sensitivity": 0.0006660176441073418
+        }
+    ],
+    "Polychordal Blues Voicings": [
+        {
+            "track_name": "Satin Doll",
+            "album_name": "Double Trios",
+            "recording_year": "1986",
+            "asset_path": "jtd_tynerm-satindoll-sharpeahayesl-1986-e475823a_clip_003_cav_014",
+            "original_sensitivity": 0.0006303872796706855
+        },
+        {
+            "track_name": "Satin Doll",
+            "album_name": "Double Trios",
+            "recording_year": "1986",
+            "asset_path": "jtd_tynerm-satindoll-sharpeahayesl-1986-e475823a_clip_006_cav_014",
+            "original_sensitivity": 0.0006136024021543562
+        }
+    ],
+    "Fourthy Blues Voicings": [
+        {
+            "track_name": "Afro Blue",
+            "album_name": "McCoy Tyner plays John Coltrane Live at the Village Vanguard",
+            "recording_year": "1997",
+            "asset_path": "jtd_tynerm-afroblue-mrazgfostera-1997-86159faa_clip_004_cav_015",
+            "original_sensitivity": 0.0006226787227205932
+        },
+        {
+            "track_name": "Satin Doll",
+            "album_name": "Double Trios",
+            "recording_year": "1986",
+            "asset_path": "jtd_tynerm-satindoll-sharpeahayesl-1986-e475823a_clip_005_cav_015",
+            "original_sensitivity": 0.0004960865480825305
+        }
+    ],
+    "Fourth II-V-I's": [
+        {
+            "track_name": "Whats New  Live At Merkin Hall NYC  1989",
+            "album_name": "Things Aint What They Used To Be Live",
+            "recording_year": 1990,
+            "asset_path": "pijama_tynerm-whatsnewliveatmerkin-unaccompanied-xxxx-uvvg6cbt_clip_001_cav_010",
+            "original_sensitivity": 0.0019297966500744224
+        },
+        {
+            "track_name": "Whats New  Live At Merkin Hall NYC  1989",
+            "album_name": "Things Aint What They Used To Be Live",
+            "recording_year": 1990,
+            "asset_path": "pijama_tynerm-whatsnewliveatmerkin-unaccompanied-xxxx-uvvg6cbt_clip_004_cav_010",
+            "original_sensitivity": 0.0018611779669299722
+        }
+    ]
+}

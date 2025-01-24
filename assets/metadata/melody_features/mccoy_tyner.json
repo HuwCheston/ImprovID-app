@@ -1,0 +1,216 @@
+{
+    "[10, -6, 6]": [
+        {
+            "track_name": "1. I Want to Talk About You",
+            "album_name": "McCoy Tyner plays John Coltrane Live at the Village Vanguard",
+            "recording_year": "1997",
+            "asset_path": "mccoy_tyner_000_000"
+        },
+        {
+            "track_name": "2. Theme for Ernie",
+            "album_name": "Inception  Reaching Fourth",
+            "recording_year": "1962",
+            "asset_path": "mccoy_tyner_000_001"
+        },
+        {
+            "track_name": "3. Vibration Blues",
+            "album_name": "Cosmos",
+            "recording_year": "1969",
+            "asset_path": "mccoy_tyner_000_002"
+        },
+        {
+            "track_name": "4. Will You Still Be Mine",
+            "album_name": "Live at Sweet Basil",
+            "recording_year": "1989",
+            "asset_path": "mccoy_tyner_000_003"
+        }
+    ],
+    "[-4, 7, -5]": [
+        {
+            "track_name": "1. TraneLike",
+            "album_name": "McCoy Tyner with Stanley Clarke and Al Foster",
+            "recording_year": "1998",
+            "asset_path": "mccoy_tyner_001_000"
+        },
+        {
+            "track_name": "2. Round Midnight",
+            "album_name": "Live at Sweet Basil",
+            "recording_year": "1989",
+            "asset_path": "mccoy_tyner_001_001"
+        },
+        {
+            "track_name": "3. Pursuance",
+            "album_name": "Remembering John",
+            "recording_year": "1991",
+            "asset_path": "mccoy_tyner_001_002"
+        },
+        {
+            "track_name": "4. Pursuance",
+            "album_name": "Remembering John",
+            "recording_year": "1991",
+            "asset_path": "mccoy_tyner_001_003"
+        },
+        {
+            "track_name": "5. Naima  Live At Merkin Hall NYC  1989",
+            "album_name": "Things Aint What They Used To Be Live",
+            "recording_year": 1990,
+            "asset_path": "mccoy_tyner_001_004"
+        },
+        {
+            "track_name": "6. I Want to Talk About You",
+            "album_name": "McCoy Tyner plays John Coltrane Live at the Village Vanguard",
+            "recording_year": "1997",
+            "asset_path": "mccoy_tyner_001_005"
+        },
+        {
+            "track_name": "7. Lush Life  Live At Merkin Hall NYC  1989",
+            "album_name": "Things Aint What They Used To Be Live",
+            "recording_year": 1990,
+            "asset_path": "mccoy_tyner_001_006"
+        },
+        {
+            "track_name": "8. Yesterdays",
+            "album_name": "Live at Sweet Basil",
+            "recording_year": "1989",
+            "asset_path": "mccoy_tyner_001_007"
+        },
+        {
+            "track_name": "9. The Night Has a Thousand Eyes",
+            "album_name": "Afro Blue",
+            "recording_year": "1999",
+            "asset_path": "mccoy_tyner_001_008"
+        },
+        {
+            "track_name": "10. The Surrey With the Fringe on Top",
+            "album_name": "Time for Tyner",
+            "recording_year": "1968",
+            "asset_path": "mccoy_tyner_001_009"
+        },
+        {
+            "track_name": "11. Crescent",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_001_010"
+        },
+        {
+            "track_name": "12. One for Honor",
+            "album_name": "Horizon",
+            "recording_year": "1978",
+            "asset_path": "mccoy_tyner_001_011"
+        },
+        {
+            "track_name": "13. After The Rain",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_001_012"
+        },
+        {
+            "track_name": "14. Just in Time",
+            "album_name": "Live at Sweet Basil",
+            "recording_year": "1989",
+            "asset_path": "mccoy_tyner_001_013"
+        },
+        {
+            "track_name": "15. Song For My Lady  Live At Merkin Hall NYC  1989",
+            "album_name": "Things Aint What They Used To Be Live",
+            "recording_year": 1990,
+            "asset_path": "mccoy_tyner_001_014"
+        }
+    ],
+    "[-8, -4, 12]": [
+        {
+            "track_name": "1. Round Midnight",
+            "album_name": "Live at Sweet Basil",
+            "recording_year": "1989",
+            "asset_path": "mccoy_tyner_002_000"
+        },
+        {
+            "track_name": "2. Once Upon a Time",
+            "album_name": "McCoy Tyner with Stanley Clarke and Al Foster",
+            "recording_year": "1998",
+            "asset_path": "mccoy_tyner_002_001"
+        },
+        {
+            "track_name": "3. Yesterdays",
+            "album_name": "Live at Sweet Basil",
+            "recording_year": "1989",
+            "asset_path": "mccoy_tyner_002_002"
+        },
+        {
+            "track_name": "4. Never Let Me Go",
+            "album_name": "McCoy Tyner with Stanley Clarke and Al Foster",
+            "recording_year": "1999",
+            "asset_path": "mccoy_tyner_002_003"
+        },
+        {
+            "track_name": "5. In Walked Bud",
+            "album_name": "Remembering John",
+            "recording_year": "1991",
+            "asset_path": "mccoy_tyner_002_004"
+        },
+        {
+            "track_name": "6. The Wise One",
+            "album_name": "Remembering John",
+            "recording_year": "1991",
+            "asset_path": "mccoy_tyner_002_005"
+        }
+    ],
+    "[2, -12, 2]": [
+        {
+            "track_name": "1. I Should Care",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_003_000"
+        },
+        {
+            "track_name": "2. I Want to Talk About You",
+            "album_name": "McCoy Tyner plays John Coltrane Live at the Village Vanguard",
+            "recording_year": "1997",
+            "asset_path": "mccoy_tyner_003_001"
+        },
+        {
+            "track_name": "3. Lush Life  Live At Merkin Hall NYC  1989",
+            "album_name": "Things Aint What They Used To Be Live",
+            "recording_year": 1990,
+            "asset_path": "mccoy_tyner_003_002"
+        },
+        {
+            "track_name": "4. Yesterdays",
+            "album_name": "Live at Sweet Basil",
+            "recording_year": "1989",
+            "asset_path": "mccoy_tyner_003_003"
+        },
+        {
+            "track_name": "5. Blues for Gwen",
+            "album_name": "Inception",
+            "recording_year": "1962",
+            "asset_path": "mccoy_tyner_003_004"
+        }
+    ],
+    "[-10, 9, -4]": [
+        {
+            "track_name": "1. I Want to Talk About You",
+            "album_name": "McCoy Tyner plays John Coltrane Live at the Village Vanguard",
+            "recording_year": "1997",
+            "asset_path": "mccoy_tyner_004_000"
+        },
+        {
+            "track_name": "2. Goin Way Blues",
+            "album_name": "McCoy Tyner with Stanley Clarke and Al Foster",
+            "recording_year": "1999",
+            "asset_path": "mccoy_tyner_004_001"
+        },
+        {
+            "track_name": "3. Sweet And Lovely  Live At Merkin Hall NYC  1989",
+            "album_name": "Things Aint What They Used To Be Live",
+            "recording_year": 1990,
+            "asset_path": "mccoy_tyner_004_002"
+        },
+        {
+            "track_name": "4. In Walked Bud",
+            "album_name": "Remembering John",
+            "recording_year": "1991",
+            "asset_path": "mccoy_tyner_004_003"
+        }
+    ]
+}

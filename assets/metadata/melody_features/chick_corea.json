@@ -1,0 +1,252 @@
+{
+    "[3, 4, -11]": [
+        {
+            "track_name": "1. Bagatelle 4",
+            "album_name": "Solo Piano   Portraits",
+            "recording_year": 2014,
+            "asset_path": "chick_corea_000_000"
+        },
+        {
+            "track_name": "2. Childrens Song No",
+            "album_name": "Plays",
+            "recording_year": 2020,
+            "asset_path": "chick_corea_000_001"
+        },
+        {
+            "track_name": "3. Chopin   Prelude Op",
+            "album_name": "Plays",
+            "recording_year": 2020,
+            "asset_path": "chick_corea_000_002"
+        },
+        {
+            "track_name": "4. Portrait 4  Easton Maryland",
+            "album_name": "Solo Piano   Portraits",
+            "recording_year": 2014,
+            "asset_path": "chick_corea_000_003"
+        },
+        {
+            "track_name": "5. Portrait 2  Vilnius",
+            "album_name": "Solo Piano   Portraits",
+            "recording_year": 2014,
+            "asset_path": "chick_corea_000_004"
+        },
+        {
+            "track_name": "6. Portrait 2  Vilnius",
+            "album_name": "Solo Piano   Portraits",
+            "recording_year": 2014,
+            "asset_path": "chick_corea_000_005"
+        },
+        {
+            "track_name": "7. Yesterdays  Live",
+            "album_name": "Solo Piano   Standards",
+            "recording_year": 2000,
+            "asset_path": "chick_corea_000_006"
+        },
+        {
+            "track_name": "8. Portrait 1  Casablanca",
+            "album_name": "Solo Piano   Portraits",
+            "recording_year": 2014,
+            "asset_path": "chick_corea_000_007"
+        }
+    ],
+    "[9, -5, 1]": [
+        {
+            "track_name": "1. Childrens Song 9",
+            "album_name": "Solo Piano   Portraits",
+            "recording_year": 2014,
+            "asset_path": "chick_corea_001_000"
+        },
+        {
+            "track_name": "2. Childrens Song 9",
+            "album_name": "Solo Piano   Portraits",
+            "recording_year": 2014,
+            "asset_path": "chick_corea_001_001"
+        },
+        {
+            "track_name": "3. Dusk In Sandi  Live",
+            "album_name": "Solo Piano   Standards",
+            "recording_year": 2000,
+            "asset_path": "chick_corea_001_002"
+        },
+        {
+            "track_name": "4. Childrens Song No",
+            "album_name": "Plays",
+            "recording_year": 2020,
+            "asset_path": "chick_corea_001_003"
+        },
+        {
+            "track_name": "5. Childrens Song No",
+            "album_name": "Plays",
+            "recording_year": 2020,
+            "asset_path": "chick_corea_001_004"
+        },
+        {
+            "track_name": "6. Portrait 3  Easton Maryland",
+            "album_name": "Solo Piano   Portraits",
+            "recording_year": 2014,
+            "asset_path": "chick_corea_001_005"
+        },
+        {
+            "track_name": "7. Mozart   Piano Sonata in F KV332 2nd Part  Adagio  Live in Clearwater  2018",
+            "album_name": "Plays",
+            "recording_year": 2020,
+            "asset_path": "chick_corea_001_006"
+        },
+        {
+            "track_name": "8. Improv 1  How Deep Is The Ocean",
+            "album_name": "Solo Piano   Portraits",
+            "recording_year": 2014,
+            "asset_path": "chick_corea_001_007"
+        },
+        {
+            "track_name": "9. Thinking Of You  Live",
+            "album_name": "Solo Piano   Standards",
+            "recording_year": 2000,
+            "asset_path": "chick_corea_001_008"
+        },
+        {
+            "track_name": "10. Trinkle Tinkle  Live in Berlin  2018",
+            "album_name": "Plays",
+            "recording_year": 2020,
+            "asset_path": "chick_corea_001_009"
+        }
+    ],
+    "[-4, 2, 6]": [
+        {
+            "track_name": "1. Bagatelle 1",
+            "album_name": "Solo Piano   Portraits",
+            "recording_year": 2014,
+            "asset_path": "chick_corea_002_000"
+        },
+        {
+            "track_name": "2. Now He Beats the Drums Now He Stops",
+            "album_name": "Now He Sings Now He Sobs",
+            "recording_year": "1968",
+            "asset_path": "chick_corea_002_001"
+        },
+        {
+            "track_name": "3. Bagatelle 3",
+            "album_name": "Solo Piano   Portraits",
+            "recording_year": 2014,
+            "asset_path": "chick_corea_002_002"
+        },
+        {
+            "track_name": "4. Bagatelle 2",
+            "album_name": "Solo Piano   Portraits",
+            "recording_year": 2014,
+            "asset_path": "chick_corea_002_003"
+        }
+    ],
+    "[9, -2, -7]": [
+        {
+            "track_name": "1. Waltz for Debby",
+            "album_name": "Solo Piano   Portraits",
+            "recording_year": 2014,
+            "asset_path": "chick_corea_003_000"
+        },
+        {
+            "track_name": "2. Waltz for Debby",
+            "album_name": "Solo Piano   Portraits",
+            "recording_year": 2014,
+            "asset_path": "chick_corea_003_001"
+        },
+        {
+            "track_name": "3. It Could Happen To You  Live",
+            "album_name": "Solo Piano   Standards",
+            "recording_year": 2000,
+            "asset_path": "chick_corea_003_002"
+        },
+        {
+            "track_name": "4. Childrens Song 2",
+            "album_name": "Solo Piano   Portraits",
+            "recording_year": 2014,
+            "asset_path": "chick_corea_003_003"
+        },
+        {
+            "track_name": "5. Round Midnight  Live",
+            "album_name": "Solo Piano   Standards",
+            "recording_year": 2000,
+            "asset_path": "chick_corea_003_004"
+        },
+        {
+            "track_name": "6. Round Midnight  Live",
+            "album_name": "Solo Piano   Standards",
+            "recording_year": 2000,
+            "asset_path": "chick_corea_003_005"
+        },
+        {
+            "track_name": "7. Mozart   Piano Sonata in F KV332 2nd Part  Adagio  Live in Clearwater  2018",
+            "album_name": "Plays",
+            "recording_year": 2020,
+            "asset_path": "chick_corea_003_006"
+        },
+        {
+            "track_name": "8. Brazil  Live",
+            "album_name": "Solo Piano   Standards",
+            "recording_year": 2000,
+            "asset_path": "chick_corea_003_007"
+        },
+        {
+            "track_name": "9. The Yellow Nimbus",
+            "album_name": "Solo Piano   Portraits",
+            "recording_year": 2014,
+            "asset_path": "chick_corea_003_008"
+        },
+        {
+            "track_name": "10. Pannonica",
+            "album_name": "Solo Piano   Portraits",
+            "recording_year": 2014,
+            "asset_path": "chick_corea_003_009"
+        }
+    ],
+    "[2, 6, -2]": [
+        {
+            "track_name": "1. Dusk In Sandi  Live",
+            "album_name": "Solo Piano   Standards",
+            "recording_year": 2000,
+            "asset_path": "chick_corea_004_000"
+        },
+        {
+            "track_name": "2. How Deep Is The Ocean  Live",
+            "album_name": "Solo Piano   Standards",
+            "recording_year": 2000,
+            "asset_path": "chick_corea_004_001"
+        },
+        {
+            "track_name": "3. Bagatelle 1",
+            "album_name": "Solo Piano   Portraits",
+            "recording_year": 2014,
+            "asset_path": "chick_corea_004_002"
+        },
+        {
+            "track_name": "4. Round Midnight  Live",
+            "album_name": "Solo Piano   Standards",
+            "recording_year": 2000,
+            "asset_path": "chick_corea_004_003"
+        },
+        {
+            "track_name": "5. Improv 1  How Deep Is The Ocean",
+            "album_name": "Solo Piano   Portraits",
+            "recording_year": 2014,
+            "asset_path": "chick_corea_004_004"
+        },
+        {
+            "track_name": "6. The Yellow Nimbus",
+            "album_name": "Solo Piano   Portraits",
+            "recording_year": 2014,
+            "asset_path": "chick_corea_004_005"
+        },
+        {
+            "track_name": "7. Pannonica",
+            "album_name": "Solo Piano   Portraits",
+            "recording_year": 2014,
+            "asset_path": "chick_corea_004_006"
+        },
+        {
+            "track_name": "8. Bagatelle 2",
+            "album_name": "Solo Piano   Portraits",
+            "recording_year": 2014,
+            "asset_path": "chick_corea_004_007"
+        }
+    ]
+}

@@ -1,0 +1,288 @@
+{
+    "[-4, -1, -6]": [
+        {
+            "track_name": "1. Expectations",
+            "album_name": "Beyond Expectations",
+            "recording_year": "1993",
+            "asset_path": "john_hicks_000_000"
+        },
+        {
+            "track_name": "2. Bouncing With Bud",
+            "album_name": "Beyond Expectations",
+            "recording_year": "1993",
+            "asset_path": "john_hicks_000_001"
+        },
+        {
+            "track_name": "3. Bouncing With Bud",
+            "album_name": "Beyond Expectations",
+            "recording_year": "1993",
+            "asset_path": "john_hicks_000_002"
+        },
+        {
+            "track_name": "4. Bouncing With Bud",
+            "album_name": "Beyond Expectations",
+            "recording_year": "1993",
+            "asset_path": "john_hicks_000_003"
+        },
+        {
+            "track_name": "5. All Of You  Live At Maybeck Recital Hall Berkeley CA  August 1990",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_000_004"
+        },
+        {
+            "track_name": "6. Minor Blues",
+            "album_name": "A Billy Strayhorn Songbook Something to Live For",
+            "recording_year": "1997",
+            "asset_path": "john_hicks_000_005"
+        }
+    ],
+    "[-1, -5, -5]": [
+        {
+            "track_name": "1. Oblivion  Live At Maybeck Recital Hall Berkeley CA  August 1990",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_001_000"
+        },
+        {
+            "track_name": "2. Twelve Bars for Linton",
+            "album_name": "Fathas Day An Earl Hines Songbook",
+            "recording_year": "2003",
+            "asset_path": "john_hicks_001_001"
+        },
+        {
+            "track_name": "3. Darkside Lightside",
+            "album_name": "Some Other Time",
+            "recording_year": "1981",
+            "asset_path": "john_hicks_001_002"
+        }
+    ],
+    "[-7, -1, -2]": [
+        {
+            "track_name": "1. Bookie Please",
+            "album_name": "Inc 1",
+            "recording_year": "1985",
+            "asset_path": "john_hicks_002_000"
+        },
+        {
+            "track_name": "2. Misty",
+            "album_name": "Nightwind An Erroll Garner Songbook",
+            "recording_year": "1997",
+            "asset_path": "john_hicks_002_001"
+        },
+        {
+            "track_name": "3. Misty",
+            "album_name": "Nightwind An Erroll Garner Songbook",
+            "recording_year": "1997",
+            "asset_path": "john_hicks_002_002"
+        },
+        {
+            "track_name": "4. Hicks Time",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_002_003"
+        },
+        {
+            "track_name": "5. Hicks Time",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_002_004"
+        },
+        {
+            "track_name": "6. Solar  Recorded Live in Concert 2006",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_002_005"
+        },
+        {
+            "track_name": "7. Solar  Recorded Live in Concert 2006",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_002_006"
+        },
+        {
+            "track_name": "8. UMMG",
+            "album_name": "A Billy Strayhorn Songbook Something to Live For",
+            "recording_year": "1997",
+            "asset_path": "john_hicks_002_007"
+        },
+        {
+            "track_name": "9. Medi II",
+            "album_name": "Impressions of Mary Lou",
+            "recording_year": "1998",
+            "asset_path": "john_hicks_002_008"
+        },
+        {
+            "track_name": "10. Minor Blues",
+            "album_name": "A Billy Strayhorn Songbook Something to Live For",
+            "recording_year": "1997",
+            "asset_path": "john_hicks_002_009"
+        },
+        {
+            "track_name": "11. Something Happens",
+            "album_name": "Nightwind An Erroll Garner Songbook",
+            "recording_year": "1997",
+            "asset_path": "john_hicks_002_010"
+        },
+        {
+            "track_name": "12. Up Jumped Spring",
+            "album_name": "Beyond Expectations",
+            "recording_year": "1993",
+            "asset_path": "john_hicks_002_011"
+        },
+        {
+            "track_name": "13. I Want to Talk About You  Recorded Live in Concert 2006",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_002_012"
+        },
+        {
+            "track_name": "14. Sonnymoon for Two",
+            "album_name": "Is That So",
+            "recording_year": "1990",
+            "asset_path": "john_hicks_002_013"
+        }
+    ],
+    "[-4, -4, -3]": [
+        {
+            "track_name": "1. All Of You  Live At Maybeck Recital Hall Berkeley CA  August 1990",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_003_000"
+        },
+        {
+            "track_name": "2. Solar  Recorded Live in Concert 2006",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_003_001"
+        },
+        {
+            "track_name": "3. Two Heart Beats",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_003_002"
+        },
+        {
+            "track_name": "4. Medi II",
+            "album_name": "Impressions of Mary Lou",
+            "recording_year": "1998",
+            "asset_path": "john_hicks_003_003"
+        },
+        {
+            "track_name": "5. Darkside Lightside",
+            "album_name": "Some Other Time",
+            "recording_year": "1981",
+            "asset_path": "john_hicks_003_004"
+        }
+    ],
+    "[-3, -1, 1]": [
+        {
+            "track_name": "1. Sonnys Crib",
+            "album_name": "Music in the Key of Clark",
+            "recording_year": "2001",
+            "asset_path": "john_hicks_004_000"
+        },
+        {
+            "track_name": "2. Bookie Please",
+            "album_name": "Inc 1",
+            "recording_year": "1985",
+            "asset_path": "john_hicks_004_001"
+        },
+        {
+            "track_name": "3. Heroes  Live At Maybeck Recital Hall Berkeley CA  August 1990",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_004_002"
+        },
+        {
+            "track_name": "4. Rosetta",
+            "album_name": "Fathas Day An Earl Hines Songbook",
+            "recording_year": "2003",
+            "asset_path": "john_hicks_004_003"
+        },
+        {
+            "track_name": "5. Rosetta",
+            "album_name": "Fathas Day An Earl Hines Songbook",
+            "recording_year": "2003",
+            "asset_path": "john_hicks_004_004"
+        },
+        {
+            "track_name": "6. Solar  Recorded Live in Concert 2006",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_004_005"
+        },
+        {
+            "track_name": "7. Solar  Recorded Live in Concert 2006",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_004_006"
+        },
+        {
+            "track_name": "8. Minor Blues",
+            "album_name": "A Billy Strayhorn Songbook Something to Live For",
+            "recording_year": "1997",
+            "asset_path": "john_hicks_004_007"
+        },
+        {
+            "track_name": "9. Emily",
+            "album_name": "Is That So",
+            "recording_year": "1990",
+            "asset_path": "john_hicks_004_008"
+        },
+        {
+            "track_name": "10. Emily",
+            "album_name": "Is That So",
+            "recording_year": "1990",
+            "asset_path": "john_hicks_004_009"
+        },
+        {
+            "track_name": "11. Sweet and Lovely",
+            "album_name": "Fathas Day An Earl Hines Songbook",
+            "recording_year": "2003",
+            "asset_path": "john_hicks_004_010"
+        },
+        {
+            "track_name": "12. April Eyes",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_004_011"
+        },
+        {
+            "track_name": "13. I Didnt Know What Time It Was",
+            "album_name": "Ill Give You Something to Remember Me By",
+            "recording_year": "1987",
+            "asset_path": "john_hicks_004_012"
+        },
+        {
+            "track_name": "14. Contemplation  Live At Maybeck Recital Hall Berkeley CA  August 1990",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_004_013"
+        },
+        {
+            "track_name": "15. Times Slimes",
+            "album_name": "Newklear Music",
+            "recording_year": "1997",
+            "asset_path": "john_hicks_004_014"
+        },
+        {
+            "track_name": "16. Autumn Leaves",
+            "album_name": "Is That So",
+            "recording_year": "1990",
+            "asset_path": "john_hicks_004_015"
+        },
+        {
+            "track_name": "17. I Remember You  Recorded Live in Concert 2006",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_004_016"
+        },
+        {
+            "track_name": "18. I Remember You  Recorded Live in Concert 2006",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_004_017"
+        }
+    ]
+}

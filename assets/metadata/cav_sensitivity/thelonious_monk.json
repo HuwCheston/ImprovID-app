@@ -1,0 +1,82 @@
+{
+    "Fourth II-V-I's": [
+        {
+            "track_name": "You Took The Words Right Out Of My Heart",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "pijama_monkt-youtookthewordsrightout-unaccompanied-xxxx-4asdyadt_clip_007_cav_010",
+            "original_sensitivity": 0.0007286007748916745
+        },
+        {
+            "track_name": "Ruby My Dear",
+            "album_name": "Solo Monk",
+            "recording_year": 2014,
+            "asset_path": "pijama_monkt-rubymydear-unaccompanied-xxxx-2p3lo619_clip_005_cav_010",
+            "original_sensitivity": 0.0007147743599489331
+        }
+    ],
+    "Block Chords": [
+        {
+            "track_name": "Ruby My Dear",
+            "album_name": "Solo Monk",
+            "recording_year": 2014,
+            "asset_path": "pijama_monkt-rubymydear-unaccompanied-xxxx-2p3lo619_clip_005_cav_001",
+            "original_sensitivity": 0.004410434514284134
+        },
+        {
+            "track_name": "Ruby My Dear",
+            "album_name": "Solo Monk",
+            "recording_year": 2014,
+            "asset_path": "pijama_monkt-rubymydear-unaccompanied-xxxx-2p3lo619_clip_007_cav_001",
+            "original_sensitivity": 0.0040113069117069244
+        }
+    ],
+    "Cycling Altered Dominants": [
+        {
+            "track_name": "Ruby My Dear",
+            "album_name": "Solo Monk",
+            "recording_year": 2014,
+            "asset_path": "pijama_monkt-rubymydear-unaccompanied-xxxx-2p3lo619_clip_005_cav_013",
+            "original_sensitivity": 0.00101635348983109
+        },
+        {
+            "track_name": "You Took The Words Right Out Of My Heart",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "pijama_monkt-youtookthewordsrightout-unaccompanied-xxxx-4asdyadt_clip_001_cav_013",
+            "original_sensitivity": 0.0009941719472408295
+        }
+    ],
+    "Shell Voicings": [
+        {
+            "track_name": "Well You Neednt alternate take",
+            "album_name": "Complete 1947  1952 Blue Note Recordings",
+            "recording_year": "1949",
+            "asset_path": "jtd_monkt-wellyouneedntalternatetake-rameygblakeya-1949-dd53087d_clip_000_cav_002",
+            "original_sensitivity": 0.0032114549539983273
+        },
+        {
+            "track_name": "Off Minor",
+            "album_name": "The Complete Genius",
+            "recording_year": "1949",
+            "asset_path": "jtd_monkt-offminor-rameygblakeya-1949-75d059f9_clip_000_cav_002",
+            "original_sensitivity": 0.0027522207237780094
+        }
+    ],
+    "Diminished Substitutions": [
+        {
+            "track_name": "You Took The Words Right Out Of My Heart",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "pijama_monkt-youtookthewordsrightout-unaccompanied-xxxx-4asdyadt_clip_001_cav_020",
+            "original_sensitivity": 0.0006970526883378625
+        },
+        {
+            "track_name": "You Took The Words Right Out Of My Heart",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "pijama_monkt-youtookthewordsrightout-unaccompanied-xxxx-4asdyadt_clip_000_cav_020",
+            "original_sensitivity": 0.0006604312220588326
+        }
+    ]
+}

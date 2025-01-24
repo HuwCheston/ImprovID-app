@@ -1,0 +1,82 @@
+{
+    "Diatonic 7th Chords": [
+        {
+            "track_name": "Autumn Leaves Take 2",
+            "album_name": "Seven Classic Albums",
+            "recording_year": "1960",
+            "asset_path": "jtd_evansb-autumnleavestake2-lafarosmotianp-1960-5b35a288_clip_002_cav_003",
+            "original_sensitivity": 0.0013722028816118836
+        },
+        {
+            "track_name": "Yet Neer Broken",
+            "album_name": "Turn Out the Stars The Final Village Vanguard Sessions",
+            "recording_year": "1980",
+            "asset_path": "jtd_evansb-yetneerbroken-johnsonmlabarberaj-1980-49c79c0a_clip_000_cav_003",
+            "original_sensitivity": 0.001301548327319324
+        }
+    ],
+    "Major 7th Blues Voicings": [
+        {
+            "track_name": "One for Helen",
+            "album_name": "The Complete Bill Evans on Verve",
+            "recording_year": "1966",
+            "asset_path": "jtd_evansb-oneforhelen-israelscwisea-1966-0e18f7fd_clip_000_cav_016",
+            "original_sensitivity": 0.0006866840994916856
+        },
+        {
+            "track_name": "Like Someone I Love",
+            "album_name": "Consecration",
+            "recording_year": "1980",
+            "asset_path": "jtd_evansb-likesomeoneilove-johnsonmlabarberaj-1980-62b3c57e_clip_000_cav_016",
+            "original_sensitivity": 0.0006550244870595634
+        }
+    ],
+    "Diminished Substitutions": [
+        {
+            "track_name": "Someday My Prince Will Come",
+            "album_name": "Yesterday I Heard the Rain",
+            "recording_year": "1972",
+            "asset_path": "jtd_evansb-somedaymyprincewillcome-gomezemorellm-1972-5e6c0c55_clip_001_cav_020",
+            "original_sensitivity": 0.0013683874858543277
+        },
+        {
+            "track_name": "Like Someone I Love",
+            "album_name": "Consecration",
+            "recording_year": "1980",
+            "asset_path": "jtd_evansb-likesomeoneilove-johnsonmlabarberaj-1980-62b3c57e_clip_001_cav_020",
+            "original_sensitivity": 0.0011806972324848175
+        }
+    ],
+    "Fourthy Blues Voicings": [
+        {
+            "track_name": "Never Let Me Go",
+            "album_name": "Alone",
+            "recording_year": 1970,
+            "asset_path": "pijama_evansb-neverletmego-unaccompanied-xxxx-hdvc6a5k_clip_001_cav_015",
+            "original_sensitivity": 0.0002947690663859248
+        },
+        {
+            "track_name": "Never Let Me Go",
+            "album_name": "Alone",
+            "recording_year": 1970,
+            "asset_path": "pijama_evansb-neverletmego-unaccompanied-xxxx-hdvc6a5k_clip_000_cav_015",
+            "original_sensitivity": 0.00026247574714943767
+        }
+    ],
+    "Dominant Polychord Groups": [
+        {
+            "track_name": "Emily",
+            "album_name": "Lund 1975 Helsinki 1970",
+            "recording_year": "1975",
+            "asset_path": "jtd_evansb-emily-gomezemorellm-1975-608bf73e_clip_000_cav_019",
+            "original_sensitivity": 0.0005495077930390835
+        },
+        {
+            "track_name": "Song From MASH Suicide Is Painless",
+            "album_name": "Consecration",
+            "recording_year": "1980",
+            "asset_path": "jtd_evansb-songfrommashsuicideis-johnsonmlabarberaj-1980-819219e7_clip_002_cav_019",
+            "original_sensitivity": 0.0005280119366943836
+        }
+    ]
+}

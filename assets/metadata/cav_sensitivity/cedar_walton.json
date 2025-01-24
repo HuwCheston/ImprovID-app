@@ -1,0 +1,82 @@
+{
+    "Minor Blues Voicings": [
+        {
+            "track_name": "Lost April",
+            "album_name": "Underground Memoirs",
+            "recording_year": 2005,
+            "asset_path": "pijama_waltonc-lostapril-unaccompanied-xxxx-phuhc4so_clip_011_cav_017",
+            "original_sensitivity": 0.0008384846150875092
+        },
+        {
+            "track_name": "Everytime We Say Goodbye",
+            "album_name": "Underground Memoirs",
+            "recording_year": 2005,
+            "asset_path": "pijama_waltonc-everytimewesaygoodbye-unaccompanied-xxxx-y7r0zknx_clip_010_cav_017",
+            "original_sensitivity": 0.0008321167551912367
+        }
+    ],
+    "Fourthy Blues Voicings": [
+        {
+            "track_name": "Fantasy in D",
+            "album_name": "Pit Inn",
+            "recording_year": "1974",
+            "asset_path": "jtd_waltonc-fantasyind-jonesshigginsb-1974-c215a217_clip_001_cav_015",
+            "original_sensitivity": 0.0006027569179423153
+        },
+        {
+            "track_name": "Lost April",
+            "album_name": "Underground Memoirs",
+            "recording_year": 2005,
+            "asset_path": "pijama_waltonc-lostapril-unaccompanied-xxxx-phuhc4so_clip_002_cav_015",
+            "original_sensitivity": 0.0005870510940439999
+        }
+    ],
+    "Modal Fourthy Voicings": [
+        {
+            "track_name": "Everytime We Say Goodbye",
+            "album_name": "Underground Memoirs",
+            "recording_year": 2005,
+            "asset_path": "pijama_waltonc-everytimewesaygoodbye-unaccompanied-xxxx-y7r0zknx_clip_010_cav_007",
+            "original_sensitivity": 0.001233577961102128
+        },
+        {
+            "track_name": "Fantasy in D",
+            "album_name": "Pit Inn",
+            "recording_year": "1974",
+            "asset_path": "jtd_waltonc-fantasyind-jonesshigginsb-1974-c215a217_clip_001_cav_007",
+            "original_sensitivity": 0.001171397976577282
+        }
+    ],
+    "Diminished Substitutions": [
+        {
+            "track_name": "The Meaning Of The Blues  Live At Maybeck Recital Hall Berkeley CA  August 9 1992",
+            "album_name": "The Maybeck Recital Series Vol 25",
+            "recording_year": 1992,
+            "asset_path": "pijama_waltonc-themeaningoftheblues-unaccompanied-xxxx-00k5jek5_clip_000_cav_020",
+            "original_sensitivity": 0.001559910480864346
+        },
+        {
+            "track_name": "Everytime We Say Goodbye",
+            "album_name": "Underground Memoirs",
+            "recording_year": 2005,
+            "asset_path": "pijama_waltonc-everytimewesaygoodbye-unaccompanied-xxxx-y7r0zknx_clip_002_cav_020",
+            "original_sensitivity": 0.001269807224161923
+        }
+    ],
+    "Dominant Polychord Groups": [
+        {
+            "track_name": "Fantasy in D",
+            "album_name": "Pit Inn",
+            "recording_year": "1974",
+            "asset_path": "jtd_waltonc-fantasyind-jonesshigginsb-1974-c215a217_clip_001_cav_019",
+            "original_sensitivity": 0.0006263614050112665
+        },
+        {
+            "track_name": "Milestones",
+            "album_name": "Underground Memoirs",
+            "recording_year": 2005,
+            "asset_path": "pijama_waltonc-milestones-unaccompanied-xxxx-ayylw3k1_clip_006_cav_019",
+            "original_sensitivity": 0.0004700619901996106
+        }
+    ]
+}

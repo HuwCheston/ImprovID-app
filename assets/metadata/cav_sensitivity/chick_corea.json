@@ -1,0 +1,82 @@
+{
+    "Diatonic 7th Chords": [
+        {
+            "track_name": "Diane",
+            "album_name": "Further Explorations",
+            "recording_year": "2010",
+            "asset_path": "jtd_coreac-diane-gomezemotianp-2010-cac6581e_clip_001_cav_003",
+            "original_sensitivity": 0.0008881966932676733
+        },
+        {
+            "track_name": "Childrens Song 10",
+            "album_name": "Solo Piano   Portraits",
+            "recording_year": 2014,
+            "asset_path": "pijama_coreac-childrenssong10-unaccompanied-xxxx-aa9tp8hq_clip_005_cav_003",
+            "original_sensitivity": 0.0008807484991848469
+        }
+    ],
+    "Modal \"So What\" Voicings": [
+        {
+            "track_name": "Blue Monk  Live in Berlin  2018",
+            "album_name": "Plays",
+            "recording_year": 2020,
+            "asset_path": "pijama_coreac-bluemonkliveinberlin-unaccompanied-xxxx-phkqs50d_clip_002_cav_009",
+            "original_sensitivity": 0.0006775208748877048
+        },
+        {
+            "track_name": "Blue Monk  Live in Berlin  2018",
+            "album_name": "Plays",
+            "recording_year": 2020,
+            "asset_path": "pijama_coreac-bluemonkliveinberlin-unaccompanied-xxxx-phkqs50d_clip_006_cav_009",
+            "original_sensitivity": 0.0006743864505551755
+        }
+    ],
+    "Major 7th Blues Voicings": [
+        {
+            "track_name": "Oblivion",
+            "album_name": "Solo Piano   Portraits",
+            "recording_year": 2014,
+            "asset_path": "pijama_coreac-oblivion-unaccompanied-xxxx-ories4o4_clip_005_cav_016",
+            "original_sensitivity": 0.0005072931526228786
+        },
+        {
+            "track_name": "Diane",
+            "album_name": "Further Explorations",
+            "recording_year": "2010",
+            "asset_path": "jtd_coreac-diane-gomezemotianp-2010-cac6581e_clip_001_cav_016",
+            "original_sensitivity": 0.0004761957679875195
+        }
+    ],
+    "Block Chords": [
+        {
+            "track_name": "Duet   Charles  Live in Paris  2018",
+            "album_name": "Plays",
+            "recording_year": 2020,
+            "asset_path": "pijama_coreac-duetcharleslive-unaccompanied-xxxx-gh58cbwe_clip_004_cav_001",
+            "original_sensitivity": 0.003167835995554924
+        },
+        {
+            "track_name": "Someone To Watch Over Me  Live in Clearwater  2018",
+            "album_name": "Plays",
+            "recording_year": 2020,
+            "asset_path": "pijama_coreac-someonetowatchoverme-unaccompanied-xxxx-i61luj9d_clip_007_cav_001",
+            "original_sensitivity": 0.0028978006448596716
+        }
+    ],
+    "Polychordal II-V-I's": [
+        {
+            "track_name": "The Yellow Nimbus  Live in Paris  2018",
+            "album_name": "Plays",
+            "recording_year": 2020,
+            "asset_path": "pijama_coreac-theyellownimbuslivein-unaccompanied-xxxx-jr3298hu_clip_008_cav_012",
+            "original_sensitivity": 0.0008881641551852226
+        },
+        {
+            "track_name": "The Yellow Nimbus  Live in Paris  2018",
+            "album_name": "Plays",
+            "recording_year": 2020,
+            "asset_path": "pijama_coreac-theyellownimbuslivein-unaccompanied-xxxx-jr3298hu_clip_005_cav_012",
+            "original_sensitivity": 0.0008788798004388809
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "Diatonic 7th Chords": [
+        {
+            "track_name": "Osaka November 8 1976 Part 1",
+            "album_name": "Sun Bear Concerts",
+            "recording_year": 1978,
+            "asset_path": "pijama_jarrettk-osakanovember81976part1-unaccompanied-xxxx-pst1v2v5_clip_036_cav_003",
+            "original_sensitivity": 0.0015634463634341955
+        },
+        {
+            "track_name": "Osaka November 8 1976 Part 1",
+            "album_name": "Sun Bear Concerts",
+            "recording_year": 1978,
+            "asset_path": "pijama_jarrettk-osakanovember81976part1-unaccompanied-xxxx-pst1v2v5_clip_030_cav_003",
+            "original_sensitivity": 0.0015017575351521373
+        }
+    ],
+    "Modal \"So What\" Voicings": [
+        {
+            "track_name": "Osaka November 8 1976 Part 1",
+            "album_name": "Sun Bear Concerts",
+            "recording_year": 1978,
+            "asset_path": "pijama_jarrettk-osakanovember81976part1-unaccompanied-xxxx-pst1v2v5_clip_039_cav_009",
+            "original_sensitivity": 0.001651445752941072
+        },
+        {
+            "track_name": "Bye Bye Blackbird",
+            "album_name": "At the Deer Head Inn",
+            "recording_year": "1992",
+            "asset_path": "jtd_jarrettk-byebyeblackbird-peacockgmotianp-1992-a2b64c05_clip_005_cav_009",
+            "original_sensitivity": 0.0015583073254674673
+        }
+    ],
+    "Major 7th Blues Voicings": [
+        {
+            "track_name": "Osaka November 8 1976 Part 1",
+            "album_name": "Sun Bear Concerts",
+            "recording_year": 1978,
+            "asset_path": "pijama_jarrettk-osakanovember81976part1-unaccompanied-xxxx-pst1v2v5_clip_036_cav_016",
+            "original_sensitivity": 0.0008128314511850476
+        },
+        {
+            "track_name": "Osaka November 8 1976 Part 1",
+            "album_name": "Sun Bear Concerts",
+            "recording_year": 1978,
+            "asset_path": "pijama_jarrettk-osakanovember81976part1-unaccompanied-xxxx-pst1v2v5_clip_039_cav_016",
+            "original_sensitivity": 0.0007373708649538457
+        }
+    ],
+    "Cycle Progressions": [
+        {
+            "track_name": "Osaka November 8 1976 Part 1",
+            "album_name": "Sun Bear Concerts",
+            "recording_year": 1978,
+            "asset_path": "pijama_jarrettk-osakanovember81976part1-unaccompanied-xxxx-pst1v2v5_clip_030_cav_004",
+            "original_sensitivity": 0.004019539337605238
+        },
+        {
+            "track_name": "Osaka November 8 1976 Part 1",
+            "album_name": "Sun Bear Concerts",
+            "recording_year": 1978,
+            "asset_path": "pijama_jarrettk-osakanovember81976part1-unaccompanied-xxxx-pst1v2v5_clip_036_cav_004",
+            "original_sensitivity": 0.003547545988112688
+        }
+    ],
+    "Modal Fourthy Voicings": [
+        {
+            "track_name": "Osaka November 8 1976 Part 1",
+            "album_name": "Sun Bear Concerts",
+            "recording_year": 1978,
+            "asset_path": "pijama_jarrettk-osakanovember81976part1-unaccompanied-xxxx-pst1v2v5_clip_036_cav_007",
+            "original_sensitivity": 0.0014033482875674963
+        },
+        {
+            "track_name": "Osaka November 8 1976 Part 1",
+            "album_name": "Sun Bear Concerts",
+            "recording_year": 1978,
+            "asset_path": "pijama_jarrettk-osakanovember81976part1-unaccompanied-xxxx-pst1v2v5_clip_039_cav_007",
+            "original_sensitivity": 0.0012926411582157016
+        }
+    ]
+}

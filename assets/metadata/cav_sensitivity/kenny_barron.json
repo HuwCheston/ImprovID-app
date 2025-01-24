@@ -1,0 +1,82 @@
+{
+    "Block Chords": [
+        {
+            "track_name": "The Only One",
+            "album_name": "The Perfect Set",
+            "recording_year": "1996",
+            "asset_path": "jtd_barronk-theonlyone-drummondrrileyb-1996-2d0f261a_clip_006_cav_001",
+            "original_sensitivity": 0.00305058341473341
+        },
+        {
+            "track_name": "BudLike  Live At Maybeck Recital Hall Berkeley CA  December 3 1990",
+            "album_name": "Live At Maybeck Recital Hall Volume 10",
+            "recording_year": 1991,
+            "asset_path": "pijama_barronk-budlikeliveatmaybeckrecital-unaccompanied-xxxx-mkhwqz3b_clip_010_cav_001",
+            "original_sensitivity": 0.0030356969218701124
+        }
+    ],
+    "Dominant 7th Polychords": [
+        {
+            "track_name": "BudLike  Live At Maybeck Recital Hall Berkeley CA  December 3 1990",
+            "album_name": "Live At Maybeck Recital Hall Volume 10",
+            "recording_year": 1991,
+            "asset_path": "pijama_barronk-budlikeliveatmaybeckrecital-unaccompanied-xxxx-mkhwqz3b_clip_010_cav_018",
+            "original_sensitivity": 0.004469640087336302
+        },
+        {
+            "track_name": "Witchcraft  Live At Maybeck Recital Hall Berkeley CA  December 3 1990",
+            "album_name": "Live At Maybeck Recital Hall Volume 10",
+            "recording_year": 1991,
+            "asset_path": "pijama_barronk-witchcraftliveatmaybeckrecital-unaccompanied-xxxx-zg1x24z0_clip_002_cav_018",
+            "original_sensitivity": 0.00369783747009933
+        }
+    ],
+    "I-IV Cycle Progression": [
+        {
+            "track_name": "Misterioso",
+            "album_name": "At The Piano",
+            "recording_year": 1982,
+            "asset_path": "pijama_barronk-misterioso-unaccompanied-xxxx-jfynjlxf_clip_014_cav_006",
+            "original_sensitivity": 0.0009657844202592969
+        },
+        {
+            "track_name": "Misterioso",
+            "album_name": "At The Piano",
+            "recording_year": 1982,
+            "asset_path": "pijama_barronk-misterioso-unaccompanied-xxxx-jfynjlxf_clip_001_cav_006",
+            "original_sensitivity": 0.000789643672760576
+        }
+    ],
+    "Dominant Polychord Groups": [
+        {
+            "track_name": "Misterioso",
+            "album_name": "At The Piano",
+            "recording_year": 1982,
+            "asset_path": "pijama_barronk-misterioso-unaccompanied-xxxx-jfynjlxf_clip_000_cav_019",
+            "original_sensitivity": 0.0005246000946499407
+        },
+        {
+            "track_name": "Misterioso",
+            "album_name": "At The Piano",
+            "recording_year": 1982,
+            "asset_path": "pijama_barronk-misterioso-unaccompanied-xxxx-jfynjlxf_clip_014_cav_019",
+            "original_sensitivity": 0.0004258360422682017
+        }
+    ],
+    "Modal \"So What\" Voicings": [
+        {
+            "track_name": "The Only One",
+            "album_name": "The Perfect Set",
+            "recording_year": "1996",
+            "asset_path": "jtd_barronk-theonlyone-drummondrrileyb-1996-2d0f261a_clip_006_cav_009",
+            "original_sensitivity": 0.0005842891405336559
+        },
+        {
+            "track_name": "RhythmANing",
+            "album_name": "Live",
+            "recording_year": "1982",
+            "asset_path": "jtd_barronk-rhythmaning-williamsbrileyb-1982-d3ac958f_clip_009_cav_009",
+            "original_sensitivity": 0.0005216308054514229
+        }
+    ]
+}

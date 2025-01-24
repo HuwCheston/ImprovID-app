@@ -1,0 +1,82 @@
+{
+    "So What Voicings": [
+        {
+            "track_name": "Please Dont Talk About Me When Im Gone  Instrumental",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "pijama_jonesh-pleasedonttalkaboutmewhen-unaccompanied-xxxx-5wmnpx1x_clip_002_cav_008",
+            "original_sensitivity": 0.001096986816264689
+        },
+        {
+            "track_name": "How Ya Baby   Instrumental",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "pijama_jonesh-howyababyinstrumental-unaccompanied-xxxx-cy8l0pr2_clip_005_cav_008",
+            "original_sensitivity": 0.0010542465606704354
+        }
+    ],
+    "Cycling Altered Dominants": [
+        {
+            "track_name": "Oh Look At Me Now  Live",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "pijama_jonesh-ohlookatmenow-unaccompanied-xxxx-b9ofqy48_clip_007_cav_013",
+            "original_sensitivity": 0.001260479912161827
+        },
+        {
+            "track_name": "How Ya Baby   Instrumental",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "pijama_jonesh-howyababyinstrumental-unaccompanied-xxxx-cy8l0pr2_clip_000_cav_013",
+            "original_sensitivity": 0.0011523963185027242
+        }
+    ],
+    "Major 7th Blues Voicings": [
+        {
+            "track_name": "Relaxin With Lee",
+            "album_name": "Bop Redux  Groovin High",
+            "recording_year": "1977",
+            "asset_path": "jtd_jonesh-relaxinwithlee-duviviergrileyb-1977-33043105_clip_000_cav_016",
+            "original_sensitivity": 0.00043439207365736365
+        },
+        {
+            "track_name": "Oh Look At Me Now  Live",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "pijama_jonesh-ohlookatmenow-unaccompanied-xxxx-b9ofqy48_clip_000_cav_016",
+            "original_sensitivity": 0.00042433562339283526
+        }
+    ],
+    "Dominant 7th Polychords": [
+        {
+            "track_name": "Relaxin With Lee",
+            "album_name": "Bop Redux  Groovin High",
+            "recording_year": "1977",
+            "asset_path": "jtd_jonesh-relaxinwithlee-duviviergrileyb-1977-33043105_clip_001_cav_018",
+            "original_sensitivity": 0.0022119570057839155
+        },
+        {
+            "track_name": "Oh Look At Me Now  Live",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "pijama_jonesh-ohlookatmenow-unaccompanied-xxxx-b9ofqy48_clip_000_cav_018",
+            "original_sensitivity": 0.0019110071007162333
+        }
+    ],
+    "Fourth II-V-I's": [
+        {
+            "track_name": "Oh Look At Me Now  Live",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "pijama_jonesh-ohlookatmenow-unaccompanied-xxxx-b9ofqy48_clip_007_cav_010",
+            "original_sensitivity": 0.001164361136034131
+        },
+        {
+            "track_name": "Please Dont Talk About Me When Im Gone  Instrumental",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "pijama_jonesh-pleasedonttalkaboutmewhen-unaccompanied-xxxx-5wmnpx1x_clip_002_cav_010",
+            "original_sensitivity": 0.0009346134611405432
+        }
+    ]
+}
