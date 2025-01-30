@@ -1,1056 +1,3309 @@
 {
-    "[10, -9, -1]": [
+    "[-2, 2, -2]": [
         {
-            "track_name": "1. Fly Me to the Moon",
-            "album_name": "Last Recording",
-            "recording_year": "2010",
-            "asset_path": "hank_jones_000_000"
-        }
-    ],
-    "[2, 10, -9]": [
-        {
-            "track_name": "1. Fly Me to the Moon",
-            "album_name": "Last Recording",
-            "recording_year": "2010",
-            "asset_path": "hank_jones_001_000"
-        }
-    ],
-    "[-8, 7, -10]": [
-        {
-            "track_name": "1. Speak Low",
-            "album_name": "Lazy Afternoon",
-            "recording_year": "1989",
-            "asset_path": "hank_jones_002_000"
+            "track_name": "1. Six  Four  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (9 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_042",
+            "n_appearances_in_track": 9
         },
         {
-            "track_name": "2. Blue Monk",
+            "track_name": "2. Blue Monk  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (8 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_059",
+            "n_appearances_in_track": 8
+        },
+        {
+            "track_name": "3. Bluesette  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (7 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_031",
+            "n_appearances_in_track": 7
+        },
+        {
+            "track_name": "4. Handful Of Keys  Instrumental (6 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_051",
+            "n_appearances_in_track": 6
+        },
+        {
+            "track_name": "5. Blue Monk  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (5 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_060",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "6. How Come You Do Me Like You Do  Instrumental (4 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_011",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "7. Jacobs Ladder (4 appearances)",
+            "album_name": "The Oracle",
+            "recording_year": "1989",
+            "asset_path": "hank_jones_000_089",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "8. Yesterdays (3 appearances)",
+            "album_name": "The Oracle",
+            "recording_year": "1989",
+            "asset_path": "hank_jones_000_000",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "9. The Very Thought Of You (3 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_000_038",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "10. Six  Four  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (3 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_041",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "11. My Heart Stood Still (3 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_000_070",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "12. My Heart Stood Still (3 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_000_071",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "13. The Very Thought Of You  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (3 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_103",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "14. Satin Doll (3 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_000_122",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "15. Dont Blame Me (3 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_000_126",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "16. Oh Look At Me Now  Live (3 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_135",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "17. Yardbird Suite (3 appearances)",
+            "album_name": "Bop Redux  Groovin High",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_000_137",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "18. The Jitterbug Waltz  Instrumental (2 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_002",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "19. The Jitterbug Waltz  Instrumental (2 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_003",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "20. Prelude To A Kiss (2 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_000_004",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "21. Prelude To A Kiss (2 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_000_006",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "22. How Come You Do Me Like You Do  Instrumental (2 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_014",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "23. How Come You Do Me Like You Do  Instrumental (2 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_016",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "24. Aint Misbehavin  Instrumental (2 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_018",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "25. A Child Is Born  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (2 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_020",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "26. A Child Is Born  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (2 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_022",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "27. Confirmation (2 appearances)",
+            "album_name": "Bop Redux  Groovin High",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_000_023",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "28. Do Nothin Till You Hear From Me (2 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_000_024",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "29. Comin Home Baby (2 appearances)",
+            "album_name": "The Touch",
+            "recording_year": "1989",
+            "asset_path": "hank_jones_000_033",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "30. Love Walked In (2 appearances)",
+            "album_name": "I Remember You",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_000_034",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "31. Arrival (2 appearances)",
+            "album_name": "The Touch",
+            "recording_year": "1989",
+            "asset_path": "hank_jones_000_036",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "32. Dat Dere (2 appearances)",
+            "album_name": "I Remember You",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_000_046",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "33. Handful Of Keys  Instrumental (2 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_050",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "34. Hank You Thank (2 appearances)",
+            "album_name": "The Trio",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_000_054",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "35. Blue Monk  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (2 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_057",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "36. Speak Low (2 appearances)",
+            "album_name": "West of 5th",
+            "recording_year": "2006",
+            "asset_path": "hank_jones_000_062",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "37. Round Midnight  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (2 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_064",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "38. Round Midnight  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (2 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_065",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "39. Round Midnight  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (2 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_069",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "40. My Heart Stood Still (2 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_000_072",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "41. What Am I Here For (2 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_000_077",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "42. Rockin in Rhythm (2 appearances)",
+            "album_name": "The Touch",
+            "recording_year": "1989",
+            "asset_path": "hank_jones_000_080",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "43. Bloomdido (2 appearances)",
+            "album_name": "Bop Redux  Groovin High",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_000_084",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "44. Jacobs Ladder (2 appearances)",
+            "album_name": "The Oracle",
+            "recording_year": "1989",
+            "asset_path": "hank_jones_000_088",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "45. Jacobs Ladder (2 appearances)",
+            "album_name": "The Oracle",
+            "recording_year": "1989",
+            "asset_path": "hank_jones_000_090",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "46. Gone With The Wind (2 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_000_099",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "47. The Very Thought Of You  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (2 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_102",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "48. Oh Look At Me Now (2 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_000_110",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "49. I Guess Ill Have To Change My Plan  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (2 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_116",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "50. Reunion (2 appearances)",
+            "album_name": "The Trio",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_000_119",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "51. Satin Doll (2 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_000_120",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "52. Satin Doll (2 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_000_121",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "53. Young No More (2 appearances)",
+            "album_name": "I Remember You",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_000_123",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "54. Squeeze Me  Instrumental (2 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_124",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "55. Theres a Small Hotel (2 appearances)",
+            "album_name": "Have You Met This Jones",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_000_129",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "56. Oh Look At Me Now  Live (2 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_131",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "57. Work Song (2 appearances)",
+            "album_name": "The Touch",
+            "recording_year": "1989",
+            "asset_path": "hank_jones_000_143",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "58. Work Song (2 appearances)",
+            "album_name": "The Touch",
+            "recording_year": "1989",
+            "asset_path": "hank_jones_000_144",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "59. What Did I Do To Be So Black And Blue  Instrumental (2 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_145",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "60. The Jitterbug Waltz  Instrumental (1 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_001",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "61. Prelude To A Kiss (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_000_005",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "62. Prelude To A Kiss (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_000_007",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "63. Lullaby of the Leaves (1 appearances)",
+            "album_name": "The Trio",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_000_008",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "64. Ill Remember April (1 appearances)",
+            "album_name": "The Trio",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_000_009",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "65. Im More Than Satisfied  Instrumental (1 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_010",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "66. How Come You Do Me Like You Do  Instrumental (1 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_012",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "67. How Come You Do Me Like You Do  Instrumental (1 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_013",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "68. How Come You Do Me Like You Do  Instrumental (1 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_015",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "69. Aint Misbehavin  Instrumental (1 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_017",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "70. Aint Misbehavin  Instrumental (1 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_019",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "71. A Child Is Born  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_021",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "72. Interface (1 appearances)",
+            "album_name": "The Oracle",
+            "recording_year": "1989",
+            "asset_path": "hank_jones_000_025",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "73. Interface (1 appearances)",
+            "album_name": "The Oracle",
+            "recording_year": "1989",
+            "asset_path": "hank_jones_000_026",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "74. Opus de Funk (1 appearances)",
+            "album_name": "Last Recording",
+            "recording_year": "2010",
+            "asset_path": "hank_jones_000_027",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "75. I Cover The Waterfront  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_028",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "76. I Cover The Waterfront  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_029",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "77. Bluesette  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_030",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "78. S Wonderful (1 appearances)",
+            "album_name": "The Trio",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_000_032",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "79. Scrapple From the Apple (1 appearances)",
             "album_name": "Hank Jones Trio",
             "recording_year": "1991",
-            "asset_path": "hank_jones_002_001"
+            "asset_path": "hank_jones_000_035",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "80. Arrival (1 appearances)",
+            "album_name": "The Touch",
+            "recording_year": "1989",
+            "asset_path": "hank_jones_000_037",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "81. Moose the Mooche (1 appearances)",
+            "album_name": "Hank Jones Trio",
+            "recording_year": "1991",
+            "asset_path": "hank_jones_000_039",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "82. Six  Four  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_040",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "83. Six  Four  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_043",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "84. Six  Four  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_044",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "85. Stella by Starlight (1 appearances)",
+            "album_name": "West of 5th",
+            "recording_year": "2006",
+            "asset_path": "hank_jones_000_045",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "86. Dat Dere (1 appearances)",
+            "album_name": "I Remember You",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_000_047",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "87. Dat Dere (1 appearances)",
+            "album_name": "I Remember You",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_000_048",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "88. If I Had You (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_000_049",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "89. Nows the Time (1 appearances)",
+            "album_name": "Have You Met This Jones",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_000_052",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "90. Nows the Time (1 appearances)",
+            "album_name": "Have You Met This Jones",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_000_053",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "91. Alans Allies (1 appearances)",
+            "album_name": "Compassion",
+            "recording_year": "1978",
+            "asset_path": "hank_jones_000_055",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "92. Alans Allies (1 appearances)",
+            "album_name": "Compassion",
+            "recording_year": "1978",
+            "asset_path": "hank_jones_000_056",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "93. Blue Monk  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_058",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "94. Blue Monk  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_061",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "95. Ive Got A Feeling Im Falling  Instrumental (1 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_063",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "96. Round Midnight  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_066",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "97. Round Midnight  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_067",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "98. Round Midnight  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_068",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "99. My Heart Stood Still (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_000_073",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "100. My Heart Stood Still (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_000_074",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "101. Trane Connections (1 appearances)",
+            "album_name": "The Oracle",
+            "recording_year": "1989",
+            "asset_path": "hank_jones_000_075",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "102. What Am I Here For (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_000_076",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "103. What Am I Here For (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_000_078",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "104. What Am I Here For (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_000_079",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "105. Memories Of You  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_081",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "106. Memories Of You  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_082",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "107. Memories Of You  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_083",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "108. Honeysuckle Rose  Instrumental (1 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_085",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "109. Honeysuckle Rose  Instrumental (1 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_086",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "110. Honeysuckle Rose  Instrumental (1 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_087",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "111. Keeping Out Of Mischief Now  Instrumental (1 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_091",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "112. Keeping Out Of Mischief Now  Instrumental (1 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_092",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "113. Its The Talk Of The Town  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_093",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "114. Its The Talk Of The Town  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_094",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "115. Its The Talk Of The Town  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_095",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "116. Its The Talk Of The Town  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_096",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "117. Hanks Blues (1 appearances)",
+            "album_name": "Compassion",
+            "recording_year": "1978",
+            "asset_path": "hank_jones_000_097",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "118. Gone With The Wind (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_000_098",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "119. Gone With The Wind (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_000_100",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "120. The Very Thought Of You  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_101",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "121. You Feets Too Big  Instrumental (1 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_104",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "122. You Feets Too Big  Instrumental (1 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_105",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "123. You Feets Too Big  Instrumental (1 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_106",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "124. Speak Low (1 appearances)",
+            "album_name": "Lazy Afternoon",
+            "recording_year": "1989",
+            "asset_path": "hank_jones_000_107",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "125. Just Squeeze Me (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_000_108",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "126. Oh Look At Me Now (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_000_109",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "127. In A Sentimental Mood (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_000_111",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "128. In A Sentimental Mood (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_000_112",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "129. Sophisticated Lady (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_000_113",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "130. Sophisticated Lady (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_000_114",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "131. I Guess Ill Have To Change My Plan  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_115",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "132. Believe It Beloved  Instrumental (1 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_117",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "133. Believe It Beloved  Instrumental (1 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_118",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "134. Squeeze Me  Instrumental (1 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_125",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "135. Dont Blame Me (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_000_127",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "136. Theres a Small Hotel (1 appearances)",
+            "album_name": "Have You Met This Jones",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_000_128",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "137. How Ya Baby   Instrumental (1 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_130",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "138. Oh Look At Me Now  Live (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_132",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "139. Oh Look At Me Now  Live (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_133",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "140. Oh Look At Me Now  Live (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_134",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "141. Dancing on the Ceiling (1 appearances)",
+            "album_name": "The Touch",
+            "recording_year": "1989",
+            "asset_path": "hank_jones_000_136",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "142. Yardbird Suite (1 appearances)",
+            "album_name": "Bop Redux  Groovin High",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_000_138",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "143. Yardbird Suite (1 appearances)",
+            "album_name": "Bop Redux  Groovin High",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_000_139",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "144. Interface (1 appearances)",
+            "album_name": "Hank Jones Trio",
+            "recording_year": "1991",
+            "asset_path": "hank_jones_000_140",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "145. Alone Together (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_000_141",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "146. Alone Together (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_000_142",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "147. What Did I Do To Be So Black And Blue  Instrumental (1 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_146",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "148. What Did I Do To Be So Black And Blue  Instrumental (1 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_147",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "149. What Did I Do To Be So Black And Blue  Instrumental (1 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_148",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "150. What Did I Do To Be So Black And Blue  Instrumental (1 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_000_149",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "151. Moose the Mooche (1 appearances)",
+            "album_name": "Bop Redux  Groovin High",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_000_150",
+            "n_appearances_in_track": 1
         }
     ],
     "[1, 1, 3]": [
         {
-            "track_name": "1. The Jitterbug Waltz  Instrumental",
+            "track_name": "1. Squeeze Me  Instrumental (6 appearances)",
             "album_name": "Handful Of Keys",
             "recording_year": 1992,
-            "asset_path": "hank_jones_003_000"
+            "asset_path": "hank_jones_001_099",
+            "n_appearances_in_track": 6
         },
         {
-            "track_name": "2. Mighty Cool Penthouse",
-            "album_name": "The Man Complete Recordings 19461959",
-            "recording_year": "1956",
-            "asset_path": "hank_jones_003_001"
-        },
-        {
-            "track_name": "3. Prelude To A Kiss",
-            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
-            "recording_year": 2010,
-            "asset_path": "hank_jones_003_002"
-        },
-        {
-            "track_name": "4. Prelude To A Kiss",
-            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
-            "recording_year": 2010,
-            "asset_path": "hank_jones_003_003"
-        },
-        {
-            "track_name": "5. Prelude To A Kiss",
-            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
-            "recording_year": 2010,
-            "asset_path": "hank_jones_003_004"
-        },
-        {
-            "track_name": "6. Lullaby of the Leaves",
-            "album_name": "The Trio",
-            "recording_year": "1977",
-            "asset_path": "hank_jones_003_005"
-        },
-        {
-            "track_name": "7. Ill Remember April",
-            "album_name": "The Trio",
-            "recording_year": "1977",
-            "asset_path": "hank_jones_003_006"
-        },
-        {
-            "track_name": "8. Im More Than Satisfied  Instrumental",
-            "album_name": "Handful Of Keys",
-            "recording_year": 1992,
-            "asset_path": "hank_jones_003_007"
-        },
-        {
-            "track_name": "9. Spreadin Rhythm Around  Instrumental",
-            "album_name": "Handful Of Keys",
-            "recording_year": 1992,
-            "asset_path": "hank_jones_003_008"
-        },
-        {
-            "track_name": "10. Aint Misbehavin  Instrumental",
-            "album_name": "Handful Of Keys",
-            "recording_year": 1992,
-            "asset_path": "hank_jones_003_009"
-        },
-        {
-            "track_name": "11. Aint Misbehavin  Instrumental",
-            "album_name": "Handful Of Keys",
-            "recording_year": 1992,
-            "asset_path": "hank_jones_003_010"
-        },
-        {
-            "track_name": "12. Aint Misbehavin  Instrumental",
-            "album_name": "Handful Of Keys",
-            "recording_year": 1992,
-            "asset_path": "hank_jones_003_011"
-        },
-        {
-            "track_name": "13. A Child Is Born  Live At Maybeck Recital Hall Berkeley CA  November 11 1991",
+            "track_name": "2. The Very Thought Of You  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (5 appearances)",
             "album_name": "Live At Maybeck Recital Hall Vol 16",
             "recording_year": 1992,
-            "asset_path": "hank_jones_003_012"
+            "asset_path": "hank_jones_001_082",
+            "n_appearances_in_track": 5
         },
         {
-            "track_name": "14. A Child Is Born  Live At Maybeck Recital Hall Berkeley CA  November 11 1991",
-            "album_name": "Live At Maybeck Recital Hall Vol 16",
-            "recording_year": 1992,
-            "asset_path": "hank_jones_003_013"
-        },
-        {
-            "track_name": "15. Confirmation",
+            "track_name": "3. Confirmation (4 appearances)",
             "album_name": "Bop Redux  Groovin High",
             "recording_year": "1977",
-            "asset_path": "hank_jones_003_014"
+            "asset_path": "hank_jones_001_014",
+            "n_appearances_in_track": 4
         },
         {
-            "track_name": "16. Confirmation",
-            "album_name": "Bop Redux  Groovin High",
-            "recording_year": "1977",
-            "asset_path": "hank_jones_003_015"
-        },
-        {
-            "track_name": "17. Confirmation",
-            "album_name": "Bop Redux  Groovin High",
-            "recording_year": "1977",
-            "asset_path": "hank_jones_003_016"
-        },
-        {
-            "track_name": "18. Confirmation",
-            "album_name": "Bop Redux  Groovin High",
-            "recording_year": "1977",
-            "asset_path": "hank_jones_003_017"
-        },
-        {
-            "track_name": "19. Do Nothin Till You Hear From Me",
+            "track_name": "4. The Very Thought Of You (4 appearances)",
             "album_name": "SOLO 1976 A Tribute to Duke Ellington",
             "recording_year": 2010,
-            "asset_path": "hank_jones_003_018"
+            "asset_path": "hank_jones_001_033",
+            "n_appearances_in_track": 4
         },
         {
-            "track_name": "20. Do Nothin Till You Hear From Me",
-            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
-            "recording_year": 2010,
-            "asset_path": "hank_jones_003_019"
-        },
-        {
-            "track_name": "21. Do Nothin Till You Hear From Me",
-            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
-            "recording_year": 2010,
-            "asset_path": "hank_jones_003_020"
-        },
-        {
-            "track_name": "22. Do Nothin Till You Hear From Me",
-            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
-            "recording_year": 2010,
-            "asset_path": "hank_jones_003_021"
-        },
-        {
-            "track_name": "23. Do Nothin Till You Hear From Me",
-            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
-            "recording_year": 2010,
-            "asset_path": "hank_jones_003_022"
-        },
-        {
-            "track_name": "24. Do Nothin Till You Hear From Me",
-            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
-            "recording_year": 2010,
-            "asset_path": "hank_jones_003_023"
-        },
-        {
-            "track_name": "25. Ill Remember April",
-            "album_name": "Hank Jones Trio",
-            "recording_year": "1991",
-            "asset_path": "hank_jones_003_024"
-        },
-        {
-            "track_name": "26. The Night We Called It A Day  Live At Maybeck Recital Hall Berkeley CA  November 11 1991",
+            "track_name": "5. The Very Thought Of You  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (4 appearances)",
             "album_name": "Live At Maybeck Recital Hall Vol 16",
             "recording_year": 1992,
-            "asset_path": "hank_jones_003_025"
+            "asset_path": "hank_jones_001_080",
+            "n_appearances_in_track": 4
         },
         {
-            "track_name": "27. The Night We Called It A Day  Live At Maybeck Recital Hall Berkeley CA  November 11 1991",
-            "album_name": "Live At Maybeck Recital Hall Vol 16",
-            "recording_year": 1992,
-            "asset_path": "hank_jones_003_026"
-        },
-        {
-            "track_name": "28. The Night We Called It A Day  Live At Maybeck Recital Hall Berkeley CA  November 11 1991",
-            "album_name": "Live At Maybeck Recital Hall Vol 16",
-            "recording_year": 1992,
-            "asset_path": "hank_jones_003_027"
-        },
-        {
-            "track_name": "29. The Night We Called It A Day  Live At Maybeck Recital Hall Berkeley CA  November 11 1991",
-            "album_name": "Live At Maybeck Recital Hall Vol 16",
-            "recording_year": 1992,
-            "asset_path": "hank_jones_003_028"
-        },
-        {
-            "track_name": "30. Interface",
-            "album_name": "The Oracle",
-            "recording_year": "1989",
-            "asset_path": "hank_jones_003_029"
-        },
-        {
-            "track_name": "31. Opus de Funk",
-            "album_name": "Last Recording",
-            "recording_year": "2010",
-            "asset_path": "hank_jones_003_030"
-        },
-        {
-            "track_name": "32. I Cover The Waterfront  Live At Maybeck Recital Hall Berkeley CA  November 11 1991",
-            "album_name": "Live At Maybeck Recital Hall Vol 16",
-            "recording_year": 1992,
-            "asset_path": "hank_jones_003_031"
-        },
-        {
-            "track_name": "33. Fly Me to the Moon",
-            "album_name": "Last Recording",
-            "recording_year": "2010",
-            "asset_path": "hank_jones_003_032"
-        },
-        {
-            "track_name": "34. The Very Thought Of You",
+            "track_name": "6. Do Nothin Till You Hear From Me (3 appearances)",
             "album_name": "SOLO 1976 A Tribute to Duke Ellington",
             "recording_year": 2010,
-            "asset_path": "hank_jones_003_033"
+            "asset_path": "hank_jones_001_020",
+            "n_appearances_in_track": 3
         },
         {
-            "track_name": "35. Six  Four  Live At Maybeck Recital Hall Berkeley CA  November 11 1991",
-            "album_name": "Live At Maybeck Recital Hall Vol 16",
-            "recording_year": 1992,
-            "asset_path": "hank_jones_003_034"
-        },
-        {
-            "track_name": "36. Six  Four  Live At Maybeck Recital Hall Berkeley CA  November 11 1991",
-            "album_name": "Live At Maybeck Recital Hall Vol 16",
-            "recording_year": 1992,
-            "asset_path": "hank_jones_003_035"
-        },
-        {
-            "track_name": "37. Dat Dere",
-            "album_name": "I Remember You",
-            "recording_year": "1977",
-            "asset_path": "hank_jones_003_036"
-        },
-        {
-            "track_name": "38. Dat Dere",
-            "album_name": "I Remember You",
-            "recording_year": "1977",
-            "asset_path": "hank_jones_003_037"
-        },
-        {
-            "track_name": "39. Sunday  Instrumental",
-            "album_name": "Handful Of Keys",
-            "recording_year": 1992,
-            "asset_path": "hank_jones_003_038"
-        },
-        {
-            "track_name": "40. Oh What A Beautiful Mornin  Live At Maybeck Recital Hall Berkeley CA  November 11 1991",
-            "album_name": "Live At Maybeck Recital Hall Vol 16",
-            "recording_year": 1992,
-            "asset_path": "hank_jones_003_039"
-        },
-        {
-            "track_name": "41. Oh What A Beautiful Mornin  Live At Maybeck Recital Hall Berkeley CA  November 11 1991",
-            "album_name": "Live At Maybeck Recital Hall Vol 16",
-            "recording_year": 1992,
-            "asset_path": "hank_jones_003_040"
-        },
-        {
-            "track_name": "42. If I Had You",
-            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
-            "recording_year": 2010,
-            "asset_path": "hank_jones_003_041"
-        },
-        {
-            "track_name": "43. If I Had You",
-            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
-            "recording_year": 2010,
-            "asset_path": "hank_jones_003_042"
-        },
-        {
-            "track_name": "44. If I Had You",
-            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
-            "recording_year": 2010,
-            "asset_path": "hank_jones_003_043"
-        },
-        {
-            "track_name": "45. If I Had You",
-            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
-            "recording_year": 2010,
-            "asset_path": "hank_jones_003_044"
-        },
-        {
-            "track_name": "46. Nows the Time",
+            "track_name": "7. Nows the Time (3 appearances)",
             "album_name": "Have You Met This Jones",
             "recording_year": "1977",
-            "asset_path": "hank_jones_003_045"
+            "asset_path": "hank_jones_001_045",
+            "n_appearances_in_track": 3
         },
         {
-            "track_name": "47. Nows the Time",
+            "track_name": "8. Nows the Time (3 appearances)",
             "album_name": "Have You Met This Jones",
             "recording_year": "1977",
-            "asset_path": "hank_jones_003_046"
+            "asset_path": "hank_jones_001_046",
+            "n_appearances_in_track": 3
         },
         {
-            "track_name": "48. Hank You Thank",
-            "album_name": "The Trio",
-            "recording_year": "1977",
-            "asset_path": "hank_jones_003_047"
+            "track_name": "9. You Feets Too Big  Instrumental (3 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_001_084",
+            "n_appearances_in_track": 3
         },
         {
-            "track_name": "49. Hank You Thank",
-            "album_name": "The Trio",
-            "recording_year": "1977",
-            "asset_path": "hank_jones_003_048"
+            "track_name": "10. Believe It Beloved  Instrumental (3 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_001_091",
+            "n_appearances_in_track": 3
         },
         {
-            "track_name": "50. Hank You Thank",
-            "album_name": "The Trio",
-            "recording_year": "1977",
-            "asset_path": "hank_jones_003_049"
+            "track_name": "11. The Jitterbug Waltz  Instrumental (2 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_001_000",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "51. Alans Allies",
+            "track_name": "12. Prelude To A Kiss (2 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_001_003",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "13. Spreadin Rhythm Around  Instrumental (2 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_001_008",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "14. Aint Misbehavin  Instrumental (2 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_001_010",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "15. A Child Is Born  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (2 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_001_012",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "16. A Child Is Born  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (2 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_001_013",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "17. Do Nothin Till You Hear From Me (2 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_001_018",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "18. The Night We Called It A Day  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (2 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_001_027",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "19. I Cover The Waterfront  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (2 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_001_031",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "20. Alans Allies (2 appearances)",
             "album_name": "Compassion",
             "recording_year": "1978",
-            "asset_path": "hank_jones_003_050"
+            "asset_path": "hank_jones_001_050",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "52. Blue Monk  Live At Maybeck Recital Hall Berkeley CA  November 11 1991",
-            "album_name": "Live At Maybeck Recital Hall Vol 16",
-            "recording_year": 1992,
-            "asset_path": "hank_jones_003_051"
-        },
-        {
-            "track_name": "53. Blue Monk  Live At Maybeck Recital Hall Berkeley CA  November 11 1991",
-            "album_name": "Live At Maybeck Recital Hall Vol 16",
-            "recording_year": 1992,
-            "asset_path": "hank_jones_003_052"
-        },
-        {
-            "track_name": "54. Blue Monk  Live At Maybeck Recital Hall Berkeley CA  November 11 1991",
-            "album_name": "Live At Maybeck Recital Hall Vol 16",
-            "recording_year": 1992,
-            "asset_path": "hank_jones_003_053"
-        },
-        {
-            "track_name": "55. Speak Low",
-            "album_name": "West of 5th",
-            "recording_year": "2006",
-            "asset_path": "hank_jones_003_054"
-        },
-        {
-            "track_name": "56. Ive Got A Feeling Im Falling  Instrumental",
-            "album_name": "Handful Of Keys",
-            "recording_year": 1992,
-            "asset_path": "hank_jones_003_055"
-        },
-        {
-            "track_name": "57. Round Midnight  Live At Maybeck Recital Hall Berkeley CA  November 11 1991",
-            "album_name": "Live At Maybeck Recital Hall Vol 16",
-            "recording_year": 1992,
-            "asset_path": "hank_jones_003_056"
-        },
-        {
-            "track_name": "58. Round Midnight  Live At Maybeck Recital Hall Berkeley CA  November 11 1991",
-            "album_name": "Live At Maybeck Recital Hall Vol 16",
-            "recording_year": 1992,
-            "asset_path": "hank_jones_003_057"
-        },
-        {
-            "track_name": "59. Round Midnight  Live At Maybeck Recital Hall Berkeley CA  November 11 1991",
-            "album_name": "Live At Maybeck Recital Hall Vol 16",
-            "recording_year": 1992,
-            "asset_path": "hank_jones_003_058"
-        },
-        {
-            "track_name": "60. My Heart Stood Still",
+            "track_name": "21. What Am I Here For (2 appearances)",
             "album_name": "SOLO 1976 A Tribute to Duke Ellington",
             "recording_year": 2010,
-            "asset_path": "hank_jones_003_059"
+            "asset_path": "hank_jones_001_060",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "61. What Am I Here For",
+            "track_name": "22. What Am I Here For (2 appearances)",
             "album_name": "SOLO 1976 A Tribute to Duke Ellington",
             "recording_year": 2010,
-            "asset_path": "hank_jones_003_060"
+            "asset_path": "hank_jones_001_061",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "62. What Am I Here For",
-            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
-            "recording_year": 2010,
-            "asset_path": "hank_jones_003_061"
-        },
-        {
-            "track_name": "63. Rockin in Rhythm",
-            "album_name": "The Touch",
-            "recording_year": "1989",
-            "asset_path": "hank_jones_003_062"
-        },
-        {
-            "track_name": "64. Rockin in Rhythm",
-            "album_name": "The Touch",
-            "recording_year": "1989",
-            "asset_path": "hank_jones_003_063"
-        },
-        {
-            "track_name": "65. Memories Of You  Live At Maybeck Recital Hall Berkeley CA  November 11 1991",
+            "track_name": "23. Memories Of You  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (2 appearances)",
             "album_name": "Live At Maybeck Recital Hall Vol 16",
             "recording_year": 1992,
-            "asset_path": "hank_jones_003_064"
+            "asset_path": "hank_jones_001_065",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "66. Memories Of You  Live At Maybeck Recital Hall Berkeley CA  November 11 1991",
-            "album_name": "Live At Maybeck Recital Hall Vol 16",
-            "recording_year": 1992,
-            "asset_path": "hank_jones_003_065"
-        },
-        {
-            "track_name": "67. Memories Of You  Live At Maybeck Recital Hall Berkeley CA  November 11 1991",
-            "album_name": "Live At Maybeck Recital Hall Vol 16",
-            "recording_year": 1992,
-            "asset_path": "hank_jones_003_066"
-        },
-        {
-            "track_name": "68. Bloomdido",
+            "track_name": "24. Bloomdido (2 appearances)",
             "album_name": "Bop Redux  Groovin High",
             "recording_year": "1977",
-            "asset_path": "hank_jones_003_067"
+            "asset_path": "hank_jones_001_068",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "69. Bloomdido",
+            "track_name": "25. Its The Talk Of The Town  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (2 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_001_074",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "26. Gone With The Wind (2 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_001_077",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "27. You Feets Too Big  Instrumental (2 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_001_083",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "28. I Guess Ill Have To Change My Plan  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (2 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_001_088",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "29. Believe It Beloved  Instrumental (2 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_001_090",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "30. How Ya Baby   Instrumental (2 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_001_101",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "31. Moose the Mooche (2 appearances)",
             "album_name": "Bop Redux  Groovin High",
             "recording_year": "1977",
-            "asset_path": "hank_jones_003_068"
+            "asset_path": "hank_jones_001_110",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "70. Bloomdido",
-            "album_name": "Bop Redux  Groovin High",
-            "recording_year": "1977",
-            "asset_path": "hank_jones_003_069"
+            "track_name": "32. Mighty Cool Penthouse (1 appearances)",
+            "album_name": "The Man Complete Recordings 19461959",
+            "recording_year": "1956",
+            "asset_path": "hank_jones_001_001",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "71. Jacobs Ladder",
-            "album_name": "The Oracle",
-            "recording_year": "1989",
-            "asset_path": "hank_jones_003_070"
-        },
-        {
-            "track_name": "72. Keeping Out Of Mischief Now  Instrumental",
-            "album_name": "Handful Of Keys",
-            "recording_year": 1992,
-            "asset_path": "hank_jones_003_071"
-        },
-        {
-            "track_name": "73. Keeping Out Of Mischief Now  Instrumental",
-            "album_name": "Handful Of Keys",
-            "recording_year": 1992,
-            "asset_path": "hank_jones_003_072"
-        },
-        {
-            "track_name": "74. Keeping Out Of Mischief Now  Instrumental",
-            "album_name": "Handful Of Keys",
-            "recording_year": 1992,
-            "asset_path": "hank_jones_003_073"
-        },
-        {
-            "track_name": "75. Its The Talk Of The Town  Live At Maybeck Recital Hall Berkeley CA  November 11 1991",
-            "album_name": "Live At Maybeck Recital Hall Vol 16",
-            "recording_year": 1992,
-            "asset_path": "hank_jones_003_074"
-        },
-        {
-            "track_name": "76. Its The Talk Of The Town  Live At Maybeck Recital Hall Berkeley CA  November 11 1991",
-            "album_name": "Live At Maybeck Recital Hall Vol 16",
-            "recording_year": 1992,
-            "asset_path": "hank_jones_003_075"
-        },
-        {
-            "track_name": "77. Its The Talk Of The Town  Live At Maybeck Recital Hall Berkeley CA  November 11 1991",
-            "album_name": "Live At Maybeck Recital Hall Vol 16",
-            "recording_year": 1992,
-            "asset_path": "hank_jones_003_076"
-        },
-        {
-            "track_name": "78. Gone With The Wind",
+            "track_name": "33. Prelude To A Kiss (1 appearances)",
             "album_name": "SOLO 1976 A Tribute to Duke Ellington",
             "recording_year": 2010,
-            "asset_path": "hank_jones_003_077"
+            "asset_path": "hank_jones_001_002",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "79. Gone With The Wind",
+            "track_name": "34. Prelude To A Kiss (1 appearances)",
             "album_name": "SOLO 1976 A Tribute to Duke Ellington",
             "recording_year": 2010,
-            "asset_path": "hank_jones_003_078"
+            "asset_path": "hank_jones_001_004",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "80. Gone With The Wind",
-            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
-            "recording_year": 2010,
-            "asset_path": "hank_jones_003_079"
-        },
-        {
-            "track_name": "81. The Very Thought Of You  Live At Maybeck Recital Hall Berkeley CA  November 11 1991",
-            "album_name": "Live At Maybeck Recital Hall Vol 16",
-            "recording_year": 1992,
-            "asset_path": "hank_jones_003_080"
-        },
-        {
-            "track_name": "82. The Very Thought Of You  Live At Maybeck Recital Hall Berkeley CA  November 11 1991",
-            "album_name": "Live At Maybeck Recital Hall Vol 16",
-            "recording_year": 1992,
-            "asset_path": "hank_jones_003_081"
-        },
-        {
-            "track_name": "83. The Very Thought Of You  Live At Maybeck Recital Hall Berkeley CA  November 11 1991",
-            "album_name": "Live At Maybeck Recital Hall Vol 16",
-            "recording_year": 1992,
-            "asset_path": "hank_jones_003_082"
-        },
-        {
-            "track_name": "84. You Feets Too Big  Instrumental",
-            "album_name": "Handful Of Keys",
-            "recording_year": 1992,
-            "asset_path": "hank_jones_003_083"
-        },
-        {
-            "track_name": "85. You Feets Too Big  Instrumental",
-            "album_name": "Handful Of Keys",
-            "recording_year": 1992,
-            "asset_path": "hank_jones_003_084"
-        },
-        {
-            "track_name": "86. Just Squeeze Me",
-            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
-            "recording_year": 2010,
-            "asset_path": "hank_jones_003_085"
-        },
-        {
-            "track_name": "87. Oh Look At Me Now",
-            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
-            "recording_year": 2010,
-            "asset_path": "hank_jones_003_086"
-        },
-        {
-            "track_name": "88. I Guess Ill Have To Change My Plan  Live At Maybeck Recital Hall Berkeley CA  November 11 1991",
-            "album_name": "Live At Maybeck Recital Hall Vol 16",
-            "recording_year": 1992,
-            "asset_path": "hank_jones_003_087"
-        },
-        {
-            "track_name": "89. I Guess Ill Have To Change My Plan  Live At Maybeck Recital Hall Berkeley CA  November 11 1991",
-            "album_name": "Live At Maybeck Recital Hall Vol 16",
-            "recording_year": 1992,
-            "asset_path": "hank_jones_003_088"
-        },
-        {
-            "track_name": "90. Believe It Beloved  Instrumental",
-            "album_name": "Handful Of Keys",
-            "recording_year": 1992,
-            "asset_path": "hank_jones_003_089"
-        },
-        {
-            "track_name": "91. Believe It Beloved  Instrumental",
-            "album_name": "Handful Of Keys",
-            "recording_year": 1992,
-            "asset_path": "hank_jones_003_090"
-        },
-        {
-            "track_name": "92. Believe It Beloved  Instrumental",
-            "album_name": "Handful Of Keys",
-            "recording_year": 1992,
-            "asset_path": "hank_jones_003_091"
-        },
-        {
-            "track_name": "93. Reunion",
+            "track_name": "35. Lullaby of the Leaves (1 appearances)",
             "album_name": "The Trio",
             "recording_year": "1977",
-            "asset_path": "hank_jones_003_092"
+            "asset_path": "hank_jones_001_005",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "94. Satin Doll",
-            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
-            "recording_year": 2010,
-            "asset_path": "hank_jones_003_093"
-        },
-        {
-            "track_name": "95. Satin Doll",
-            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
-            "recording_year": 2010,
-            "asset_path": "hank_jones_003_094"
-        },
-        {
-            "track_name": "96. Satin Doll",
-            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
-            "recording_year": 2010,
-            "asset_path": "hank_jones_003_095"
-        },
-        {
-            "track_name": "97. Young No More",
-            "album_name": "I Remember You",
+            "track_name": "36. Ill Remember April (1 appearances)",
+            "album_name": "The Trio",
             "recording_year": "1977",
-            "asset_path": "hank_jones_003_096"
+            "asset_path": "hank_jones_001_006",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "98. Squeeze Me  Instrumental",
+            "track_name": "37. Im More Than Satisfied  Instrumental (1 appearances)",
             "album_name": "Handful Of Keys",
             "recording_year": 1992,
-            "asset_path": "hank_jones_003_097"
+            "asset_path": "hank_jones_001_007",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "99. Squeeze Me  Instrumental",
+            "track_name": "38. Aint Misbehavin  Instrumental (1 appearances)",
             "album_name": "Handful Of Keys",
             "recording_year": 1992,
-            "asset_path": "hank_jones_003_098"
+            "asset_path": "hank_jones_001_009",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "100. Squeeze Me  Instrumental",
+            "track_name": "39. Aint Misbehavin  Instrumental (1 appearances)",
             "album_name": "Handful Of Keys",
             "recording_year": 1992,
-            "asset_path": "hank_jones_003_099"
+            "asset_path": "hank_jones_001_011",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "101. Dont Blame Me",
+            "track_name": "40. Confirmation (1 appearances)",
+            "album_name": "Bop Redux  Groovin High",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_001_015",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "41. Confirmation (1 appearances)",
+            "album_name": "Bop Redux  Groovin High",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_001_016",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "42. Confirmation (1 appearances)",
+            "album_name": "Bop Redux  Groovin High",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_001_017",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "43. Do Nothin Till You Hear From Me (1 appearances)",
             "album_name": "SOLO 1976 A Tribute to Duke Ellington",
             "recording_year": 2010,
-            "asset_path": "hank_jones_003_100"
+            "asset_path": "hank_jones_001_019",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "102. How Ya Baby   Instrumental",
-            "album_name": "Handful Of Keys",
-            "recording_year": 1992,
-            "asset_path": "hank_jones_003_101"
+            "track_name": "44. Do Nothin Till You Hear From Me (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_001_021",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "103. How Ya Baby   Instrumental",
-            "album_name": "Handful Of Keys",
-            "recording_year": 1992,
-            "asset_path": "hank_jones_003_102"
+            "track_name": "45. Do Nothin Till You Hear From Me (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_001_022",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "104. Oh Look At Me Now  Live",
+            "track_name": "46. Do Nothin Till You Hear From Me (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_001_023",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "47. Ill Remember April (1 appearances)",
+            "album_name": "Hank Jones Trio",
+            "recording_year": "1991",
+            "asset_path": "hank_jones_001_024",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "48. The Night We Called It A Day  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
             "album_name": "Live At Maybeck Recital Hall Vol 16",
             "recording_year": 1992,
-            "asset_path": "hank_jones_003_103"
+            "asset_path": "hank_jones_001_025",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "105. Dancing on the Ceiling",
+            "track_name": "49. The Night We Called It A Day  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_001_026",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "50. The Night We Called It A Day  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_001_028",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "51. Interface (1 appearances)",
+            "album_name": "The Oracle",
+            "recording_year": "1989",
+            "asset_path": "hank_jones_001_029",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "52. Opus de Funk (1 appearances)",
+            "album_name": "Last Recording",
+            "recording_year": "2010",
+            "asset_path": "hank_jones_001_030",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "53. Fly Me to the Moon (1 appearances)",
+            "album_name": "Last Recording",
+            "recording_year": "2010",
+            "asset_path": "hank_jones_001_032",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "54. Six  Four  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_001_034",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "55. Six  Four  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_001_035",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "56. Dat Dere (1 appearances)",
+            "album_name": "I Remember You",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_001_036",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "57. Dat Dere (1 appearances)",
+            "album_name": "I Remember You",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_001_037",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "58. Sunday  Instrumental (1 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_001_038",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "59. Oh What A Beautiful Mornin  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_001_039",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "60. Oh What A Beautiful Mornin  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_001_040",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "61. If I Had You (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_001_041",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "62. If I Had You (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_001_042",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "63. If I Had You (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_001_043",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "64. If I Had You (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_001_044",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "65. Hank You Thank (1 appearances)",
+            "album_name": "The Trio",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_001_047",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "66. Hank You Thank (1 appearances)",
+            "album_name": "The Trio",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_001_048",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "67. Hank You Thank (1 appearances)",
+            "album_name": "The Trio",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_001_049",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "68. Blue Monk  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_001_051",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "69. Blue Monk  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_001_052",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "70. Blue Monk  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_001_053",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "71. Speak Low (1 appearances)",
+            "album_name": "West of 5th",
+            "recording_year": "2006",
+            "asset_path": "hank_jones_001_054",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "72. Ive Got A Feeling Im Falling  Instrumental (1 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_001_055",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "73. Round Midnight  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_001_056",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "74. Round Midnight  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_001_057",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "75. Round Midnight  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_001_058",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "76. My Heart Stood Still (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_001_059",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "77. Rockin in Rhythm (1 appearances)",
             "album_name": "The Touch",
             "recording_year": "1989",
-            "asset_path": "hank_jones_003_104"
+            "asset_path": "hank_jones_001_062",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "106. Relaxin With Lee",
-            "album_name": "Bop Redux  Groovin High",
-            "recording_year": "1977",
-            "asset_path": "hank_jones_003_105"
-        },
-        {
-            "track_name": "107. Alone Together",
-            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
-            "recording_year": 2010,
-            "asset_path": "hank_jones_003_106"
-        },
-        {
-            "track_name": "108. Alone Together",
-            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
-            "recording_year": 2010,
-            "asset_path": "hank_jones_003_107"
-        },
-        {
-            "track_name": "109. Alone Together",
-            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
-            "recording_year": 2010,
-            "asset_path": "hank_jones_003_108"
-        },
-        {
-            "track_name": "110. Work Song",
+            "track_name": "78. Rockin in Rhythm (1 appearances)",
             "album_name": "The Touch",
             "recording_year": "1989",
-            "asset_path": "hank_jones_003_109"
+            "asset_path": "hank_jones_001_063",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "111. Moose the Mooche",
+            "track_name": "79. Memories Of You  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_001_064",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "80. Memories Of You  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_001_066",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "81. Bloomdido (1 appearances)",
             "album_name": "Bop Redux  Groovin High",
             "recording_year": "1977",
-            "asset_path": "hank_jones_003_110"
+            "asset_path": "hank_jones_001_067",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "82. Bloomdido (1 appearances)",
+            "album_name": "Bop Redux  Groovin High",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_001_069",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "83. Jacobs Ladder (1 appearances)",
+            "album_name": "The Oracle",
+            "recording_year": "1989",
+            "asset_path": "hank_jones_001_070",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "84. Keeping Out Of Mischief Now  Instrumental (1 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_001_071",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "85. Keeping Out Of Mischief Now  Instrumental (1 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_001_072",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "86. Keeping Out Of Mischief Now  Instrumental (1 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_001_073",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "87. Its The Talk Of The Town  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_001_075",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "88. Its The Talk Of The Town  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_001_076",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "89. Gone With The Wind (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_001_078",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "90. Gone With The Wind (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_001_079",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "91. The Very Thought Of You  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_001_081",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "92. Just Squeeze Me (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_001_085",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "93. Oh Look At Me Now (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_001_086",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "94. I Guess Ill Have To Change My Plan  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_001_087",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "95. Believe It Beloved  Instrumental (1 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_001_089",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "96. Reunion (1 appearances)",
+            "album_name": "The Trio",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_001_092",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "97. Satin Doll (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_001_093",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "98. Satin Doll (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_001_094",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "99. Satin Doll (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_001_095",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "100. Young No More (1 appearances)",
+            "album_name": "I Remember You",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_001_096",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "101. Squeeze Me  Instrumental (1 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_001_097",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "102. Squeeze Me  Instrumental (1 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_001_098",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "103. Dont Blame Me (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_001_100",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "104. How Ya Baby   Instrumental (1 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_001_102",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "105. Oh Look At Me Now  Live (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_001_103",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "106. Dancing on the Ceiling (1 appearances)",
+            "album_name": "The Touch",
+            "recording_year": "1989",
+            "asset_path": "hank_jones_001_104",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "107. Relaxin With Lee (1 appearances)",
+            "album_name": "Bop Redux  Groovin High",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_001_105",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "108. Alone Together (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_001_106",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "109. Alone Together (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_001_107",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "110. Alone Together (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_001_108",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "111. Work Song (1 appearances)",
+            "album_name": "The Touch",
+            "recording_year": "1989",
+            "asset_path": "hank_jones_001_109",
+            "n_appearances_in_track": 1
+        }
+    ],
+    "[2, -2, -1]": [
+        {
+            "track_name": "1. Yardbird Suite (4 appearances)",
+            "album_name": "Bop Redux  Groovin High",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_002_106",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "2. Moose the Mooche (4 appearances)",
+            "album_name": "Bop Redux  Groovin High",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_002_122",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "3. Arrival (3 appearances)",
+            "album_name": "The Touch",
+            "recording_year": "1989",
+            "asset_path": "hank_jones_002_032",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "4. Mighty Cool Penthouse (2 appearances)",
+            "album_name": "The Man Complete Recordings 19461959",
+            "recording_year": "1956",
+            "asset_path": "hank_jones_002_000",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "5. Prelude To A Kiss (2 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_002_001",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "6. Ill Remember April (2 appearances)",
+            "album_name": "The Trio",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_002_002",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "7. How Come You Do Me Like You Do  Instrumental (2 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_002_003",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "8. Aint Misbehavin  Instrumental (2 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_002_005",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "9. A Child Is Born  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (2 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_002_007",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "10. A Child Is Born  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (2 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_002_008",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "11. Confirmation (2 appearances)",
+            "album_name": "Bop Redux  Groovin High",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_002_009",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "12. What Is This Thing Called Love  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (2 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_002_017",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "13. I Cover The Waterfront  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (2 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_002_023",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "14. I Cover The Waterfront  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (2 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_002_024",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "15. Blue Monk  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (2 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_002_048",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "16. Round Midnight  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (2 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_002_056",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "17. My Heart Stood Still (2 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_002_063",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "18. Memories Of You  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (2 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_002_068",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "19. Bloomdido (2 appearances)",
+            "album_name": "Bop Redux  Groovin High",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_002_071",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "20. The Very Thought Of You  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (2 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_002_080",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "21. Sophisticated Lady (2 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_002_087",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "22. Reunion (2 appearances)",
+            "album_name": "The Trio",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_002_091",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "23. Dont Blame Me (2 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_002_097",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "24. Yardbird Suite (2 appearances)",
+            "album_name": "Bop Redux  Groovin High",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_002_105",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "25. Alone Together (2 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_002_113",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "26. Alone Together (2 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_002_114",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "27. Moose the Mooche (2 appearances)",
+            "album_name": "Bop Redux  Groovin High",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_002_121",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "28. How Come You Do Me Like You Do  Instrumental (1 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_002_004",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "29. Aint Misbehavin  Instrumental (1 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_002_006",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "30. Confirmation (1 appearances)",
+            "album_name": "Bop Redux  Groovin High",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_002_010",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "31. Confirmation (1 appearances)",
+            "album_name": "Bop Redux  Groovin High",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_002_011",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "32. Do Nothin Till You Hear From Me (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_002_012",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "33. Do Nothin Till You Hear From Me (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_002_013",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "34. Do Nothin Till You Hear From Me (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_002_014",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "35. What Is This Thing Called Love  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_002_015",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "36. What Is This Thing Called Love  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_002_016",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "37. What Is This Thing Called Love  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_002_018",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "38. What Is This Thing Called Love  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_002_019",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "39. The Night We Called It A Day  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_002_020",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "40. Interface (1 appearances)",
+            "album_name": "The Oracle",
+            "recording_year": "1989",
+            "asset_path": "hank_jones_002_021",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "41. I Cover The Waterfront  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_002_022",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "42. Bluesette  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_002_025",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "43. Bluesette  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_002_026",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "44. S Wonderful (1 appearances)",
+            "album_name": "The Trio",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_002_027",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "45. Comin Home Baby (1 appearances)",
+            "album_name": "The Touch",
+            "recording_year": "1989",
+            "asset_path": "hank_jones_002_028",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "46. Love Walked In (1 appearances)",
+            "album_name": "I Remember You",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_002_029",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "47. Scrapple From the Apple (1 appearances)",
+            "album_name": "Hank Jones Trio",
+            "recording_year": "1991",
+            "asset_path": "hank_jones_002_030",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "48. Arrival (1 appearances)",
+            "album_name": "The Touch",
+            "recording_year": "1989",
+            "asset_path": "hank_jones_002_031",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "49. Arrival (1 appearances)",
+            "album_name": "The Touch",
+            "recording_year": "1989",
+            "asset_path": "hank_jones_002_033",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "50. Moose the Mooche (1 appearances)",
+            "album_name": "Hank Jones Trio",
+            "recording_year": "1991",
+            "asset_path": "hank_jones_002_034",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "51. Six  Four  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_002_035",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "52. Stella by Starlight (1 appearances)",
+            "album_name": "West of 5th",
+            "recording_year": "2006",
+            "asset_path": "hank_jones_002_036",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "53. Dat Dere (1 appearances)",
+            "album_name": "I Remember You",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_002_037",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "54. If I Had You (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_002_038",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "55. If I Had You (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_002_039",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "56. If I Had You (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_002_040",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "57. If I Had You (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_002_041",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "58. If I Had You (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_002_042",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "59. Hank You Thank (1 appearances)",
+            "album_name": "The Trio",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_002_043",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "60. Hank You Thank (1 appearances)",
+            "album_name": "The Trio",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_002_044",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "61. Hank You Thank (1 appearances)",
+            "album_name": "The Trio",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_002_045",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "62. Blue Monk  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_002_046",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "63. Blue Monk  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_002_047",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "64. Blue Monk  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_002_049",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "65. Blue Monk  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_002_050",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "66. Ive Got A Feeling Im Falling  Instrumental (1 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_002_051",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "67. Ive Got A Feeling Im Falling  Instrumental (1 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_002_052",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "68. Round Midnight  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_002_053",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "69. Round Midnight  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_002_054",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "70. Round Midnight  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_002_055",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "71. Round Midnight  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_002_057",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "72. Round Midnight  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_002_058",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "73. My Heart Stood Still (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_002_059",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "74. My Heart Stood Still (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_002_060",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "75. My Heart Stood Still (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_002_061",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "76. My Heart Stood Still (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_002_062",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "77. Trane Connections (1 appearances)",
+            "album_name": "The Oracle",
+            "recording_year": "1989",
+            "asset_path": "hank_jones_002_064",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "78. Trane Connections (1 appearances)",
+            "album_name": "The Oracle",
+            "recording_year": "1989",
+            "asset_path": "hank_jones_002_065",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "79. Memories Of You  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_002_066",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "80. Memories Of You  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_002_067",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "81. Memories Of You  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_002_069",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "82. Bloomdido (1 appearances)",
+            "album_name": "Bop Redux  Groovin High",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_002_070",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "83. Bloomdido (1 appearances)",
+            "album_name": "Bop Redux  Groovin High",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_002_072",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "84. Honeysuckle Rose  Instrumental (1 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_002_073",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "85. Its The Talk Of The Town  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_002_074",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "86. Its The Talk Of The Town  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_002_075",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "87. Gone With The Wind (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_002_076",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "88. The Very Thought Of You  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_002_077",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "89. The Very Thought Of You  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_002_078",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "90. The Very Thought Of You  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_002_079",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "91. Confirmation (1 appearances)",
+            "album_name": "West of 5th",
+            "recording_year": "2006",
+            "asset_path": "hank_jones_002_081",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "92. Speak Low (1 appearances)",
+            "album_name": "Lazy Afternoon",
+            "recording_year": "1989",
+            "asset_path": "hank_jones_002_082",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "93. Just Squeeze Me (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_002_083",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "94. Oh Look At Me Now (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_002_084",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "95. Blue Monk (1 appearances)",
+            "album_name": "Hank Jones Trio",
+            "recording_year": "1991",
+            "asset_path": "hank_jones_002_085",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "96. Sophisticated Lady (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_002_086",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "97. I Guess Ill Have To Change My Plan  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_002_088",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "98. I Guess Ill Have To Change My Plan  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_002_089",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "99. Believe It Beloved  Instrumental (1 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_002_090",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "100. Satin Doll (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_002_092",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "101. Young No More (1 appearances)",
+            "album_name": "I Remember You",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_002_093",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "102. Young No More (1 appearances)",
+            "album_name": "I Remember You",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_002_094",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "103. Squeeze Me  Instrumental (1 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_002_095",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "104. Squeeze Me  Instrumental (1 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_002_096",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "105. Theres a Small Hotel (1 appearances)",
+            "album_name": "Have You Met This Jones",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_002_098",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "106. Theres a Small Hotel (1 appearances)",
+            "album_name": "Have You Met This Jones",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_002_099",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "107. Oh Look At Me Now  Live (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_002_100",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "108. Oh Look At Me Now  Live (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_002_101",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "109. Oh Look At Me Now  Live (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_002_102",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "110. Dancing on the Ceiling (1 appearances)",
+            "album_name": "The Touch",
+            "recording_year": "1989",
+            "asset_path": "hank_jones_002_103",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "111. Dancing on the Ceiling (1 appearances)",
+            "album_name": "The Touch",
+            "recording_year": "1989",
+            "asset_path": "hank_jones_002_104",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "112. Yardbird Suite (1 appearances)",
+            "album_name": "Bop Redux  Groovin High",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_002_107",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "113. Relaxin With Lee (1 appearances)",
+            "album_name": "Bop Redux  Groovin High",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_002_108",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "114. Relaxin With Lee (1 appearances)",
+            "album_name": "Bop Redux  Groovin High",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_002_109",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "115. Relaxin With Lee (1 appearances)",
+            "album_name": "Bop Redux  Groovin High",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_002_110",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "116. Relaxin With Lee (1 appearances)",
+            "album_name": "Bop Redux  Groovin High",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_002_111",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "117. Alone Together (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_002_112",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "118. Alone Together (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_002_115",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "119. Work Song (1 appearances)",
+            "album_name": "The Touch",
+            "recording_year": "1989",
+            "asset_path": "hank_jones_002_116",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "120. Work Song (1 appearances)",
+            "album_name": "The Touch",
+            "recording_year": "1989",
+            "asset_path": "hank_jones_002_117",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "121. What Did I Do To Be So Black And Blue  Instrumental (1 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_002_118",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "122. What Did I Do To Be So Black And Blue  Instrumental (1 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_002_119",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "123. Moose the Mooche (1 appearances)",
+            "album_name": "Bop Redux  Groovin High",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_002_120",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "124. Like Someone in Love (1 appearances)",
+            "album_name": "I Remember You",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_002_123",
+            "n_appearances_in_track": 1
         }
     ],
     "[1, 3, -2]": [
         {
-            "track_name": "1. The Jitterbug Waltz  Instrumental",
-            "album_name": "Handful Of Keys",
-            "recording_year": 1992,
-            "asset_path": "hank_jones_004_000"
-        },
-        {
-            "track_name": "2. Lullaby of the Leaves",
-            "album_name": "The Trio",
-            "recording_year": "1977",
-            "asset_path": "hank_jones_004_001"
-        },
-        {
-            "track_name": "3. Ill Remember April",
-            "album_name": "The Trio",
-            "recording_year": "1977",
-            "asset_path": "hank_jones_004_002"
-        },
-        {
-            "track_name": "4. Ill Remember April",
-            "album_name": "The Trio",
-            "recording_year": "1977",
-            "asset_path": "hank_jones_004_003"
-        },
-        {
-            "track_name": "5. A Child Is Born  Live At Maybeck Recital Hall Berkeley CA  November 11 1991",
-            "album_name": "Live At Maybeck Recital Hall Vol 16",
-            "recording_year": 1992,
-            "asset_path": "hank_jones_004_004"
-        },
-        {
-            "track_name": "6. A Child Is Born  Live At Maybeck Recital Hall Berkeley CA  November 11 1991",
-            "album_name": "Live At Maybeck Recital Hall Vol 16",
-            "recording_year": 1992,
-            "asset_path": "hank_jones_004_005"
-        },
-        {
-            "track_name": "7. A Child Is Born  Live At Maybeck Recital Hall Berkeley CA  November 11 1991",
-            "album_name": "Live At Maybeck Recital Hall Vol 16",
-            "recording_year": 1992,
-            "asset_path": "hank_jones_004_006"
-        },
-        {
-            "track_name": "8. Confirmation",
-            "album_name": "Bop Redux  Groovin High",
-            "recording_year": "1977",
-            "asset_path": "hank_jones_004_007"
-        },
-        {
-            "track_name": "9. Confirmation",
-            "album_name": "Bop Redux  Groovin High",
-            "recording_year": "1977",
-            "asset_path": "hank_jones_004_008"
-        },
-        {
-            "track_name": "10. Do Nothin Till You Hear From Me",
+            "track_name": "1. Do Nothin Till You Hear From Me (4 appearances)",
             "album_name": "SOLO 1976 A Tribute to Duke Ellington",
             "recording_year": 2010,
-            "asset_path": "hank_jones_004_009"
+            "asset_path": "hank_jones_003_011",
+            "n_appearances_in_track": 4
         },
         {
-            "track_name": "11. Do Nothin Till You Hear From Me",
+            "track_name": "2. Gone With The Wind (3 appearances)",
             "album_name": "SOLO 1976 A Tribute to Duke Ellington",
             "recording_year": 2010,
-            "asset_path": "hank_jones_004_010"
+            "asset_path": "hank_jones_003_039",
+            "n_appearances_in_track": 3
         },
         {
-            "track_name": "12. Do Nothin Till You Hear From Me",
+            "track_name": "3. A Child Is Born  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (2 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_003_006",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "4. Do Nothin Till You Hear From Me (2 appearances)",
             "album_name": "SOLO 1976 A Tribute to Duke Ellington",
             "recording_year": 2010,
-            "asset_path": "hank_jones_004_011"
+            "asset_path": "hank_jones_003_009",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "13. Do Nothin Till You Hear From Me",
-            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
-            "recording_year": 2010,
-            "asset_path": "hank_jones_004_012"
-        },
-        {
-            "track_name": "14. Do Nothin Till You Hear From Me",
-            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
-            "recording_year": 2010,
-            "asset_path": "hank_jones_004_013"
-        },
-        {
-            "track_name": "15. What Is This Thing Called Love  Live At Maybeck Recital Hall Berkeley CA  November 11 1991",
-            "album_name": "Live At Maybeck Recital Hall Vol 16",
-            "recording_year": 1992,
-            "asset_path": "hank_jones_004_014"
-        },
-        {
-            "track_name": "16. The Night We Called It A Day  Live At Maybeck Recital Hall Berkeley CA  November 11 1991",
-            "album_name": "Live At Maybeck Recital Hall Vol 16",
-            "recording_year": 1992,
-            "asset_path": "hank_jones_004_015"
-        },
-        {
-            "track_name": "17. I Cover The Waterfront  Live At Maybeck Recital Hall Berkeley CA  November 11 1991",
-            "album_name": "Live At Maybeck Recital Hall Vol 16",
-            "recording_year": 1992,
-            "asset_path": "hank_jones_004_016"
-        },
-        {
-            "track_name": "18. Bluesette  Live At Maybeck Recital Hall Berkeley CA  November 11 1991",
-            "album_name": "Live At Maybeck Recital Hall Vol 16",
-            "recording_year": 1992,
-            "asset_path": "hank_jones_004_017"
-        },
-        {
-            "track_name": "19. Comin Home Baby",
-            "album_name": "The Touch",
-            "recording_year": "1989",
-            "asset_path": "hank_jones_004_018"
-        },
-        {
-            "track_name": "20. Arrival",
-            "album_name": "The Touch",
-            "recording_year": "1989",
-            "asset_path": "hank_jones_004_019"
-        },
-        {
-            "track_name": "21. Six  Four  Live At Maybeck Recital Hall Berkeley CA  November 11 1991",
-            "album_name": "Live At Maybeck Recital Hall Vol 16",
-            "recording_year": 1992,
-            "asset_path": "hank_jones_004_020"
-        },
-        {
-            "track_name": "22. Six  Four  Live At Maybeck Recital Hall Berkeley CA  November 11 1991",
-            "album_name": "Live At Maybeck Recital Hall Vol 16",
-            "recording_year": 1992,
-            "asset_path": "hank_jones_004_021"
-        },
-        {
-            "track_name": "23. Dat Dere",
-            "album_name": "I Remember You",
-            "recording_year": "1977",
-            "asset_path": "hank_jones_004_022"
-        },
-        {
-            "track_name": "24. Oh What A Beautiful Mornin  Live At Maybeck Recital Hall Berkeley CA  November 11 1991",
-            "album_name": "Live At Maybeck Recital Hall Vol 16",
-            "recording_year": 1992,
-            "asset_path": "hank_jones_004_023"
-        },
-        {
-            "track_name": "25. If I Had You",
-            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
-            "recording_year": 2010,
-            "asset_path": "hank_jones_004_024"
-        },
-        {
-            "track_name": "26. If I Had You",
-            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
-            "recording_year": 2010,
-            "asset_path": "hank_jones_004_025"
-        },
-        {
-            "track_name": "27. If I Had You",
-            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
-            "recording_year": 2010,
-            "asset_path": "hank_jones_004_026"
-        },
-        {
-            "track_name": "28. Nows the Time",
-            "album_name": "Have You Met This Jones",
-            "recording_year": "1977",
-            "asset_path": "hank_jones_004_027"
-        },
-        {
-            "track_name": "29. Nows the Time",
-            "album_name": "Have You Met This Jones",
-            "recording_year": "1977",
-            "asset_path": "hank_jones_004_028"
-        },
-        {
-            "track_name": "30. Hank You Thank",
-            "album_name": "The Trio",
-            "recording_year": "1977",
-            "asset_path": "hank_jones_004_029"
-        },
-        {
-            "track_name": "31. Speak Low",
-            "album_name": "West of 5th",
-            "recording_year": "2006",
-            "asset_path": "hank_jones_004_030"
-        },
-        {
-            "track_name": "32. Trane Connections",
+            "track_name": "5. Trane Connections (2 appearances)",
             "album_name": "The Oracle",
             "recording_year": "1989",
-            "asset_path": "hank_jones_004_031"
+            "asset_path": "hank_jones_003_031",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "33. What Am I Here For",
+            "track_name": "6. What Am I Here For (2 appearances)",
             "album_name": "SOLO 1976 A Tribute to Duke Ellington",
             "recording_year": 2010,
-            "asset_path": "hank_jones_004_032"
+            "asset_path": "hank_jones_003_032",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "34. What Am I Here For",
-            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
-            "recording_year": 2010,
-            "asset_path": "hank_jones_004_033"
-        },
-        {
-            "track_name": "35. What Am I Here For",
-            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
-            "recording_year": 2010,
-            "asset_path": "hank_jones_004_034"
-        },
-        {
-            "track_name": "36. Memories Of You  Live At Maybeck Recital Hall Berkeley CA  November 11 1991",
+            "track_name": "7. Memories Of You  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (2 appearances)",
             "album_name": "Live At Maybeck Recital Hall Vol 16",
             "recording_year": 1992,
-            "asset_path": "hank_jones_004_035"
+            "asset_path": "hank_jones_003_035",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "37. Bloomdido",
-            "album_name": "Bop Redux  Groovin High",
-            "recording_year": "1977",
-            "asset_path": "hank_jones_004_036"
-        },
-        {
-            "track_name": "38. Its The Talk Of The Town  Live At Maybeck Recital Hall Berkeley CA  November 11 1991",
-            "album_name": "Live At Maybeck Recital Hall Vol 16",
-            "recording_year": 1992,
-            "asset_path": "hank_jones_004_037"
-        },
-        {
-            "track_name": "39. Gone With The Wind",
+            "track_name": "8. Gone With The Wind (2 appearances)",
             "album_name": "SOLO 1976 A Tribute to Duke Ellington",
             "recording_year": 2010,
-            "asset_path": "hank_jones_004_038"
+            "asset_path": "hank_jones_003_038",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "40. Gone With The Wind",
-            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
-            "recording_year": 2010,
-            "asset_path": "hank_jones_004_039"
-        },
-        {
-            "track_name": "41. You Feets Too Big  Instrumental",
+            "track_name": "9. The Jitterbug Waltz  Instrumental (1 appearances)",
             "album_name": "Handful Of Keys",
             "recording_year": 1992,
-            "asset_path": "hank_jones_004_040"
+            "asset_path": "hank_jones_003_000",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "42. Just Squeeze Me",
-            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
-            "recording_year": 2010,
-            "asset_path": "hank_jones_004_041"
-        },
-        {
-            "track_name": "43. Just Squeeze Me",
-            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
-            "recording_year": 2010,
-            "asset_path": "hank_jones_004_042"
-        },
-        {
-            "track_name": "44. Oh Look At Me Now",
-            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
-            "recording_year": 2010,
-            "asset_path": "hank_jones_004_043"
-        },
-        {
-            "track_name": "45. Sophisticated Lady",
-            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
-            "recording_year": 2010,
-            "asset_path": "hank_jones_004_044"
-        },
-        {
-            "track_name": "46. Satin Doll",
-            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
-            "recording_year": 2010,
-            "asset_path": "hank_jones_004_045"
-        },
-        {
-            "track_name": "47. Satin Doll",
-            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
-            "recording_year": 2010,
-            "asset_path": "hank_jones_004_046"
-        },
-        {
-            "track_name": "48. Young No More",
-            "album_name": "I Remember You",
+            "track_name": "10. Lullaby of the Leaves (1 appearances)",
+            "album_name": "The Trio",
             "recording_year": "1977",
-            "asset_path": "hank_jones_004_047"
+            "asset_path": "hank_jones_003_001",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "49. Dont Blame Me",
-            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
-            "recording_year": 2010,
-            "asset_path": "hank_jones_004_048"
-        },
-        {
-            "track_name": "50. Dont Blame Me",
-            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
-            "recording_year": 2010,
-            "asset_path": "hank_jones_004_049"
-        },
-        {
-            "track_name": "51. Dont Blame Me",
-            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
-            "recording_year": 2010,
-            "asset_path": "hank_jones_004_050"
-        },
-        {
-            "track_name": "52. Theres a Small Hotel",
-            "album_name": "Have You Met This Jones",
+            "track_name": "11. Ill Remember April (1 appearances)",
+            "album_name": "The Trio",
             "recording_year": "1977",
-            "asset_path": "hank_jones_004_051"
+            "asset_path": "hank_jones_003_002",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "53. Oh Look At Me Now  Live",
+            "track_name": "12. Ill Remember April (1 appearances)",
+            "album_name": "The Trio",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_003_003",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "13. A Child Is Born  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
             "album_name": "Live At Maybeck Recital Hall Vol 16",
             "recording_year": 1992,
-            "asset_path": "hank_jones_004_052"
+            "asset_path": "hank_jones_003_004",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "54. Alone Together",
+            "track_name": "14. A Child Is Born  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_003_005",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "15. Confirmation (1 appearances)",
+            "album_name": "Bop Redux  Groovin High",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_003_007",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "16. Confirmation (1 appearances)",
+            "album_name": "Bop Redux  Groovin High",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_003_008",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "17. Do Nothin Till You Hear From Me (1 appearances)",
             "album_name": "SOLO 1976 A Tribute to Duke Ellington",
             "recording_year": 2010,
-            "asset_path": "hank_jones_004_053"
+            "asset_path": "hank_jones_003_010",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "55. Alone Together",
+            "track_name": "18. Do Nothin Till You Hear From Me (1 appearances)",
             "album_name": "SOLO 1976 A Tribute to Duke Ellington",
             "recording_year": 2010,
-            "asset_path": "hank_jones_004_054"
+            "asset_path": "hank_jones_003_012",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "56. Work Song",
+            "track_name": "19. Do Nothin Till You Hear From Me (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_003_013",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "20. What Is This Thing Called Love  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_003_014",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "21. The Night We Called It A Day  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_003_015",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "22. I Cover The Waterfront  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_003_016",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "23. Bluesette  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_003_017",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "24. Comin Home Baby (1 appearances)",
             "album_name": "The Touch",
             "recording_year": "1989",
-            "asset_path": "hank_jones_004_055"
+            "asset_path": "hank_jones_003_018",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "57. What Did I Do To Be So Black And Blue  Instrumental",
+            "track_name": "25. Arrival (1 appearances)",
+            "album_name": "The Touch",
+            "recording_year": "1989",
+            "asset_path": "hank_jones_003_019",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "26. Six  Four  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_003_020",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "27. Six  Four  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_003_021",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "28. Dat Dere (1 appearances)",
+            "album_name": "I Remember You",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_003_022",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "29. Oh What A Beautiful Mornin  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_003_023",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "30. If I Had You (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_003_024",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "31. If I Had You (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_003_025",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "32. If I Had You (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_003_026",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "33. Nows the Time (1 appearances)",
+            "album_name": "Have You Met This Jones",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_003_027",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "34. Nows the Time (1 appearances)",
+            "album_name": "Have You Met This Jones",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_003_028",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "35. Hank You Thank (1 appearances)",
+            "album_name": "The Trio",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_003_029",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "36. Speak Low (1 appearances)",
+            "album_name": "West of 5th",
+            "recording_year": "2006",
+            "asset_path": "hank_jones_003_030",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "37. What Am I Here For (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_003_033",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "38. What Am I Here For (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_003_034",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "39. Bloomdido (1 appearances)",
+            "album_name": "Bop Redux  Groovin High",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_003_036",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "40. Its The Talk Of The Town  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_003_037",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "41. You Feets Too Big  Instrumental (1 appearances)",
             "album_name": "Handful Of Keys",
             "recording_year": 1992,
-            "asset_path": "hank_jones_004_056"
+            "asset_path": "hank_jones_003_040",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "58. Moose the Mooche",
-            "album_name": "Bop Redux  Groovin High",
-            "recording_year": "1977",
-            "asset_path": "hank_jones_004_057"
+            "track_name": "42. Just Squeeze Me (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_003_041",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "59. Moose the Mooche",
+            "track_name": "43. Just Squeeze Me (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_003_042",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "44. Oh Look At Me Now (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_003_043",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "45. Sophisticated Lady (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_003_044",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "46. Satin Doll (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_003_045",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "47. Satin Doll (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_003_046",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "48. Young No More (1 appearances)",
+            "album_name": "I Remember You",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_003_047",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "49. Dont Blame Me (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_003_048",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "50. Dont Blame Me (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_003_049",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "51. Dont Blame Me (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_003_050",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "52. Theres a Small Hotel (1 appearances)",
+            "album_name": "Have You Met This Jones",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_003_051",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "53. Oh Look At Me Now  Live (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_003_052",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "54. Alone Together (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_003_053",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "55. Alone Together (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_003_054",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "56. Work Song (1 appearances)",
+            "album_name": "The Touch",
+            "recording_year": "1989",
+            "asset_path": "hank_jones_003_055",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "57. What Did I Do To Be So Black And Blue  Instrumental (1 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_003_056",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "58. Moose the Mooche (1 appearances)",
             "album_name": "Bop Redux  Groovin High",
             "recording_year": "1977",
-            "asset_path": "hank_jones_004_058"
+            "asset_path": "hank_jones_003_057",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "59. Moose the Mooche (1 appearances)",
+            "album_name": "Bop Redux  Groovin High",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_003_058",
+            "n_appearances_in_track": 1
+        }
+    ],
+    "[1, 1, 3, -3]": [
+        {
+            "track_name": "1. The Very Thought Of You  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (3 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_004_018",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "2. A Child Is Born  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (2 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_004_002",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "3. Confirmation (2 appearances)",
+            "album_name": "Bop Redux  Groovin High",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_004_003",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "4. The Night We Called It A Day  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (2 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_004_005",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "5. The Very Thought Of You (2 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_004_009",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "6. I Guess Ill Have To Change My Plan  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (2 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_004_022",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "7. The Jitterbug Waltz  Instrumental (1 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_004_000",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "8. Prelude To A Kiss (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_004_001",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "9. Confirmation (1 appearances)",
+            "album_name": "Bop Redux  Groovin High",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_004_004",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "10. The Night We Called It A Day  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_004_006",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "11. Opus de Funk (1 appearances)",
+            "album_name": "Last Recording",
+            "recording_year": "2010",
+            "asset_path": "hank_jones_004_007",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "12. I Cover The Waterfront  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_004_008",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "13. Oh What A Beautiful Mornin  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_004_010",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "14. Nows the Time (1 appearances)",
+            "album_name": "Have You Met This Jones",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_004_011",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "15. Hank You Thank (1 appearances)",
+            "album_name": "The Trio",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_004_012",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "16. Blue Monk  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_004_013",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "17. Speak Low (1 appearances)",
+            "album_name": "West of 5th",
+            "recording_year": "2006",
+            "asset_path": "hank_jones_004_014",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "18. My Heart Stood Still (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_004_015",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "19. Keeping Out Of Mischief Now  Instrumental (1 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_004_016",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "20. Keeping Out Of Mischief Now  Instrumental (1 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_004_017",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "21. The Very Thought Of You  Live At Maybeck Recital Hall Berkeley CA  November 11 1991 (1 appearances)",
+            "album_name": "Live At Maybeck Recital Hall Vol 16",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_004_019",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "22. You Feets Too Big  Instrumental (1 appearances)",
+            "album_name": "Handful Of Keys",
+            "recording_year": 1992,
+            "asset_path": "hank_jones_004_020",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "23. Oh Look At Me Now (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_004_021",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "24. Reunion (1 appearances)",
+            "album_name": "The Trio",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_004_023",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "25. Dont Blame Me (1 appearances)",
+            "album_name": "SOLO 1976 A Tribute to Duke Ellington",
+            "recording_year": 2010,
+            "asset_path": "hank_jones_004_024",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "26. Moose the Mooche (1 appearances)",
+            "album_name": "Bop Redux  Groovin High",
+            "recording_year": "1977",
+            "asset_path": "hank_jones_004_025",
+            "n_appearances_in_track": 1
         }
     ]
 }

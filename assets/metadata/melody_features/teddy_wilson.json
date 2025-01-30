@@ -1,354 +1,1706 @@
 {
-    "[-3, 7, -12]": [
+    "[1, 1, 1]": [
         {
-            "track_name": "1. Sophisticated Lady",
-            "album_name": "Alone",
-            "recording_year": 2017,
-            "asset_path": "teddy_wilson_000_000"
-        },
-        {
-            "track_name": "2. But Not for Me",
-            "album_name": "Alone",
-            "recording_year": 2017,
-            "asset_path": "teddy_wilson_000_001"
-        }
-    ],
-    "[8, -12, 1]": [
-        {
-            "track_name": "1. Rhythmatics",
+            "track_name": "1. Rhythmatics (15 appearances)",
             "album_name": "Solo Piano  The Keystone Transriptions",
             "recording_year": 1997,
-            "asset_path": "teddy_wilson_001_000"
+            "asset_path": "teddy_wilson_000_020",
+            "n_appearances_in_track": 15
         },
         {
-            "track_name": "2. The Duke",
-            "album_name": "And Then They Wrote",
-            "recording_year": "1959",
-            "asset_path": "teddy_wilson_001_001"
-        },
-        {
-            "track_name": "3. At Sundown",
-            "album_name": "Solo Piano  The Keystone Transriptions",
-            "recording_year": 1997,
-            "asset_path": "teddy_wilson_001_002"
-        },
-        {
-            "track_name": "4. Moon Glow",
+            "track_name": "2. Moon Glow (12 appearances)",
             "album_name": "Marian McPartlands Piano Jazz Radio Broadcast",
             "recording_year": 1993,
-            "asset_path": "teddy_wilson_001_003"
-        }
-    ],
-    "[9, -12, 11]": [
-        {
-            "track_name": "1. Ive Got the World on a String",
-            "album_name": "Three Little Words",
-            "recording_year": "1976",
-            "asset_path": "teddy_wilson_002_000"
+            "asset_path": "teddy_wilson_000_095",
+            "n_appearances_in_track": 12
         },
         {
-            "track_name": "2. The Moon Is Low",
+            "track_name": "3. In a Sentimental Mood  Dont Mean a Thing (10 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_000_034",
+            "n_appearances_in_track": 10
+        },
+        {
+            "track_name": "4. Medley (10 appearances)",
+            "album_name": "Marian McPartlands Piano Jazz Radio Broadcast",
+            "recording_year": 1993,
+            "asset_path": "teddy_wilson_000_048",
+            "n_appearances_in_track": 10
+        },
+        {
+            "track_name": "5. A Ghost Of A Chance (10 appearances)",
             "album_name": "Solo Piano  The Keystone Transriptions",
             "recording_year": 1997,
-            "asset_path": "teddy_wilson_002_001"
+            "asset_path": "teddy_wilson_000_080",
+            "n_appearances_in_track": 10
+        },
+        {
+            "track_name": "6. Lil Darling (9 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_000_006",
+            "n_appearances_in_track": 9
+        },
+        {
+            "track_name": "7. Moon Glow (9 appearances)",
+            "album_name": "Marian McPartlands Piano Jazz Radio Broadcast",
+            "recording_year": 1993,
+            "asset_path": "teddy_wilson_000_093",
+            "n_appearances_in_track": 9
+        },
+        {
+            "track_name": "8. In a Sentimental Mood  Dont Mean a Thing (8 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_000_031",
+            "n_appearances_in_track": 8
+        },
+        {
+            "track_name": "9. Lush Life  Take the A Train (7 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_000_055",
+            "n_appearances_in_track": 7
+        },
+        {
+            "track_name": "10. The Duke (6 appearances)",
+            "album_name": "And Then They Wrote",
+            "recording_year": "1959",
+            "asset_path": "teddy_wilson_000_051",
+            "n_appearances_in_track": 6
+        },
+        {
+            "track_name": "11. Moon Glow (6 appearances)",
+            "album_name": "Marian McPartlands Piano Jazz Radio Broadcast",
+            "recording_year": 1993,
+            "asset_path": "teddy_wilson_000_094",
+            "n_appearances_in_track": 6
+        },
+        {
+            "track_name": "12. The Little Things That Mean So Much (5 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_000_000",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "13. Lil Darling (5 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_000_007",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "14. Body and Soul (5 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_000_013",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "15. Chinatown My Chinatown (5 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_000_017",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "16. It Aint Necessarily So  Bess You Is My Woman  Summertime (5 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_000_043",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "17. Twilight Blue (5 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_000_054",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "18. Tea for Two (5 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_000_087",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "19. Moon Glow (5 appearances)",
+            "album_name": "Marian McPartlands Piano Jazz Radio Broadcast",
+            "recording_year": 1993,
+            "asset_path": "teddy_wilson_000_092",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "20. One Oclock Jump (4 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_000_009",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "21. One Oclock Jump (4 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_000_011",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "22. It Aint Necessarily So  Bess You Is My Woman  Summertime (4 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_000_042",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "23. Youre My Favorite Memory (4 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_000_046",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "24. Stompin At The Savoy (4 appearances)",
+            "album_name": "Marian McPartlands Piano Jazz Radio Broadcast",
+            "recording_year": 1993,
+            "asset_path": "teddy_wilson_000_061",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "25. I Cant Get Started  Moonglow (4 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_000_077",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "26. After Youve Gone (4 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_000_089",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "27. Moon Glow (4 appearances)",
+            "album_name": "Marian McPartlands Piano Jazz Radio Broadcast",
+            "recording_year": 1993,
+            "asset_path": "teddy_wilson_000_096",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "28. Lil Darling (3 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_000_005",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "29. Body and Soul (3 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_000_014",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "30. Body and Soul (3 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_000_015",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "31. Rhythmatics (3 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_000_018",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "32. Rhythmatics (3 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_000_019",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "33. Moonglow (3 appearances)",
+            "album_name": "Revisits the Goodman Years",
+            "recording_year": "1980",
+            "asset_path": "teddy_wilson_000_028",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "34. In a Sentimental Mood  Dont Mean a Thing (3 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_000_033",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "35. In a Sentimental Mood  Dont Mean a Thing (3 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_000_035",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "36. Youre My Favorite Memory (3 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_000_045",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "37. Medley (3 appearances)",
+            "album_name": "Marian McPartlands Piano Jazz Radio Broadcast",
+            "recording_year": 1993,
+            "asset_path": "teddy_wilson_000_049",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "38. Lush Life  Take the A Train (3 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_000_057",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "39. Almost Blues (3 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_000_058",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "40. Almost Blues (3 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_000_059",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "41. Afternoon Blues (3 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_000_064",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "42. Sunday (3 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_000_073",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "43. I Cant Get Started  Moonglow (3 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_000_076",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "44. I Cant Get Started  Moonglow (3 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_000_078",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "45. The Moon Is Low (3 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_000_091",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "46. Sweet Georgia Brown (2 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_000_003",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "47. Body and Soul (2 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_000_012",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "48. Chinatown My Chinatown (2 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_000_016",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "49. Tempo Positioned (2 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_000_023",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "50. Sugar (2 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_000_026",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "51. It Aint Necessarily So  Bess You Is My Woman  Summertime (2 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_000_037",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "52. It Aint Necessarily So  Bess You Is My Woman  Summertime (2 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_000_038",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "53. It Aint Necessarily So  Bess You Is My Woman  Summertime (2 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_000_040",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "54. More Than You Know (2 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_000_060",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "55. Afternoon Blues (2 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_000_063",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "56. Afternoon Blues (2 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_000_065",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "57. Afternoon Blues (2 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_000_066",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "58. Sweet Lorraine (2 appearances)",
+            "album_name": "Three Little Words",
+            "recording_year": "1976",
+            "asset_path": "teddy_wilson_000_067",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "59. At Sundown (2 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_000_068",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "60. At Sundown (2 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_000_069",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "61. At Sundown (2 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_000_070",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "62. Youll Be Sorry (2 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_000_071",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "63. Tea for Two (2 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_000_084",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "64. Tea for Two (2 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_000_085",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "65. Lady Be Good (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_000_001",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "66. Lady Be Good (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_000_002",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "67. Saint Louis Blues (1 appearances)",
+            "album_name": "Three Little Words",
+            "recording_year": "1976",
+            "asset_path": "teddy_wilson_000_004",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "68. One Oclock Jump (1 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_000_008",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "69. One Oclock Jump (1 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_000_010",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "70. Love Is The Sweetest Thing (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_000_021",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "71. Love Is The Sweetest Thing (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_000_022",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "72. Tempo Positioned (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_000_024",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "73. Sugar (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_000_025",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "74. Ive Got the World on a String (1 appearances)",
+            "album_name": "Three Little Words",
+            "recording_year": "1976",
+            "asset_path": "teddy_wilson_000_027",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "75. Rose Room (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_000_029",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "76. Rose Room (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_000_030",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "77. In a Sentimental Mood  Dont Mean a Thing (1 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_000_032",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "78. Minute Steak (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_000_036",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "79. It Aint Necessarily So  Bess You Is My Woman  Summertime (1 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_000_039",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "80. It Aint Necessarily So  Bess You Is My Woman  Summertime (1 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_000_041",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "81. Youre My Favorite Memory (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_000_044",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "82. Medley (1 appearances)",
+            "album_name": "Marian McPartlands Piano Jazz Radio Broadcast",
+            "recording_year": 1993,
+            "asset_path": "teddy_wilson_000_047",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "83. Medley (1 appearances)",
+            "album_name": "Marian McPartlands Piano Jazz Radio Broadcast",
+            "recording_year": 1993,
+            "asset_path": "teddy_wilson_000_050",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "84. Tuesday Jump (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_000_052",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "85. Tuesday Jump (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_000_053",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "86. Lush Life  Take the A Train (1 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_000_056",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "87. Stompin At The Savoy (1 appearances)",
+            "album_name": "Marian McPartlands Piano Jazz Radio Broadcast",
+            "recording_year": 1993,
+            "asset_path": "teddy_wilson_000_062",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "88. I Didnt Know What Time It Was (1 appearances)",
+            "album_name": "Three Little Words",
+            "recording_year": "1976",
+            "asset_path": "teddy_wilson_000_072",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "89. Sunday (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_000_074",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "90. Sunday (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_000_075",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "91. A Ghost Of A Chance (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_000_079",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "92. A Ghost Of A Chance (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_000_081",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "93. Tea for Two (1 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_000_082",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "94. Tea for Two (1 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_000_083",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "95. Tea for Two (1 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_000_086",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "96. After Youve Gone (1 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_000_088",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "97. Night And Day (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_000_090",
+            "n_appearances_in_track": 1
         }
     ],
     "[-4, -3, -3]": [
         {
-            "track_name": "1. Lady Be Good",
-            "album_name": "Solo Piano  The Keystone Transriptions",
-            "recording_year": 1997,
-            "asset_path": "teddy_wilson_003_000"
-        },
-        {
-            "track_name": "2. Why Shouldnt",
-            "album_name": "Solo Piano  The Keystone Transriptions",
-            "recording_year": 1997,
-            "asset_path": "teddy_wilson_003_001"
-        },
-        {
-            "track_name": "3. Sweet Georgia Brown",
-            "album_name": "Alone",
-            "recording_year": 2017,
-            "asset_path": "teddy_wilson_003_002"
-        },
-        {
-            "track_name": "4. Saint Louis Blues",
+            "track_name": "1. I Didnt Know What Time It Was (3 appearances)",
             "album_name": "Three Little Words",
             "recording_year": "1976",
-            "asset_path": "teddy_wilson_003_003"
+            "asset_path": "teddy_wilson_001_036",
+            "n_appearances_in_track": 3
         },
         {
-            "track_name": "5. Lil Darling",
+            "track_name": "2. Sweet Georgia Brown (2 appearances)",
             "album_name": "Alone",
             "recording_year": 2017,
-            "asset_path": "teddy_wilson_003_004"
+            "asset_path": "teddy_wilson_001_002",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "6. One Oclock Jump",
+            "track_name": "3. Rhythmatics (2 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_001_008",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "4. Tempo Positioned (2 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_001_011",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "5. Sophisticated Lady (2 appearances)",
             "album_name": "Alone",
             "recording_year": 2017,
-            "asset_path": "teddy_wilson_003_005"
+            "asset_path": "teddy_wilson_001_012",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "7. Body and Soul",
-            "album_name": "Alone",
-            "recording_year": 2017,
-            "asset_path": "teddy_wilson_003_006"
-        },
-        {
-            "track_name": "8. Rhythmatics",
+            "track_name": "6. Rose Room (2 appearances)",
             "album_name": "Solo Piano  The Keystone Transriptions",
             "recording_year": 1997,
-            "asset_path": "teddy_wilson_003_007"
+            "asset_path": "teddy_wilson_001_017",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "9. Rhythmatics",
-            "album_name": "Solo Piano  The Keystone Transriptions",
-            "recording_year": 1997,
-            "asset_path": "teddy_wilson_003_008"
-        },
-        {
-            "track_name": "10. Rhythmatics",
-            "album_name": "Solo Piano  The Keystone Transriptions",
-            "recording_year": 1997,
-            "asset_path": "teddy_wilson_003_009"
-        },
-        {
-            "track_name": "11. Tempo Positioned",
-            "album_name": "Solo Piano  The Keystone Transriptions",
-            "recording_year": 1997,
-            "asset_path": "teddy_wilson_003_010"
-        },
-        {
-            "track_name": "12. Tempo Positioned",
-            "album_name": "Solo Piano  The Keystone Transriptions",
-            "recording_year": 1997,
-            "asset_path": "teddy_wilson_003_011"
-        },
-        {
-            "track_name": "13. Sophisticated Lady",
-            "album_name": "Alone",
-            "recording_year": 2017,
-            "asset_path": "teddy_wilson_003_012"
-        },
-        {
-            "track_name": "14. But Not for Me",
-            "album_name": "Alone",
-            "recording_year": 2017,
-            "asset_path": "teddy_wilson_003_013"
-        },
-        {
-            "track_name": "15. Ive Got the World on a String",
-            "album_name": "Three Little Words",
-            "recording_year": "1976",
-            "asset_path": "teddy_wilson_003_014"
-        },
-        {
-            "track_name": "16. Rose Room",
-            "album_name": "Solo Piano  The Keystone Transriptions",
-            "recording_year": 1997,
-            "asset_path": "teddy_wilson_003_015"
-        },
-        {
-            "track_name": "17. Rose Room",
-            "album_name": "Solo Piano  The Keystone Transriptions",
-            "recording_year": 1997,
-            "asset_path": "teddy_wilson_003_016"
-        },
-        {
-            "track_name": "18. Rose Room",
-            "album_name": "Solo Piano  The Keystone Transriptions",
-            "recording_year": 1997,
-            "asset_path": "teddy_wilson_003_017"
-        },
-        {
-            "track_name": "19. In a Sentimental Mood  Dont Mean a Thing",
-            "album_name": "Alone",
-            "recording_year": 2017,
-            "asset_path": "teddy_wilson_003_018"
-        },
-        {
-            "track_name": "20. It Aint Necessarily So  Bess You Is My Woman  Summertime",
-            "album_name": "Alone",
-            "recording_year": 2017,
-            "asset_path": "teddy_wilson_003_019"
-        },
-        {
-            "track_name": "21. Youre My Favorite Memory",
-            "album_name": "Solo Piano  The Keystone Transriptions",
-            "recording_year": 1997,
-            "asset_path": "teddy_wilson_003_020"
-        },
-        {
-            "track_name": "22. Medley",
+            "track_name": "7. Medley (2 appearances)",
             "album_name": "Marian McPartlands Piano Jazz Radio Broadcast",
             "recording_year": 1993,
-            "asset_path": "teddy_wilson_003_021"
+            "asset_path": "teddy_wilson_001_021",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "23. Tuesday Jump",
-            "album_name": "Solo Piano  The Keystone Transriptions",
-            "recording_year": 1997,
-            "asset_path": "teddy_wilson_003_022"
-        },
-        {
-            "track_name": "24. Tuesday Jump",
-            "album_name": "Solo Piano  The Keystone Transriptions",
-            "recording_year": 1997,
-            "asset_path": "teddy_wilson_003_023"
-        },
-        {
-            "track_name": "25. Out Of Nowhere",
-            "album_name": "Solo Piano  The Keystone Transriptions",
-            "recording_year": 1997,
-            "asset_path": "teddy_wilson_003_024"
-        },
-        {
-            "track_name": "26. Out Of Nowhere",
-            "album_name": "Solo Piano  The Keystone Transriptions",
-            "recording_year": 1997,
-            "asset_path": "teddy_wilson_003_025"
-        },
-        {
-            "track_name": "27. Lush Life  Take the A Train",
+            "track_name": "8. Lush Life  Take the A Train (2 appearances)",
             "album_name": "Alone",
             "recording_year": 2017,
-            "asset_path": "teddy_wilson_003_026"
+            "asset_path": "teddy_wilson_001_026",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "28. Almost Blues",
-            "album_name": "Solo Piano  The Keystone Transriptions",
-            "recording_year": 1997,
-            "asset_path": "teddy_wilson_003_027"
-        },
-        {
-            "track_name": "29. Almost Blues",
-            "album_name": "Solo Piano  The Keystone Transriptions",
-            "recording_year": 1997,
-            "asset_path": "teddy_wilson_003_028"
-        },
-        {
-            "track_name": "30. More Than You Know",
-            "album_name": "Solo Piano  The Keystone Transriptions",
-            "recording_year": 1997,
-            "asset_path": "teddy_wilson_003_029"
-        },
-        {
-            "track_name": "31. Afternoon Blues",
-            "album_name": "Solo Piano  The Keystone Transriptions",
-            "recording_year": 1997,
-            "asset_path": "teddy_wilson_003_030"
-        },
-        {
-            "track_name": "32. At Sundown",
-            "album_name": "Solo Piano  The Keystone Transriptions",
-            "recording_year": 1997,
-            "asset_path": "teddy_wilson_003_031"
-        },
-        {
-            "track_name": "33. Youll Be Sorry",
-            "album_name": "Solo Piano  The Keystone Transriptions",
-            "recording_year": 1997,
-            "asset_path": "teddy_wilson_003_032"
-        },
-        {
-            "track_name": "34. Youll Be Sorry",
-            "album_name": "Solo Piano  The Keystone Transriptions",
-            "recording_year": 1997,
-            "asset_path": "teddy_wilson_003_033"
-        },
-        {
-            "track_name": "35. Summers End",
-            "album_name": "Solo Piano  The Keystone Transriptions",
-            "recording_year": 1997,
-            "asset_path": "teddy_wilson_003_034"
-        },
-        {
-            "track_name": "36. I Didnt Know What Time It Was",
+            "track_name": "9. I Didnt Know What Time It Was (2 appearances)",
             "album_name": "Three Little Words",
             "recording_year": "1976",
-            "asset_path": "teddy_wilson_003_035"
+            "asset_path": "teddy_wilson_001_035",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "37. I Didnt Know What Time It Was",
-            "album_name": "Three Little Words",
-            "recording_year": "1976",
-            "asset_path": "teddy_wilson_003_036"
-        },
-        {
-            "track_name": "38. Sunday",
+            "track_name": "10. Lady Be Good (1 appearances)",
             "album_name": "Solo Piano  The Keystone Transriptions",
             "recording_year": 1997,
-            "asset_path": "teddy_wilson_003_037"
+            "asset_path": "teddy_wilson_001_000",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "39. After Youve Gone",
+            "track_name": "11. Why Shouldnt (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_001_001",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "12. Saint Louis Blues (1 appearances)",
+            "album_name": "Three Little Words",
+            "recording_year": "1976",
+            "asset_path": "teddy_wilson_001_003",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "13. Lil Darling (1 appearances)",
             "album_name": "Alone",
             "recording_year": 2017,
-            "asset_path": "teddy_wilson_003_038"
+            "asset_path": "teddy_wilson_001_004",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "40. Night And Day",
+            "track_name": "14. One Oclock Jump (1 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_001_005",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "15. Body and Soul (1 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_001_006",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "16. Rhythmatics (1 appearances)",
             "album_name": "Solo Piano  The Keystone Transriptions",
             "recording_year": 1997,
-            "asset_path": "teddy_wilson_003_039"
+            "asset_path": "teddy_wilson_001_007",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "41. Night And Day",
+            "track_name": "17. Rhythmatics (1 appearances)",
             "album_name": "Solo Piano  The Keystone Transriptions",
             "recording_year": 1997,
-            "asset_path": "teddy_wilson_003_040"
+            "asset_path": "teddy_wilson_001_009",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "42. Moon Glow",
+            "track_name": "18. Tempo Positioned (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_001_010",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "19. But Not for Me (1 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_001_013",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "20. Ive Got the World on a String (1 appearances)",
+            "album_name": "Three Little Words",
+            "recording_year": "1976",
+            "asset_path": "teddy_wilson_001_014",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "21. Rose Room (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_001_015",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "22. Rose Room (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_001_016",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "23. In a Sentimental Mood  Dont Mean a Thing (1 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_001_018",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "24. It Aint Necessarily So  Bess You Is My Woman  Summertime (1 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_001_019",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "25. Youre My Favorite Memory (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_001_020",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "26. Tuesday Jump (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_001_022",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "27. Tuesday Jump (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_001_023",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "28. Out Of Nowhere (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_001_024",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "29. Out Of Nowhere (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_001_025",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "30. Almost Blues (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_001_027",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "31. Almost Blues (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_001_028",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "32. More Than You Know (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_001_029",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "33. Afternoon Blues (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_001_030",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "34. At Sundown (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_001_031",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "35. Youll Be Sorry (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_001_032",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "36. Youll Be Sorry (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_001_033",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "37. Summers End (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_001_034",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "38. Sunday (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_001_037",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "39. After Youve Gone (1 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_001_038",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "40. Night And Day (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_001_039",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "41. Night And Day (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_001_040",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "42. Moon Glow (1 appearances)",
             "album_name": "Marian McPartlands Piano Jazz Radio Broadcast",
             "recording_year": 1993,
-            "asset_path": "teddy_wilson_003_041"
+            "asset_path": "teddy_wilson_001_041",
+            "n_appearances_in_track": 1
         }
     ],
-    "[9, 1, 1]": [
+    "[1, 1, 1, 1]": [
         {
-            "track_name": "1. Lil Darling",
-            "album_name": "Alone",
-            "recording_year": 2017,
-            "asset_path": "teddy_wilson_004_000"
-        },
-        {
-            "track_name": "2. Body and Soul",
-            "album_name": "Alone",
-            "recording_year": 2017,
-            "asset_path": "teddy_wilson_004_001"
-        },
-        {
-            "track_name": "3. Rose Room",
+            "track_name": "1. Rhythmatics (12 appearances)",
             "album_name": "Solo Piano  The Keystone Transriptions",
             "recording_year": 1997,
-            "asset_path": "teddy_wilson_004_002"
+            "asset_path": "teddy_wilson_002_013",
+            "n_appearances_in_track": 12
         },
         {
-            "track_name": "4. Youre My Favorite Memory",
+            "track_name": "2. A Ghost Of A Chance (9 appearances)",
             "album_name": "Solo Piano  The Keystone Transriptions",
             "recording_year": 1997,
-            "asset_path": "teddy_wilson_004_003"
+            "asset_path": "teddy_wilson_002_041",
+            "n_appearances_in_track": 9
         },
         {
-            "track_name": "5. Medley",
+            "track_name": "3. Moon Glow (9 appearances)",
             "album_name": "Marian McPartlands Piano Jazz Radio Broadcast",
             "recording_year": 1993,
-            "asset_path": "teddy_wilson_004_004"
+            "asset_path": "teddy_wilson_002_049",
+            "n_appearances_in_track": 9
         },
         {
-            "track_name": "6. Lush Life  Take the A Train",
+            "track_name": "4. In a Sentimental Mood  Dont Mean a Thing (7 appearances)",
             "album_name": "Alone",
             "recording_year": 2017,
-            "asset_path": "teddy_wilson_004_005"
+            "asset_path": "teddy_wilson_002_017",
+            "n_appearances_in_track": 7
         },
         {
-            "track_name": "7. Moon Glow",
+            "track_name": "5. Medley (7 appearances)",
             "album_name": "Marian McPartlands Piano Jazz Radio Broadcast",
             "recording_year": 1993,
-            "asset_path": "teddy_wilson_004_006"
+            "asset_path": "teddy_wilson_002_024",
+            "n_appearances_in_track": 7
+        },
+        {
+            "track_name": "6. Moon Glow (6 appearances)",
+            "album_name": "Marian McPartlands Piano Jazz Radio Broadcast",
+            "recording_year": 1993,
+            "asset_path": "teddy_wilson_002_047",
+            "n_appearances_in_track": 6
+        },
+        {
+            "track_name": "7. In a Sentimental Mood  Dont Mean a Thing (5 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_002_015",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "8. Lush Life  Take the A Train (5 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_002_027",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "9. Lil Darling (4 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_002_002",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "10. Twilight Blue (4 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_002_026",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "11. The Little Things That Mean So Much (3 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_002_000",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "12. One Oclock Jump (3 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_002_005",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "13. Chinatown My Chinatown (3 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_002_010",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "14. Youre My Favorite Memory (3 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_002_023",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "15. The Duke (3 appearances)",
+            "album_name": "And Then They Wrote",
+            "recording_year": "1959",
+            "asset_path": "teddy_wilson_002_025",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "16. Tea for Two (3 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_002_043",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "17. Moon Glow (3 appearances)",
+            "album_name": "Marian McPartlands Piano Jazz Radio Broadcast",
+            "recording_year": 1993,
+            "asset_path": "teddy_wilson_002_046",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "18. Moon Glow (3 appearances)",
+            "album_name": "Marian McPartlands Piano Jazz Radio Broadcast",
+            "recording_year": 1993,
+            "asset_path": "teddy_wilson_002_048",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "19. Lil Darling (2 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_002_001",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "20. Lil Darling (2 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_002_003",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "21. Body and Soul (2 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_002_007",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "22. Body and Soul (2 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_002_008",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "23. Body and Soul (2 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_002_009",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "24. Rhythmatics (2 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_002_011",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "25. Moonglow (2 appearances)",
+            "album_name": "Revisits the Goodman Years",
+            "recording_year": "1980",
+            "asset_path": "teddy_wilson_002_014",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "26. In a Sentimental Mood  Dont Mean a Thing (2 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_002_016",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "27. In a Sentimental Mood  Dont Mean a Thing (2 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_002_018",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "28. It Aint Necessarily So  Bess You Is My Woman  Summertime (2 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_002_020",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "29. It Aint Necessarily So  Bess You Is My Woman  Summertime (2 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_002_021",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "30. Almost Blues (2 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_002_028",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "31. Stompin At The Savoy (2 appearances)",
+            "album_name": "Marian McPartlands Piano Jazz Radio Broadcast",
+            "recording_year": 1993,
+            "asset_path": "teddy_wilson_002_030",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "32. Afternoon Blues (2 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_002_032",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "33. Sunday (2 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_002_037",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "34. I Cant Get Started  Moonglow (2 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_002_039",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "35. After Youve Gone (2 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_002_044",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "36. Moon Glow (2 appearances)",
+            "album_name": "Marian McPartlands Piano Jazz Radio Broadcast",
+            "recording_year": 1993,
+            "asset_path": "teddy_wilson_002_050",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "37. One Oclock Jump (1 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_002_004",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "38. Body and Soul (1 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_002_006",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "39. Rhythmatics (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_002_012",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "40. It Aint Necessarily So  Bess You Is My Woman  Summertime (1 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_002_019",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "41. Youre My Favorite Memory (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_002_022",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "42. Almost Blues (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_002_029",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "43. Afternoon Blues (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_002_031",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "44. Afternoon Blues (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_002_033",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "45. Sweet Lorraine (1 appearances)",
+            "album_name": "Three Little Words",
+            "recording_year": "1976",
+            "asset_path": "teddy_wilson_002_034",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "46. At Sundown (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_002_035",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "47. Youll Be Sorry (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_002_036",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "48. I Cant Get Started  Moonglow (1 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_002_038",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "49. I Cant Get Started  Moonglow (1 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_002_040",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "50. Tea for Two (1 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_002_042",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "51. The Moon Is Low (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_002_045",
+            "n_appearances_in_track": 1
+        }
+    ],
+    "[-3, -3, -2]": [
+        {
+            "track_name": "1. Rose Room (3 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_003_013",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "2. Why Shouldnt (2 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_003_000",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "3. It Aint Necessarily So  Bess You Is My Woman  Summertime (2 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_003_016",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "4. Lush Life  Take the A Train (2 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_003_019",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "5. Youll Be Sorry (2 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_003_025",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "6. I Didnt Know What Time It Was (2 appearances)",
+            "album_name": "Three Little Words",
+            "recording_year": "1976",
+            "asset_path": "teddy_wilson_003_026",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "7. I Didnt Know What Time It Was (2 appearances)",
+            "album_name": "Three Little Words",
+            "recording_year": "1976",
+            "asset_path": "teddy_wilson_003_027",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "8. Saint Louis Blues (1 appearances)",
+            "album_name": "Three Little Words",
+            "recording_year": "1976",
+            "asset_path": "teddy_wilson_003_001",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "9. Lil Darling (1 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_003_002",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "10. One Oclock Jump (1 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_003_003",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "11. Body and Soul (1 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_003_004",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "12. Body and Soul (1 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_003_005",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "13. Goin Home Blues (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_003_006",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "14. Chinatown My Chinatown (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_003_007",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "15. Tempo Positioned (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_003_008",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "16. Sophisticated Lady (1 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_003_009",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "17. Ive Got the World on a String (1 appearances)",
+            "album_name": "Three Little Words",
+            "recording_year": "1976",
+            "asset_path": "teddy_wilson_003_010",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "18. Rose Room (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_003_011",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "19. Rose Room (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_003_012",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "20. In a Sentimental Mood  Dont Mean a Thing (1 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_003_014",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "21. Minute Steak (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_003_015",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "22. Medley (1 appearances)",
+            "album_name": "Marian McPartlands Piano Jazz Radio Broadcast",
+            "recording_year": 1993,
+            "asset_path": "teddy_wilson_003_017",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "23. Out Of Nowhere (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_003_018",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "24. Almost Blues (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_003_020",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "25. More Than You Know (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_003_021",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "26. At Sundown (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_003_022",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "27. At Sundown (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_003_023",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "28. Youll Be Sorry (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_003_024",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "29. A Ghost Of A Chance (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_003_028",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "30. Night And Day (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_003_029",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "31. Night And Day (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_003_030",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "32. Moon Glow (1 appearances)",
+            "album_name": "Marian McPartlands Piano Jazz Radio Broadcast",
+            "recording_year": 1993,
+            "asset_path": "teddy_wilson_003_031",
+            "n_appearances_in_track": 1
+        }
+    ],
+    "[-4, -3, -3, -2]": [
+        {
+            "track_name": "1. Lush Life  Take the A Train (2 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_004_012",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "2. I Didnt Know What Time It Was (2 appearances)",
+            "album_name": "Three Little Words",
+            "recording_year": "1976",
+            "asset_path": "teddy_wilson_004_016",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "3. I Didnt Know What Time It Was (2 appearances)",
+            "album_name": "Three Little Words",
+            "recording_year": "1976",
+            "asset_path": "teddy_wilson_004_017",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "4. Why Shouldnt (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_004_000",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "5. Lil Darling (1 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_004_001",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "6. One Oclock Jump (1 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_004_002",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "7. Body and Soul (1 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_004_003",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "8. Sophisticated Lady (1 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_004_004",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "9. Ive Got the World on a String (1 appearances)",
+            "album_name": "Three Little Words",
+            "recording_year": "1976",
+            "asset_path": "teddy_wilson_004_005",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "10. Rose Room (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_004_006",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "11. Rose Room (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_004_007",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "12. Rose Room (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_004_008",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "13. It Aint Necessarily So  Bess You Is My Woman  Summertime (1 appearances)",
+            "album_name": "Alone",
+            "recording_year": 2017,
+            "asset_path": "teddy_wilson_004_009",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "14. Medley (1 appearances)",
+            "album_name": "Marian McPartlands Piano Jazz Radio Broadcast",
+            "recording_year": 1993,
+            "asset_path": "teddy_wilson_004_010",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "15. Out Of Nowhere (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_004_011",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "16. More Than You Know (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_004_013",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "17. Youll Be Sorry (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_004_014",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "18. Youll Be Sorry (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_004_015",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "19. Night And Day (1 appearances)",
+            "album_name": "Solo Piano  The Keystone Transriptions",
+            "recording_year": 1997,
+            "asset_path": "teddy_wilson_004_018",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "20. Moon Glow (1 appearances)",
+            "album_name": "Marian McPartlands Piano Jazz Radio Broadcast",
+            "recording_year": 1993,
+            "asset_path": "teddy_wilson_004_019",
+            "n_appearances_in_track": 1
         }
     ]
 }

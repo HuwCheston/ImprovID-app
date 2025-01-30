@@ -1,306 +1,817 @@
 {
-    "[-2, 9, -6]": [
-        {
-            "track_name": "1. Oh Lady Be Good",
-            "album_name": "The Best of the Concord Years",
-            "recording_year": "1984",
-            "asset_path": "gene_harris_000_000"
-        },
-        {
-            "track_name": "2. You Are My Sunshine",
-            "album_name": "3 Dimensional",
-            "recording_year": "1991",
-            "asset_path": "gene_harris_000_001"
-        },
-        {
-            "track_name": "3. Elephant Blossom Blues  Live At Maybeck Recital Hall Berkeley CA  1993",
-            "album_name": "The Maybeck Recital Series Vol 23",
-            "recording_year": 1993,
-            "asset_path": "gene_harris_000_002"
-        },
-        {
-            "track_name": "4. Elephant Blossom Blues  Live At Maybeck Recital Hall Berkeley CA  1993",
-            "album_name": "The Maybeck Recital Series Vol 23",
-            "recording_year": 1993,
-            "asset_path": "gene_harris_000_003"
-        },
-        {
-            "track_name": "5. Errolls Theme  Live At Maybeck Recital Hall Berkeley CA  1993",
-            "album_name": "The Maybeck Recital Series Vol 23",
-            "recording_year": 1993,
-            "asset_path": "gene_harris_000_004"
-        },
-        {
-            "track_name": "6. They Cant Take That Away From Me  Live At Maybeck Recital Hall Berkeley CA  1993",
-            "album_name": "The Maybeck Recital Series Vol 23",
-            "recording_year": 1993,
-            "asset_path": "gene_harris_000_005"
-        },
-        {
-            "track_name": "7. Time After Time",
-            "album_name": "3 Dimensional",
-            "recording_year": "1991",
-            "asset_path": "gene_harris_000_006"
-        },
-        {
-            "track_name": "8. JaDa",
-            "album_name": "3 Dimensional",
-            "recording_year": "1991",
-            "asset_path": "gene_harris_000_007"
-        },
-        {
-            "track_name": "9. Blues For Rhonda  Live At Maybeck Recital Hall Berkeley CA  1993",
-            "album_name": "The Maybeck Recital Series Vol 23",
-            "recording_year": 1993,
-            "asset_path": "gene_harris_000_008"
-        },
-        {
-            "track_name": "10. Blues For Rhonda  Live At Maybeck Recital Hall Berkeley CA  1993",
-            "album_name": "The Maybeck Recital Series Vol 23",
-            "recording_year": 1993,
-            "asset_path": "gene_harris_000_009"
-        },
-        {
-            "track_name": "11. Blues For Rhonda  Live At Maybeck Recital Hall Berkeley CA  1993",
-            "album_name": "The Maybeck Recital Series Vol 23",
-            "recording_year": 1993,
-            "asset_path": "gene_harris_000_010"
-        }
-    ],
     "[9, -6]": [
         {
-            "track_name": "1. Penthouse Serenade  Live At Maybeck Recital Hall Berkeley CA  1993",
+            "track_name": "1. Blues For Rhonda  Live At Maybeck Recital Hall Berkeley CA  1993 (6 appearances)",
             "album_name": "The Maybeck Recital Series Vol 23",
             "recording_year": 1993,
-            "asset_path": "gene_harris_001_000"
+            "asset_path": "gene_harris_000_023",
+            "n_appearances_in_track": 6
         },
         {
-            "track_name": "2. Oh Lady Be Good",
+            "track_name": "2. Time After Time (5 appearances)",
+            "album_name": "3 Dimensional",
+            "recording_year": "1991",
+            "asset_path": "gene_harris_000_018",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "3. They Cant Take That Away From Me  Live At Maybeck Recital Hall Berkeley CA  1993 (4 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "gene_harris_000_014",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "4. JaDa (4 appearances)",
+            "album_name": "3 Dimensional",
+            "recording_year": "1991",
+            "asset_path": "gene_harris_000_021",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "5. My Romance (3 appearances)",
+            "album_name": "3 Dimensional",
+            "recording_year": "1991",
+            "asset_path": "gene_harris_000_002",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "6. You Are My Sunshine (2 appearances)",
+            "album_name": "3 Dimensional",
+            "recording_year": "1991",
+            "asset_path": "gene_harris_000_003",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "7. They Cant Take That Away From Me  Live At Maybeck Recital Hall Berkeley CA  1993 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "gene_harris_000_015",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "8. Blues For Rhonda  Live At Maybeck Recital Hall Berkeley CA  1993 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "gene_harris_000_025",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "9. Penthouse Serenade  Live At Maybeck Recital Hall Berkeley CA  1993 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "gene_harris_000_000",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "10. Oh Lady Be Good (1 appearances)",
             "album_name": "The Best of the Concord Years",
             "recording_year": "1984",
-            "asset_path": "gene_harris_001_001"
+            "asset_path": "gene_harris_000_001",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "3. My Romance",
-            "album_name": "3 Dimensional",
-            "recording_year": "1991",
-            "asset_path": "gene_harris_001_002"
-        },
-        {
-            "track_name": "4. You Are My Sunshine",
-            "album_name": "3 Dimensional",
-            "recording_year": "1991",
-            "asset_path": "gene_harris_001_003"
-        },
-        {
-            "track_name": "5. Put Your Little Foot Right Out",
+            "track_name": "11. Put Your Little Foot Right Out (1 appearances)",
             "album_name": "Live From New York to Tokyo",
             "recording_year": "1988",
-            "asset_path": "gene_harris_001_004"
+            "asset_path": "gene_harris_000_004",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "6. Elephant Blossom Blues  Live At Maybeck Recital Hall Berkeley CA  1993",
+            "track_name": "12. Elephant Blossom Blues  Live At Maybeck Recital Hall Berkeley CA  1993 (1 appearances)",
             "album_name": "The Maybeck Recital Series Vol 23",
             "recording_year": 1993,
-            "asset_path": "gene_harris_001_005"
+            "asset_path": "gene_harris_000_005",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "7. Elephant Blossom Blues  Live At Maybeck Recital Hall Berkeley CA  1993",
+            "track_name": "13. Elephant Blossom Blues  Live At Maybeck Recital Hall Berkeley CA  1993 (1 appearances)",
             "album_name": "The Maybeck Recital Series Vol 23",
             "recording_year": 1993,
-            "asset_path": "gene_harris_001_006"
+            "asset_path": "gene_harris_000_006",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "8. Angel Eyes  Live At Maybeck Recital Hall Berkeley CA  1993",
+            "track_name": "14. Angel Eyes  Live At Maybeck Recital Hall Berkeley CA  1993 (1 appearances)",
             "album_name": "The Maybeck Recital Series Vol 23",
             "recording_year": 1993,
-            "asset_path": "gene_harris_001_007"
+            "asset_path": "gene_harris_000_007",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "9. My Funny Valentine  Live At Maybeck Recital Hall Berkeley CA  1993",
+            "track_name": "15. My Funny Valentine  Live At Maybeck Recital Hall Berkeley CA  1993 (1 appearances)",
             "album_name": "The Maybeck Recital Series Vol 23",
             "recording_year": 1993,
-            "asset_path": "gene_harris_001_008"
+            "asset_path": "gene_harris_000_008",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "10. Errolls Theme  Live At Maybeck Recital Hall Berkeley CA  1993",
+            "track_name": "16. Errolls Theme  Live At Maybeck Recital Hall Berkeley CA  1993 (1 appearances)",
             "album_name": "The Maybeck Recital Series Vol 23",
             "recording_year": 1993,
-            "asset_path": "gene_harris_001_009"
+            "asset_path": "gene_harris_000_009",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "11. Errolls Theme  Live At Maybeck Recital Hall Berkeley CA  1993",
+            "track_name": "17. Errolls Theme  Live At Maybeck Recital Hall Berkeley CA  1993 (1 appearances)",
             "album_name": "The Maybeck Recital Series Vol 23",
             "recording_year": 1993,
-            "asset_path": "gene_harris_001_010"
+            "asset_path": "gene_harris_000_010",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "12. Errolls Theme  Live At Maybeck Recital Hall Berkeley CA  1993",
+            "track_name": "18. Errolls Theme  Live At Maybeck Recital Hall Berkeley CA  1993 (1 appearances)",
             "album_name": "The Maybeck Recital Series Vol 23",
             "recording_year": 1993,
-            "asset_path": "gene_harris_001_011"
+            "asset_path": "gene_harris_000_011",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "13. Errolls Theme  Live At Maybeck Recital Hall Berkeley CA  1993",
+            "track_name": "19. Errolls Theme  Live At Maybeck Recital Hall Berkeley CA  1993 (1 appearances)",
             "album_name": "The Maybeck Recital Series Vol 23",
             "recording_year": 1993,
-            "asset_path": "gene_harris_001_012"
+            "asset_path": "gene_harris_000_012",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "14. Errolls Theme  Live At Maybeck Recital Hall Berkeley CA  1993",
+            "track_name": "20. Errolls Theme  Live At Maybeck Recital Hall Berkeley CA  1993 (1 appearances)",
             "album_name": "The Maybeck Recital Series Vol 23",
             "recording_year": 1993,
-            "asset_path": "gene_harris_001_013"
+            "asset_path": "gene_harris_000_013",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "15. They Cant Take That Away From Me  Live At Maybeck Recital Hall Berkeley CA  1993",
+            "track_name": "21. They Cant Take That Away From Me  Live At Maybeck Recital Hall Berkeley CA  1993 (1 appearances)",
             "album_name": "The Maybeck Recital Series Vol 23",
             "recording_year": 1993,
-            "asset_path": "gene_harris_001_014"
+            "asset_path": "gene_harris_000_016",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "16. They Cant Take That Away From Me  Live At Maybeck Recital Hall Berkeley CA  1993",
-            "album_name": "The Maybeck Recital Series Vol 23",
-            "recording_year": 1993,
-            "asset_path": "gene_harris_001_015"
-        },
-        {
-            "track_name": "17. They Cant Take That Away From Me  Live At Maybeck Recital Hall Berkeley CA  1993",
-            "album_name": "The Maybeck Recital Series Vol 23",
-            "recording_year": 1993,
-            "asset_path": "gene_harris_001_016"
-        },
-        {
-            "track_name": "18. Time After Time",
+            "track_name": "22. Time After Time (1 appearances)",
             "album_name": "3 Dimensional",
             "recording_year": "1991",
-            "asset_path": "gene_harris_001_017"
+            "asset_path": "gene_harris_000_017",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "19. Time After Time",
-            "album_name": "3 Dimensional",
-            "recording_year": "1991",
-            "asset_path": "gene_harris_001_018"
-        },
-        {
-            "track_name": "20. Summer Wind",
+            "track_name": "23. Summer Wind (1 appearances)",
             "album_name": "Live at the Loa  Summer Wind",
             "recording_year": "1988",
-            "asset_path": "gene_harris_001_019"
+            "asset_path": "gene_harris_000_019",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "21. JaDa",
+            "track_name": "24. JaDa (1 appearances)",
             "album_name": "3 Dimensional",
             "recording_year": "1991",
-            "asset_path": "gene_harris_001_020"
+            "asset_path": "gene_harris_000_020",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "22. JaDa",
+            "track_name": "25. Blues For Rhonda  Live At Maybeck Recital Hall Berkeley CA  1993 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "gene_harris_000_022",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "26. Blues For Rhonda  Live At Maybeck Recital Hall Berkeley CA  1993 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "gene_harris_000_024",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "27. Blues For Rhonda  Live At Maybeck Recital Hall Berkeley CA  1993 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "gene_harris_000_026",
+            "n_appearances_in_track": 1
+        }
+    ],
+    "[-6, 6]": [
+        {
+            "track_name": "1. Lus Blues  Live At Maybeck Recital Hall Berkeley CA  1993 (8 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "gene_harris_001_022",
+            "n_appearances_in_track": 8
+        },
+        {
+            "track_name": "2. You Are My Sunshine (6 appearances)",
             "album_name": "3 Dimensional",
             "recording_year": "1991",
-            "asset_path": "gene_harris_001_021"
+            "asset_path": "gene_harris_001_008",
+            "n_appearances_in_track": 6
         },
         {
-            "track_name": "23. Blues For Rhonda  Live At Maybeck Recital Hall Berkeley CA  1993",
+            "track_name": "3. Lus Blues  Live At Maybeck Recital Hall Berkeley CA  1993 (5 appearances)",
             "album_name": "The Maybeck Recital Series Vol 23",
             "recording_year": 1993,
-            "asset_path": "gene_harris_001_022"
+            "asset_path": "gene_harris_001_024",
+            "n_appearances_in_track": 5
         },
         {
-            "track_name": "24. Blues For Rhonda  Live At Maybeck Recital Hall Berkeley CA  1993",
-            "album_name": "The Maybeck Recital Series Vol 23",
-            "recording_year": 1993,
-            "asset_path": "gene_harris_001_023"
+            "track_name": "4. JaDa (4 appearances)",
+            "album_name": "3 Dimensional",
+            "recording_year": "1991",
+            "asset_path": "gene_harris_001_032",
+            "n_appearances_in_track": 4
         },
         {
-            "track_name": "25. Blues For Rhonda  Live At Maybeck Recital Hall Berkeley CA  1993",
-            "album_name": "The Maybeck Recital Series Vol 23",
-            "recording_year": 1993,
-            "asset_path": "gene_harris_001_024"
+            "track_name": "5. You Are My Sunshine (3 appearances)",
+            "album_name": "3 Dimensional",
+            "recording_year": "1991",
+            "asset_path": "gene_harris_001_011",
+            "n_appearances_in_track": 3
         },
         {
-            "track_name": "26. Blues For Rhonda  Live At Maybeck Recital Hall Berkeley CA  1993",
+            "track_name": "6. Elephant Blossom Blues  Live At Maybeck Recital Hall Berkeley CA  1993 (3 appearances)",
             "album_name": "The Maybeck Recital Series Vol 23",
             "recording_year": 1993,
-            "asset_path": "gene_harris_001_025"
+            "asset_path": "gene_harris_001_017",
+            "n_appearances_in_track": 3
         },
         {
-            "track_name": "27. Blues For Rhonda  Live At Maybeck Recital Hall Berkeley CA  1993",
+            "track_name": "7. Angel Eyes  Live At Maybeck Recital Hall Berkeley CA  1993 (3 appearances)",
             "album_name": "The Maybeck Recital Series Vol 23",
             "recording_year": 1993,
-            "asset_path": "gene_harris_001_026"
+            "asset_path": "gene_harris_001_020",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "8. Time After Time (3 appearances)",
+            "album_name": "3 Dimensional",
+            "recording_year": "1991",
+            "asset_path": "gene_harris_001_030",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "9. Penthouse Serenade  Live At Maybeck Recital Hall Berkeley CA  1993 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "gene_harris_001_001",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "10. You Are My Sunshine (2 appearances)",
+            "album_name": "3 Dimensional",
+            "recording_year": "1991",
+            "asset_path": "gene_harris_001_009",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "11. Things Aint What They Used to Be (2 appearances)",
+            "album_name": "Black Orpheus",
+            "recording_year": "1989",
+            "asset_path": "gene_harris_001_013",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "12. Blues For Rhonda  Live At Maybeck Recital Hall Berkeley CA  1993 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "gene_harris_001_033",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "13. Blues For Rhonda  Live At Maybeck Recital Hall Berkeley CA  1993 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "gene_harris_001_034",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "14. Blues For Rhonda  Live At Maybeck Recital Hall Berkeley CA  1993 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "gene_harris_001_036",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "15. Blues For Rhonda  Live At Maybeck Recital Hall Berkeley CA  1993 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "gene_harris_001_039",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "16. Penthouse Serenade  Live At Maybeck Recital Hall Berkeley CA  1993 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "gene_harris_001_000",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "17. Penthouse Serenade  Live At Maybeck Recital Hall Berkeley CA  1993 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "gene_harris_001_002",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "18. Penthouse Serenade  Live At Maybeck Recital Hall Berkeley CA  1993 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "gene_harris_001_003",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "19. Oh Lady Be Good (1 appearances)",
+            "album_name": "The Best of the Concord Years",
+            "recording_year": "1984",
+            "asset_path": "gene_harris_001_004",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "20. Oh Lady Be Good (1 appearances)",
+            "album_name": "The Best of the Concord Years",
+            "recording_year": "1984",
+            "asset_path": "gene_harris_001_005",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "21. Exactly Like You (1 appearances)",
+            "album_name": "The Best of the Concord Years",
+            "recording_year": "1984",
+            "asset_path": "gene_harris_001_006",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "22. My Romance (1 appearances)",
+            "album_name": "3 Dimensional",
+            "recording_year": "1991",
+            "asset_path": "gene_harris_001_007",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "23. You Are My Sunshine (1 appearances)",
+            "album_name": "3 Dimensional",
+            "recording_year": "1991",
+            "asset_path": "gene_harris_001_010",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "24. Things Aint What They Used to Be (1 appearances)",
+            "album_name": "Black Orpheus",
+            "recording_year": "1989",
+            "asset_path": "gene_harris_001_012",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "25. Things Aint What They Used to Be (1 appearances)",
+            "album_name": "Black Orpheus",
+            "recording_year": "1989",
+            "asset_path": "gene_harris_001_014",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "26. Buhaina Buhaina (1 appearances)",
+            "album_name": "Live at the Loa  Summer Wind",
+            "recording_year": "1988",
+            "asset_path": "gene_harris_001_015",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "27. Put Your Little Foot Right Out (1 appearances)",
+            "album_name": "Live From New York to Tokyo",
+            "recording_year": "1988",
+            "asset_path": "gene_harris_001_016",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "28. Elephant Blossom Blues  Live At Maybeck Recital Hall Berkeley CA  1993 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "gene_harris_001_018",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "29. Elephant Blossom Blues  Live At Maybeck Recital Hall Berkeley CA  1993 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "gene_harris_001_019",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "30. Angel Eyes  Live At Maybeck Recital Hall Berkeley CA  1993 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "gene_harris_001_021",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "31. Lus Blues  Live At Maybeck Recital Hall Berkeley CA  1993 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "gene_harris_001_023",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "32. Errolls Theme  Live At Maybeck Recital Hall Berkeley CA  1993 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "gene_harris_001_025",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "33. Errolls Theme  Live At Maybeck Recital Hall Berkeley CA  1993 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "gene_harris_001_026",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "34. They Cant Take That Away From Me  Live At Maybeck Recital Hall Berkeley CA  1993 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "gene_harris_001_027",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "35. They Cant Take That Away From Me  Live At Maybeck Recital Hall Berkeley CA  1993 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "gene_harris_001_028",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "36. Old Folks  Live At Maybeck Recital Hall Berkeley CA  1993 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "gene_harris_001_029",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "37. JaDa (1 appearances)",
+            "album_name": "3 Dimensional",
+            "recording_year": "1991",
+            "asset_path": "gene_harris_001_031",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "38. Blues For Rhonda  Live At Maybeck Recital Hall Berkeley CA  1993 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "gene_harris_001_035",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "39. Blues For Rhonda  Live At Maybeck Recital Hall Berkeley CA  1993 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "gene_harris_001_037",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "40. Blues For Rhonda  Live At Maybeck Recital Hall Berkeley CA  1993 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "gene_harris_001_038",
+            "n_appearances_in_track": 1
+        }
+    ],
+    "[-6, -3, 9, -6]": [
+        {
+            "track_name": "1. JaDa (3 appearances)",
+            "album_name": "3 Dimensional",
+            "recording_year": "1991",
+            "asset_path": "gene_harris_002_004",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "2. Blues For Rhonda  Live At Maybeck Recital Hall Berkeley CA  1993 (3 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "gene_harris_002_005",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "3. My Romance (2 appearances)",
+            "album_name": "3 Dimensional",
+            "recording_year": "1991",
+            "asset_path": "gene_harris_002_000",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "4. They Cant Take That Away From Me  Live At Maybeck Recital Hall Berkeley CA  1993 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "gene_harris_002_001",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "5. They Cant Take That Away From Me  Live At Maybeck Recital Hall Berkeley CA  1993 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "gene_harris_002_002",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "6. Summer Wind (1 appearances)",
+            "album_name": "Live at the Loa  Summer Wind",
+            "recording_year": "1988",
+            "asset_path": "gene_harris_002_003",
+            "n_appearances_in_track": 1
+        }
+    ],
+    "[-6, -3]": [
+        {
+            "track_name": "1. Blues For Rhonda  Live At Maybeck Recital Hall Berkeley CA  1993 (4 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "gene_harris_003_029",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "2. My Romance (3 appearances)",
+            "album_name": "3 Dimensional",
+            "recording_year": "1991",
+            "asset_path": "gene_harris_003_004",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "3. They Cant Take That Away From Me  Live At Maybeck Recital Hall Berkeley CA  1993 (3 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "gene_harris_003_021",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "4. JaDa (3 appearances)",
+            "album_name": "3 Dimensional",
+            "recording_year": "1991",
+            "asset_path": "gene_harris_003_028",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "5. Oh Lady Be Good (2 appearances)",
+            "album_name": "The Best of the Concord Years",
+            "recording_year": "1984",
+            "asset_path": "gene_harris_003_000",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "6. Oh Lady Be Good (2 appearances)",
+            "album_name": "The Best of the Concord Years",
+            "recording_year": "1984",
+            "asset_path": "gene_harris_003_001",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "7. My Romance (2 appearances)",
+            "album_name": "3 Dimensional",
+            "recording_year": "1991",
+            "asset_path": "gene_harris_003_003",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "8. You Are My Sunshine (2 appearances)",
+            "album_name": "3 Dimensional",
+            "recording_year": "1991",
+            "asset_path": "gene_harris_003_005",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "9. They Cant Take That Away From Me  Live At Maybeck Recital Hall Berkeley CA  1993 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "gene_harris_003_023",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "10. Time After Time (2 appearances)",
+            "album_name": "3 Dimensional",
+            "recording_year": "1991",
+            "asset_path": "gene_harris_003_026",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "11. Summer Wind (2 appearances)",
+            "album_name": "Live at the Loa  Summer Wind",
+            "recording_year": "1988",
+            "asset_path": "gene_harris_003_027",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "12. Equinox (1 appearances)",
+            "album_name": "3 Dimensional",
+            "recording_year": "1991",
+            "asset_path": "gene_harris_003_002",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "13. Elephant Blossom Blues  Live At Maybeck Recital Hall Berkeley CA  1993 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "gene_harris_003_006",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "14. Elephant Blossom Blues  Live At Maybeck Recital Hall Berkeley CA  1993 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "gene_harris_003_007",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "15. Elephant Blossom Blues  Live At Maybeck Recital Hall Berkeley CA  1993 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "gene_harris_003_008",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "16. Elephant Blossom Blues  Live At Maybeck Recital Hall Berkeley CA  1993 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "gene_harris_003_009",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "17. Angel Eyes  Live At Maybeck Recital Hall Berkeley CA  1993 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "gene_harris_003_010",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "18. Bluesology (1 appearances)",
+            "album_name": "Live at the Loa  Summer Wind",
+            "recording_year": "1988",
+            "asset_path": "gene_harris_003_011",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "19. Lus Blues  Live At Maybeck Recital Hall Berkeley CA  1993 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "gene_harris_003_012",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "20. My Funny Valentine  Live At Maybeck Recital Hall Berkeley CA  1993 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "gene_harris_003_013",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "21. Errolls Theme  Live At Maybeck Recital Hall Berkeley CA  1993 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "gene_harris_003_014",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "22. Errolls Theme  Live At Maybeck Recital Hall Berkeley CA  1993 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "gene_harris_003_015",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "23. Errolls Theme  Live At Maybeck Recital Hall Berkeley CA  1993 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "gene_harris_003_016",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "24. Errolls Theme  Live At Maybeck Recital Hall Berkeley CA  1993 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "gene_harris_003_017",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "25. They Cant Take That Away From Me  Live At Maybeck Recital Hall Berkeley CA  1993 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "gene_harris_003_018",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "26. They Cant Take That Away From Me  Live At Maybeck Recital Hall Berkeley CA  1993 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "gene_harris_003_019",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "27. They Cant Take That Away From Me  Live At Maybeck Recital Hall Berkeley CA  1993 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "gene_harris_003_020",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "28. They Cant Take That Away From Me  Live At Maybeck Recital Hall Berkeley CA  1993 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "gene_harris_003_022",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "29. Old Folks  Live At Maybeck Recital Hall Berkeley CA  1993 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "gene_harris_003_024",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "30. Time After Time (1 appearances)",
+            "album_name": "3 Dimensional",
+            "recording_year": "1991",
+            "asset_path": "gene_harris_003_025",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "31. Blues For Rhonda  Live At Maybeck Recital Hall Berkeley CA  1993 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "gene_harris_003_030",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "32. Blues For Rhonda  Live At Maybeck Recital Hall Berkeley CA  1993 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "gene_harris_003_031",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "33. Blues For Rhonda  Live At Maybeck Recital Hall Berkeley CA  1993 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "gene_harris_003_032",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "34. Classical in G (1 appearances)",
+            "album_name": "3 Dimensional",
+            "recording_year": "1991",
+            "asset_path": "gene_harris_003_033",
+            "n_appearances_in_track": 1
         }
     ],
     "[-3, 9, -6]": [
         {
-            "track_name": "1. My Romance",
+            "track_name": "1. JaDa (3 appearances)",
             "album_name": "3 Dimensional",
             "recording_year": "1991",
-            "asset_path": "gene_harris_002_000"
+            "asset_path": "gene_harris_004_006",
+            "n_appearances_in_track": 3
         },
         {
-            "track_name": "2. Errolls Theme  Live At Maybeck Recital Hall Berkeley CA  1993",
+            "track_name": "2. Blues For Rhonda  Live At Maybeck Recital Hall Berkeley CA  1993 (3 appearances)",
             "album_name": "The Maybeck Recital Series Vol 23",
             "recording_year": 1993,
-            "asset_path": "gene_harris_002_001"
+            "asset_path": "gene_harris_004_007",
+            "n_appearances_in_track": 3
         },
         {
-            "track_name": "3. They Cant Take That Away From Me  Live At Maybeck Recital Hall Berkeley CA  1993",
+            "track_name": "3. My Romance (2 appearances)",
+            "album_name": "3 Dimensional",
+            "recording_year": "1991",
+            "asset_path": "gene_harris_004_000",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "4. They Cant Take That Away From Me  Live At Maybeck Recital Hall Berkeley CA  1993 (2 appearances)",
             "album_name": "The Maybeck Recital Series Vol 23",
             "recording_year": 1993,
-            "asset_path": "gene_harris_002_002"
+            "asset_path": "gene_harris_004_002",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "4. They Cant Take That Away From Me  Live At Maybeck Recital Hall Berkeley CA  1993",
+            "track_name": "5. Errolls Theme  Live At Maybeck Recital Hall Berkeley CA  1993 (1 appearances)",
             "album_name": "The Maybeck Recital Series Vol 23",
             "recording_year": 1993,
-            "asset_path": "gene_harris_002_003"
+            "asset_path": "gene_harris_004_001",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "5. Summer Wind",
+            "track_name": "6. They Cant Take That Away From Me  Live At Maybeck Recital Hall Berkeley CA  1993 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 23",
+            "recording_year": 1993,
+            "asset_path": "gene_harris_004_003",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "7. Summer Wind (1 appearances)",
             "album_name": "Live at the Loa  Summer Wind",
             "recording_year": "1988",
-            "asset_path": "gene_harris_002_004"
+            "asset_path": "gene_harris_004_004",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "6. JaDa",
+            "track_name": "8. JaDa (1 appearances)",
             "album_name": "3 Dimensional",
             "recording_year": "1991",
-            "asset_path": "gene_harris_002_005"
-        },
-        {
-            "track_name": "7. JaDa",
-            "album_name": "3 Dimensional",
-            "recording_year": "1991",
-            "asset_path": "gene_harris_002_006"
-        },
-        {
-            "track_name": "8. Blues For Rhonda  Live At Maybeck Recital Hall Berkeley CA  1993",
-            "album_name": "The Maybeck Recital Series Vol 23",
-            "recording_year": 1993,
-            "asset_path": "gene_harris_002_007"
-        }
-    ],
-    "[-9, 1, -2]": [
-        {
-            "track_name": "1. Buhaina Buhaina",
-            "album_name": "Live at the Loa  Summer Wind",
-            "recording_year": "1988",
-            "asset_path": "gene_harris_003_000"
-        },
-        {
-            "track_name": "2. Classical in G",
-            "album_name": "3 Dimensional",
-            "recording_year": "1991",
-            "asset_path": "gene_harris_003_001"
-        }
-    ],
-    "[-5, 9, -6]": [
-        {
-            "track_name": "1. Time After Time",
-            "album_name": "3 Dimensional",
-            "recording_year": "1991",
-            "asset_path": "gene_harris_004_000"
+            "asset_path": "gene_harris_004_005",
+            "n_appearances_in_track": 1
         }
     ]
 }

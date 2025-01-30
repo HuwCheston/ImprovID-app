@@ -1,402 +1,1993 @@
 {
-    "[-1, 2, -4]": [
-        {
-            "track_name": "1. Yesterdays",
-            "album_name": "SoloDuo",
-            "recording_year": 1996,
-            "asset_path": "kenny_drew_000_000"
-        },
-        {
-            "track_name": "2. Yesterdays",
-            "album_name": "SoloDuo",
-            "recording_year": 1996,
-            "asset_path": "kenny_drew_000_001"
-        },
-        {
-            "track_name": "3. All Blues",
-            "album_name": "Dark Beauty",
-            "recording_year": "1974",
-            "asset_path": "kenny_drew_000_002"
-        },
-        {
-            "track_name": "4. Love Letters",
-            "album_name": "Dark Beauty",
-            "recording_year": "1974",
-            "asset_path": "kenny_drew_000_003"
-        },
-        {
-            "track_name": "5. Love Letters",
-            "album_name": "Dark Beauty",
-            "recording_year": "1974",
-            "asset_path": "kenny_drew_000_004"
-        },
-        {
-            "track_name": "6. Rouge Blues",
-            "album_name": "Impressions",
-            "recording_year": "1988",
-            "asset_path": "kenny_drew_000_005"
-        },
-        {
-            "track_name": "7. Sunspots",
-            "album_name": "Ruby My Dear",
-            "recording_year": "1977",
-            "asset_path": "kenny_drew_000_006"
-        },
-        {
-            "track_name": "8. In Your Own Sweet Way",
-            "album_name": "Dark Beauty",
-            "recording_year": "1974",
-            "asset_path": "kenny_drew_000_007"
-        },
-        {
-            "track_name": "9. This Is the Moment",
-            "album_name": "If You Could See Me Now",
-            "recording_year": "1974",
-            "asset_path": "kenny_drew_000_008"
-        },
-        {
-            "track_name": "10. Drews Blues",
-            "album_name": "Howard McGhee  Introducing The Kenny Drew Trio",
-            "recording_year": "1951",
-            "asset_path": "kenny_drew_000_009"
-        },
-        {
-            "track_name": "11. A Stranger in Paradise",
-            "album_name": "If You Could See Me Now",
-            "recording_year": "1974",
-            "asset_path": "kenny_drew_000_010"
-        },
-        {
-            "track_name": "12. How Are Things in Glocca Morra",
-            "album_name": "Your Soft Eyes",
-            "recording_year": "1981",
-            "asset_path": "kenny_drew_000_011"
-        },
-        {
-            "track_name": "13. Many Miles Away",
-            "album_name": "Kenny Drew and His Progressive Piano",
-            "recording_year": "1953",
-            "asset_path": "kenny_drew_000_012"
-        },
-        {
-            "track_name": "14. In Your Own Sweet Way",
-            "album_name": "Piano Night",
-            "recording_year": "1990",
-            "asset_path": "kenny_drew_000_013"
-        },
-        {
-            "track_name": "15. A Stranger in Paradise",
-            "album_name": "Dark Beauty",
-            "recording_year": "1974",
-            "asset_path": "kenny_drew_000_014"
-        },
-        {
-            "track_name": "16. Yesterdays alternate take",
-            "album_name": "Howard McGhee  Introducing The Kenny Drew Trio",
-            "recording_year": "1951",
-            "asset_path": "kenny_drew_000_015"
-        },
-        {
-            "track_name": "17. Autumn Leaves",
-            "album_name": "Impressions",
-            "recording_year": "1988",
-            "asset_path": "kenny_drew_000_016"
-        },
-        {
-            "track_name": "18. Bassment",
-            "album_name": "Ruby My Dear",
-            "recording_year": "1977",
-            "asset_path": "kenny_drew_000_017"
-        },
-        {
-            "track_name": "19. No Greater Love",
-            "album_name": "Impressions",
-            "recording_year": "1988",
-            "asset_path": "kenny_drew_000_018"
-        },
-        {
-            "track_name": "20. Lullaby in Ragtime",
-            "album_name": "The Lullaby",
-            "recording_year": "1982",
-            "asset_path": "kenny_drew_000_019"
-        },
-        {
-            "track_name": "21. Alone Together",
-            "album_name": "Your Soft Eyes",
-            "recording_year": "1981",
-            "asset_path": "kenny_drew_000_020"
-        },
-        {
-            "track_name": "22. HushABye Jewish Folk Tune",
-            "album_name": "The Lullaby",
-            "recording_year": "1982",
-            "asset_path": "kenny_drew_000_021"
-        }
-    ],
-    "[3, 8, -8]": [
-        {
-            "track_name": "1. Yesterdays",
-            "album_name": "SoloDuo",
-            "recording_year": 1996,
-            "asset_path": "kenny_drew_001_000"
-        }
-    ],
     "[-6, 1, 3]": [
         {
-            "track_name": "1. Impressions",
+            "track_name": "1. It Could Happen to You (2 appearances)",
+            "album_name": "Dark Beauty",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_000_011",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "2. Autumn Leaves (2 appearances)",
             "album_name": "Impressions",
             "recording_year": "1988",
-            "asset_path": "kenny_drew_002_000"
+            "asset_path": "kenny_drew_000_024",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "2. All Blues",
+            "track_name": "3. It Could Happen to You (2 appearances)",
+            "album_name": "All the Things You Are",
+            "recording_year": "1981",
+            "asset_path": "kenny_drew_000_030",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "4. Impressions (1 appearances)",
+            "album_name": "Impressions",
+            "recording_year": "1988",
+            "asset_path": "kenny_drew_000_000",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "5. All Blues (1 appearances)",
             "album_name": "Dark Beauty",
             "recording_year": "1974",
-            "asset_path": "kenny_drew_002_001"
+            "asset_path": "kenny_drew_000_001",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "3. Lullaby of Birdland",
+            "track_name": "6. Lullaby of Birdland (1 appearances)",
             "album_name": "The Lullaby",
             "recording_year": "1982",
-            "asset_path": "kenny_drew_002_002"
+            "asset_path": "kenny_drew_000_002",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "4. Lullaby of Birdland",
+            "track_name": "7. Lullaby of Birdland (1 appearances)",
             "album_name": "The Lullaby",
             "recording_year": "1982",
-            "asset_path": "kenny_drew_002_003"
+            "asset_path": "kenny_drew_000_003",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "5. Lullaby of Birdland",
+            "track_name": "8. Lullaby of Birdland (1 appearances)",
             "album_name": "The Lullaby",
             "recording_year": "1982",
-            "asset_path": "kenny_drew_002_004"
+            "asset_path": "kenny_drew_000_004",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "6. Love Letters",
+            "track_name": "9. Love Letters (1 appearances)",
             "album_name": "Dark Beauty",
             "recording_year": "1974",
-            "asset_path": "kenny_drew_002_005"
+            "asset_path": "kenny_drew_000_005",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "7. Forgotten but Not Gone",
+            "track_name": "10. Forgotten but Not Gone (1 appearances)",
             "album_name": "Your Soft Eyes",
             "recording_year": "1981",
-            "asset_path": "kenny_drew_002_006"
+            "asset_path": "kenny_drew_000_006",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "8. Rouge Blues",
+            "track_name": "11. Rouge Blues (1 appearances)",
             "album_name": "Impressions",
             "recording_year": "1988",
-            "asset_path": "kenny_drew_002_007"
+            "asset_path": "kenny_drew_000_007",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "9. Sunspots",
+            "track_name": "12. Sunspots (1 appearances)",
             "album_name": "Ruby My Dear",
             "recording_year": "1977",
-            "asset_path": "kenny_drew_002_008"
+            "asset_path": "kenny_drew_000_008",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "10. Whisper Not",
+            "track_name": "13. Whisper Not (1 appearances)",
             "album_name": "SoloDuo",
             "recording_year": 1996,
-            "asset_path": "kenny_drew_002_009"
+            "asset_path": "kenny_drew_000_009",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "11. Whisper Not",
+            "track_name": "14. Whisper Not (1 appearances)",
             "album_name": "SoloDuo",
             "recording_year": 1996,
-            "asset_path": "kenny_drew_002_010"
+            "asset_path": "kenny_drew_000_010",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "12. It Could Happen to You",
+            "track_name": "15. It Could Happen to You (1 appearances)",
             "album_name": "Dark Beauty",
             "recording_year": "1974",
-            "asset_path": "kenny_drew_002_011"
+            "asset_path": "kenny_drew_000_012",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "13. It Could Happen to You",
+            "track_name": "16. In Your Own Sweet Way (1 appearances)",
             "album_name": "Dark Beauty",
             "recording_year": "1974",
-            "asset_path": "kenny_drew_002_012"
+            "asset_path": "kenny_drew_000_013",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "14. In Your Own Sweet Way",
-            "album_name": "Dark Beauty",
-            "recording_year": "1974",
-            "asset_path": "kenny_drew_002_013"
-        },
-        {
-            "track_name": "15. Bluesology",
+            "track_name": "17. Bluesology (1 appearances)",
             "album_name": "Piano Night",
             "recording_year": "1990",
-            "asset_path": "kenny_drew_002_014"
+            "asset_path": "kenny_drew_000_014",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "16. In Your Own Sweet Way",
+            "track_name": "18. In Your Own Sweet Way (1 appearances)",
             "album_name": "If You Could See Me Now",
             "recording_year": "1974",
-            "asset_path": "kenny_drew_002_015"
+            "asset_path": "kenny_drew_000_015",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "17. How Are Things in Glocca Morra",
+            "track_name": "19. How Are Things in Glocca Morra (1 appearances)",
             "album_name": "Your Soft Eyes",
             "recording_year": "1981",
-            "asset_path": "kenny_drew_002_016"
+            "asset_path": "kenny_drew_000_016",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "18. Many Miles Away",
+            "track_name": "20. Many Miles Away (1 appearances)",
             "album_name": "Kenny Drew and His Progressive Piano",
             "recording_year": "1953",
-            "asset_path": "kenny_drew_002_017"
+            "asset_path": "kenny_drew_000_017",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "19. In Your Own Sweet Way",
+            "track_name": "21. In Your Own Sweet Way (1 appearances)",
             "album_name": "Piano Night",
             "recording_year": "1990",
-            "asset_path": "kenny_drew_002_018"
+            "asset_path": "kenny_drew_000_018",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "20. A Stranger in Paradise",
+            "track_name": "22. A Stranger in Paradise (1 appearances)",
             "album_name": "Dark Beauty",
             "recording_year": "1974",
-            "asset_path": "kenny_drew_002_019"
+            "asset_path": "kenny_drew_000_019",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "21. A Stranger in Paradise",
+            "track_name": "23. A Stranger in Paradise (1 appearances)",
             "album_name": "Dark Beauty",
             "recording_year": "1974",
-            "asset_path": "kenny_drew_002_020"
+            "asset_path": "kenny_drew_000_020",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "22. Summertime",
+            "track_name": "24. Summertime (1 appearances)",
             "album_name": "The Lullaby",
             "recording_year": "1982",
-            "asset_path": "kenny_drew_002_021"
+            "asset_path": "kenny_drew_000_021",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "23. Summertime",
+            "track_name": "25. Summertime (1 appearances)",
             "album_name": "The Lullaby",
             "recording_year": "1982",
-            "asset_path": "kenny_drew_002_022"
+            "asset_path": "kenny_drew_000_022",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "24. Autumn Leaves",
+            "track_name": "26. Autumn Leaves (1 appearances)",
             "album_name": "Impressions",
             "recording_year": "1988",
-            "asset_path": "kenny_drew_002_023"
+            "asset_path": "kenny_drew_000_023",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "25. Autumn Leaves",
+            "track_name": "27. No Greater Love (1 appearances)",
             "album_name": "Impressions",
             "recording_year": "1988",
-            "asset_path": "kenny_drew_002_024"
+            "asset_path": "kenny_drew_000_025",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "26. No Greater Love",
+            "track_name": "28. No Greater Love (1 appearances)",
             "album_name": "Impressions",
             "recording_year": "1988",
-            "asset_path": "kenny_drew_002_025"
+            "asset_path": "kenny_drew_000_026",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "27. No Greater Love",
+            "track_name": "29. No Greater Love (1 appearances)",
             "album_name": "Impressions",
             "recording_year": "1988",
-            "asset_path": "kenny_drew_002_026"
+            "asset_path": "kenny_drew_000_027",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "28. No Greater Love",
+            "track_name": "30. No Greater Love (1 appearances)",
             "album_name": "Impressions",
             "recording_year": "1988",
-            "asset_path": "kenny_drew_002_027"
+            "asset_path": "kenny_drew_000_028",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "29. No Greater Love",
-            "album_name": "Impressions",
-            "recording_year": "1988",
-            "asset_path": "kenny_drew_002_028"
-        },
-        {
-            "track_name": "30. It Could Happen to You",
+            "track_name": "31. It Could Happen to You (1 appearances)",
             "album_name": "All the Things You Are",
             "recording_year": "1981",
-            "asset_path": "kenny_drew_002_029"
+            "asset_path": "kenny_drew_000_029",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "31. It Could Happen to You",
-            "album_name": "All the Things You Are",
-            "recording_year": "1981",
-            "asset_path": "kenny_drew_002_030"
-        },
-        {
-            "track_name": "32. Lullaby in Ragtime",
+            "track_name": "32. Lullaby in Ragtime (1 appearances)",
             "album_name": "The Lullaby",
             "recording_year": "1982",
-            "asset_path": "kenny_drew_002_031"
+            "asset_path": "kenny_drew_000_031",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "33. HushABye Jewish Folk Tune",
+            "track_name": "33. HushABye Jewish Folk Tune (1 appearances)",
             "album_name": "The Lullaby",
             "recording_year": "1982",
-            "asset_path": "kenny_drew_002_032"
+            "asset_path": "kenny_drew_000_032",
+            "n_appearances_in_track": 1
         }
     ],
-    "[-5, 12, -8]": [
+    "[4, -6]": [
         {
-            "track_name": "1. Russian Lullaby",
-            "album_name": "The Lullaby",
-            "recording_year": "1982",
-            "asset_path": "kenny_drew_003_000"
+            "track_name": "1. No Greater Love (4 appearances)",
+            "album_name": "Impressions",
+            "recording_year": "1988",
+            "asset_path": "kenny_drew_001_048",
+            "n_appearances_in_track": 4
         },
         {
-            "track_name": "2. Russian Lullaby",
-            "album_name": "The Lullaby",
-            "recording_year": "1982",
-            "asset_path": "kenny_drew_003_001"
+            "track_name": "2. No Greater Love (3 appearances)",
+            "album_name": "Impressions",
+            "recording_year": "1988",
+            "asset_path": "kenny_drew_001_051",
+            "n_appearances_in_track": 3
         },
         {
-            "track_name": "3. Blues Inn",
+            "track_name": "3. All Blues (2 appearances)",
             "album_name": "Dark Beauty",
             "recording_year": "1974",
-            "asset_path": "kenny_drew_003_002"
+            "asset_path": "kenny_drew_001_009",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "4. Bluesology",
+            "track_name": "4. Be My Love (2 appearances)",
+            "album_name": "Howard McGhee  Introducing The Kenny Drew Trio",
+            "recording_year": "1951",
+            "asset_path": "kenny_drew_001_017",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "5. In Your Own Sweet Way (2 appearances)",
+            "album_name": "Dark Beauty",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_001_025",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "6. Run Away (2 appearances)",
+            "album_name": "Dark Beauty",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_001_035",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "7. Summertime (2 appearances)",
+            "album_name": "The Lullaby",
+            "recording_year": "1982",
+            "asset_path": "kenny_drew_001_042",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "8. Autumn Leaves (2 appearances)",
+            "album_name": "Impressions",
+            "recording_year": "1988",
+            "asset_path": "kenny_drew_001_045",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "9. No Greater Love (2 appearances)",
+            "album_name": "Impressions",
+            "recording_year": "1988",
+            "asset_path": "kenny_drew_001_050",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "10. Yesterdays (1 appearances)",
+            "album_name": "SoloDuo",
+            "recording_year": 1996,
+            "asset_path": "kenny_drew_001_000",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "11. Yesterdays (1 appearances)",
+            "album_name": "SoloDuo",
+            "recording_year": 1996,
+            "asset_path": "kenny_drew_001_001",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "12. Yesterdays (1 appearances)",
+            "album_name": "SoloDuo",
+            "recording_year": 1996,
+            "asset_path": "kenny_drew_001_002",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "13. Yesterdays (1 appearances)",
+            "album_name": "SoloDuo",
+            "recording_year": 1996,
+            "asset_path": "kenny_drew_001_003",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "14. Impressions (1 appearances)",
+            "album_name": "Impressions",
+            "recording_year": "1988",
+            "asset_path": "kenny_drew_001_004",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "15. Impressions (1 appearances)",
+            "album_name": "Impressions",
+            "recording_year": "1988",
+            "asset_path": "kenny_drew_001_005",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "16. Impressions (1 appearances)",
+            "album_name": "Impressions",
+            "recording_year": "1988",
+            "asset_path": "kenny_drew_001_006",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "17. Russian Lullaby (1 appearances)",
+            "album_name": "The Lullaby",
+            "recording_year": "1982",
+            "asset_path": "kenny_drew_001_007",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "18. All Blues (1 appearances)",
+            "album_name": "Dark Beauty",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_001_008",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "19. All Blues (1 appearances)",
+            "album_name": "Dark Beauty",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_001_010",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "20. All Blues (1 appearances)",
+            "album_name": "Dark Beauty",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_001_011",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "21. Yesterdays (1 appearances)",
+            "album_name": "Howard McGhee  Introducing The Kenny Drew Trio",
+            "recording_year": "1951",
+            "asset_path": "kenny_drew_001_012",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "22. Yesterdays (1 appearances)",
+            "album_name": "Howard McGhee  Introducing The Kenny Drew Trio",
+            "recording_year": "1951",
+            "asset_path": "kenny_drew_001_013",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "23. Its Only a Paper Moon (1 appearances)",
+            "album_name": "Kenny Drew Trio",
+            "recording_year": "1956",
+            "asset_path": "kenny_drew_001_014",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "24. Its Only a Paper Moon (1 appearances)",
+            "album_name": "Kenny Drew Trio",
+            "recording_year": "1956",
+            "asset_path": "kenny_drew_001_015",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "25. Its Only a Paper Moon (1 appearances)",
+            "album_name": "Kenny Drew Trio",
+            "recording_year": "1956",
+            "asset_path": "kenny_drew_001_016",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "26. Kennys Blues (1 appearances)",
+            "album_name": "Kenny Drew and His Progressive Piano",
+            "recording_year": "1953",
+            "asset_path": "kenny_drew_001_018",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "27. Forgotten but Not Gone (1 appearances)",
+            "album_name": "Your Soft Eyes",
+            "recording_year": "1981",
+            "asset_path": "kenny_drew_001_019",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "28. Rouge Blues (1 appearances)",
+            "album_name": "Impressions",
+            "recording_year": "1988",
+            "asset_path": "kenny_drew_001_020",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "29. Sunspots (1 appearances)",
+            "album_name": "Ruby My Dear",
+            "recording_year": "1977",
+            "asset_path": "kenny_drew_001_021",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "30. Whisper Not (1 appearances)",
+            "album_name": "SoloDuo",
+            "recording_year": 1996,
+            "asset_path": "kenny_drew_001_022",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "31. It Could Happen to You (1 appearances)",
+            "album_name": "Dark Beauty",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_001_023",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "32. In Your Own Sweet Way (1 appearances)",
+            "album_name": "Dark Beauty",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_001_024",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "33. Bluesology (1 appearances)",
             "album_name": "Piano Night",
             "recording_year": "1990",
-            "asset_path": "kenny_drew_003_003"
-        }
-    ],
-    "[-12, 7, 1]": [
-        {
-            "track_name": "1. Lullaby of Birdland",
-            "album_name": "The Lullaby",
-            "recording_year": "1982",
-            "asset_path": "kenny_drew_004_000"
+            "asset_path": "kenny_drew_001_026",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "2. Love Letters",
-            "album_name": "Dark Beauty",
+            "track_name": "34. This Is the Moment (1 appearances)",
+            "album_name": "If You Could See Me Now",
             "recording_year": "1974",
-            "asset_path": "kenny_drew_004_001"
+            "asset_path": "kenny_drew_001_027",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "3. Do It the Hard Way",
+            "track_name": "35. This Is the Moment (1 appearances)",
+            "album_name": "If You Could See Me Now",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_001_028",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "36. A Stranger in Paradise (1 appearances)",
+            "album_name": "If You Could See Me Now",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_001_029",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "37. In Your Own Sweet Way (1 appearances)",
+            "album_name": "If You Could See Me Now",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_001_030",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "38. Do It the Hard Way (1 appearances)",
             "album_name": "Pal Joey",
             "recording_year": "1957",
-            "asset_path": "kenny_drew_004_002"
+            "asset_path": "kenny_drew_001_031",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "4. A Simple Need",
-            "album_name": "SoloDuo",
-            "recording_year": 1996,
-            "asset_path": "kenny_drew_004_003"
+            "track_name": "39. Ill Remember April (1 appearances)",
+            "album_name": "Kenny Drew and His Progressive Piano",
+            "recording_year": "1953",
+            "asset_path": "kenny_drew_001_032",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "5. A Simple Need",
+            "track_name": "40. Ill Remember April (1 appearances)",
+            "album_name": "Kenny Drew and His Progressive Piano",
+            "recording_year": "1953",
+            "asset_path": "kenny_drew_001_033",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "41. Run Away (1 appearances)",
+            "album_name": "Dark Beauty",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_001_034",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "42. Run Away (1 appearances)",
+            "album_name": "Dark Beauty",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_001_036",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "43. In Your Own Sweet Way (1 appearances)",
+            "album_name": "Piano Night",
+            "recording_year": "1990",
+            "asset_path": "kenny_drew_001_037",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "44. In Your Own Sweet Way (1 appearances)",
+            "album_name": "Piano Night",
+            "recording_year": "1990",
+            "asset_path": "kenny_drew_001_038",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "45. In Your Own Sweet Way (1 appearances)",
+            "album_name": "Piano Night",
+            "recording_year": "1990",
+            "asset_path": "kenny_drew_001_039",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "46. A Stranger in Paradise (1 appearances)",
+            "album_name": "Dark Beauty",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_001_040",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "47. My Beautiful Lady (1 appearances)",
+            "album_name": "Kenny Drew and His Progressive Piano",
+            "recording_year": "1953",
+            "asset_path": "kenny_drew_001_041",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "48. Blues For Nils (1 appearances)",
             "album_name": "SoloDuo",
             "recording_year": 1996,
-            "asset_path": "kenny_drew_004_004"
+            "asset_path": "kenny_drew_001_043",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "49. Evening at the Park (1 appearances)",
+            "album_name": "Your Soft Eyes",
+            "recording_year": "1981",
+            "asset_path": "kenny_drew_001_044",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "50. Bassment (1 appearances)",
+            "album_name": "Ruby My Dear",
+            "recording_year": "1977",
+            "asset_path": "kenny_drew_001_046",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "51. Bassment (1 appearances)",
+            "album_name": "Ruby My Dear",
+            "recording_year": "1977",
+            "asset_path": "kenny_drew_001_047",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "52. No Greater Love (1 appearances)",
+            "album_name": "Impressions",
+            "recording_year": "1988",
+            "asset_path": "kenny_drew_001_049",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "53. It Could Happen to You (1 appearances)",
+            "album_name": "All the Things You Are",
+            "recording_year": "1981",
+            "asset_path": "kenny_drew_001_052",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "54. Alone Together (1 appearances)",
+            "album_name": "Your Soft Eyes",
+            "recording_year": "1981",
+            "asset_path": "kenny_drew_001_053",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "55. Alone Together (1 appearances)",
+            "album_name": "Your Soft Eyes",
+            "recording_year": "1981",
+            "asset_path": "kenny_drew_001_054",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "56. HushABye Jewish Folk Tune (1 appearances)",
+            "album_name": "The Lullaby",
+            "recording_year": "1982",
+            "asset_path": "kenny_drew_001_055",
+            "n_appearances_in_track": 1
+        }
+    ],
+    "[-1, -1, -1]": [
+        {
+            "track_name": "1. HushABye (14 appearances)",
+            "album_name": "All the Things You Are",
+            "recording_year": "1981",
+            "asset_path": "kenny_drew_002_025",
+            "n_appearances_in_track": 14
+        },
+        {
+            "track_name": "2. Russian Lullaby (12 appearances)",
+            "album_name": "The Lullaby",
+            "recording_year": "1982",
+            "asset_path": "kenny_drew_002_010",
+            "n_appearances_in_track": 12
+        },
+        {
+            "track_name": "3. HushABye Jewish Folk Tune (12 appearances)",
+            "album_name": "The Lullaby",
+            "recording_year": "1982",
+            "asset_path": "kenny_drew_002_098",
+            "n_appearances_in_track": 12
+        },
+        {
+            "track_name": "4. HushABye (10 appearances)",
+            "album_name": "All the Things You Are",
+            "recording_year": "1981",
+            "asset_path": "kenny_drew_002_026",
+            "n_appearances_in_track": 10
+        },
+        {
+            "track_name": "5. In Your Own Sweet Way (10 appearances)",
+            "album_name": "Dark Beauty",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_002_044",
+            "n_appearances_in_track": 10
+        },
+        {
+            "track_name": "6. No Greater Love (10 appearances)",
+            "album_name": "Impressions",
+            "recording_year": "1988",
+            "asset_path": "kenny_drew_002_087",
+            "n_appearances_in_track": 10
+        },
+        {
+            "track_name": "7. Yesterdays (9 appearances)",
+            "album_name": "SoloDuo",
+            "recording_year": 1996,
+            "asset_path": "kenny_drew_002_004",
+            "n_appearances_in_track": 9
+        },
+        {
+            "track_name": "8. All Blues (9 appearances)",
+            "album_name": "Dark Beauty",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_002_013",
+            "n_appearances_in_track": 9
+        },
+        {
+            "track_name": "9. Russian Lullaby (8 appearances)",
+            "album_name": "The Lullaby",
+            "recording_year": "1982",
+            "asset_path": "kenny_drew_002_009",
+            "n_appearances_in_track": 8
+        },
+        {
+            "track_name": "10. All Blues (8 appearances)",
+            "album_name": "Dark Beauty",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_002_014",
+            "n_appearances_in_track": 8
+        },
+        {
+            "track_name": "11. All Blues (8 appearances)",
+            "album_name": "Dark Beauty",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_002_015",
+            "n_appearances_in_track": 8
+        },
+        {
+            "track_name": "12. In Your Own Sweet Way (8 appearances)",
+            "album_name": "Piano Night",
+            "recording_year": "1990",
+            "asset_path": "kenny_drew_002_070",
+            "n_appearances_in_track": 8
+        },
+        {
+            "track_name": "13. No Greater Love (8 appearances)",
+            "album_name": "Impressions",
+            "recording_year": "1988",
+            "asset_path": "kenny_drew_002_089",
+            "n_appearances_in_track": 8
+        },
+        {
+            "track_name": "14. It Could Happen to You (8 appearances)",
+            "album_name": "All the Things You Are",
+            "recording_year": "1981",
+            "asset_path": "kenny_drew_002_092",
+            "n_appearances_in_track": 8
+        },
+        {
+            "track_name": "15. All Blues (7 appearances)",
+            "album_name": "Dark Beauty",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_002_011",
+            "n_appearances_in_track": 7
+        },
+        {
+            "track_name": "16. This Is the Moment (7 appearances)",
+            "album_name": "If You Could See Me Now",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_002_050",
+            "n_appearances_in_track": 7
+        },
+        {
+            "track_name": "17. No Greater Love (7 appearances)",
+            "album_name": "Impressions",
+            "recording_year": "1988",
+            "asset_path": "kenny_drew_002_090",
+            "n_appearances_in_track": 7
+        },
+        {
+            "track_name": "18. It Could Happen to You (6 appearances)",
+            "album_name": "Dark Beauty",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_002_041",
+            "n_appearances_in_track": 6
+        },
+        {
+            "track_name": "19. This Is the Moment (6 appearances)",
+            "album_name": "If You Could See Me Now",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_002_052",
+            "n_appearances_in_track": 6
+        },
+        {
+            "track_name": "20. How Are Things in Glocca Morra (6 appearances)",
+            "album_name": "Your Soft Eyes",
+            "recording_year": "1981",
+            "asset_path": "kenny_drew_002_066",
+            "n_appearances_in_track": 6
+        },
+        {
+            "track_name": "21. In Your Own Sweet Way (6 appearances)",
+            "album_name": "Piano Night",
+            "recording_year": "1990",
+            "asset_path": "kenny_drew_002_071",
+            "n_appearances_in_track": 6
+        },
+        {
+            "track_name": "22. A Stranger in Paradise (6 appearances)",
+            "album_name": "Dark Beauty",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_002_076",
+            "n_appearances_in_track": 6
+        },
+        {
+            "track_name": "23. Autumn Leaves (6 appearances)",
+            "album_name": "Impressions",
+            "recording_year": "1988",
+            "asset_path": "kenny_drew_002_083",
+            "n_appearances_in_track": 6
+        },
+        {
+            "track_name": "24. Autumn Leaves (6 appearances)",
+            "album_name": "Impressions",
+            "recording_year": "1988",
+            "asset_path": "kenny_drew_002_085",
+            "n_appearances_in_track": 6
+        },
+        {
+            "track_name": "25. No Greater Love (6 appearances)",
+            "album_name": "Impressions",
+            "recording_year": "1988",
+            "asset_path": "kenny_drew_002_088",
+            "n_appearances_in_track": 6
+        },
+        {
+            "track_name": "26. Yesterdays (5 appearances)",
+            "album_name": "Howard McGhee  Introducing The Kenny Drew Trio",
+            "recording_year": "1951",
+            "asset_path": "kenny_drew_002_027",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "27. Forgotten but Not Gone (5 appearances)",
+            "album_name": "Your Soft Eyes",
+            "recording_year": "1981",
+            "asset_path": "kenny_drew_002_031",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "28. In Your Own Sweet Way (5 appearances)",
+            "album_name": "If You Could See Me Now",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_002_058",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "29. Im Old Fashioned (5 appearances)",
+            "album_name": "If You Could See Me Now",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_002_061",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "30. In Your Own Sweet Way (5 appearances)",
+            "album_name": "Piano Night",
+            "recording_year": "1990",
+            "asset_path": "kenny_drew_002_073",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "31. A Stranger in Paradise (5 appearances)",
+            "album_name": "Dark Beauty",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_002_075",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "32. Yesterdays alternate take (5 appearances)",
+            "album_name": "Howard McGhee  Introducing The Kenny Drew Trio",
+            "recording_year": "1951",
+            "asset_path": "kenny_drew_002_081",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "33. HushABye Jewish Folk Tune (5 appearances)",
+            "album_name": "The Lullaby",
+            "recording_year": "1982",
+            "asset_path": "kenny_drew_002_099",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "34. Yesterdays (4 appearances)",
+            "album_name": "SoloDuo",
+            "recording_year": 1996,
+            "asset_path": "kenny_drew_002_001",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "35. All Blues (4 appearances)",
+            "album_name": "Dark Beauty",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_002_012",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "36. Lullaby of Birdland (4 appearances)",
+            "album_name": "The Lullaby",
+            "recording_year": "1982",
+            "asset_path": "kenny_drew_002_016",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "37. Rouge Blues (4 appearances)",
+            "album_name": "Impressions",
+            "recording_year": "1988",
+            "asset_path": "kenny_drew_002_033",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "38. Whisper Not (4 appearances)",
+            "album_name": "SoloDuo",
+            "recording_year": 1996,
+            "asset_path": "kenny_drew_002_038",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "39. In Your Own Sweet Way (4 appearances)",
+            "album_name": "Dark Beauty",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_002_045",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "40. Blues For Nils (4 appearances)",
+            "album_name": "SoloDuo",
+            "recording_year": 1996,
+            "asset_path": "kenny_drew_002_079",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "41. Autumn Leaves (4 appearances)",
+            "album_name": "Impressions",
+            "recording_year": "1988",
+            "asset_path": "kenny_drew_002_086",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "42. No Greater Love (4 appearances)",
+            "album_name": "Impressions",
+            "recording_year": "1988",
+            "asset_path": "kenny_drew_002_091",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "43. Impressions (3 appearances)",
+            "album_name": "Impressions",
+            "recording_year": "1988",
+            "asset_path": "kenny_drew_002_006",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "44. Impressions (3 appearances)",
+            "album_name": "Impressions",
+            "recording_year": "1988",
+            "asset_path": "kenny_drew_002_008",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "45. Lullaby of Birdland (3 appearances)",
+            "album_name": "The Lullaby",
+            "recording_year": "1982",
+            "asset_path": "kenny_drew_002_017",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "46. Be My Love (3 appearances)",
+            "album_name": "Howard McGhee  Introducing The Kenny Drew Trio",
+            "recording_year": "1951",
+            "asset_path": "kenny_drew_002_030",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "47. Sunspots (3 appearances)",
+            "album_name": "Ruby My Dear",
+            "recording_year": "1977",
+            "asset_path": "kenny_drew_002_035",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "48. Whisper Not (3 appearances)",
+            "album_name": "SoloDuo",
+            "recording_year": 1996,
+            "asset_path": "kenny_drew_002_037",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "49. It Could Happen to You (3 appearances)",
+            "album_name": "Dark Beauty",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_002_040",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "50. In Your Own Sweet Way (3 appearances)",
+            "album_name": "Dark Beauty",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_002_043",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "51. Weirdo (3 appearances)",
+            "album_name": "Kenny Drew Trio",
+            "recording_year": "1956",
+            "asset_path": "kenny_drew_002_063",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "52. Many Miles Away (3 appearances)",
+            "album_name": "Kenny Drew and His Progressive Piano",
+            "recording_year": "1953",
+            "asset_path": "kenny_drew_002_067",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "53. Run Away (3 appearances)",
+            "album_name": "Dark Beauty",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_002_068",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "54. Alone Together (3 appearances)",
+            "album_name": "Your Soft Eyes",
+            "recording_year": "1981",
+            "asset_path": "kenny_drew_002_096",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "55. Yesterdays (2 appearances)",
+            "album_name": "SoloDuo",
+            "recording_year": 1996,
+            "asset_path": "kenny_drew_002_000",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "56. Yesterdays (2 appearances)",
+            "album_name": "SoloDuo",
+            "recording_year": 1996,
+            "asset_path": "kenny_drew_002_002",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "57. Impressions (2 appearances)",
+            "album_name": "Impressions",
+            "recording_year": "1988",
+            "asset_path": "kenny_drew_002_007",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "58. Lullaby of Birdland (2 appearances)",
+            "album_name": "The Lullaby",
+            "recording_year": "1982",
+            "asset_path": "kenny_drew_002_018",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "59. Bluesville (2 appearances)",
+            "album_name": "Kenny Drew and His Progressive Piano",
+            "recording_year": "1953",
+            "asset_path": "kenny_drew_002_019",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "60. Happy Hunting Horn (2 appearances)",
+            "album_name": "Pal Joey",
+            "recording_year": "1957",
+            "asset_path": "kenny_drew_002_021",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "61. Happy Hunting Horn (2 appearances)",
+            "album_name": "Pal Joey",
+            "recording_year": "1957",
+            "asset_path": "kenny_drew_002_023",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "62. Love Letters (2 appearances)",
+            "album_name": "Dark Beauty",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_002_024",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "63. Whisper Not (2 appearances)",
+            "album_name": "SoloDuo",
+            "recording_year": 1996,
+            "asset_path": "kenny_drew_002_036",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "64. It Could Happen to You (2 appearances)",
+            "album_name": "Dark Beauty",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_002_039",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "65. Taking a Chance on Love (2 appearances)",
+            "album_name": "Kenny Drew Trio",
+            "recording_year": "1956",
+            "asset_path": "kenny_drew_002_046",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "66. Taking a Chance on Love (2 appearances)",
+            "album_name": "Kenny Drew Trio",
+            "recording_year": "1956",
+            "asset_path": "kenny_drew_002_047",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "67. Bluesology (2 appearances)",
+            "album_name": "Piano Night",
+            "recording_year": "1990",
+            "asset_path": "kenny_drew_002_049",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "68. A Stranger in Paradise (2 appearances)",
+            "album_name": "If You Could See Me Now",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_002_055",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "69. In Your Own Sweet Way (2 appearances)",
+            "album_name": "If You Could See Me Now",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_002_056",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "70. Ill Remember April (2 appearances)",
+            "album_name": "Kenny Drew and His Progressive Piano",
+            "recording_year": "1953",
+            "asset_path": "kenny_drew_002_065",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "71. In Your Own Sweet Way (2 appearances)",
+            "album_name": "Piano Night",
+            "recording_year": "1990",
+            "asset_path": "kenny_drew_002_072",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "72. A Stranger in Paradise (2 appearances)",
+            "album_name": "Dark Beauty",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_002_074",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "73. Autumn Leaves (2 appearances)",
+            "album_name": "Impressions",
+            "recording_year": "1988",
+            "asset_path": "kenny_drew_002_084",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "74. It Could Happen to You (2 appearances)",
+            "album_name": "All the Things You Are",
+            "recording_year": "1981",
+            "asset_path": "kenny_drew_002_093",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "75. Alone Together (2 appearances)",
+            "album_name": "Your Soft Eyes",
+            "recording_year": "1981",
+            "asset_path": "kenny_drew_002_095",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "76. It Might as Well Be Spring (2 appearances)",
+            "album_name": "Howard McGhee  Introducing The Kenny Drew Trio",
+            "recording_year": "1951",
+            "asset_path": "kenny_drew_002_101",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "77. Yesterdays (1 appearances)",
+            "album_name": "SoloDuo",
+            "recording_year": 1996,
+            "asset_path": "kenny_drew_002_003",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "78. Yesterdays (1 appearances)",
+            "album_name": "SoloDuo",
+            "recording_year": 1996,
+            "asset_path": "kenny_drew_002_005",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "79. Bluesville (1 appearances)",
+            "album_name": "Kenny Drew and His Progressive Piano",
+            "recording_year": "1953",
+            "asset_path": "kenny_drew_002_020",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "80. Happy Hunting Horn (1 appearances)",
+            "album_name": "Pal Joey",
+            "recording_year": "1957",
+            "asset_path": "kenny_drew_002_022",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "81. Yesterdays (1 appearances)",
+            "album_name": "Howard McGhee  Introducing The Kenny Drew Trio",
+            "recording_year": "1951",
+            "asset_path": "kenny_drew_002_028",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "82. Its Only a Paper Moon (1 appearances)",
+            "album_name": "Kenny Drew Trio",
+            "recording_year": "1956",
+            "asset_path": "kenny_drew_002_029",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "83. Blues for Nica (1 appearances)",
+            "album_name": "Kenny Drew Trio",
+            "recording_year": "1956",
+            "asset_path": "kenny_drew_002_032",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "84. Rouge Blues (1 appearances)",
+            "album_name": "Impressions",
+            "recording_year": "1988",
+            "asset_path": "kenny_drew_002_034",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "85. Blues Inn (1 appearances)",
+            "album_name": "Dark Beauty",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_002_042",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "86. Bluesology (1 appearances)",
+            "album_name": "Piano Night",
+            "recording_year": "1990",
+            "asset_path": "kenny_drew_002_048",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "87. This Is the Moment (1 appearances)",
+            "album_name": "If You Could See Me Now",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_002_051",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "88. Drews Blues (1 appearances)",
+            "album_name": "Howard McGhee  Introducing The Kenny Drew Trio",
+            "recording_year": "1951",
+            "asset_path": "kenny_drew_002_053",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "89. A Stranger in Paradise (1 appearances)",
+            "album_name": "If You Could See Me Now",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_002_054",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "90. In Your Own Sweet Way (1 appearances)",
+            "album_name": "If You Could See Me Now",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_002_057",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "91. In Your Own Sweet Way (1 appearances)",
+            "album_name": "If You Could See Me Now",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_002_059",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "92. Im Old Fashioned (1 appearances)",
+            "album_name": "If You Could See Me Now",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_002_060",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "93. Do It the Hard Way (1 appearances)",
+            "album_name": "Pal Joey",
+            "recording_year": "1957",
+            "asset_path": "kenny_drew_002_062",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "94. Weirdo (1 appearances)",
+            "album_name": "Kenny Drew Trio",
+            "recording_year": "1956",
+            "asset_path": "kenny_drew_002_064",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "95. Run Away (1 appearances)",
+            "album_name": "Dark Beauty",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_002_069",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "96. My Beautiful Lady (1 appearances)",
+            "album_name": "Kenny Drew and His Progressive Piano",
+            "recording_year": "1953",
+            "asset_path": "kenny_drew_002_077",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "97. Summertime (1 appearances)",
+            "album_name": "The Lullaby",
+            "recording_year": "1982",
+            "asset_path": "kenny_drew_002_078",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "98. Blues For Nils (1 appearances)",
+            "album_name": "SoloDuo",
+            "recording_year": 1996,
+            "asset_path": "kenny_drew_002_080",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "99. Yesterdays alternate take (1 appearances)",
+            "album_name": "Howard McGhee  Introducing The Kenny Drew Trio",
+            "recording_year": "1951",
+            "asset_path": "kenny_drew_002_082",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "100. Lullaby in Ragtime (1 appearances)",
+            "album_name": "The Lullaby",
+            "recording_year": "1982",
+            "asset_path": "kenny_drew_002_094",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "101. Alone Together (1 appearances)",
+            "album_name": "Your Soft Eyes",
+            "recording_year": "1981",
+            "asset_path": "kenny_drew_002_097",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "102. It Might as Well Be Spring (1 appearances)",
+            "album_name": "Howard McGhee  Introducing The Kenny Drew Trio",
+            "recording_year": "1951",
+            "asset_path": "kenny_drew_002_100",
+            "n_appearances_in_track": 1
+        }
+    ],
+    "[-6, 1]": [
+        {
+            "track_name": "1. All Blues (3 appearances)",
+            "album_name": "Dark Beauty",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_003_005",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "2. Lullaby of Birdland (3 appearances)",
+            "album_name": "The Lullaby",
+            "recording_year": "1982",
+            "asset_path": "kenny_drew_003_010",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "3. It Could Happen to You (3 appearances)",
+            "album_name": "Dark Beauty",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_003_024",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "4. Lullaby in Ragtime (3 appearances)",
+            "album_name": "The Lullaby",
+            "recording_year": "1982",
+            "asset_path": "kenny_drew_003_063",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "5. Impressions (2 appearances)",
+            "album_name": "Impressions",
+            "recording_year": "1988",
+            "asset_path": "kenny_drew_003_003",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "6. Evening in the Park (2 appearances)",
+            "album_name": "Impressions",
+            "recording_year": "1988",
+            "asset_path": "kenny_drew_003_019",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "7. Sunspots (2 appearances)",
+            "album_name": "Ruby My Dear",
+            "recording_year": "1977",
+            "asset_path": "kenny_drew_003_021",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "8. In Your Own Sweet Way (2 appearances)",
+            "album_name": "Dark Beauty",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_003_026",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "9. Bluesology (2 appearances)",
+            "album_name": "Piano Night",
+            "recording_year": "1990",
+            "asset_path": "kenny_drew_003_028",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "10. In Your Own Sweet Way (2 appearances)",
+            "album_name": "If You Could See Me Now",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_003_034",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "11. In Your Own Sweet Way (2 appearances)",
+            "album_name": "If You Could See Me Now",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_003_036",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "12. Do It the Hard Way (2 appearances)",
+            "album_name": "Pal Joey",
+            "recording_year": "1957",
+            "asset_path": "kenny_drew_003_037",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "13. Many Miles Away (2 appearances)",
+            "album_name": "Kenny Drew and His Progressive Piano",
+            "recording_year": "1953",
+            "asset_path": "kenny_drew_003_040",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "14. In Your Own Sweet Way (2 appearances)",
+            "album_name": "Piano Night",
+            "recording_year": "1990",
+            "asset_path": "kenny_drew_003_043",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "15. A Stranger in Paradise (2 appearances)",
+            "album_name": "Dark Beauty",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_003_045",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "16. My Beautiful Lady (2 appearances)",
+            "album_name": "Kenny Drew and His Progressive Piano",
+            "recording_year": "1953",
+            "asset_path": "kenny_drew_003_047",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "17. Autumn Leaves (2 appearances)",
+            "album_name": "Impressions",
+            "recording_year": "1988",
+            "asset_path": "kenny_drew_003_053",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "18. Autumn Leaves (2 appearances)",
+            "album_name": "Impressions",
+            "recording_year": "1988",
+            "asset_path": "kenny_drew_003_054",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "19. No Greater Love (2 appearances)",
+            "album_name": "Impressions",
+            "recording_year": "1988",
+            "asset_path": "kenny_drew_003_057",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "20. No Greater Love (2 appearances)",
+            "album_name": "Impressions",
+            "recording_year": "1988",
+            "asset_path": "kenny_drew_003_058",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "21. It Could Happen to You (2 appearances)",
+            "album_name": "All the Things You Are",
+            "recording_year": "1981",
+            "asset_path": "kenny_drew_003_062",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "22. Yesterdays (1 appearances)",
+            "album_name": "SoloDuo",
+            "recording_year": 1996,
+            "asset_path": "kenny_drew_003_000",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "23. Yesterdays (1 appearances)",
+            "album_name": "SoloDuo",
+            "recording_year": 1996,
+            "asset_path": "kenny_drew_003_001",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "24. Yesterdays (1 appearances)",
+            "album_name": "SoloDuo",
+            "recording_year": 1996,
+            "asset_path": "kenny_drew_003_002",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "25. All Blues (1 appearances)",
+            "album_name": "Dark Beauty",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_003_004",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "26. All Blues (1 appearances)",
+            "album_name": "Dark Beauty",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_003_006",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "27. All Blues (1 appearances)",
+            "album_name": "Dark Beauty",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_003_007",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "28. All Blues (1 appearances)",
+            "album_name": "Dark Beauty",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_003_008",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "29. Lullaby of Birdland (1 appearances)",
+            "album_name": "The Lullaby",
+            "recording_year": "1982",
+            "asset_path": "kenny_drew_003_009",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "30. Lullaby of Birdland (1 appearances)",
+            "album_name": "The Lullaby",
+            "recording_year": "1982",
+            "asset_path": "kenny_drew_003_011",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "31. Happy Hunting Horn (1 appearances)",
+            "album_name": "Pal Joey",
+            "recording_year": "1957",
+            "asset_path": "kenny_drew_003_012",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "32. Love Letters (1 appearances)",
+            "album_name": "Dark Beauty",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_003_013",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "33. Love Letters (1 appearances)",
+            "album_name": "Dark Beauty",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_003_014",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "34. HushABye (1 appearances)",
+            "album_name": "All the Things You Are",
+            "recording_year": "1981",
+            "asset_path": "kenny_drew_003_015",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "35. Yesterdays (1 appearances)",
+            "album_name": "Howard McGhee  Introducing The Kenny Drew Trio",
+            "recording_year": "1951",
+            "asset_path": "kenny_drew_003_016",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "36. Kennys Blues (1 appearances)",
+            "album_name": "Kenny Drew and His Progressive Piano",
+            "recording_year": "1953",
+            "asset_path": "kenny_drew_003_017",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "37. Forgotten but Not Gone (1 appearances)",
+            "album_name": "Your Soft Eyes",
+            "recording_year": "1981",
+            "asset_path": "kenny_drew_003_018",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "38. Rouge Blues (1 appearances)",
+            "album_name": "Impressions",
+            "recording_year": "1988",
+            "asset_path": "kenny_drew_003_020",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "39. Whisper Not (1 appearances)",
+            "album_name": "SoloDuo",
+            "recording_year": 1996,
+            "asset_path": "kenny_drew_003_022",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "40. Whisper Not (1 appearances)",
+            "album_name": "SoloDuo",
+            "recording_year": 1996,
+            "asset_path": "kenny_drew_003_023",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "41. It Could Happen to You (1 appearances)",
+            "album_name": "Dark Beauty",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_003_025",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "42. In Your Own Sweet Way (1 appearances)",
+            "album_name": "Dark Beauty",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_003_027",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "43. This Is the Moment (1 appearances)",
+            "album_name": "If You Could See Me Now",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_003_029",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "44. This Is the Moment (1 appearances)",
+            "album_name": "If You Could See Me Now",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_003_030",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "45. This Is the Moment (1 appearances)",
+            "album_name": "If You Could See Me Now",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_003_031",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "46. A Stranger in Paradise (1 appearances)",
+            "album_name": "If You Could See Me Now",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_003_032",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "47. In Your Own Sweet Way (1 appearances)",
+            "album_name": "If You Could See Me Now",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_003_033",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "48. In Your Own Sweet Way (1 appearances)",
+            "album_name": "If You Could See Me Now",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_003_035",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "49. How Are Things in Glocca Morra (1 appearances)",
+            "album_name": "Your Soft Eyes",
+            "recording_year": "1981",
+            "asset_path": "kenny_drew_003_038",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "50. How Are Things in Glocca Morra (1 appearances)",
+            "album_name": "Your Soft Eyes",
+            "recording_year": "1981",
+            "asset_path": "kenny_drew_003_039",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "51. Run Away (1 appearances)",
+            "album_name": "Dark Beauty",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_003_041",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "52. Run Away (1 appearances)",
+            "album_name": "Dark Beauty",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_003_042",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "53. In Your Own Sweet Way (1 appearances)",
+            "album_name": "Piano Night",
+            "recording_year": "1990",
+            "asset_path": "kenny_drew_003_044",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "54. A Stranger in Paradise (1 appearances)",
+            "album_name": "Dark Beauty",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_003_046",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "55. My Beautiful Lady (1 appearances)",
+            "album_name": "Kenny Drew and His Progressive Piano",
+            "recording_year": "1953",
+            "asset_path": "kenny_drew_003_048",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "56. Summertime (1 appearances)",
+            "album_name": "The Lullaby",
+            "recording_year": "1982",
+            "asset_path": "kenny_drew_003_049",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "57. Summertime (1 appearances)",
+            "album_name": "The Lullaby",
+            "recording_year": "1982",
+            "asset_path": "kenny_drew_003_050",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "58. Blues For Nils (1 appearances)",
+            "album_name": "SoloDuo",
+            "recording_year": 1996,
+            "asset_path": "kenny_drew_003_051",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "59. Blues For Nils (1 appearances)",
+            "album_name": "SoloDuo",
+            "recording_year": 1996,
+            "asset_path": "kenny_drew_003_052",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "60. Bassment (1 appearances)",
+            "album_name": "Ruby My Dear",
+            "recording_year": "1977",
+            "asset_path": "kenny_drew_003_055",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "61. No Greater Love (1 appearances)",
+            "album_name": "Impressions",
+            "recording_year": "1988",
+            "asset_path": "kenny_drew_003_056",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "62. No Greater Love (1 appearances)",
+            "album_name": "Impressions",
+            "recording_year": "1988",
+            "asset_path": "kenny_drew_003_059",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "63. No Greater Love (1 appearances)",
+            "album_name": "Impressions",
+            "recording_year": "1988",
+            "asset_path": "kenny_drew_003_060",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "64. It Could Happen to You (1 appearances)",
+            "album_name": "All the Things You Are",
+            "recording_year": "1981",
+            "asset_path": "kenny_drew_003_061",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "65. Alone Together (1 appearances)",
+            "album_name": "Your Soft Eyes",
+            "recording_year": "1981",
+            "asset_path": "kenny_drew_003_064",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "66. Alone Together (1 appearances)",
+            "album_name": "Your Soft Eyes",
+            "recording_year": "1981",
+            "asset_path": "kenny_drew_003_065",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "67. HushABye Jewish Folk Tune (1 appearances)",
+            "album_name": "The Lullaby",
+            "recording_year": "1982",
+            "asset_path": "kenny_drew_003_066",
+            "n_appearances_in_track": 1
+        }
+    ],
+    "[4, -6, 1]": [
+        {
+            "track_name": "1. Yesterdays (1 appearances)",
+            "album_name": "SoloDuo",
+            "recording_year": 1996,
+            "asset_path": "kenny_drew_004_000",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "2. Impressions (1 appearances)",
+            "album_name": "Impressions",
+            "recording_year": "1988",
+            "asset_path": "kenny_drew_004_001",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "3. All Blues (1 appearances)",
+            "album_name": "Dark Beauty",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_004_002",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "4. All Blues (1 appearances)",
+            "album_name": "Dark Beauty",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_004_003",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "5. All Blues (1 appearances)",
+            "album_name": "Dark Beauty",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_004_004",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "6. All Blues (1 appearances)",
+            "album_name": "Dark Beauty",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_004_005",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "7. Forgotten but Not Gone (1 appearances)",
+            "album_name": "Your Soft Eyes",
+            "recording_year": "1981",
+            "asset_path": "kenny_drew_004_006",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "8. Rouge Blues (1 appearances)",
+            "album_name": "Impressions",
+            "recording_year": "1988",
+            "asset_path": "kenny_drew_004_007",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "9. Sunspots (1 appearances)",
+            "album_name": "Ruby My Dear",
+            "recording_year": "1977",
+            "asset_path": "kenny_drew_004_008",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "10. In Your Own Sweet Way (1 appearances)",
+            "album_name": "Dark Beauty",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_004_009",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "11. In Your Own Sweet Way (1 appearances)",
+            "album_name": "Dark Beauty",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_004_010",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "12. This Is the Moment (1 appearances)",
+            "album_name": "If You Could See Me Now",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_004_011",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "13. In Your Own Sweet Way (1 appearances)",
+            "album_name": "If You Could See Me Now",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_004_012",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "14. Run Away (1 appearances)",
+            "album_name": "Dark Beauty",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_004_013",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "15. In Your Own Sweet Way (1 appearances)",
+            "album_name": "Piano Night",
+            "recording_year": "1990",
+            "asset_path": "kenny_drew_004_014",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "16. In Your Own Sweet Way (1 appearances)",
+            "album_name": "Piano Night",
+            "recording_year": "1990",
+            "asset_path": "kenny_drew_004_015",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "17. A Stranger in Paradise (1 appearances)",
+            "album_name": "Dark Beauty",
+            "recording_year": "1974",
+            "asset_path": "kenny_drew_004_016",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "18. My Beautiful Lady (1 appearances)",
+            "album_name": "Kenny Drew and His Progressive Piano",
+            "recording_year": "1953",
+            "asset_path": "kenny_drew_004_017",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "19. Summertime (1 appearances)",
+            "album_name": "The Lullaby",
+            "recording_year": "1982",
+            "asset_path": "kenny_drew_004_018",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "20. Autumn Leaves (1 appearances)",
+            "album_name": "Impressions",
+            "recording_year": "1988",
+            "asset_path": "kenny_drew_004_019",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "21. No Greater Love (1 appearances)",
+            "album_name": "Impressions",
+            "recording_year": "1988",
+            "asset_path": "kenny_drew_004_020",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "22. No Greater Love (1 appearances)",
+            "album_name": "Impressions",
+            "recording_year": "1988",
+            "asset_path": "kenny_drew_004_021",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "23. No Greater Love (1 appearances)",
+            "album_name": "Impressions",
+            "recording_year": "1988",
+            "asset_path": "kenny_drew_004_022",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "24. It Could Happen to You (1 appearances)",
+            "album_name": "All the Things You Are",
+            "recording_year": "1981",
+            "asset_path": "kenny_drew_004_023",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "25. Alone Together (1 appearances)",
+            "album_name": "Your Soft Eyes",
+            "recording_year": "1981",
+            "asset_path": "kenny_drew_004_024",
+            "n_appearances_in_track": 1
         }
     ]
 }

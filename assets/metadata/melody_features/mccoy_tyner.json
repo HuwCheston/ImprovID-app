@@ -1,216 +1,2350 @@
 {
-    "[10, -6, 6]": [
+    "[-5, 5, -5]": [
         {
-            "track_name": "1. I Want to Talk About You",
-            "album_name": "McCoy Tyner plays John Coltrane Live at the Village Vanguard",
-            "recording_year": "1997",
-            "asset_path": "mccoy_tyner_000_000"
-        },
-        {
-            "track_name": "2. Theme for Ernie",
-            "album_name": "Inception  Reaching Fourth",
-            "recording_year": "1962",
-            "asset_path": "mccoy_tyner_000_001"
-        },
-        {
-            "track_name": "3. Vibration Blues",
-            "album_name": "Cosmos",
-            "recording_year": "1969",
-            "asset_path": "mccoy_tyner_000_002"
-        },
-        {
-            "track_name": "4. Will You Still Be Mine",
-            "album_name": "Live at Sweet Basil",
-            "recording_year": "1989",
-            "asset_path": "mccoy_tyner_000_003"
-        }
-    ],
-    "[-4, 7, -5]": [
-        {
-            "track_name": "1. TraneLike",
-            "album_name": "McCoy Tyner with Stanley Clarke and Al Foster",
-            "recording_year": "1998",
-            "asset_path": "mccoy_tyner_001_000"
-        },
-        {
-            "track_name": "2. Round Midnight",
-            "album_name": "Live at Sweet Basil",
-            "recording_year": "1989",
-            "asset_path": "mccoy_tyner_001_001"
-        },
-        {
-            "track_name": "3. Pursuance",
-            "album_name": "Remembering John",
-            "recording_year": "1991",
-            "asset_path": "mccoy_tyner_001_002"
-        },
-        {
-            "track_name": "4. Pursuance",
-            "album_name": "Remembering John",
-            "recording_year": "1991",
-            "asset_path": "mccoy_tyner_001_003"
-        },
-        {
-            "track_name": "5. Naima  Live At Merkin Hall NYC  1989",
-            "album_name": "Things Aint What They Used To Be Live",
-            "recording_year": 1990,
-            "asset_path": "mccoy_tyner_001_004"
-        },
-        {
-            "track_name": "6. I Want to Talk About You",
-            "album_name": "McCoy Tyner plays John Coltrane Live at the Village Vanguard",
-            "recording_year": "1997",
-            "asset_path": "mccoy_tyner_001_005"
-        },
-        {
-            "track_name": "7. Lush Life  Live At Merkin Hall NYC  1989",
-            "album_name": "Things Aint What They Used To Be Live",
-            "recording_year": 1990,
-            "asset_path": "mccoy_tyner_001_006"
-        },
-        {
-            "track_name": "8. Yesterdays",
-            "album_name": "Live at Sweet Basil",
-            "recording_year": "1989",
-            "asset_path": "mccoy_tyner_001_007"
-        },
-        {
-            "track_name": "9. The Night Has a Thousand Eyes",
-            "album_name": "Afro Blue",
-            "recording_year": "1999",
-            "asset_path": "mccoy_tyner_001_008"
-        },
-        {
-            "track_name": "10. The Surrey With the Fringe on Top",
-            "album_name": "Time for Tyner",
-            "recording_year": "1968",
-            "asset_path": "mccoy_tyner_001_009"
-        },
-        {
-            "track_name": "11. Crescent",
+            "track_name": "1. Lonnies Lament (8 appearances)",
             "album_name": "Soliloquy",
             "recording_year": 1992,
-            "asset_path": "mccoy_tyner_001_010"
+            "asset_path": "mccoy_tyner_000_058",
+            "n_appearances_in_track": 8
         },
         {
-            "track_name": "12. One for Honor",
+            "track_name": "2. Espanola (7 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_000_031",
+            "n_appearances_in_track": 7
+        },
+        {
+            "track_name": "3. Afro Blue (6 appearances)",
+            "album_name": "McCoy Tyner plays John Coltrane Live at the Village Vanguard",
+            "recording_year": "1997",
+            "asset_path": "mccoy_tyner_000_083",
+            "n_appearances_in_track": 6
+        },
+        {
+            "track_name": "4. Espanola (5 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_000_032",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "5. Espanola (5 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_000_033",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "6. Espanola (4 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_000_034",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "7. One for Honor (4 appearances)",
             "album_name": "Horizon",
             "recording_year": "1978",
-            "asset_path": "mccoy_tyner_001_011"
+            "asset_path": "mccoy_tyner_000_062",
+            "n_appearances_in_track": 4
         },
         {
-            "track_name": "13. After The Rain",
+            "track_name": "8. Blues for Ball (3 appearances)",
+            "album_name": "Supertrios",
+            "recording_year": "1977",
+            "asset_path": "mccoy_tyner_000_011",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "9. Lil Darlin (3 appearances)",
+            "album_name": "Double Trios",
+            "recording_year": "1986",
+            "asset_path": "mccoy_tyner_000_038",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "10. Mr Gentle and Mr Cool (3 appearances)",
+            "album_name": "McCoy Tyner plays Ellington",
+            "recording_year": "1964",
+            "asset_path": "mccoy_tyner_000_040",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "11. Monks Dream (3 appearances)",
+            "album_name": "Live at Sweet Basil",
+            "recording_year": "1989",
+            "asset_path": "mccoy_tyner_000_046",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "12. Lonnies Lament (3 appearances)",
             "album_name": "Soliloquy",
             "recording_year": 1992,
-            "asset_path": "mccoy_tyner_001_012"
+            "asset_path": "mccoy_tyner_000_056",
+            "n_appearances_in_track": 3
         },
         {
-            "track_name": "14. Just in Time",
-            "album_name": "Live at Sweet Basil",
-            "recording_year": "1989",
-            "asset_path": "mccoy_tyner_001_013"
+            "track_name": "13. Lonnies Lament (3 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_000_057",
+            "n_appearances_in_track": 3
         },
         {
-            "track_name": "15. Song For My Lady  Live At Merkin Hall NYC  1989",
-            "album_name": "Things Aint What They Used To Be Live",
-            "recording_year": 1990,
-            "asset_path": "mccoy_tyner_001_014"
-        }
-    ],
-    "[-8, -4, 12]": [
-        {
-            "track_name": "1. Round Midnight",
-            "album_name": "Live at Sweet Basil",
-            "recording_year": "1989",
-            "asset_path": "mccoy_tyner_002_000"
+            "track_name": "14. One for Honor (3 appearances)",
+            "album_name": "Horizon",
+            "recording_year": "1978",
+            "asset_path": "mccoy_tyner_000_063",
+            "n_appearances_in_track": 3
         },
         {
-            "track_name": "2. Once Upon a Time",
+            "track_name": "15. After The Rain (3 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_000_068",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "16. Willow Weep For Me (2 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_000_002",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "17. I Should Care (2 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_000_006",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "18. Tribute To Lady Day (2 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_000_012",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "19. Like Someone in Love (2 appearances)",
+            "album_name": "Remembering John",
+            "recording_year": "1991",
+            "asset_path": "mccoy_tyner_000_016",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "20. Iki Masho Lets Go (2 appearances)",
+            "album_name": "Counterpoints Live in Tokyo",
+            "recording_year": "1978",
+            "asset_path": "mccoy_tyner_000_025",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "21. Iki Masho Lets Go (2 appearances)",
+            "album_name": "Counterpoints Live in Tokyo",
+            "recording_year": "1978",
+            "asset_path": "mccoy_tyner_000_026",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "22. Theme for Ernie (2 appearances)",
+            "album_name": "Inception  Reaching Fourth",
+            "recording_year": "1962",
+            "asset_path": "mccoy_tyner_000_028",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "23. Crescent (2 appearances)",
+            "album_name": "McCoy Tyner plays John Coltrane Live at the Village Vanguard",
+            "recording_year": "1997",
+            "asset_path": "mccoy_tyner_000_035",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "24. Lonnies Lament (2 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_000_055",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "25. Lonnies Lament (2 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_000_060",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "26. Blues on the Corner (2 appearances)",
+            "album_name": "Supertrios",
+            "recording_year": "1977",
+            "asset_path": "mccoy_tyner_000_072",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "27. Satin Doll (2 appearances)",
+            "album_name": "Double Trios",
+            "recording_year": "1986",
+            "asset_path": "mccoy_tyner_000_081",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "28. TraneLike (1 appearances)",
             "album_name": "McCoy Tyner with Stanley Clarke and Al Foster",
             "recording_year": "1998",
-            "asset_path": "mccoy_tyner_002_001"
+            "asset_path": "mccoy_tyner_000_000",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "3. Yesterdays",
-            "album_name": "Live at Sweet Basil",
-            "recording_year": "1989",
-            "asset_path": "mccoy_tyner_002_002"
-        },
-        {
-            "track_name": "4. Never Let Me Go",
+            "track_name": "29. TraneLike (1 appearances)",
             "album_name": "McCoy Tyner with Stanley Clarke and Al Foster",
-            "recording_year": "1999",
-            "asset_path": "mccoy_tyner_002_003"
+            "recording_year": "1998",
+            "asset_path": "mccoy_tyner_000_001",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "5. In Walked Bud",
-            "album_name": "Remembering John",
-            "recording_year": "1991",
-            "asset_path": "mccoy_tyner_002_004"
-        },
-        {
-            "track_name": "6. The Wise One",
-            "album_name": "Remembering John",
-            "recording_year": "1991",
-            "asset_path": "mccoy_tyner_002_005"
-        }
-    ],
-    "[2, -12, 2]": [
-        {
-            "track_name": "1. I Should Care",
+            "track_name": "30. Willow Weep For Me (1 appearances)",
             "album_name": "Soliloquy",
             "recording_year": 1992,
-            "asset_path": "mccoy_tyner_003_000"
+            "asset_path": "mccoy_tyner_000_003",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "2. I Want to Talk About You",
+            "track_name": "31. Willow Weep For Me (1 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_000_004",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "32. Willow Weep For Me (1 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_000_005",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "33. Twilight Mist (1 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_000_007",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "34. Twilight Mist (1 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_000_008",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "35. Blues for Ball (1 appearances)",
+            "album_name": "Supertrios",
+            "recording_year": "1977",
+            "asset_path": "mccoy_tyner_000_009",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "36. Blues for Ball (1 appearances)",
+            "album_name": "Supertrios",
+            "recording_year": "1977",
+            "asset_path": "mccoy_tyner_000_010",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "37. Naima (1 appearances)",
             "album_name": "McCoy Tyner plays John Coltrane Live at the Village Vanguard",
             "recording_year": "1997",
-            "asset_path": "mccoy_tyner_003_001"
+            "asset_path": "mccoy_tyner_000_013",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "3. Lush Life  Live At Merkin Hall NYC  1989",
-            "album_name": "Things Aint What They Used To Be Live",
-            "recording_year": 1990,
-            "asset_path": "mccoy_tyner_003_002"
+            "track_name": "38. Mr Day (1 appearances)",
+            "album_name": "McCoy Tyner plays John Coltrane Live at the Village Vanguard",
+            "recording_year": "1997",
+            "asset_path": "mccoy_tyner_000_014",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "4. Yesterdays",
+            "track_name": "39. Round Midnight (1 appearances)",
             "album_name": "Live at Sweet Basil",
             "recording_year": "1989",
-            "asset_path": "mccoy_tyner_003_003"
+            "asset_path": "mccoy_tyner_000_015",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "5. Blues for Gwen",
-            "album_name": "Inception",
-            "recording_year": "1962",
-            "asset_path": "mccoy_tyner_003_004"
-        }
-    ],
-    "[-10, 9, -4]": [
-        {
-            "track_name": "1. I Want to Talk About You",
-            "album_name": "McCoy Tyner plays John Coltrane Live at the Village Vanguard",
-            "recording_year": "1997",
-            "asset_path": "mccoy_tyner_004_000"
-        },
-        {
-            "track_name": "2. Goin Way Blues",
-            "album_name": "McCoy Tyner with Stanley Clarke and Al Foster",
-            "recording_year": "1999",
-            "asset_path": "mccoy_tyner_004_001"
-        },
-        {
-            "track_name": "3. Sweet And Lovely  Live At Merkin Hall NYC  1989",
-            "album_name": "Things Aint What They Used To Be Live",
-            "recording_year": 1990,
-            "asset_path": "mccoy_tyner_004_002"
-        },
-        {
-            "track_name": "4. In Walked Bud",
+            "track_name": "40. Like Someone in Love (1 appearances)",
             "album_name": "Remembering John",
             "recording_year": "1991",
-            "asset_path": "mccoy_tyner_004_003"
+            "asset_path": "mccoy_tyner_000_017",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "41. Like Someone in Love (1 appearances)",
+            "album_name": "Remembering John",
+            "recording_year": "1991",
+            "asset_path": "mccoy_tyner_000_018",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "42. Pursuance (1 appearances)",
+            "album_name": "Remembering John",
+            "recording_year": "1991",
+            "asset_path": "mccoy_tyner_000_019",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "43. Naima  Live At Merkin Hall NYC  1989 (1 appearances)",
+            "album_name": "Things Aint What They Used To Be Live",
+            "recording_year": 1990,
+            "asset_path": "mccoy_tyner_000_020",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "44. Giant Steps (1 appearances)",
+            "album_name": "Remembering John",
+            "recording_year": "1991",
+            "asset_path": "mccoy_tyner_000_021",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "45. Elvin Sir Jones (1 appearances)",
+            "album_name": "Trident",
+            "recording_year": "1975",
+            "asset_path": "mccoy_tyner_000_022",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "46. Elvin Sir Jones (1 appearances)",
+            "album_name": "Trident",
+            "recording_year": "1975",
+            "asset_path": "mccoy_tyner_000_023",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "47. Will You Still Be Mine (1 appearances)",
+            "album_name": "McCoy Tyner with Stanley Clarke and Al Foster",
+            "recording_year": "1999",
+            "asset_path": "mccoy_tyner_000_024",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "48. Iki Masho Lets Go (1 appearances)",
+            "album_name": "Counterpoints Live in Tokyo",
+            "recording_year": "1978",
+            "asset_path": "mccoy_tyner_000_027",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "49. How Deep Is the Ocean (1 appearances)",
+            "album_name": "Bon Voyage",
+            "recording_year": "1987",
+            "asset_path": "mccoy_tyner_000_029",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "50. Lush Life (1 appearances)",
+            "album_name": "Supertrios",
+            "recording_year": "1977",
+            "asset_path": "mccoy_tyner_000_030",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "51. Crescent (1 appearances)",
+            "album_name": "McCoy Tyner plays John Coltrane Live at the Village Vanguard",
+            "recording_year": "1997",
+            "asset_path": "mccoy_tyner_000_036",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "52. Vibration Blues (1 appearances)",
+            "album_name": "Cosmos",
+            "recording_year": "1969",
+            "asset_path": "mccoy_tyner_000_037",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "53. Lil Darlin (1 appearances)",
+            "album_name": "Double Trios",
+            "recording_year": "1986",
+            "asset_path": "mccoy_tyner_000_039",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "54. Mr Gentle and Mr Cool (1 appearances)",
+            "album_name": "McCoy Tyner plays Ellington",
+            "recording_year": "1964",
+            "asset_path": "mccoy_tyner_000_041",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "55. Summertime (1 appearances)",
+            "album_name": "Bon Voyage",
+            "recording_year": "1987",
+            "asset_path": "mccoy_tyner_000_042",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "56. Summertime (1 appearances)",
+            "album_name": "Bon Voyage",
+            "recording_year": "1987",
+            "asset_path": "mccoy_tyner_000_043",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "57. Search For Peace  Live At Merkin Hall NYC  1989 (1 appearances)",
+            "album_name": "Things Aint What They Used To Be Live",
+            "recording_year": 1990,
+            "asset_path": "mccoy_tyner_000_044",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "58. Search For Peace  Live At Merkin Hall NYC  1989 (1 appearances)",
+            "album_name": "Things Aint What They Used To Be Live",
+            "recording_year": 1990,
+            "asset_path": "mccoy_tyner_000_045",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "59. Monks Dream (1 appearances)",
+            "album_name": "Live at Sweet Basil",
+            "recording_year": "1989",
+            "asset_path": "mccoy_tyner_000_047",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "60. Monks Dream (1 appearances)",
+            "album_name": "Live at Sweet Basil",
+            "recording_year": "1989",
+            "asset_path": "mccoy_tyner_000_048",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "61. Goin Way Blues (1 appearances)",
+            "album_name": "McCoy Tyner with Stanley Clarke and Al Foster",
+            "recording_year": "1999",
+            "asset_path": "mccoy_tyner_000_049",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "62. Effendi (1 appearances)",
+            "album_name": "Inception  Reaching Fourth",
+            "recording_year": "1962",
+            "asset_path": "mccoy_tyner_000_050",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "63. The Surrey With the Fringe on Top (1 appearances)",
+            "album_name": "Time for Tyner",
+            "recording_year": "1968",
+            "asset_path": "mccoy_tyner_000_051",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "64. Crescent (1 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_000_052",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "65. Lonnies Lament (1 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_000_053",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "66. Lonnies Lament (1 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_000_054",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "67. Lonnies Lament (1 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_000_059",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "68. One for Honor (1 appearances)",
+            "album_name": "Horizon",
+            "recording_year": "1978",
+            "asset_path": "mccoy_tyner_000_061",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "69. Things Aint What They Used To Be  Live At Merkin Hall NYC  1989  Remastered (1 appearances)",
+            "album_name": "Things Aint What They Used To Be Live",
+            "recording_year": 1990,
+            "asset_path": "mccoy_tyner_000_064",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "70. Port au Blues (1 appearances)",
+            "album_name": "Live at the Musicans Exchange Cafe",
+            "recording_year": "1987",
+            "asset_path": "mccoy_tyner_000_065",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "71. Crescent  Alternate Take (1 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_000_066",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "72. Crescent  Alternate Take (1 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_000_067",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "73. In Walked Bud (1 appearances)",
+            "album_name": "Remembering John",
+            "recording_year": "1991",
+            "asset_path": "mccoy_tyner_000_069",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "74. Blues on the Corner (1 appearances)",
+            "album_name": "Supertrios",
+            "recording_year": "1977",
+            "asset_path": "mccoy_tyner_000_070",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "75. Blues on the Corner (1 appearances)",
+            "album_name": "Supertrios",
+            "recording_year": "1977",
+            "asset_path": "mccoy_tyner_000_071",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "76. The Wise One (1 appearances)",
+            "album_name": "Remembering John",
+            "recording_year": "1991",
+            "asset_path": "mccoy_tyner_000_073",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "77. Three Flowers (1 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_000_074",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "78. Three Flowers (1 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_000_075",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "79. Tivoli (1 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_000_076",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "80. Tivoli (1 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_000_077",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "81. Song For My Lady  Live At Merkin Hall NYC  1989 (1 appearances)",
+            "album_name": "Things Aint What They Used To Be Live",
+            "recording_year": 1990,
+            "asset_path": "mccoy_tyner_000_078",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "82. All The Things You Are (1 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_000_079",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "83. All The Things You Are (1 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_000_080",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "84. Satin Doll (1 appearances)",
+            "album_name": "Double Trios",
+            "recording_year": "1986",
+            "asset_path": "mccoy_tyner_000_082",
+            "n_appearances_in_track": 1
+        }
+    ],
+    "[5, -2, -3]": [
+        {
+            "track_name": "1. Afro Blue (6 appearances)",
+            "album_name": "McCoy Tyner plays John Coltrane Live at the Village Vanguard",
+            "recording_year": "1997",
+            "asset_path": "mccoy_tyner_001_095",
+            "n_appearances_in_track": 6
+        },
+        {
+            "track_name": "2. Sweet Basil Swing (5 appearances)",
+            "album_name": "Live at Sweet Basil",
+            "recording_year": "1989",
+            "asset_path": "mccoy_tyner_001_083",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "3. Giant Steps (3 appearances)",
+            "album_name": "Remembering John",
+            "recording_year": "1991",
+            "asset_path": "mccoy_tyner_001_021",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "4. Vibration Blues (3 appearances)",
+            "album_name": "Cosmos",
+            "recording_year": "1969",
+            "asset_path": "mccoy_tyner_001_041",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "5. Goin Way Blues (3 appearances)",
+            "album_name": "McCoy Tyner with Stanley Clarke and Al Foster",
+            "recording_year": "1999",
+            "asset_path": "mccoy_tyner_001_062",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "6. All The Things You Are (3 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_001_094",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "7. TraneLike (2 appearances)",
+            "album_name": "McCoy Tyner with Stanley Clarke and Al Foster",
+            "recording_year": "1998",
+            "asset_path": "mccoy_tyner_001_002",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "8. Willow Weep For Me (2 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_001_004",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "9. Blues for Ball (2 appearances)",
+            "album_name": "Supertrios",
+            "recording_year": "1977",
+            "asset_path": "mccoy_tyner_001_011",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "10. Blues for Ball (2 appearances)",
+            "album_name": "Supertrios",
+            "recording_year": "1977",
+            "asset_path": "mccoy_tyner_001_012",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "11. Like Someone in Love (2 appearances)",
+            "album_name": "Remembering John",
+            "recording_year": "1991",
+            "asset_path": "mccoy_tyner_001_015",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "12. Moments Notice (2 appearances)",
+            "album_name": "Passion Dance",
+            "recording_year": "1978",
+            "asset_path": "mccoy_tyner_001_018",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "13. Will You Still Be Mine (2 appearances)",
+            "album_name": "McCoy Tyner with Stanley Clarke and Al Foster",
+            "recording_year": "1999",
+            "asset_path": "mccoy_tyner_001_024",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "14. Iki Masho Lets Go (2 appearances)",
+            "album_name": "Counterpoints Live in Tokyo",
+            "recording_year": "1978",
+            "asset_path": "mccoy_tyner_001_028",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "15. Crescent (2 appearances)",
+            "album_name": "McCoy Tyner plays John Coltrane Live at the Village Vanguard",
+            "recording_year": "1997",
+            "asset_path": "mccoy_tyner_001_037",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "16. Impressions (2 appearances)",
+            "album_name": "Trident",
+            "recording_year": "1975",
+            "asset_path": "mccoy_tyner_001_043",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "17. Summertime (2 appearances)",
+            "album_name": "Bon Voyage",
+            "recording_year": "1987",
+            "asset_path": "mccoy_tyner_001_055",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "18. Monks Dream (2 appearances)",
+            "album_name": "Live at Sweet Basil",
+            "recording_year": "1989",
+            "asset_path": "mccoy_tyner_001_059",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "19. Blues Back (2 appearances)",
+            "album_name": "Reaching Fourth",
+            "recording_year": "1963",
+            "asset_path": "mccoy_tyner_001_061",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "20. Goin Way Blues (2 appearances)",
+            "album_name": "McCoy Tyner with Stanley Clarke and Al Foster",
+            "recording_year": "1999",
+            "asset_path": "mccoy_tyner_001_063",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "21. You Stepped Out of a Dream (2 appearances)",
+            "album_name": "Bon Voyage",
+            "recording_year": "1987",
+            "asset_path": "mccoy_tyner_001_069",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "22. The Surrey With the Fringe on Top (2 appearances)",
+            "album_name": "Time for Tyner",
+            "recording_year": "1968",
+            "asset_path": "mccoy_tyner_001_071",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "23. Things Aint What They Used To Be  Live At Merkin Hall NYC  1989  Remastered (2 appearances)",
+            "album_name": "Things Aint What They Used To Be Live",
+            "recording_year": 1990,
+            "asset_path": "mccoy_tyner_001_076",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "24. Port au Blues (2 appearances)",
+            "album_name": "Live at the Musicans Exchange Cafe",
+            "recording_year": "1987",
+            "asset_path": "mccoy_tyner_001_078",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "25. Song For My Lady  Live At Merkin Hall NYC  1989 (2 appearances)",
+            "album_name": "Things Aint What They Used To Be Live",
+            "recording_year": 1990,
+            "asset_path": "mccoy_tyner_001_093",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "26. TraneLike (1 appearances)",
+            "album_name": "McCoy Tyner with Stanley Clarke and Al Foster",
+            "recording_year": "1998",
+            "asset_path": "mccoy_tyner_001_000",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "27. TraneLike (1 appearances)",
+            "album_name": "McCoy Tyner with Stanley Clarke and Al Foster",
+            "recording_year": "1998",
+            "asset_path": "mccoy_tyner_001_001",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "28. Willow Weep For Me (1 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_001_003",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "29. Willow Weep For Me (1 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_001_005",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "30. Willow Weep For Me (1 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_001_006",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "31. Willow Weep For Me (1 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_001_007",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "32. Speak Low (1 appearances)",
+            "album_name": "Inception",
+            "recording_year": "1962",
+            "asset_path": "mccoy_tyner_001_008",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "33. Darn That Dream (1 appearances)",
+            "album_name": "Live at Sweet Basil",
+            "recording_year": "1989",
+            "asset_path": "mccoy_tyner_001_009",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "34. Blues for Ball (1 appearances)",
+            "album_name": "Supertrios",
+            "recording_year": "1977",
+            "asset_path": "mccoy_tyner_001_010",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "35. Blues for Ball (1 appearances)",
+            "album_name": "Supertrios",
+            "recording_year": "1977",
+            "asset_path": "mccoy_tyner_001_013",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "36. Naima (1 appearances)",
+            "album_name": "McCoy Tyner plays John Coltrane Live at the Village Vanguard",
+            "recording_year": "1997",
+            "asset_path": "mccoy_tyner_001_014",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "37. Like Someone in Love (1 appearances)",
+            "album_name": "Remembering John",
+            "recording_year": "1991",
+            "asset_path": "mccoy_tyner_001_016",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "38. Like Someone in Love (1 appearances)",
+            "album_name": "Remembering John",
+            "recording_year": "1991",
+            "asset_path": "mccoy_tyner_001_017",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "39. Naima  Live At Merkin Hall NYC  1989 (1 appearances)",
+            "album_name": "Things Aint What They Used To Be Live",
+            "recording_year": 1990,
+            "asset_path": "mccoy_tyner_001_019",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "40. Giant Steps (1 appearances)",
+            "album_name": "Remembering John",
+            "recording_year": "1991",
+            "asset_path": "mccoy_tyner_001_020",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "41. Elvin Sir Jones (1 appearances)",
+            "album_name": "Trident",
+            "recording_year": "1975",
+            "asset_path": "mccoy_tyner_001_022",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "42. Crescent (1 appearances)",
+            "album_name": "Live at Sweet Basil",
+            "recording_year": "1989",
+            "asset_path": "mccoy_tyner_001_023",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "43. Will You Still Be Mine (1 appearances)",
+            "album_name": "McCoy Tyner with Stanley Clarke and Al Foster",
+            "recording_year": "1999",
+            "asset_path": "mccoy_tyner_001_025",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "44. Iki Masho Lets Go (1 appearances)",
+            "album_name": "Counterpoints Live in Tokyo",
+            "recording_year": "1978",
+            "asset_path": "mccoy_tyner_001_026",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "45. Iki Masho Lets Go (1 appearances)",
+            "album_name": "Counterpoints Live in Tokyo",
+            "recording_year": "1978",
+            "asset_path": "mccoy_tyner_001_027",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "46. Effendi (1 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_001_029",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "47. Effendi (1 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_001_030",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "48. Moments Notice (1 appearances)",
+            "album_name": "McCoy Tyner plays John Coltrane Live at the Village Vanguard",
+            "recording_year": "1997",
+            "asset_path": "mccoy_tyner_001_031",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "49. Moments Notice (1 appearances)",
+            "album_name": "McCoy Tyner plays John Coltrane Live at the Village Vanguard",
+            "recording_year": "1997",
+            "asset_path": "mccoy_tyner_001_032",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "50. Theme for Ernie (1 appearances)",
+            "album_name": "Inception  Reaching Fourth",
+            "recording_year": "1962",
+            "asset_path": "mccoy_tyner_001_033",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "51. How Deep Is the Ocean (1 appearances)",
+            "album_name": "Bon Voyage",
+            "recording_year": "1987",
+            "asset_path": "mccoy_tyner_001_034",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "52. Lush Life (1 appearances)",
+            "album_name": "Supertrios",
+            "recording_year": "1977",
+            "asset_path": "mccoy_tyner_001_035",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "53. Lush Life (1 appearances)",
+            "album_name": "Supertrios",
+            "recording_year": "1977",
+            "asset_path": "mccoy_tyner_001_036",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "54. Crescent (1 appearances)",
+            "album_name": "McCoy Tyner plays John Coltrane Live at the Village Vanguard",
+            "recording_year": "1997",
+            "asset_path": "mccoy_tyner_001_038",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "55. Crescent (1 appearances)",
+            "album_name": "McCoy Tyner plays John Coltrane Live at the Village Vanguard",
+            "recording_year": "1997",
+            "asset_path": "mccoy_tyner_001_039",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "56. Vibration Blues (1 appearances)",
+            "album_name": "Cosmos",
+            "recording_year": "1969",
+            "asset_path": "mccoy_tyner_001_040",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "57. Lil Darlin (1 appearances)",
+            "album_name": "Double Trios",
+            "recording_year": "1986",
+            "asset_path": "mccoy_tyner_001_042",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "58. Impressions (1 appearances)",
+            "album_name": "Trident",
+            "recording_year": "1975",
+            "asset_path": "mccoy_tyner_001_044",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "59. Impressions (1 appearances)",
+            "album_name": "Trident",
+            "recording_year": "1975",
+            "asset_path": "mccoy_tyner_001_045",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "60. Impressions (1 appearances)",
+            "album_name": "Trident",
+            "recording_year": "1975",
+            "asset_path": "mccoy_tyner_001_046",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "61. Mr Gentle and Mr Cool (1 appearances)",
+            "album_name": "McCoy Tyner plays Ellington",
+            "recording_year": "1964",
+            "asset_path": "mccoy_tyner_001_047",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "62. Lush Life  Live At Merkin Hall NYC  1989 (1 appearances)",
+            "album_name": "Things Aint What They Used To Be Live",
+            "recording_year": 1990,
+            "asset_path": "mccoy_tyner_001_048",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "63. Lush Life  Live At Merkin Hall NYC  1989 (1 appearances)",
+            "album_name": "Things Aint What They Used To Be Live",
+            "recording_year": 1990,
+            "asset_path": "mccoy_tyner_001_049",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "64. Inception (1 appearances)",
+            "album_name": "Inception  Reaching Fourth",
+            "recording_year": "1962",
+            "asset_path": "mccoy_tyner_001_050",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "65. Inception (1 appearances)",
+            "album_name": "Inception  Reaching Fourth",
+            "recording_year": "1962",
+            "asset_path": "mccoy_tyner_001_051",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "66. Inception (1 appearances)",
+            "album_name": "Inception  Reaching Fourth",
+            "recording_year": "1962",
+            "asset_path": "mccoy_tyner_001_052",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "67. Yesterdays (1 appearances)",
+            "album_name": "Live at Sweet Basil",
+            "recording_year": "1989",
+            "asset_path": "mccoy_tyner_001_053",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "68. Yesterdays (1 appearances)",
+            "album_name": "Live at Sweet Basil",
+            "recording_year": "1989",
+            "asset_path": "mccoy_tyner_001_054",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "69. Summertime (1 appearances)",
+            "album_name": "Bon Voyage",
+            "recording_year": "1987",
+            "asset_path": "mccoy_tyner_001_056",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "70. Search For Peace  Live At Merkin Hall NYC  1989 (1 appearances)",
+            "album_name": "Things Aint What They Used To Be Live",
+            "recording_year": 1990,
+            "asset_path": "mccoy_tyner_001_057",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "71. Blues for Gwen (1 appearances)",
+            "album_name": "Inception",
+            "recording_year": "1962",
+            "asset_path": "mccoy_tyner_001_058",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "72. Blues Back (1 appearances)",
+            "album_name": "Reaching Fourth",
+            "recording_year": "1963",
+            "asset_path": "mccoy_tyner_001_060",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "73. The Night Has a Thousand Eyes (1 appearances)",
+            "album_name": "Afro Blue",
+            "recording_year": "1999",
+            "asset_path": "mccoy_tyner_001_064",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "74. Up Gainst the Wall (1 appearances)",
+            "album_name": "Remembering John",
+            "recording_year": "1991",
+            "asset_path": "mccoy_tyner_001_065",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "75. Up Gainst the Wall (1 appearances)",
+            "album_name": "Remembering John",
+            "recording_year": "1991",
+            "asset_path": "mccoy_tyner_001_066",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "76. Effendi (1 appearances)",
+            "album_name": "Inception  Reaching Fourth",
+            "recording_year": "1962",
+            "asset_path": "mccoy_tyner_001_067",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "77. Old Devil Moon (1 appearances)",
+            "album_name": "Reaching Fourth",
+            "recording_year": "1963",
+            "asset_path": "mccoy_tyner_001_068",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "78. The Surrey With the Fringe on Top (1 appearances)",
+            "album_name": "Time for Tyner",
+            "recording_year": "1968",
+            "asset_path": "mccoy_tyner_001_070",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "79. The Surrey With the Fringe on Top (1 appearances)",
+            "album_name": "Time for Tyner",
+            "recording_year": "1968",
+            "asset_path": "mccoy_tyner_001_072",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "80. Lonnies Lament (1 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_001_073",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "81. Lonnies Lament (1 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_001_074",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "82. Sweet And Lovely  Live At Merkin Hall NYC  1989 (1 appearances)",
+            "album_name": "Things Aint What They Used To Be Live",
+            "recording_year": 1990,
+            "asset_path": "mccoy_tyner_001_075",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "83. Things Aint What They Used To Be  Live At Merkin Hall NYC  1989  Remastered (1 appearances)",
+            "album_name": "Things Aint What They Used To Be Live",
+            "recording_year": 1990,
+            "asset_path": "mccoy_tyner_001_077",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "84. Crescent  Alternate Take (1 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_001_079",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "85. Crescent  Alternate Take (1 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_001_080",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "86. Crescent  Alternate Take (1 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_001_081",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "87. Sweet Basil Swing (1 appearances)",
+            "album_name": "Live at Sweet Basil",
+            "recording_year": "1989",
+            "asset_path": "mccoy_tyner_001_082",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "88. Moments Notice (1 appearances)",
+            "album_name": "Supertrios",
+            "recording_year": "1977",
+            "asset_path": "mccoy_tyner_001_084",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "89. After The Rain (1 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_001_085",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "90. Just in Time (1 appearances)",
+            "album_name": "Live at Sweet Basil",
+            "recording_year": "1989",
+            "asset_path": "mccoy_tyner_001_086",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "91. Blues on the Corner (1 appearances)",
+            "album_name": "Supertrios",
+            "recording_year": "1977",
+            "asset_path": "mccoy_tyner_001_087",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "92. Blues on the Corner (1 appearances)",
+            "album_name": "Supertrios",
+            "recording_year": "1977",
+            "asset_path": "mccoy_tyner_001_088",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "93. The Wise One (1 appearances)",
+            "album_name": "Remembering John",
+            "recording_year": "1991",
+            "asset_path": "mccoy_tyner_001_089",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "94. The Wise One (1 appearances)",
+            "album_name": "Remembering John",
+            "recording_year": "1991",
+            "asset_path": "mccoy_tyner_001_090",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "95. Three Flowers (1 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_001_091",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "96. Song For My Lady  Live At Merkin Hall NYC  1989 (1 appearances)",
+            "album_name": "Things Aint What They Used To Be Live",
+            "recording_year": 1990,
+            "asset_path": "mccoy_tyner_001_092",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "97. Whats New  Live At Merkin Hall NYC  1989 (1 appearances)",
+            "album_name": "Things Aint What They Used To Be Live",
+            "recording_year": 1990,
+            "asset_path": "mccoy_tyner_001_096",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "98. Whats New  Live At Merkin Hall NYC  1989 (1 appearances)",
+            "album_name": "Things Aint What They Used To Be Live",
+            "recording_year": 1990,
+            "asset_path": "mccoy_tyner_001_097",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "99. Whats New  Live At Merkin Hall NYC  1989 (1 appearances)",
+            "album_name": "Things Aint What They Used To Be Live",
+            "recording_year": 1990,
+            "asset_path": "mccoy_tyner_001_098",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "100. Whats New  Live At Merkin Hall NYC  1989 (1 appearances)",
+            "album_name": "Things Aint What They Used To Be Live",
+            "recording_year": 1990,
+            "asset_path": "mccoy_tyner_001_099",
+            "n_appearances_in_track": 1
+        }
+    ],
+    "[-2, 7, -5]": [
+        {
+            "track_name": "1. After The Rain (10 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_002_023",
+            "n_appearances_in_track": 10
+        },
+        {
+            "track_name": "2. Tribute To Lady Day (5 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_002_006",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "3. Espanola (4 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_002_011",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "4. Twilight Mist (3 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_002_001",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "5. Twilight Mist (3 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_002_003",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "6. Espanola (3 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_002_012",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "7. Lonnies Lament (3 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_002_016",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "8. Sweet Basil Swing (3 appearances)",
+            "album_name": "Live at Sweet Basil",
+            "recording_year": "1989",
+            "asset_path": "mccoy_tyner_002_021",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "9. Song For My Lady  Live At Merkin Hall NYC  1989 (2 appearances)",
+            "album_name": "Things Aint What They Used To Be Live",
+            "recording_year": 1990,
+            "asset_path": "mccoy_tyner_002_024",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "10. TraneLike (1 appearances)",
+            "album_name": "McCoy Tyner with Stanley Clarke and Al Foster",
+            "recording_year": "1998",
+            "asset_path": "mccoy_tyner_002_000",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "11. Twilight Mist (1 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_002_002",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "12. Blues for Ball (1 appearances)",
+            "album_name": "Supertrios",
+            "recording_year": "1977",
+            "asset_path": "mccoy_tyner_002_004",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "13. Blues for Ball (1 appearances)",
+            "album_name": "Supertrios",
+            "recording_year": "1977",
+            "asset_path": "mccoy_tyner_002_005",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "14. Mr Day (1 appearances)",
+            "album_name": "McCoy Tyner plays John Coltrane Live at the Village Vanguard",
+            "recording_year": "1997",
+            "asset_path": "mccoy_tyner_002_007",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "15. Like Someone in Love (1 appearances)",
+            "album_name": "Remembering John",
+            "recording_year": "1991",
+            "asset_path": "mccoy_tyner_002_008",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "16. Naima  Live At Merkin Hall NYC  1989 (1 appearances)",
+            "album_name": "Things Aint What They Used To Be Live",
+            "recording_year": 1990,
+            "asset_path": "mccoy_tyner_002_009",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "17. Iki Masho Lets Go (1 appearances)",
+            "album_name": "Counterpoints Live in Tokyo",
+            "recording_year": "1978",
+            "asset_path": "mccoy_tyner_002_010",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "18. Inception (1 appearances)",
+            "album_name": "Inception  Reaching Fourth",
+            "recording_year": "1962",
+            "asset_path": "mccoy_tyner_002_013",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "19. Search For Peace  Live At Merkin Hall NYC  1989 (1 appearances)",
+            "album_name": "Things Aint What They Used To Be Live",
+            "recording_year": 1990,
+            "asset_path": "mccoy_tyner_002_014",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "20. Never Let Me Go (1 appearances)",
+            "album_name": "McCoy Tyner with Stanley Clarke and Al Foster",
+            "recording_year": "1999",
+            "asset_path": "mccoy_tyner_002_015",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "21. Lonnies Lament (1 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_002_017",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "22. Lonnies Lament (1 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_002_018",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "23. Lonnies Lament (1 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_002_019",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "24. Port au Blues (1 appearances)",
+            "album_name": "Live at the Musicans Exchange Cafe",
+            "recording_year": "1987",
+            "asset_path": "mccoy_tyner_002_020",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "25. After The Rain (1 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_002_022",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "26. All The Things You Are (1 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_002_025",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "27. Afro Blue (1 appearances)",
+            "album_name": "McCoy Tyner plays John Coltrane Live at the Village Vanguard",
+            "recording_year": "1997",
+            "asset_path": "mccoy_tyner_002_026",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "28. Afro Blue (1 appearances)",
+            "album_name": "McCoy Tyner plays John Coltrane Live at the Village Vanguard",
+            "recording_year": "1997",
+            "asset_path": "mccoy_tyner_002_027",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "29. Whats New  Live At Merkin Hall NYC  1989 (1 appearances)",
+            "album_name": "Things Aint What They Used To Be Live",
+            "recording_year": 1990,
+            "asset_path": "mccoy_tyner_002_028",
+            "n_appearances_in_track": 1
+        }
+    ],
+    "[7, -5]": [
+        {
+            "track_name": "1. After The Rain (11 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_003_087",
+            "n_appearances_in_track": 11
+        },
+        {
+            "track_name": "2. Espanola (7 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_003_038",
+            "n_appearances_in_track": 7
+        },
+        {
+            "track_name": "3. Twilight Mist (5 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_003_005",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "4. Tribute To Lady Day (5 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_003_014",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "5. Espanola (4 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_003_037",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "6. Lonnies Lament (4 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_003_074",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "7. One for Honor (4 appearances)",
+            "album_name": "Horizon",
+            "recording_year": "1978",
+            "asset_path": "mccoy_tyner_003_081",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "8. Sweet Basil Swing (4 appearances)",
+            "album_name": "Live at Sweet Basil",
+            "recording_year": "1989",
+            "asset_path": "mccoy_tyner_003_084",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "9. Twilight Mist (3 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_003_007",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "10. Goin Way Blues (3 appearances)",
+            "album_name": "McCoy Tyner with Stanley Clarke and Al Foster",
+            "recording_year": "1999",
+            "asset_path": "mccoy_tyner_003_058",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "11. Lonnies Lament (3 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_003_075",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "12. TraneLike (2 appearances)",
+            "album_name": "McCoy Tyner with Stanley Clarke and Al Foster",
+            "recording_year": "1998",
+            "asset_path": "mccoy_tyner_003_001",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "13. Speak Low (2 appearances)",
+            "album_name": "Inception",
+            "recording_year": "1962",
+            "asset_path": "mccoy_tyner_003_003",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "14. Twilight Mist (2 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_003_004",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "15. Blues for Ball (2 appearances)",
+            "album_name": "Supertrios",
+            "recording_year": "1977",
+            "asset_path": "mccoy_tyner_003_010",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "16. Naima (2 appearances)",
+            "album_name": "McCoy Tyner plays John Coltrane Live at the Village Vanguard",
+            "recording_year": "1997",
+            "asset_path": "mccoy_tyner_003_016",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "17. Round Midnight (2 appearances)",
+            "album_name": "Live at Sweet Basil",
+            "recording_year": "1989",
+            "asset_path": "mccoy_tyner_003_019",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "18. Crescent (2 appearances)",
+            "album_name": "Live at Sweet Basil",
+            "recording_year": "1989",
+            "asset_path": "mccoy_tyner_003_028",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "19. Iki Masho Lets Go (2 appearances)",
+            "album_name": "Counterpoints Live in Tokyo",
+            "recording_year": "1978",
+            "asset_path": "mccoy_tyner_003_031",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "20. Monks Dream (2 appearances)",
+            "album_name": "Live at Sweet Basil",
+            "recording_year": "1989",
+            "asset_path": "mccoy_tyner_003_056",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "21. The Night Has a Thousand Eyes (2 appearances)",
+            "album_name": "Afro Blue",
+            "recording_year": "1999",
+            "asset_path": "mccoy_tyner_003_061",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "22. Up Gainst the Wall (2 appearances)",
+            "album_name": "Remembering John",
+            "recording_year": "1991",
+            "asset_path": "mccoy_tyner_003_062",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "23. The Surrey With the Fringe on Top (2 appearances)",
+            "album_name": "Time for Tyner",
+            "recording_year": "1968",
+            "asset_path": "mccoy_tyner_003_068",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "24. Lonnies Lament (2 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_003_077",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "25. One for Honor (2 appearances)",
+            "album_name": "Horizon",
+            "recording_year": "1978",
+            "asset_path": "mccoy_tyner_003_079",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "26. One for Honor (2 appearances)",
+            "album_name": "Horizon",
+            "recording_year": "1978",
+            "asset_path": "mccoy_tyner_003_080",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "27. After The Rain (2 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_003_085",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "28. Blues on the Corner (2 appearances)",
+            "album_name": "Supertrios",
+            "recording_year": "1977",
+            "asset_path": "mccoy_tyner_003_093",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "29. Song For My Lady  Live At Merkin Hall NYC  1989 (2 appearances)",
+            "album_name": "Things Aint What They Used To Be Live",
+            "recording_year": 1990,
+            "asset_path": "mccoy_tyner_003_098",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "30. TraneLike (1 appearances)",
+            "album_name": "McCoy Tyner with Stanley Clarke and Al Foster",
+            "recording_year": "1998",
+            "asset_path": "mccoy_tyner_003_000",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "31. Willow Weep For Me (1 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_003_002",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "32. Twilight Mist (1 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_003_006",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "33. Darn That Dream (1 appearances)",
+            "album_name": "Live at Sweet Basil",
+            "recording_year": "1989",
+            "asset_path": "mccoy_tyner_003_008",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "34. Blues for Ball (1 appearances)",
+            "album_name": "Supertrios",
+            "recording_year": "1977",
+            "asset_path": "mccoy_tyner_003_009",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "35. Blues for Ball (1 appearances)",
+            "album_name": "Supertrios",
+            "recording_year": "1977",
+            "asset_path": "mccoy_tyner_003_011",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "36. Blues for Ball (1 appearances)",
+            "album_name": "Supertrios",
+            "recording_year": "1977",
+            "asset_path": "mccoy_tyner_003_012",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "37. Tribute To Lady Day (1 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_003_013",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "38. Naima (1 appearances)",
+            "album_name": "McCoy Tyner plays John Coltrane Live at the Village Vanguard",
+            "recording_year": "1997",
+            "asset_path": "mccoy_tyner_003_015",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "39. Mr Day (1 appearances)",
+            "album_name": "McCoy Tyner plays John Coltrane Live at the Village Vanguard",
+            "recording_year": "1997",
+            "asset_path": "mccoy_tyner_003_017",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "40. Round Midnight (1 appearances)",
+            "album_name": "Live at Sweet Basil",
+            "recording_year": "1989",
+            "asset_path": "mccoy_tyner_003_018",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "41. Round Midnight (1 appearances)",
+            "album_name": "Live at Sweet Basil",
+            "recording_year": "1989",
+            "asset_path": "mccoy_tyner_003_020",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "42. Like Someone in Love (1 appearances)",
+            "album_name": "Remembering John",
+            "recording_year": "1991",
+            "asset_path": "mccoy_tyner_003_021",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "43. Like Someone in Love (1 appearances)",
+            "album_name": "Remembering John",
+            "recording_year": "1991",
+            "asset_path": "mccoy_tyner_003_022",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "44. Pursuance (1 appearances)",
+            "album_name": "Remembering John",
+            "recording_year": "1991",
+            "asset_path": "mccoy_tyner_003_023",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "45. Pursuance (1 appearances)",
+            "album_name": "Remembering John",
+            "recording_year": "1991",
+            "asset_path": "mccoy_tyner_003_024",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "46. Pursuance (1 appearances)",
+            "album_name": "Remembering John",
+            "recording_year": "1991",
+            "asset_path": "mccoy_tyner_003_025",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "47. Naima  Live At Merkin Hall NYC  1989 (1 appearances)",
+            "album_name": "Things Aint What They Used To Be Live",
+            "recording_year": 1990,
+            "asset_path": "mccoy_tyner_003_026",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "48. Naima  Live At Merkin Hall NYC  1989 (1 appearances)",
+            "album_name": "Things Aint What They Used To Be Live",
+            "recording_year": 1990,
+            "asset_path": "mccoy_tyner_003_027",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "49. I Want to Talk About You (1 appearances)",
+            "album_name": "McCoy Tyner plays John Coltrane Live at the Village Vanguard",
+            "recording_year": "1997",
+            "asset_path": "mccoy_tyner_003_029",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "50. Iki Masho Lets Go (1 appearances)",
+            "album_name": "Counterpoints Live in Tokyo",
+            "recording_year": "1978",
+            "asset_path": "mccoy_tyner_003_030",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "51. Effendi (1 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_003_032",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "52. Moments Notice (1 appearances)",
+            "album_name": "McCoy Tyner plays John Coltrane Live at the Village Vanguard",
+            "recording_year": "1997",
+            "asset_path": "mccoy_tyner_003_033",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "53. How Deep Is the Ocean (1 appearances)",
+            "album_name": "Bon Voyage",
+            "recording_year": "1987",
+            "asset_path": "mccoy_tyner_003_034",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "54. How Deep Is the Ocean (1 appearances)",
+            "album_name": "Bon Voyage",
+            "recording_year": "1987",
+            "asset_path": "mccoy_tyner_003_035",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "55. Lush Life (1 appearances)",
+            "album_name": "Supertrios",
+            "recording_year": "1977",
+            "asset_path": "mccoy_tyner_003_036",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "56. Crescent (1 appearances)",
+            "album_name": "McCoy Tyner plays John Coltrane Live at the Village Vanguard",
+            "recording_year": "1997",
+            "asset_path": "mccoy_tyner_003_039",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "57. Vibration Blues (1 appearances)",
+            "album_name": "Cosmos",
+            "recording_year": "1969",
+            "asset_path": "mccoy_tyner_003_040",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "58. Vibration Blues (1 appearances)",
+            "album_name": "Cosmos",
+            "recording_year": "1969",
+            "asset_path": "mccoy_tyner_003_041",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "59. Lil Darlin (1 appearances)",
+            "album_name": "Double Trios",
+            "recording_year": "1986",
+            "asset_path": "mccoy_tyner_003_042",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "60. Impressions (1 appearances)",
+            "album_name": "Trident",
+            "recording_year": "1975",
+            "asset_path": "mccoy_tyner_003_043",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "61. Impressions (1 appearances)",
+            "album_name": "Trident",
+            "recording_year": "1975",
+            "asset_path": "mccoy_tyner_003_044",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "62. Mr Gentle and Mr Cool (1 appearances)",
+            "album_name": "McCoy Tyner plays Ellington",
+            "recording_year": "1964",
+            "asset_path": "mccoy_tyner_003_045",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "63. Mr Gentle and Mr Cool (1 appearances)",
+            "album_name": "McCoy Tyner plays Ellington",
+            "recording_year": "1964",
+            "asset_path": "mccoy_tyner_003_046",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "64. Lush Life  Live At Merkin Hall NYC  1989 (1 appearances)",
+            "album_name": "Things Aint What They Used To Be Live",
+            "recording_year": 1990,
+            "asset_path": "mccoy_tyner_003_047",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "65. Lush Life  Live At Merkin Hall NYC  1989 (1 appearances)",
+            "album_name": "Things Aint What They Used To Be Live",
+            "recording_year": 1990,
+            "asset_path": "mccoy_tyner_003_048",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "66. Inception (1 appearances)",
+            "album_name": "Inception  Reaching Fourth",
+            "recording_year": "1962",
+            "asset_path": "mccoy_tyner_003_049",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "67. Yesterdays (1 appearances)",
+            "album_name": "Live at Sweet Basil",
+            "recording_year": "1989",
+            "asset_path": "mccoy_tyner_003_050",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "68. Yesterdays (1 appearances)",
+            "album_name": "Live at Sweet Basil",
+            "recording_year": "1989",
+            "asset_path": "mccoy_tyner_003_051",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "69. Yesterdays (1 appearances)",
+            "album_name": "Live at Sweet Basil",
+            "recording_year": "1989",
+            "asset_path": "mccoy_tyner_003_052",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "70. Summertime (1 appearances)",
+            "album_name": "Bon Voyage",
+            "recording_year": "1987",
+            "asset_path": "mccoy_tyner_003_053",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "71. Summertime (1 appearances)",
+            "album_name": "Bon Voyage",
+            "recording_year": "1987",
+            "asset_path": "mccoy_tyner_003_054",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "72. Search For Peace  Live At Merkin Hall NYC  1989 (1 appearances)",
+            "album_name": "Things Aint What They Used To Be Live",
+            "recording_year": 1990,
+            "asset_path": "mccoy_tyner_003_055",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "73. Blues Back (1 appearances)",
+            "album_name": "Reaching Fourth",
+            "recording_year": "1963",
+            "asset_path": "mccoy_tyner_003_057",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "74. Goin Way Blues (1 appearances)",
+            "album_name": "McCoy Tyner with Stanley Clarke and Al Foster",
+            "recording_year": "1999",
+            "asset_path": "mccoy_tyner_003_059",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "75. The Night Has a Thousand Eyes (1 appearances)",
+            "album_name": "Afro Blue",
+            "recording_year": "1999",
+            "asset_path": "mccoy_tyner_003_060",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "76. Up Gainst the Wall (1 appearances)",
+            "album_name": "Remembering John",
+            "recording_year": "1991",
+            "asset_path": "mccoy_tyner_003_063",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "77. Up Gainst the Wall (1 appearances)",
+            "album_name": "Remembering John",
+            "recording_year": "1991",
+            "asset_path": "mccoy_tyner_003_064",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "78. Never Let Me Go (1 appearances)",
+            "album_name": "McCoy Tyner with Stanley Clarke and Al Foster",
+            "recording_year": "1999",
+            "asset_path": "mccoy_tyner_003_065",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "79. Bouncin With Bud (1 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_003_066",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "80. You Stepped Out of a Dream (1 appearances)",
+            "album_name": "Bon Voyage",
+            "recording_year": "1987",
+            "asset_path": "mccoy_tyner_003_067",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "81. The Surrey With the Fringe on Top (1 appearances)",
+            "album_name": "Time for Tyner",
+            "recording_year": "1968",
+            "asset_path": "mccoy_tyner_003_069",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "82. Crescent (1 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_003_070",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "83. Crescent (1 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_003_071",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "84. Crescent (1 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_003_072",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "85. Crescent (1 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_003_073",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "86. Lonnies Lament (1 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_003_076",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "87. Sweet And Lovely  Live At Merkin Hall NYC  1989 (1 appearances)",
+            "album_name": "Things Aint What They Used To Be Live",
+            "recording_year": 1990,
+            "asset_path": "mccoy_tyner_003_078",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "88. Port au Blues (1 appearances)",
+            "album_name": "Live at the Musicans Exchange Cafe",
+            "recording_year": "1987",
+            "asset_path": "mccoy_tyner_003_082",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "89. Crescent  Alternate Take (1 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_003_083",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "90. After The Rain (1 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_003_086",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "91. Just in Time (1 appearances)",
+            "album_name": "Live at Sweet Basil",
+            "recording_year": "1989",
+            "asset_path": "mccoy_tyner_003_088",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "92. In Walked Bud (1 appearances)",
+            "album_name": "Remembering John",
+            "recording_year": "1991",
+            "asset_path": "mccoy_tyner_003_089",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "93. In Walked Bud (1 appearances)",
+            "album_name": "Remembering John",
+            "recording_year": "1991",
+            "asset_path": "mccoy_tyner_003_090",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "94. Blues on the Corner (1 appearances)",
+            "album_name": "Supertrios",
+            "recording_year": "1977",
+            "asset_path": "mccoy_tyner_003_091",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "95. Blues on the Corner (1 appearances)",
+            "album_name": "Supertrios",
+            "recording_year": "1977",
+            "asset_path": "mccoy_tyner_003_092",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "96. Blues on the Corner (1 appearances)",
+            "album_name": "Supertrios",
+            "recording_year": "1977",
+            "asset_path": "mccoy_tyner_003_094",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "97. The Wise One (1 appearances)",
+            "album_name": "Remembering John",
+            "recording_year": "1991",
+            "asset_path": "mccoy_tyner_003_095",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "98. Tivoli (1 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_003_096",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "99. Song For My Lady  Live At Merkin Hall NYC  1989 (1 appearances)",
+            "album_name": "Things Aint What They Used To Be Live",
+            "recording_year": 1990,
+            "asset_path": "mccoy_tyner_003_097",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "100. Song For My Lady  Live At Merkin Hall NYC  1989 (1 appearances)",
+            "album_name": "Things Aint What They Used To Be Live",
+            "recording_year": 1990,
+            "asset_path": "mccoy_tyner_003_099",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "101. All The Things You Are (1 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_003_100",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "102. Afro Blue (1 appearances)",
+            "album_name": "McCoy Tyner plays John Coltrane Live at the Village Vanguard",
+            "recording_year": "1997",
+            "asset_path": "mccoy_tyner_003_101",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "103. Afro Blue (1 appearances)",
+            "album_name": "McCoy Tyner plays John Coltrane Live at the Village Vanguard",
+            "recording_year": "1997",
+            "asset_path": "mccoy_tyner_003_102",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "104. Whats New  Live At Merkin Hall NYC  1989 (1 appearances)",
+            "album_name": "Things Aint What They Used To Be Live",
+            "recording_year": 1990,
+            "asset_path": "mccoy_tyner_003_103",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "105. Whats New  Live At Merkin Hall NYC  1989 (1 appearances)",
+            "album_name": "Things Aint What They Used To Be Live",
+            "recording_year": 1990,
+            "asset_path": "mccoy_tyner_003_104",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "106. Whats New  Live At Merkin Hall NYC  1989 (1 appearances)",
+            "album_name": "Things Aint What They Used To Be Live",
+            "recording_year": 1990,
+            "asset_path": "mccoy_tyner_003_105",
+            "n_appearances_in_track": 1
+        }
+    ],
+    "[-5, -2, 7, -5]": [
+        {
+            "track_name": "1. After The Rain (8 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_004_012",
+            "n_appearances_in_track": 8
+        },
+        {
+            "track_name": "2. Tribute To Lady Day (5 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_004_003",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "3. Espanola (3 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_004_005",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "4. Lonnies Lament (3 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_004_008",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "5. Twilight Mist (2 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_004_000",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "6. Twilight Mist (2 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_004_002",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "7. Espanola (2 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_004_004",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "8. Twilight Mist (1 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_004_001",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "9. Search For Peace  Live At Merkin Hall NYC  1989 (1 appearances)",
+            "album_name": "Things Aint What They Used To Be Live",
+            "recording_year": 1990,
+            "asset_path": "mccoy_tyner_004_006",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "10. Never Let Me Go (1 appearances)",
+            "album_name": "McCoy Tyner with Stanley Clarke and Al Foster",
+            "recording_year": "1999",
+            "asset_path": "mccoy_tyner_004_007",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "11. Lonnies Lament (1 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_004_009",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "12. Lonnies Lament (1 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_004_010",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "13. Lonnies Lament (1 appearances)",
+            "album_name": "Soliloquy",
+            "recording_year": 1992,
+            "asset_path": "mccoy_tyner_004_011",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "14. Song For My Lady  Live At Merkin Hall NYC  1989 (1 appearances)",
+            "album_name": "Things Aint What They Used To Be Live",
+            "recording_year": 1990,
+            "asset_path": "mccoy_tyner_004_013",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "15. Afro Blue (1 appearances)",
+            "album_name": "McCoy Tyner plays John Coltrane Live at the Village Vanguard",
+            "recording_year": "1997",
+            "asset_path": "mccoy_tyner_004_014",
+            "n_appearances_in_track": 1
         }
     ]
 }

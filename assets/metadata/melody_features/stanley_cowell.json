@@ -1,120 +1,3344 @@
 {
-    "[4, -3, 4]": [
+    "[-1, -1, -1]": [
         {
-            "track_name": "1. Nefertiti  Live At Maybeck Recital Hall Berkeley CA  1990",
+            "track_name": "1. Jitterbug Waltz  Live (17 appearances)",
             "album_name": "The Maybeck Recital Series Vol 5",
             "recording_year": 1990,
-            "asset_path": "stanley_cowell_000_000"
+            "asset_path": "stanley_cowell_000_052",
+            "n_appearances_in_track": 17
         },
         {
-            "track_name": "2. Round About Midnight",
+            "track_name": "2. Stompin At The Savoy  Live At Maybeck Recital Hall Berkeley CA  1990 (16 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_000_115",
+            "n_appearances_in_track": 16
+        },
+        {
+            "track_name": "3. Jitterbug Waltz  Live (14 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_000_054",
+            "n_appearances_in_track": 14
+        },
+        {
+            "track_name": "4. Softly As In A Morning Sunrise  Live At Maybeck Recital Hall Berkeley CA  1990 (13 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_000_002",
+            "n_appearances_in_track": 13
+        },
+        {
+            "track_name": "5. Abscretion (13 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_000_010",
+            "n_appearances_in_track": 13
+        },
+        {
+            "track_name": "6. Round About Midnight (12 appearances)",
             "album_name": "Bright Passion",
             "recording_year": "1993",
-            "asset_path": "stanley_cowell_000_001"
+            "asset_path": "stanley_cowell_000_095",
+            "n_appearances_in_track": 12
         },
         {
-            "track_name": "3. Cal Massey  Live At Maybeck Recital Hall Berkeley CA  1990",
+            "track_name": "7. Out Of This World  Live At Maybeck Recital Hall Berkeley CA  1990 (9 appearances)",
             "album_name": "The Maybeck Recital Series Vol 5",
             "recording_year": 1990,
-            "asset_path": "stanley_cowell_000_002"
-        }
-    ],
-    "[-1, 10, -5]": [
+            "asset_path": "stanley_cowell_000_028",
+            "n_appearances_in_track": 9
+        },
         {
-            "track_name": "1. Softly As In A Morning Sunrise  Live At Maybeck Recital Hall Berkeley CA  1990",
+            "track_name": "8. Nefertiti  Live At Maybeck Recital Hall Berkeley CA  1990 (9 appearances)",
             "album_name": "The Maybeck Recital Series Vol 5",
             "recording_year": 1990,
-            "asset_path": "stanley_cowell_001_000"
+            "asset_path": "stanley_cowell_000_034",
+            "n_appearances_in_track": 9
         },
         {
-            "track_name": "2. Akua",
-            "album_name": "Angel Eyes",
-            "recording_year": 1994,
-            "asset_path": "stanley_cowell_001_001"
-        }
-    ],
-    "[10, -8, 1]": [
-        {
-            "track_name": "1. Big Foot A",
+            "track_name": "9. Jitterbug Waltz  Live (9 appearances)",
             "album_name": "The Maybeck Recital Series Vol 5",
             "recording_year": 1990,
-            "asset_path": "stanley_cowell_002_000"
+            "asset_path": "stanley_cowell_000_058",
+            "n_appearances_in_track": 9
         },
         {
-            "track_name": "2. Lament  Live At Maybeck Recital Hall Berkeley CA  1990",
-            "album_name": "The Maybeck Recital Series Vol 5",
-            "recording_year": 1990,
-            "asset_path": "stanley_cowell_002_001"
-        },
-        {
-            "track_name": "3. Eronel",
-            "album_name": "Angel Eyes",
-            "recording_year": 1994,
-            "asset_path": "stanley_cowell_002_002"
-        },
-        {
-            "track_name": "4. Anthropology",
+            "track_name": "10. Brilliant Circles (9 appearances)",
             "album_name": "Live at Copenhagen Jazz House",
             "recording_year": "1993",
-            "asset_path": "stanley_cowell_002_003"
-        }
-    ],
-    "[-12, 6, 4]": [
-        {
-            "track_name": "1. Lament  Live At Maybeck Recital Hall Berkeley CA  1990",
-            "album_name": "The Maybeck Recital Series Vol 5",
-            "recording_year": 1990,
-            "asset_path": "stanley_cowell_003_000"
+            "asset_path": "stanley_cowell_000_088",
+            "n_appearances_in_track": 9
         },
         {
-            "track_name": "2. Photon in a Paper World",
+            "track_name": "11. Cal Massey  Live At Maybeck Recital Hall Berkeley CA  1990 (9 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_000_108",
+            "n_appearances_in_track": 9
+        },
+        {
+            "track_name": "12. Cal Massey  Live At Maybeck Recital Hall Berkeley CA  1990 (9 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_000_110",
+            "n_appearances_in_track": 9
+        },
+        {
+            "track_name": "13. Cal Massey  Live At Maybeck Recital Hall Berkeley CA  1990 (9 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_000_112",
+            "n_appearances_in_track": 9
+        },
+        {
+            "track_name": "14. You Took Advantage Of Me (8 appearances)",
+            "album_name": "Travellin Man",
+            "recording_year": 1992,
+            "asset_path": "stanley_cowell_000_026",
+            "n_appearances_in_track": 8
+        },
+        {
+            "track_name": "15. Jitterbug Waltz  Live (8 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_000_061",
+            "n_appearances_in_track": 8
+        },
+        {
+            "track_name": "16. Stella By Starlight  Live At Maybeck Recital Hall Berkeley CA  1990 (8 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_000_106",
+            "n_appearances_in_track": 8
+        },
+        {
+            "track_name": "17. Big Foot A (7 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_000_005",
+            "n_appearances_in_track": 7
+        },
+        {
+            "track_name": "18. Jitterbug Waltz  Live (7 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_000_059",
+            "n_appearances_in_track": 7
+        },
+        {
+            "track_name": "19. You Took Advantage Of Me (6 appearances)",
+            "album_name": "Travellin Man",
+            "recording_year": 1992,
+            "asset_path": "stanley_cowell_000_022",
+            "n_appearances_in_track": 6
+        },
+        {
+            "track_name": "20. You Took Advantage Of Me (6 appearances)",
+            "album_name": "Travellin Man",
+            "recording_year": 1992,
+            "asset_path": "stanley_cowell_000_024",
+            "n_appearances_in_track": 6
+        },
+        {
+            "track_name": "21. In Walked Bud (6 appearances)",
+            "album_name": "Live at Copenhagen Jazz House",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_000_037",
+            "n_appearances_in_track": 6
+        },
+        {
+            "track_name": "22. Django  Live At Maybeck Recital Hall Berkeley CA  1990 (6 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_000_076",
+            "n_appearances_in_track": 6
+        },
+        {
+            "track_name": "23. Anthropology (6 appearances)",
+            "album_name": "Live at Copenhagen Jazz House",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_000_082",
+            "n_appearances_in_track": 6
+        },
+        {
+            "track_name": "24. The night has a thousand eyes (5 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_000_019",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "25. In Walked Bud (5 appearances)",
+            "album_name": "Live at Copenhagen Jazz House",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_000_038",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "26. Angel eyes (5 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_000_042",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "27. Jitterbug Waltz  Live (5 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_000_053",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "28. Jitterbug Waltz  Live (5 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_000_057",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "29. Jitterbug Waltz  Live (5 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_000_060",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "30. Imagine (5 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_000_073",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "31. Anthropology (5 appearances)",
+            "album_name": "Live at Copenhagen Jazz House",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_000_079",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "32. Anthropology (5 appearances)",
+            "album_name": "Live at Copenhagen Jazz House",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_000_080",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "33. Brilliant Circles (5 appearances)",
+            "album_name": "Live at Copenhagen Jazz House",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_000_085",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "34. Stompin At The Savoy  Live At Maybeck Recital Hall Berkeley CA  1990 (5 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_000_116",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "35. Big Foot A (4 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_000_003",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "36. Out Of This World  Live At Maybeck Recital Hall Berkeley CA  1990 (4 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_000_031",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "37. Angel eyes (4 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_000_039",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "38. Photon in a Paper World (4 appearances)",
             "album_name": "Travellin Man",
             "recording_year": "1969",
-            "asset_path": "stanley_cowell_003_001"
+            "asset_path": "stanley_cowell_000_048",
+            "n_appearances_in_track": 4
         },
         {
-            "track_name": "3. Round About Midnight",
+            "track_name": "39. Jitterbug Waltz  Live (4 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_000_055",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "40. Eronel (4 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_000_066",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "41. Eronel (4 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_000_068",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "42. Django  Live At Maybeck Recital Hall Berkeley CA  1990 (4 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_000_078",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "43. I Concentrate on You (4 appearances)",
+            "album_name": "Sienna",
+            "recording_year": "1989",
+            "asset_path": "stanley_cowell_000_090",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "44. Piano Concerto No 1 Tribute to Tatum (4 appearances)",
             "album_name": "Bright Passion",
             "recording_year": "1993",
-            "asset_path": "stanley_cowell_003_002"
+            "asset_path": "stanley_cowell_000_098",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "45. Morning star (4 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_000_100",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "46. Stella By Starlight  Live At Maybeck Recital Hall Berkeley CA  1990 (4 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_000_104",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "47. Cal Massey  Live At Maybeck Recital Hall Berkeley CA  1990 (4 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_000_107",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "48. Softly As In A Morning Sunrise  Live At Maybeck Recital Hall Berkeley CA  1990 (3 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_000_000",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "49. Abscretion (3 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_000_007",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "50. Abscretion (3 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_000_008",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "51. Abscretion (3 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_000_009",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "52. You Took Advantage Of Me (3 appearances)",
+            "album_name": "Travellin Man",
+            "recording_year": 1992,
+            "asset_path": "stanley_cowell_000_021",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "53. You Took Advantage Of Me (3 appearances)",
+            "album_name": "Travellin Man",
+            "recording_year": 1992,
+            "asset_path": "stanley_cowell_000_025",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "54. Out Of This World  Live At Maybeck Recital Hall Berkeley CA  1990 (3 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_000_027",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "55. Nefertiti  Live At Maybeck Recital Hall Berkeley CA  1990 (3 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_000_033",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "56. Ill Remember April  Live At Maybeck Recital Hall Berkeley CA  1990 (3 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_000_044",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "57. Ill Remember April  Live At Maybeck Recital Hall Berkeley CA  1990 (3 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_000_045",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "58. Jitterbug Waltz  Live (3 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_000_056",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "59. Brilliant Circles (3 appearances)",
+            "album_name": "Bright Passion",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_000_074",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "60. Anthropology (3 appearances)",
+            "album_name": "Live at Copenhagen Jazz House",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_000_081",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "61. Brilliant Circles (3 appearances)",
+            "album_name": "Live at Copenhagen Jazz House",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_000_087",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "62. I Concentrate on You (3 appearances)",
+            "album_name": "Sienna",
+            "recording_year": "1989",
+            "asset_path": "stanley_cowell_000_089",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "63. Sendai sendoff (3 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_000_093",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "64. Piano Concerto No 1 Tribute to Tatum (3 appearances)",
+            "album_name": "Bright Passion",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_000_097",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "65. Morning star (3 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_000_099",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "66. Morning star (3 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_000_101",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "67. Stella By Starlight  Live At Maybeck Recital Hall Berkeley CA  1990 (3 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_000_105",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "68. Cal Massey  Live At Maybeck Recital Hall Berkeley CA  1990 (3 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_000_109",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "69. Cal Massey  Live At Maybeck Recital Hall Berkeley CA  1990 (3 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_000_111",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "70. Stompin At The Savoy  Live At Maybeck Recital Hall Berkeley CA  1990 (3 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_000_117",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "71. Softly As In A Morning Sunrise  Live At Maybeck Recital Hall Berkeley CA  1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_000_001",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "72. Cal Massey (2 appearances)",
+            "album_name": "Sienna",
+            "recording_year": "1989",
+            "asset_path": "stanley_cowell_000_011",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "73. Cal Massey (2 appearances)",
+            "album_name": "Sienna",
+            "recording_year": "1989",
+            "asset_path": "stanley_cowell_000_012",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "74. The night has a thousand eyes (2 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_000_016",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "75. The night has a thousand eyes (2 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_000_018",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "76. Nefertiti  Live At Maybeck Recital Hall Berkeley CA  1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_000_036",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "77. Photon in a Paper World (2 appearances)",
+            "album_name": "Travellin Man",
+            "recording_year": "1969",
+            "asset_path": "stanley_cowell_000_051",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "78. Evidence (2 appearances)",
+            "album_name": "Sienna",
+            "recording_year": "1989",
+            "asset_path": "stanley_cowell_000_062",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "79. Eronel (2 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_000_065",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "80. Eronel (2 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_000_067",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "81. Celia (2 appearances)",
+            "album_name": "Sienna",
+            "recording_year": "1989",
+            "asset_path": "stanley_cowell_000_071",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "82. Imagine (2 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_000_072",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "83. Brilliant Circles (2 appearances)",
+            "album_name": "Bright Passion",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_000_075",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "84. Django  Live At Maybeck Recital Hall Berkeley CA  1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_000_077",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "85. Brilliant Circles (2 appearances)",
+            "album_name": "Live at Copenhagen Jazz House",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_000_086",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "86. Sendai sendoff (2 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_000_092",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "87. Sendai sendoff (2 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_000_094",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "88. Round About Midnight (2 appearances)",
+            "album_name": "Bright Passion",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_000_096",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "89. Morning star (2 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_000_102",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "90. Stompin At The Savoy  Live At Maybeck Recital Hall Berkeley CA  1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_000_113",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "91. Stompin At The Savoy  Live At Maybeck Recital Hall Berkeley CA  1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_000_118",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "92. Big Foot A (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_000_004",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "93. Abscretion (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_000_006",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "94. Cal Massey (1 appearances)",
+            "album_name": "Sienna",
+            "recording_year": "1989",
+            "asset_path": "stanley_cowell_000_013",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "95. Autumn Leaves  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_000_014",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "96. Autumn Leaves  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_000_015",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "97. The night has a thousand eyes (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_000_017",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "98. You Took Advantage Of Me (1 appearances)",
+            "album_name": "Travellin Man",
+            "recording_year": 1992,
+            "asset_path": "stanley_cowell_000_020",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "99. You Took Advantage Of Me (1 appearances)",
+            "album_name": "Travellin Man",
+            "recording_year": 1992,
+            "asset_path": "stanley_cowell_000_023",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "100. Out Of This World  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_000_029",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "101. Out Of This World  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_000_030",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "102. Lament  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_000_032",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "103. Nefertiti  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_000_035",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "104. Angel eyes (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_000_040",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "105. Angel eyes (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_000_041",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "106. Ill Remember April  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_000_043",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "107. Ill Remember April  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_000_046",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "108. Ill Remember April  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_000_047",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "109. Photon in a Paper World (1 appearances)",
+            "album_name": "Travellin Man",
+            "recording_year": "1969",
+            "asset_path": "stanley_cowell_000_049",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "110. Photon in a Paper World (1 appearances)",
+            "album_name": "Travellin Man",
+            "recording_year": "1969",
+            "asset_path": "stanley_cowell_000_050",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "111. Stella by Starlight (1 appearances)",
+            "album_name": "Live at Copenhagen Jazz House",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_000_063",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "112. Eronel (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_000_064",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "113. Celia (1 appearances)",
+            "album_name": "Sienna",
+            "recording_year": "1989",
+            "asset_path": "stanley_cowell_000_069",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "114. Celia (1 appearances)",
+            "album_name": "Sienna",
+            "recording_year": "1989",
+            "asset_path": "stanley_cowell_000_070",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "115. Anthropology (1 appearances)",
+            "album_name": "Live at Copenhagen Jazz House",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_000_083",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "116. Akua (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_000_084",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "117. Sendai sendoff (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_000_091",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "118. Morning star (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_000_103",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "119. Stompin At The Savoy  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_000_114",
+            "n_appearances_in_track": 1
         }
     ],
-    "[-3, 7, 3]": [
+    "[1, -1, -2]": [
         {
-            "track_name": "1. In Walked Bud",
-            "album_name": "Live at Copenhagen Jazz House",
-            "recording_year": "1993",
-            "asset_path": "stanley_cowell_004_000"
+            "track_name": "1. Jitterbug Waltz  Live (6 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_001_040",
+            "n_appearances_in_track": 6
         },
         {
-            "track_name": "2. Stella by Starlight",
-            "album_name": "Live at Copenhagen Jazz House",
-            "recording_year": "1993",
-            "asset_path": "stanley_cowell_004_001"
+            "track_name": "2. I Concentrate on You (4 appearances)",
+            "album_name": "Sienna",
+            "recording_year": "1989",
+            "asset_path": "stanley_cowell_001_074",
+            "n_appearances_in_track": 4
         },
         {
-            "track_name": "3. Imagine",
+            "track_name": "3. Abscretion (3 appearances)",
             "album_name": "Angel Eyes",
             "recording_year": 1994,
-            "asset_path": "stanley_cowell_004_002"
+            "asset_path": "stanley_cowell_001_005",
+            "n_appearances_in_track": 3
         },
         {
-            "track_name": "4. Sendai sendoff",
+            "track_name": "4. Autumn Leaves  Live At Maybeck Recital Hall Berkeley CA  1990 (3 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_001_013",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "5. Jitterbug Waltz  Live (3 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_001_035",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "6. Jitterbug Waltz  Live (3 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_001_038",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "7. Django  Live At Maybeck Recital Hall Berkeley CA  1990 (3 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_001_058",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "8. Django  Live At Maybeck Recital Hall Berkeley CA  1990 (3 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_001_061",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "9. Akua (3 appearances)",
             "album_name": "Angel Eyes",
             "recording_year": 1994,
-            "asset_path": "stanley_cowell_004_003"
+            "asset_path": "stanley_cowell_001_068",
+            "n_appearances_in_track": 3
         },
         {
-            "track_name": "5. Piano Concerto No 1 Tribute to Tatum",
+            "track_name": "10. Brilliant Circles (3 appearances)",
+            "album_name": "Live at Copenhagen Jazz House",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_001_071",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "11. Cal Massey (2 appearances)",
+            "album_name": "Sienna",
+            "recording_year": "1989",
+            "asset_path": "stanley_cowell_001_010",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "12. Autumn Leaves  Live At Maybeck Recital Hall Berkeley CA  1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_001_014",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "13. Out Of This World  Live At Maybeck Recital Hall Berkeley CA  1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_001_020",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "14. Angel eyes (2 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_001_027",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "15. Ill Remember April  Live At Maybeck Recital Hall Berkeley CA  1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_001_030",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "16. Jitterbug Waltz  Live (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_001_036",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "17. Jitterbug Waltz  Live (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_001_041",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "18. Celia (2 appearances)",
+            "album_name": "Sienna",
+            "recording_year": "1989",
+            "asset_path": "stanley_cowell_001_047",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "19. Imagine (2 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_001_048",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "20. Imagine (2 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_001_052",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "21. Django  Live At Maybeck Recital Hall Berkeley CA  1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_001_059",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "22. Brilliant Circles (2 appearances)",
+            "album_name": "Live at Copenhagen Jazz House",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_001_070",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "23. Brilliant Circles (2 appearances)",
+            "album_name": "Live at Copenhagen Jazz House",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_001_072",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "24. Morning star (2 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_001_086",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "25. Stella By Starlight  Live At Maybeck Recital Hall Berkeley CA  1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_001_089",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "26. Stella By Starlight  Live At Maybeck Recital Hall Berkeley CA  1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_001_090",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "27. Cal Massey  Live At Maybeck Recital Hall Berkeley CA  1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_001_092",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "28. Stompin At The Savoy  Live At Maybeck Recital Hall Berkeley CA  1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_001_095",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "29. Softly As In A Morning Sunrise  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_001_000",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "30. Big Foot A (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_001_001",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "31. Big Foot A (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_001_002",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "32. Abscretion (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_001_003",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "33. Abscretion (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_001_004",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "34. Abscretion (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_001_006",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "35. Little Sunny  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_001_007",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "36. Little Sunny  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_001_008",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "37. Little Sunny  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_001_009",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "38. Autumn Leaves  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_001_011",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "39. Autumn Leaves  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_001_012",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "40. The night has a thousand eyes (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_001_015",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "41. The night has a thousand eyes (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_001_016",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "42. You Took Advantage Of Me (1 appearances)",
+            "album_name": "Travellin Man",
+            "recording_year": 1992,
+            "asset_path": "stanley_cowell_001_017",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "43. You Took Advantage Of Me (1 appearances)",
+            "album_name": "Travellin Man",
+            "recording_year": 1992,
+            "asset_path": "stanley_cowell_001_018",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "44. Out Of This World  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_001_019",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "45. In Walked Bud (1 appearances)",
+            "album_name": "Live at Copenhagen Jazz House",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_001_021",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "46. I Am Waiting  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_001_022",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "47. I Am Waiting  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_001_023",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "48. Angel eyes (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_001_024",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "49. Angel eyes (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_001_025",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "50. Angel eyes (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_001_026",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "51. Angel eyes (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_001_028",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "52. Angel eyes (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_001_029",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "53. Ill Remember April  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_001_031",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "54. Ill Remember April  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_001_032",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "55. Photon in a Paper World (1 appearances)",
+            "album_name": "Travellin Man",
+            "recording_year": "1969",
+            "asset_path": "stanley_cowell_001_033",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "56. Photon in a Paper World (1 appearances)",
+            "album_name": "Travellin Man",
+            "recording_year": "1969",
+            "asset_path": "stanley_cowell_001_034",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "57. Jitterbug Waltz  Live (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_001_037",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "58. Jitterbug Waltz  Live (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_001_039",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "59. Evidence (1 appearances)",
+            "album_name": "Sienna",
+            "recording_year": "1989",
+            "asset_path": "stanley_cowell_001_042",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "60. Stella by Starlight (1 appearances)",
+            "album_name": "Live at Copenhagen Jazz House",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_001_043",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "61. Eronel (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_001_044",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "62. Eronel (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_001_045",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "63. Eronel (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_001_046",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "64. Imagine (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_001_049",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "65. Imagine (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_001_050",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "66. Imagine (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_001_051",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "67. Brilliant Circles (1 appearances)",
             "album_name": "Bright Passion",
             "recording_year": "1993",
-            "asset_path": "stanley_cowell_004_004"
+            "asset_path": "stanley_cowell_001_053",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "6. Morning star",
+            "track_name": "68. Brilliant Circles (1 appearances)",
+            "album_name": "Bright Passion",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_001_054",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "69. Django  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_001_055",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "70. Django  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_001_056",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "71. Django  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_001_057",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "72. Django  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_001_060",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "73. Django  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_001_062",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "74. Django  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_001_063",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "75. Anthropology (1 appearances)",
+            "album_name": "Live at Copenhagen Jazz House",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_001_064",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "76. Anthropology (1 appearances)",
+            "album_name": "Live at Copenhagen Jazz House",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_001_065",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "77. Anthropology (1 appearances)",
+            "album_name": "Live at Copenhagen Jazz House",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_001_066",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "78. Anthropology (1 appearances)",
+            "album_name": "Live at Copenhagen Jazz House",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_001_067",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "79. Brilliant Circles (1 appearances)",
+            "album_name": "Live at Copenhagen Jazz House",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_001_069",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "80. I Concentrate on You (1 appearances)",
+            "album_name": "Sienna",
+            "recording_year": "1989",
+            "asset_path": "stanley_cowell_001_073",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "81. I Concentrate on You (1 appearances)",
+            "album_name": "Sienna",
+            "recording_year": "1989",
+            "asset_path": "stanley_cowell_001_075",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "82. Sendai sendoff (1 appearances)",
             "album_name": "Angel Eyes",
             "recording_year": 1994,
-            "asset_path": "stanley_cowell_004_005"
+            "asset_path": "stanley_cowell_001_076",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "83. Sendai sendoff (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_001_077",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "84. Sendai sendoff (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_001_078",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "85. Sendai sendoff (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_001_079",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "86. Sendai sendoff (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_001_080",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "87. Sendai sendoff (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_001_081",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "88. Round About Midnight (1 appearances)",
+            "album_name": "Bright Passion",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_001_082",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "89. Piano Concerto No 1 Tribute to Tatum (1 appearances)",
+            "album_name": "Bright Passion",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_001_083",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "90. Morning star (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_001_084",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "91. Morning star (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_001_085",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "92. Stella By Starlight  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_001_087",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "93. Stella By Starlight  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_001_088",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "94. Cal Massey  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_001_091",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "95. Cal Massey  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_001_093",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "96. Cal Massey  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_001_094",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "97. Stompin At The Savoy  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_001_096",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "98. The ladder (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_001_097",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "99. The ladder (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_001_098",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "100. The ladder (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_001_099",
+            "n_appearances_in_track": 1
+        }
+    ],
+    "[-1, -1, -1, -1]": [
+        {
+            "track_name": "1. Abscretion (11 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_002_006",
+            "n_appearances_in_track": 11
+        },
+        {
+            "track_name": "2. Softly As In A Morning Sunrise  Live At Maybeck Recital Hall Berkeley CA  1990 (9 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_002_001",
+            "n_appearances_in_track": 9
+        },
+        {
+            "track_name": "3. Stompin At The Savoy  Live At Maybeck Recital Hall Berkeley CA  1990 (9 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_002_071",
+            "n_appearances_in_track": 9
+        },
+        {
+            "track_name": "4. Brilliant Circles (7 appearances)",
+            "album_name": "Live at Copenhagen Jazz House",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_002_051",
+            "n_appearances_in_track": 7
+        },
+        {
+            "track_name": "5. Round About Midnight (7 appearances)",
+            "album_name": "Bright Passion",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_002_056",
+            "n_appearances_in_track": 7
+        },
+        {
+            "track_name": "6. Jitterbug Waltz  Live (6 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_002_026",
+            "n_appearances_in_track": 6
+        },
+        {
+            "track_name": "7. Cal Massey  Live At Maybeck Recital Hall Berkeley CA  1990 (6 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_002_065",
+            "n_appearances_in_track": 6
+        },
+        {
+            "track_name": "8. Nefertiti  Live At Maybeck Recital Hall Berkeley CA  1990 (5 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_002_018",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "9. Jitterbug Waltz  Live (5 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_002_032",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "10. Cal Massey  Live At Maybeck Recital Hall Berkeley CA  1990 (5 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_002_067",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "11. Out Of This World  Live At Maybeck Recital Hall Berkeley CA  1990 (4 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_002_015",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "12. Angel eyes (4 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_002_022",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "13. Django  Live At Maybeck Recital Hall Berkeley CA  1990 (4 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_002_042",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "14. Anthropology (4 appearances)",
+            "album_name": "Live at Copenhagen Jazz House",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_002_046",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "15. Stella By Starlight  Live At Maybeck Recital Hall Berkeley CA  1990 (4 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_002_063",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "16. Cal Massey  Live At Maybeck Recital Hall Berkeley CA  1990 (4 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_002_069",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "17. Big Foot A (3 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_002_003",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "18. You Took Advantage Of Me (3 appearances)",
+            "album_name": "Travellin Man",
+            "recording_year": 1992,
+            "asset_path": "stanley_cowell_002_011",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "19. You Took Advantage Of Me (3 appearances)",
+            "album_name": "Travellin Man",
+            "recording_year": 1992,
+            "asset_path": "stanley_cowell_002_013",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "20. Angel eyes (3 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_002_021",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "21. Jitterbug Waltz  Live (3 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_002_031",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "22. Eronel (3 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_002_034",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "23. Eronel (3 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_002_036",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "24. Imagine (3 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_002_039",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "25. Brilliant Circles (3 appearances)",
+            "album_name": "Live at Copenhagen Jazz House",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_002_049",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "26. Stompin At The Savoy  Live At Maybeck Recital Hall Berkeley CA  1990 (3 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_002_072",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "27. Abscretion (2 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_002_005",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "28. The night has a thousand eyes (2 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_002_009",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "29. Out Of This World  Live At Maybeck Recital Hall Berkeley CA  1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_002_016",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "30. Nefertiti  Live At Maybeck Recital Hall Berkeley CA  1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_002_017",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "31. In Walked Bud (2 appearances)",
+            "album_name": "Live at Copenhagen Jazz House",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_002_020",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "32. Ill Remember April  Live At Maybeck Recital Hall Berkeley CA  1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_002_024",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "33. Photon in a Paper World (2 appearances)",
+            "album_name": "Travellin Man",
+            "recording_year": "1969",
+            "asset_path": "stanley_cowell_002_025",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "34. Anthropology (2 appearances)",
+            "album_name": "Live at Copenhagen Jazz House",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_002_045",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "35. I Concentrate on You (2 appearances)",
+            "album_name": "Sienna",
+            "recording_year": "1989",
+            "asset_path": "stanley_cowell_002_052",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "36. Sendai sendoff (2 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_002_055",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "37. Piano Concerto No 1 Tribute to Tatum (2 appearances)",
+            "album_name": "Bright Passion",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_002_057",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "38. Morning star (2 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_002_060",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "39. Morning star (2 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_002_061",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "40. Stella By Starlight  Live At Maybeck Recital Hall Berkeley CA  1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_002_062",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "41. Cal Massey  Live At Maybeck Recital Hall Berkeley CA  1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_002_066",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "42. Cal Massey  Live At Maybeck Recital Hall Berkeley CA  1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_002_068",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "43. Softly As In A Morning Sunrise  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_002_000",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "44. Big Foot A (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_002_002",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "45. Abscretion (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_002_004",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "46. The night has a thousand eyes (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_002_007",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "47. The night has a thousand eyes (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_002_008",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "48. You Took Advantage Of Me (1 appearances)",
+            "album_name": "Travellin Man",
+            "recording_year": 1992,
+            "asset_path": "stanley_cowell_002_010",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "49. You Took Advantage Of Me (1 appearances)",
+            "album_name": "Travellin Man",
+            "recording_year": 1992,
+            "asset_path": "stanley_cowell_002_012",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "50. Out Of This World  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_002_014",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "51. Nefertiti  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_002_019",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "52. Ill Remember April  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_002_023",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "53. Jitterbug Waltz  Live (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_002_027",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "54. Jitterbug Waltz  Live (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_002_028",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "55. Jitterbug Waltz  Live (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_002_029",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "56. Jitterbug Waltz  Live (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_002_030",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "57. Evidence (1 appearances)",
+            "album_name": "Sienna",
+            "recording_year": "1989",
+            "asset_path": "stanley_cowell_002_033",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "58. Eronel (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_002_035",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "59. Celia (1 appearances)",
+            "album_name": "Sienna",
+            "recording_year": "1989",
+            "asset_path": "stanley_cowell_002_037",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "60. Imagine (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_002_038",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "61. Brilliant Circles (1 appearances)",
+            "album_name": "Bright Passion",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_002_040",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "62. Brilliant Circles (1 appearances)",
+            "album_name": "Bright Passion",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_002_041",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "63. Django  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_002_043",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "64. Django  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_002_044",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "65. Anthropology (1 appearances)",
+            "album_name": "Live at Copenhagen Jazz House",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_002_047",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "66. Anthropology (1 appearances)",
+            "album_name": "Live at Copenhagen Jazz House",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_002_048",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "67. Brilliant Circles (1 appearances)",
+            "album_name": "Live at Copenhagen Jazz House",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_002_050",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "68. I Concentrate on You (1 appearances)",
+            "album_name": "Sienna",
+            "recording_year": "1989",
+            "asset_path": "stanley_cowell_002_053",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "69. Sendai sendoff (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_002_054",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "70. Piano Concerto No 1 Tribute to Tatum (1 appearances)",
+            "album_name": "Bright Passion",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_002_058",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "71. Morning star (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_002_059",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "72. Cal Massey  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_002_064",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "73. Stompin At The Savoy  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_002_070",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "74. Stompin At The Savoy  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_002_073",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "75. Stompin At The Savoy  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_002_074",
+            "n_appearances_in_track": 1
+        }
+    ],
+    "[-1, -2, -2]": [
+        {
+            "track_name": "1. Django  Live At Maybeck Recital Hall Berkeley CA  1990 (6 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_003_059",
+            "n_appearances_in_track": 6
+        },
+        {
+            "track_name": "2. Lament  Live At Maybeck Recital Hall Berkeley CA  1990 (4 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_003_027",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "3. Out Of This World  Live At Maybeck Recital Hall Berkeley CA  1990 (3 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_003_024",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "4. Out Of This World  Live At Maybeck Recital Hall Berkeley CA  1990 (3 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_003_025",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "5. Evidence (3 appearances)",
+            "album_name": "Sienna",
+            "recording_year": "1989",
+            "asset_path": "stanley_cowell_003_042",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "6. Django  Live At Maybeck Recital Hall Berkeley CA  1990 (3 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_003_058",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "7. Akua (3 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_003_069",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "8. Brilliant Circles (3 appearances)",
+            "album_name": "Live at Copenhagen Jazz House",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_003_072",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "9. Sendai sendoff (3 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_003_080",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "10. Softly As In A Morning Sunrise  Live At Maybeck Recital Hall Berkeley CA  1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_003_000",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "11. Abscretion (2 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_003_005",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "12. Little Sunny  Live At Maybeck Recital Hall Berkeley CA  1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_003_006",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "13. Little Sunny  Live At Maybeck Recital Hall Berkeley CA  1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_003_008",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "14. Autumn Leaves  Live At Maybeck Recital Hall Berkeley CA  1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_003_013",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "15. Autumn Leaves  Live At Maybeck Recital Hall Berkeley CA  1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_003_014",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "16. Autumn Leaves  Live At Maybeck Recital Hall Berkeley CA  1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_003_015",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "17. Out Of This World  Live At Maybeck Recital Hall Berkeley CA  1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_003_020",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "18. Out Of This World  Live At Maybeck Recital Hall Berkeley CA  1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_003_022",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "19. Lament  Live At Maybeck Recital Hall Berkeley CA  1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_003_028",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "20. Nefertiti  Live At Maybeck Recital Hall Berkeley CA  1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_003_030",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "21. I Am Waiting  Live At Maybeck Recital Hall Berkeley CA  1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_003_033",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "22. Ill Remember April  Live At Maybeck Recital Hall Berkeley CA  1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_003_036",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "23. Ill Remember April  Live At Maybeck Recital Hall Berkeley CA  1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_003_038",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "24. Eronel (2 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_003_045",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "25. Eronel (2 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_003_047",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "26. Celia (2 appearances)",
+            "album_name": "Sienna",
+            "recording_year": "1989",
+            "asset_path": "stanley_cowell_003_049",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "27. Imagine (2 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_003_052",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "28. Django  Live At Maybeck Recital Hall Berkeley CA  1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_003_057",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "29. Brilliant Circles (2 appearances)",
+            "album_name": "Live at Copenhagen Jazz House",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_003_071",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "30. I Concentrate on You (2 appearances)",
+            "album_name": "Sienna",
+            "recording_year": "1989",
+            "asset_path": "stanley_cowell_003_073",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "31. I Concentrate on You (2 appearances)",
+            "album_name": "Sienna",
+            "recording_year": "1989",
+            "asset_path": "stanley_cowell_003_075",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "32. Morning star (2 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_003_083",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "33. Big Foot A (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_003_001",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "34. Big Foot A (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_003_002",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "35. Big Foot A (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_003_003",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "36. Abscretion (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_003_004",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "37. Little Sunny  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_003_007",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "38. Little Sunny  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_003_009",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "39. Cal Massey (1 appearances)",
+            "album_name": "Sienna",
+            "recording_year": "1989",
+            "asset_path": "stanley_cowell_003_010",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "40. Cal Massey (1 appearances)",
+            "album_name": "Sienna",
+            "recording_year": "1989",
+            "asset_path": "stanley_cowell_003_011",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "41. Autumn Leaves  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_003_012",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "42. The night has a thousand eyes (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_003_016",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "43. The night has a thousand eyes (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_003_017",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "44. The night has a thousand eyes (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_003_018",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "45. You Took Advantage Of Me (1 appearances)",
+            "album_name": "Travellin Man",
+            "recording_year": 1992,
+            "asset_path": "stanley_cowell_003_019",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "46. Out Of This World  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_003_021",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "47. Out Of This World  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_003_023",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "48. Out Of This World  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_003_026",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "49. Lament  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_003_029",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "50. Nefertiti  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_003_031",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "51. In Walked Bud (1 appearances)",
+            "album_name": "Live at Copenhagen Jazz House",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_003_032",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "52. I Am Waiting  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_003_034",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "53. Angel eyes (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_003_035",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "54. Ill Remember April  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_003_037",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "55. Photon in a Paper World (1 appearances)",
+            "album_name": "Travellin Man",
+            "recording_year": "1969",
+            "asset_path": "stanley_cowell_003_039",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "56. Jitterbug Waltz  Live (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_003_040",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "57. Jitterbug Waltz  Live (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_003_041",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "58. Eronel (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_003_043",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "59. Eronel (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_003_044",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "60. Eronel (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_003_046",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "61. Eronel (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_003_048",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "62. Celia (1 appearances)",
+            "album_name": "Sienna",
+            "recording_year": "1989",
+            "asset_path": "stanley_cowell_003_050",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "63. Imagine (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_003_051",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "64. Imagine (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_003_053",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "65. Imagine (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_003_054",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "66. Imagine (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_003_055",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "67. Imagine (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_003_056",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "68. Django  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_003_060",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "69. Django  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_003_061",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "70. Django  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_003_062",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "71. Anthropology (1 appearances)",
+            "album_name": "Live at Copenhagen Jazz House",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_003_063",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "72. Anthropology (1 appearances)",
+            "album_name": "Live at Copenhagen Jazz House",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_003_064",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "73. Anthropology (1 appearances)",
+            "album_name": "Live at Copenhagen Jazz House",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_003_065",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "74. Anthropology (1 appearances)",
+            "album_name": "Live at Copenhagen Jazz House",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_003_066",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "75. Anthropology (1 appearances)",
+            "album_name": "Live at Copenhagen Jazz House",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_003_067",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "76. Akua (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_003_068",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "77. Akua (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_003_070",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "78. I Concentrate on You (1 appearances)",
+            "album_name": "Sienna",
+            "recording_year": "1989",
+            "asset_path": "stanley_cowell_003_074",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "79. I Concentrate on You (1 appearances)",
+            "album_name": "Sienna",
+            "recording_year": "1989",
+            "asset_path": "stanley_cowell_003_076",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "80. I Concentrate on You (1 appearances)",
+            "album_name": "Sienna",
+            "recording_year": "1989",
+            "asset_path": "stanley_cowell_003_077",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "81. Sendai sendoff (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_003_078",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "82. Sendai sendoff (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_003_079",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "83. Morning star (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_003_081",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "84. Morning star (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_003_082",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "85. Morning star (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_003_084",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "86. Stella By Starlight  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_003_085",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "87. Stella By Starlight  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_003_086",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "88. Stella By Starlight  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_003_087",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "89. Cal Massey  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_003_088",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "90. Stompin At The Savoy  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_003_089",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "91. Stompin At The Savoy  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_003_090",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "92. Stompin At The Savoy  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_003_091",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "93. The ladder (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_003_092",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "94. The ladder (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_003_093",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "95. The ladder (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_003_094",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "96. The ladder (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_003_095",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "97. The ladder (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_003_096",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "98. The ladder (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_003_097",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "99. The ladder (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_003_098",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "100. The ladder (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_003_099",
+            "n_appearances_in_track": 1
+        }
+    ],
+    "[7, 5]": [
+        {
+            "track_name": "1. Out Of This World  Live At Maybeck Recital Hall Berkeley CA  1990 (5 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_004_021",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "2. Stella By Starlight  Live At Maybeck Recital Hall Berkeley CA  1990 (5 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_004_072",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "3. Photon in a Paper World (4 appearances)",
+            "album_name": "Travellin Man",
+            "recording_year": "1969",
+            "asset_path": "stanley_cowell_004_042",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "4. Cal Massey (3 appearances)",
+            "album_name": "Sienna",
+            "recording_year": "1989",
+            "asset_path": "stanley_cowell_004_011",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "5. The night has a thousand eyes (3 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_004_018",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "6. Out Of This World  Live At Maybeck Recital Hall Berkeley CA  1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_004_023",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "7. Nefertiti  Live At Maybeck Recital Hall Berkeley CA  1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_004_031",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "8. Ill Remember April  Live At Maybeck Recital Hall Berkeley CA  1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_004_036",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "9. Ill Remember April  Live At Maybeck Recital Hall Berkeley CA  1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_004_037",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "10. Imagine (2 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_004_055",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "11. Brilliant Circles (2 appearances)",
+            "album_name": "Bright Passion",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_004_056",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "12. Brilliant Circles (2 appearances)",
+            "album_name": "Bright Passion",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_004_057",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "13. Brilliant Circles (2 appearances)",
+            "album_name": "Bright Passion",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_004_058",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "14. Akua (2 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_004_062",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "15. The ladder (2 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_004_079",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "16. The ladder (2 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_004_080",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "17. Big Foot A (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_004_000",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "18. Big Foot A (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_004_001",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "19. Abscretion (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_004_002",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "20. Abscretion (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_004_003",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "21. Abscretion (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_004_004",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "22. Abscretion (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_004_005",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "23. Abscretion (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_004_006",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "24. Little Sunny  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_004_007",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "25. Little Sunny  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_004_008",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "26. Cal Massey (1 appearances)",
+            "album_name": "Sienna",
+            "recording_year": "1989",
+            "asset_path": "stanley_cowell_004_009",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "27. Cal Massey (1 appearances)",
+            "album_name": "Sienna",
+            "recording_year": "1989",
+            "asset_path": "stanley_cowell_004_010",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "28. Autumn Leaves  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_004_012",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "29. Autumn Leaves  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_004_013",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "30. Autumn Leaves  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_004_014",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "31. The night has a thousand eyes (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_004_015",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "32. The night has a thousand eyes (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_004_016",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "33. The night has a thousand eyes (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_004_017",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "34. You Took Advantage Of Me (1 appearances)",
+            "album_name": "Travellin Man",
+            "recording_year": 1992,
+            "asset_path": "stanley_cowell_004_019",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "35. You Took Advantage Of Me (1 appearances)",
+            "album_name": "Travellin Man",
+            "recording_year": 1992,
+            "asset_path": "stanley_cowell_004_020",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "36. Out Of This World  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_004_022",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "37. Out Of This World  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_004_024",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "38. Out Of This World  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_004_025",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "39. Out Of This World  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_004_026",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "40. Out Of This World  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_004_027",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "41. Lament  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_004_028",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "42. Nefertiti  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_004_029",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "43. Nefertiti  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_004_030",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "44. In Walked Bud (1 appearances)",
+            "album_name": "Live at Copenhagen Jazz House",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_004_032",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "45. I Am Waiting  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_004_033",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "46. Angel eyes (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_004_034",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "47. Angel eyes (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_004_035",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "48. Ill Remember April  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_004_038",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "49. Photon in a Paper World (1 appearances)",
+            "album_name": "Travellin Man",
+            "recording_year": "1969",
+            "asset_path": "stanley_cowell_004_039",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "50. Photon in a Paper World (1 appearances)",
+            "album_name": "Travellin Man",
+            "recording_year": "1969",
+            "asset_path": "stanley_cowell_004_040",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "51. Photon in a Paper World (1 appearances)",
+            "album_name": "Travellin Man",
+            "recording_year": "1969",
+            "asset_path": "stanley_cowell_004_041",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "52. Photon in a Paper World (1 appearances)",
+            "album_name": "Travellin Man",
+            "recording_year": "1969",
+            "asset_path": "stanley_cowell_004_043",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "53. Jitterbug Waltz  Live (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_004_044",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "54. Eronel (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_004_045",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "55. Eronel (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_004_046",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "56. Eronel (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_004_047",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "57. Eronel (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_004_048",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "58. Eronel (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_004_049",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "59. Celia (1 appearances)",
+            "album_name": "Sienna",
+            "recording_year": "1989",
+            "asset_path": "stanley_cowell_004_050",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "60. Celia (1 appearances)",
+            "album_name": "Sienna",
+            "recording_year": "1989",
+            "asset_path": "stanley_cowell_004_051",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "61. Imagine (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_004_052",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "62. Imagine (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_004_053",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "63. Imagine (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_004_054",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "64. Anthropology (1 appearances)",
+            "album_name": "Live at Copenhagen Jazz House",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_004_059",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "65. Akua (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_004_060",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "66. Akua (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_004_061",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "67. Akua (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_004_063",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "68. I Concentrate on You (1 appearances)",
+            "album_name": "Sienna",
+            "recording_year": "1989",
+            "asset_path": "stanley_cowell_004_064",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "69. Sendai sendoff (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_004_065",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "70. Sendai sendoff (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_004_066",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "71. Sendai sendoff (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_004_067",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "72. Round About Midnight (1 appearances)",
+            "album_name": "Bright Passion",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_004_068",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "73. Piano Concerto No 1 Tribute to Tatum (1 appearances)",
+            "album_name": "Bright Passion",
+            "recording_year": "1993",
+            "asset_path": "stanley_cowell_004_069",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "74. Morning star (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_004_070",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "75. Morning star (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_004_071",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "76. Stompin At The Savoy  Live At Maybeck Recital Hall Berkeley CA  1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 5",
+            "recording_year": 1990,
+            "asset_path": "stanley_cowell_004_073",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "77. The ladder (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_004_074",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "78. The ladder (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_004_075",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "79. The ladder (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_004_076",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "80. The ladder (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_004_077",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "81. The ladder (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_004_078",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "82. The ladder (1 appearances)",
+            "album_name": "Angel Eyes",
+            "recording_year": 1994,
+            "asset_path": "stanley_cowell_004_081",
+            "n_appearances_in_track": 1
         }
     ]
 }

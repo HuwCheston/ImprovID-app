@@ -1,288 +1,3687 @@
 {
-    "[-4, -1, -6]": [
+    "[2, 2, -2]": [
         {
-            "track_name": "1. Expectations",
-            "album_name": "Beyond Expectations",
-            "recording_year": "1993",
-            "asset_path": "john_hicks_000_000"
+            "track_name": "1. Naomis Love Song (5 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_000_065",
+            "n_appearances_in_track": 5
         },
         {
-            "track_name": "2. Bouncing With Bud",
-            "album_name": "Beyond Expectations",
-            "recording_year": "1993",
-            "asset_path": "john_hicks_000_001"
+            "track_name": "2. Steadfast (4 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_000_006",
+            "n_appearances_in_track": 4
         },
         {
-            "track_name": "3. Bouncing With Bud",
-            "album_name": "Beyond Expectations",
-            "recording_year": "1993",
-            "asset_path": "john_hicks_000_002"
-        },
-        {
-            "track_name": "4. Bouncing With Bud",
-            "album_name": "Beyond Expectations",
-            "recording_year": "1993",
-            "asset_path": "john_hicks_000_003"
-        },
-        {
-            "track_name": "5. All Of You  Live At Maybeck Recital Hall Berkeley CA  August 1990",
+            "track_name": "3. After The Rain  Live At Maybeck Recital Hall Berkeley CA  August 1990 (4 appearances)",
             "album_name": "The Maybeck Recital Series Vol 7",
             "recording_year": 1991,
-            "asset_path": "john_hicks_000_004"
+            "asset_path": "john_hicks_000_024",
+            "n_appearances_in_track": 4
         },
         {
-            "track_name": "6. Minor Blues",
-            "album_name": "A Billy Strayhorn Songbook Something to Live For",
-            "recording_year": "1997",
-            "asset_path": "john_hicks_000_005"
-        }
-    ],
-    "[-1, -5, -5]": [
-        {
-            "track_name": "1. Oblivion  Live At Maybeck Recital Hall Berkeley CA  August 1990",
+            "track_name": "4. Heroes  Live At Maybeck Recital Hall Berkeley CA  August 1990 (3 appearances)",
             "album_name": "The Maybeck Recital Series Vol 7",
             "recording_year": 1991,
-            "asset_path": "john_hicks_001_000"
+            "asset_path": "john_hicks_000_016",
+            "n_appearances_in_track": 3
         },
         {
-            "track_name": "2. Twelve Bars for Linton",
-            "album_name": "Fathas Day An Earl Hines Songbook",
-            "recording_year": "2003",
-            "asset_path": "john_hicks_001_001"
+            "track_name": "5. Two Heart Beats (3 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_000_048",
+            "n_appearances_in_track": 3
         },
         {
-            "track_name": "3. Darkside Lightside",
-            "album_name": "Some Other Time",
-            "recording_year": "1981",
-            "asset_path": "john_hicks_001_002"
-        }
-    ],
-    "[-7, -1, -2]": [
+            "track_name": "6. Steadfast (2 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_000_001",
+            "n_appearances_in_track": 2
+        },
         {
-            "track_name": "1. Bookie Please",
+            "track_name": "7. Steadfast (2 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_000_002",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "8. Steadfast (2 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_000_003",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "9. Steadfast (2 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_000_005",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "10. All of You  Recorded Live in Concert 2006 (2 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_000_007",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "11. Bookie Please (2 appearances)",
             "album_name": "Inc 1",
             "recording_year": "1985",
-            "asset_path": "john_hicks_002_000"
+            "asset_path": "john_hicks_000_010",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "2. Misty",
-            "album_name": "Nightwind An Erroll Garner Songbook",
-            "recording_year": "1997",
-            "asset_path": "john_hicks_002_001"
-        },
-        {
-            "track_name": "3. Misty",
-            "album_name": "Nightwind An Erroll Garner Songbook",
-            "recording_year": "1997",
-            "asset_path": "john_hicks_002_002"
-        },
-        {
-            "track_name": "4. Hicks Time",
-            "album_name": "Hicks Time",
-            "recording_year": 1998,
-            "asset_path": "john_hicks_002_003"
-        },
-        {
-            "track_name": "5. Hicks Time",
-            "album_name": "Hicks Time",
-            "recording_year": 1998,
-            "asset_path": "john_hicks_002_004"
-        },
-        {
-            "track_name": "6. Solar  Recorded Live in Concert 2006",
-            "album_name": "I Remember You Recorded Live in Concert 2006",
-            "recording_year": 2009,
-            "asset_path": "john_hicks_002_005"
-        },
-        {
-            "track_name": "7. Solar  Recorded Live in Concert 2006",
-            "album_name": "I Remember You Recorded Live in Concert 2006",
-            "recording_year": 2009,
-            "asset_path": "john_hicks_002_006"
-        },
-        {
-            "track_name": "8. UMMG",
-            "album_name": "A Billy Strayhorn Songbook Something to Live For",
-            "recording_year": "1997",
-            "asset_path": "john_hicks_002_007"
-        },
-        {
-            "track_name": "9. Medi II",
-            "album_name": "Impressions of Mary Lou",
-            "recording_year": "1998",
-            "asset_path": "john_hicks_002_008"
-        },
-        {
-            "track_name": "10. Minor Blues",
-            "album_name": "A Billy Strayhorn Songbook Something to Live For",
-            "recording_year": "1997",
-            "asset_path": "john_hicks_002_009"
-        },
-        {
-            "track_name": "11. Something Happens",
-            "album_name": "Nightwind An Erroll Garner Songbook",
-            "recording_year": "1997",
-            "asset_path": "john_hicks_002_010"
-        },
-        {
-            "track_name": "12. Up Jumped Spring",
-            "album_name": "Beyond Expectations",
-            "recording_year": "1993",
-            "asset_path": "john_hicks_002_011"
-        },
-        {
-            "track_name": "13. I Want to Talk About You  Recorded Live in Concert 2006",
-            "album_name": "I Remember You Recorded Live in Concert 2006",
-            "recording_year": 2009,
-            "asset_path": "john_hicks_002_012"
-        },
-        {
-            "track_name": "14. Sonnymoon for Two",
-            "album_name": "Is That So",
-            "recording_year": "1990",
-            "asset_path": "john_hicks_002_013"
-        }
-    ],
-    "[-4, -4, -3]": [
-        {
-            "track_name": "1. All Of You  Live At Maybeck Recital Hall Berkeley CA  August 1990",
+            "track_name": "12. Speak Low  Live At Maybeck Recital Hall Berkeley CA  August 1990 (2 appearances)",
             "album_name": "The Maybeck Recital Series Vol 7",
             "recording_year": 1991,
-            "asset_path": "john_hicks_003_000"
+            "asset_path": "john_hicks_000_011",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "2. Solar  Recorded Live in Concert 2006",
-            "album_name": "I Remember You Recorded Live in Concert 2006",
-            "recording_year": 2009,
-            "asset_path": "john_hicks_003_001"
+            "track_name": "13. Expectations (2 appearances)",
+            "album_name": "Beyond Expectations",
+            "recording_year": "1993",
+            "asset_path": "john_hicks_000_013",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "3. Two Heart Beats",
+            "track_name": "14. Au Privave (2 appearances)",
+            "album_name": "Beyond Expectations",
+            "recording_year": "1993",
+            "asset_path": "john_hicks_000_017",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "15. After The Rain  Live At Maybeck Recital Hall Berkeley CA  August 1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_000_022",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "16. After The Rain  Live At Maybeck Recital Hall Berkeley CA  August 1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_000_025",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "17. After The Rain  Live At Maybeck Recital Hall Berkeley CA  August 1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_000_026",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "18. All Of You  Live At Maybeck Recital Hall Berkeley CA  August 1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_000_030",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "19. Blue In Green  Live At Maybeck Recital Hall Berkeley CA  August 1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_000_037",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "20. Peanut Butter (2 appearances)",
             "album_name": "Hicks Time",
             "recording_year": 1998,
-            "asset_path": "john_hicks_003_002"
+            "asset_path": "john_hicks_000_045",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "4. Medi II",
-            "album_name": "Impressions of Mary Lou",
-            "recording_year": "1998",
-            "asset_path": "john_hicks_003_003"
+            "track_name": "21. Two Heart Beats (2 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_000_046",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "5. Darkside Lightside",
-            "album_name": "Some Other Time",
-            "recording_year": "1981",
-            "asset_path": "john_hicks_003_004"
-        }
-    ],
-    "[-3, -1, 1]": [
+            "track_name": "22. Two Heart Beats (2 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_000_050",
+            "n_appearances_in_track": 2
+        },
         {
-            "track_name": "1. Sonnys Crib",
+            "track_name": "23. Minor Blues (2 appearances)",
+            "album_name": "A Billy Strayhorn Songbook Something to Live For",
+            "recording_year": "1997",
+            "asset_path": "john_hicks_000_052",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "24. Duke Ellingtons Sound Of Love  Live At Maybeck Recital Hall Berkeley CA  August 1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_000_058",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "25. Duke Ellingtons Sound Of Love  Live At Maybeck Recital Hall Berkeley CA  August 1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_000_061",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "26. April Eyes (2 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_000_072",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "27. Pocket Full of Blues (2 appearances)",
             "album_name": "Music in the Key of Clark",
             "recording_year": "2001",
-            "asset_path": "john_hicks_004_000"
+            "asset_path": "john_hicks_000_073",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "2. Bookie Please",
-            "album_name": "Inc 1",
-            "recording_year": "1985",
-            "asset_path": "john_hicks_004_001"
-        },
-        {
-            "track_name": "3. Heroes  Live At Maybeck Recital Hall Berkeley CA  August 1990",
-            "album_name": "The Maybeck Recital Series Vol 7",
-            "recording_year": 1991,
-            "asset_path": "john_hicks_004_002"
-        },
-        {
-            "track_name": "4. Rosetta",
-            "album_name": "Fathas Day An Earl Hines Songbook",
-            "recording_year": "2003",
-            "asset_path": "john_hicks_004_003"
-        },
-        {
-            "track_name": "5. Rosetta",
-            "album_name": "Fathas Day An Earl Hines Songbook",
-            "recording_year": "2003",
-            "asset_path": "john_hicks_004_004"
-        },
-        {
-            "track_name": "6. Solar  Recorded Live in Concert 2006",
-            "album_name": "I Remember You Recorded Live in Concert 2006",
-            "recording_year": 2009,
-            "asset_path": "john_hicks_004_005"
-        },
-        {
-            "track_name": "7. Solar  Recorded Live in Concert 2006",
-            "album_name": "I Remember You Recorded Live in Concert 2006",
-            "recording_year": 2009,
-            "asset_path": "john_hicks_004_006"
-        },
-        {
-            "track_name": "8. Minor Blues",
-            "album_name": "A Billy Strayhorn Songbook Something to Live For",
-            "recording_year": "1997",
-            "asset_path": "john_hicks_004_007"
-        },
-        {
-            "track_name": "9. Emily",
-            "album_name": "Is That So",
-            "recording_year": "1990",
-            "asset_path": "john_hicks_004_008"
-        },
-        {
-            "track_name": "10. Emily",
-            "album_name": "Is That So",
-            "recording_year": "1990",
-            "asset_path": "john_hicks_004_009"
-        },
-        {
-            "track_name": "11. Sweet and Lovely",
-            "album_name": "Fathas Day An Earl Hines Songbook",
-            "recording_year": "2003",
-            "asset_path": "john_hicks_004_010"
-        },
-        {
-            "track_name": "12. April Eyes",
+            "track_name": "28. Jest A Little (2 appearances)",
             "album_name": "Hicks Time",
             "recording_year": 1998,
-            "asset_path": "john_hicks_004_011"
+            "asset_path": "john_hicks_000_079",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "13. I Didnt Know What Time It Was",
-            "album_name": "Ill Give You Something to Remember Me By",
-            "recording_year": "1987",
-            "asset_path": "john_hicks_004_012"
+            "track_name": "29. Nutty  Recorded Live in Concert 2006 (2 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_000_080",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "14. Contemplation  Live At Maybeck Recital Hall Berkeley CA  August 1990",
+            "track_name": "30. Upper Manhattan Medical Group  Recorded Live in Concert 2006 (2 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_000_091",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "31. After The Morning (2 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_000_095",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "32. A Nightingale Sang in Berkeley Square  Recorded Live in Concert 2006 (2 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_000_102",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "33. Straighten Up And Fly Right  Live At Maybeck Recital Hall Berkeley CA  August 1990 (2 appearances)",
             "album_name": "The Maybeck Recital Series Vol 7",
             "recording_year": 1991,
-            "asset_path": "john_hicks_004_013"
+            "asset_path": "john_hicks_000_106",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "15. Times Slimes",
-            "album_name": "Newklear Music",
+            "track_name": "34. Heart to Heart (2 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_000_111",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "35. Heart to Heart (2 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_000_112",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "36. Heart to Heart (2 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_000_113",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "37. Steadfast (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_000_000",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "38. Steadfast (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_000_004",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "39. Softly as in a Morning Sunrise (1 appearances)",
+            "album_name": "Softly as in a Morning Sunrise",
+            "recording_year": "1990",
+            "asset_path": "john_hicks_000_008",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "40. Bookie Please (1 appearances)",
+            "album_name": "Inc 1",
+            "recording_year": "1985",
+            "asset_path": "john_hicks_000_009",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "41. Misty (1 appearances)",
+            "album_name": "Nightwind An Erroll Garner Songbook",
             "recording_year": "1997",
-            "asset_path": "john_hicks_004_014"
+            "asset_path": "john_hicks_000_012",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "16. Autumn Leaves",
+            "track_name": "42. Expectations (1 appearances)",
+            "album_name": "Beyond Expectations",
+            "recording_year": "1993",
+            "asset_path": "john_hicks_000_014",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "43. Expectations (1 appearances)",
+            "album_name": "Beyond Expectations",
+            "recording_year": "1993",
+            "asset_path": "john_hicks_000_015",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "44. Au Privave (1 appearances)",
+            "album_name": "Beyond Expectations",
+            "recording_year": "1993",
+            "asset_path": "john_hicks_000_018",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "45. Au Privave (1 appearances)",
+            "album_name": "Beyond Expectations",
+            "recording_year": "1993",
+            "asset_path": "john_hicks_000_019",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "46. Airegin (1 appearances)",
+            "album_name": "Ill Give You Something to Remember Me By",
+            "recording_year": "1987",
+            "asset_path": "john_hicks_000_020",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "47. Not Too Straight (1 appearances)",
+            "album_name": "Impressions of Mary Lou",
+            "recording_year": "1998",
+            "asset_path": "john_hicks_000_021",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "48. After The Rain  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_000_023",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "49. Minor Mishap (1 appearances)",
+            "album_name": "On the Wings of an Eagle",
+            "recording_year": "2006",
+            "asset_path": "john_hicks_000_027",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "50. Minor Mishap (1 appearances)",
+            "album_name": "On the Wings of an Eagle",
+            "recording_year": "2006",
+            "asset_path": "john_hicks_000_028",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "51. All Of You  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_000_029",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "52. All Of You  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_000_031",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "53. All Of You  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_000_032",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "54. Reminds Me (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_000_033",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "55. Reminds Me (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_000_034",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "56. Hicks Time (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_000_035",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "57. Hicks Time (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_000_036",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "58. Solar  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_000_038",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "59. Solar  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_000_039",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "60. Serenata (1 appearances)",
+            "album_name": "Fathas Day An Earl Hines Songbook",
+            "recording_year": "2003",
+            "asset_path": "john_hicks_000_040",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "61. Serenata (1 appearances)",
+            "album_name": "Fathas Day An Earl Hines Songbook",
+            "recording_year": "2003",
+            "asset_path": "john_hicks_000_041",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "62. Reflections  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_000_042",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "63. Reflections  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_000_043",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "64. Peanut Butter (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_000_044",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "65. Two Heart Beats (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_000_047",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "66. Two Heart Beats (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_000_049",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "67. Medi II (1 appearances)",
+            "album_name": "Impressions of Mary Lou",
+            "recording_year": "1998",
+            "asset_path": "john_hicks_000_051",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "68. Emily (1 appearances)",
             "album_name": "Is That So",
             "recording_year": "1990",
-            "asset_path": "john_hicks_004_015"
+            "asset_path": "john_hicks_000_053",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "17. I Remember You  Recorded Live in Concert 2006",
-            "album_name": "I Remember You Recorded Live in Concert 2006",
-            "recording_year": 2009,
-            "asset_path": "john_hicks_004_016"
+            "track_name": "69. Something Happens (1 appearances)",
+            "album_name": "Nightwind An Erroll Garner Songbook",
+            "recording_year": "1997",
+            "asset_path": "john_hicks_000_054",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "18. I Remember You  Recorded Live in Concert 2006",
+            "track_name": "70. Something Happens (1 appearances)",
+            "album_name": "Nightwind An Erroll Garner Songbook",
+            "recording_year": "1997",
+            "asset_path": "john_hicks_000_055",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "71. RhythmANing  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_000_056",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "72. RhythmANing  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_000_057",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "73. Duke Ellingtons Sound Of Love  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_000_059",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "74. Duke Ellingtons Sound Of Love  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_000_060",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "75. Duke Ellingtons Sound Of Love  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_000_062",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "76. Duke Ellingtons Sound Of Love  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_000_063",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "77. Naomis Love Song (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_000_064",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "78. Sweet and Lovely (1 appearances)",
+            "album_name": "Fathas Day An Earl Hines Songbook",
+            "recording_year": "2003",
+            "asset_path": "john_hicks_000_066",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "79. April Eyes (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_000_067",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "80. April Eyes (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_000_068",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "81. April Eyes (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_000_069",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "82. April Eyes (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_000_070",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "83. April Eyes (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_000_071",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "84. I Didnt Know What Time It Was (1 appearances)",
+            "album_name": "Ill Give You Something to Remember Me By",
+            "recording_year": "1987",
+            "asset_path": "john_hicks_000_074",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "85. I Didnt Know What Time It Was (1 appearances)",
+            "album_name": "Ill Give You Something to Remember Me By",
+            "recording_year": "1987",
+            "asset_path": "john_hicks_000_075",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "86. Jest A Little (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_000_076",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "87. Jest A Little (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_000_077",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "88. Jest A Little (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_000_078",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "89. Contemplation  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_000_081",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "90. Contemplation  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_000_082",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "91. Contemplation  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_000_083",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "92. Redds Blues (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_000_084",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "93. Redds Blues (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_000_085",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "94. Redds Blues (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_000_086",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "95. Teds Delight (1 appearances)",
+            "album_name": "Ill Give You Something to Remember Me By",
+            "recording_year": "1987",
+            "asset_path": "john_hicks_000_087",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "96. Teds Delight (1 appearances)",
+            "album_name": "Ill Give You Something to Remember Me By",
+            "recording_year": "1987",
+            "asset_path": "john_hicks_000_088",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "97. Upper Manhattan Medical Group  Recorded Live in Concert 2006 (1 appearances)",
             "album_name": "I Remember You Recorded Live in Concert 2006",
             "recording_year": 2009,
-            "asset_path": "john_hicks_004_017"
+            "asset_path": "john_hicks_000_089",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "98. Upper Manhattan Medical Group  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_000_090",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "99. Kids Know (1 appearances)",
+            "album_name": "Newklear Music",
+            "recording_year": "1997",
+            "asset_path": "john_hicks_000_092",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "100. After The Morning (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_000_093",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "101. After The Morning (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_000_094",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "102. After The Morning (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_000_096",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "103. Pas de Trois (1 appearances)",
+            "album_name": "Ill Give You Something to Remember Me By",
+            "recording_year": "1987",
+            "asset_path": "john_hicks_000_097",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "104. With Malice Towards None (1 appearances)",
+            "album_name": "Some Other Time",
+            "recording_year": "1981",
+            "asset_path": "john_hicks_000_098",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "105. Dukes Place (1 appearances)",
+            "album_name": "Power Trio",
+            "recording_year": "1990",
+            "asset_path": "john_hicks_000_099",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "106. Dukes Place (1 appearances)",
+            "album_name": "Power Trio",
+            "recording_year": "1990",
+            "asset_path": "john_hicks_000_100",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "107. A Nightingale Sang in Berkeley Square  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_000_101",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "108. Times Slimes (1 appearances)",
+            "album_name": "Newklear Music",
+            "recording_year": "1997",
+            "asset_path": "john_hicks_000_103",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "109. Times Slimes (1 appearances)",
+            "album_name": "Newklear Music",
+            "recording_year": "1997",
+            "asset_path": "john_hicks_000_104",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "110. Paris Lover (1 appearances)",
+            "album_name": "Nightwind An Erroll Garner Songbook",
+            "recording_year": "1997",
+            "asset_path": "john_hicks_000_105",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "111. Straighten Up And Fly Right  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_000_107",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "112. Daydream (1 appearances)",
+            "album_name": "A Billy Strayhorn Songbook Something to Live For",
+            "recording_year": "1997",
+            "asset_path": "john_hicks_000_108",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "113. Heart to Heart (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_000_109",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "114. Heart to Heart (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_000_110",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "115. Heart to Heart (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_000_114",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "116. Autumn Leaves (1 appearances)",
+            "album_name": "Is That So",
+            "recording_year": "1990",
+            "asset_path": "john_hicks_000_115",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "117. I Remember You  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_000_116",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "118. I Remember You  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_000_117",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "119. I Remember You  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_000_118",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "120. I Remember You  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_000_119",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "121. I Remember You  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_000_120",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "122. I Remember You  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_000_121",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "123. I Remember You  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_000_122",
+            "n_appearances_in_track": 1
+        }
+    ],
+    "[-1, -2, 5]": [
+        {
+            "track_name": "1. Serenata (4 appearances)",
+            "album_name": "Fathas Day An Earl Hines Songbook",
+            "recording_year": "2003",
+            "asset_path": "john_hicks_001_059",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "2. Straighten Up And Fly Right  Live At Maybeck Recital Hall Berkeley CA  August 1990 (4 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_001_104",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "3. Speak Low  Live At Maybeck Recital Hall Berkeley CA  August 1990 (3 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_001_011",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "4. Au Privave (3 appearances)",
+            "album_name": "Beyond Expectations",
+            "recording_year": "1993",
+            "asset_path": "john_hicks_001_018",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "5. Airegin (3 appearances)",
+            "album_name": "Ill Give You Something to Remember Me By",
+            "recording_year": "1987",
+            "asset_path": "john_hicks_001_019",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "6. Blues For Maybeck Recital Hall  Live At Maybeck Recital Hall Berkeley CA  August 1990 (3 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_001_028",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "7. Bouncing With Bud (3 appearances)",
+            "album_name": "Beyond Expectations",
+            "recording_year": "1993",
+            "asset_path": "john_hicks_001_036",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "8. All Of You  Live At Maybeck Recital Hall Berkeley CA  August 1990 (3 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_001_040",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "9. Solar  Recorded Live in Concert 2006 (3 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_001_055",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "10. Minor Blues (3 appearances)",
+            "album_name": "A Billy Strayhorn Songbook Something to Live For",
+            "recording_year": "1997",
+            "asset_path": "john_hicks_001_072",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "11. I Remember You  Recorded Live in Concert 2006 (3 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_001_113",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "12. Bookie Please (2 appearances)",
+            "album_name": "Inc 1",
+            "recording_year": "1985",
+            "asset_path": "john_hicks_001_008",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "13. Speak Low  Live At Maybeck Recital Hall Berkeley CA  August 1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_001_009",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "14. Misty (2 appearances)",
+            "album_name": "Nightwind An Erroll Garner Songbook",
+            "recording_year": "1997",
+            "asset_path": "john_hicks_001_013",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "15. Au Privave (2 appearances)",
+            "album_name": "Beyond Expectations",
+            "recording_year": "1993",
+            "asset_path": "john_hicks_001_017",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "16. Airegin (2 appearances)",
+            "album_name": "Ill Give You Something to Remember Me By",
+            "recording_year": "1987",
+            "asset_path": "john_hicks_001_020",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "17. Rosetta (2 appearances)",
+            "album_name": "Fathas Day An Earl Hines Songbook",
+            "recording_year": "2003",
+            "asset_path": "john_hicks_001_024",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "18. Blues For Maybeck Recital Hall  Live At Maybeck Recital Hall Berkeley CA  August 1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_001_029",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "19. Blues For Maybeck Recital Hall  Live At Maybeck Recital Hall Berkeley CA  August 1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_001_030",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "20. Blues For Maybeck Recital Hall  Live At Maybeck Recital Hall Berkeley CA  August 1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_001_032",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "21. Bouncing With Bud (2 appearances)",
+            "album_name": "Beyond Expectations",
+            "recording_year": "1993",
+            "asset_path": "john_hicks_001_033",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "22. All Of You  Live At Maybeck Recital Hall Berkeley CA  August 1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_001_037",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "23. All Of You  Live At Maybeck Recital Hall Berkeley CA  August 1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_001_039",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "24. All Of You  Live At Maybeck Recital Hall Berkeley CA  August 1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_001_041",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "25. Hicks Time (2 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_001_044",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "26. Blue In Green  Live At Maybeck Recital Hall Berkeley CA  August 1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_001_046",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "27. Solar  Recorded Live in Concert 2006 (2 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_001_054",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "28. Fly Little Bird Fly (2 appearances)",
+            "album_name": "On the Wings of an Eagle",
+            "recording_year": "2006",
+            "asset_path": "john_hicks_001_063",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "29. Two Heart Beats (2 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_001_067",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "30. Minor Blues (2 appearances)",
+            "album_name": "A Billy Strayhorn Songbook Something to Live For",
+            "recording_year": "1997",
+            "asset_path": "john_hicks_001_073",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "31. Something Happens (2 appearances)",
+            "album_name": "Nightwind An Erroll Garner Songbook",
+            "recording_year": "1997",
+            "asset_path": "john_hicks_001_077",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "32. RhythmANing  Live At Maybeck Recital Hall Berkeley CA  August 1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_001_078",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "33. Nutty  Recorded Live in Concert 2006 (2 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_001_086",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "34. Nutty  Recorded Live in Concert 2006 (2 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_001_087",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "35. Nutty  Recorded Live in Concert 2006 (2 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_001_088",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "36. Redds Blues (2 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_001_091",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "37. Upper Manhattan Medical Group  Recorded Live in Concert 2006 (2 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_001_093",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "38. Pas de Trois (2 appearances)",
+            "album_name": "Ill Give You Something to Remember Me By",
+            "recording_year": "1987",
+            "asset_path": "john_hicks_001_094",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "39. Dukes Place (2 appearances)",
+            "album_name": "Power Trio",
+            "recording_year": "1990",
+            "asset_path": "john_hicks_001_098",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "40. Dukes Place (2 appearances)",
+            "album_name": "Power Trio",
+            "recording_year": "1990",
+            "asset_path": "john_hicks_001_100",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "41. Dukes Place (2 appearances)",
+            "album_name": "Power Trio",
+            "recording_year": "1990",
+            "asset_path": "john_hicks_001_101",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "42. Paris Lover (2 appearances)",
+            "album_name": "Nightwind An Erroll Garner Songbook",
+            "recording_year": "1997",
+            "asset_path": "john_hicks_001_103",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "43. I Remember You  Recorded Live in Concert 2006 (2 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_001_110",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "44. Steadfast (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_001_000",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "45. Sonnys Crib (1 appearances)",
+            "album_name": "Music in the Key of Clark",
+            "recording_year": "2001",
+            "asset_path": "john_hicks_001_001",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "46. All of You  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_001_002",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "47. Softly as in a Morning Sunrise (1 appearances)",
+            "album_name": "Softly as in a Morning Sunrise",
+            "recording_year": "1990",
+            "asset_path": "john_hicks_001_003",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "48. Softly as in a Morning Sunrise (1 appearances)",
+            "album_name": "Softly as in a Morning Sunrise",
+            "recording_year": "1990",
+            "asset_path": "john_hicks_001_004",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "49. Bookie Please (1 appearances)",
+            "album_name": "Inc 1",
+            "recording_year": "1985",
+            "asset_path": "john_hicks_001_005",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "50. Bookie Please (1 appearances)",
+            "album_name": "Inc 1",
+            "recording_year": "1985",
+            "asset_path": "john_hicks_001_006",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "51. Bookie Please (1 appearances)",
+            "album_name": "Inc 1",
+            "recording_year": "1985",
+            "asset_path": "john_hicks_001_007",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "52. Speak Low  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_001_010",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "53. Speak Low  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_001_012",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "54. Misty (1 appearances)",
+            "album_name": "Nightwind An Erroll Garner Songbook",
+            "recording_year": "1997",
+            "asset_path": "john_hicks_001_014",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "55. Misty (1 appearances)",
+            "album_name": "Nightwind An Erroll Garner Songbook",
+            "recording_year": "1997",
+            "asset_path": "john_hicks_001_015",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "56. Misty (1 appearances)",
+            "album_name": "Nightwind An Erroll Garner Songbook",
+            "recording_year": "1997",
+            "asset_path": "john_hicks_001_016",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "57. Airegin (1 appearances)",
+            "album_name": "Ill Give You Something to Remember Me By",
+            "recording_year": "1987",
+            "asset_path": "john_hicks_001_021",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "58. Not Too Straight (1 appearances)",
+            "album_name": "Impressions of Mary Lou",
+            "recording_year": "1998",
+            "asset_path": "john_hicks_001_022",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "59. Not Too Straight (1 appearances)",
+            "album_name": "Impressions of Mary Lou",
+            "recording_year": "1998",
+            "asset_path": "john_hicks_001_023",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "60. Rosetta (1 appearances)",
+            "album_name": "Fathas Day An Earl Hines Songbook",
+            "recording_year": "2003",
+            "asset_path": "john_hicks_001_025",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "61. Minor Mishap (1 appearances)",
+            "album_name": "On the Wings of an Eagle",
+            "recording_year": "2006",
+            "asset_path": "john_hicks_001_026",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "62. Blues For Maybeck Recital Hall  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_001_027",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "63. Blues For Maybeck Recital Hall  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_001_031",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "64. Bouncing With Bud (1 appearances)",
+            "album_name": "Beyond Expectations",
+            "recording_year": "1993",
+            "asset_path": "john_hicks_001_034",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "65. Bouncing With Bud (1 appearances)",
+            "album_name": "Beyond Expectations",
+            "recording_year": "1993",
+            "asset_path": "john_hicks_001_035",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "66. All Of You  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_001_038",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "67. All Of You  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_001_042",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "68. All Of You  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_001_043",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "69. Hicks Time (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_001_045",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "70. Blue In Green  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_001_047",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "71. Solar  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_001_048",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "72. Solar  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_001_049",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "73. Solar  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_001_050",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "74. Solar  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_001_051",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "75. Solar  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_001_052",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "76. Solar  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_001_053",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "77. Solar  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_001_056",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "78. Solar  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_001_057",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "79. Serenata (1 appearances)",
+            "album_name": "Fathas Day An Earl Hines Songbook",
+            "recording_year": "2003",
+            "asset_path": "john_hicks_001_058",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "80. Serenata (1 appearances)",
+            "album_name": "Fathas Day An Earl Hines Songbook",
+            "recording_year": "2003",
+            "asset_path": "john_hicks_001_060",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "81. Serenata (1 appearances)",
+            "album_name": "Fathas Day An Earl Hines Songbook",
+            "recording_year": "2003",
+            "asset_path": "john_hicks_001_061",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "82. Hold It Down (1 appearances)",
+            "album_name": "Ill Give You Something to Remember Me By",
+            "recording_year": "1987",
+            "asset_path": "john_hicks_001_062",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "83. Fly Little Bird Fly (1 appearances)",
+            "album_name": "On the Wings of an Eagle",
+            "recording_year": "2006",
+            "asset_path": "john_hicks_001_064",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "84. Reflections  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_001_065",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "85. Peanut Butter (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_001_066",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "86. Two Heart Beats (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_001_068",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "87. Two Heart Beats (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_001_069",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "88. Medi II (1 appearances)",
+            "album_name": "Impressions of Mary Lou",
+            "recording_year": "1998",
+            "asset_path": "john_hicks_001_070",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "89. There Is No Greater Love (1 appearances)",
+            "album_name": "Beyond Expectations",
+            "recording_year": "1993",
+            "asset_path": "john_hicks_001_071",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "90. Minor Blues (1 appearances)",
+            "album_name": "A Billy Strayhorn Songbook Something to Live For",
+            "recording_year": "1997",
+            "asset_path": "john_hicks_001_074",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "91. Something Happens (1 appearances)",
+            "album_name": "Nightwind An Erroll Garner Songbook",
+            "recording_year": "1997",
+            "asset_path": "john_hicks_001_075",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "92. Something Happens (1 appearances)",
+            "album_name": "Nightwind An Erroll Garner Songbook",
+            "recording_year": "1997",
+            "asset_path": "john_hicks_001_076",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "93. RhythmANing  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_001_079",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "94. Duke Ellingtons Sound Of Love  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_001_080",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "95. Everytime We Say Goodbye  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_001_081",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "96. Everytime We Say Goodbye  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_001_082",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "97. Pocket Full of Blues (1 appearances)",
+            "album_name": "Music in the Key of Clark",
+            "recording_year": "2001",
+            "asset_path": "john_hicks_001_083",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "98. Stella by Starlight (1 appearances)",
+            "album_name": "Beyond Expectations",
+            "recording_year": "1993",
+            "asset_path": "john_hicks_001_084",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "99. Nutty  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_001_085",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "100. Nutty  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_001_089",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "101. Contemplation  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_001_090",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "102. Redds Blues (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_001_092",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "103. With Malice Towards None (1 appearances)",
+            "album_name": "Some Other Time",
+            "recording_year": "1981",
+            "asset_path": "john_hicks_001_095",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "104. With Malice Towards None (1 appearances)",
+            "album_name": "Some Other Time",
+            "recording_year": "1981",
+            "asset_path": "john_hicks_001_096",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "105. Dukes Place (1 appearances)",
+            "album_name": "Power Trio",
+            "recording_year": "1990",
+            "asset_path": "john_hicks_001_097",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "106. Dukes Place (1 appearances)",
+            "album_name": "Power Trio",
+            "recording_year": "1990",
+            "asset_path": "john_hicks_001_099",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "107. Sonnymoon for Two (1 appearances)",
+            "album_name": "Is That So",
+            "recording_year": "1990",
+            "asset_path": "john_hicks_001_102",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "108. Straighten Up And Fly Right  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_001_105",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "109. Daydream (1 appearances)",
+            "album_name": "A Billy Strayhorn Songbook Something to Live For",
+            "recording_year": "1997",
+            "asset_path": "john_hicks_001_106",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "110. Daydream (1 appearances)",
+            "album_name": "A Billy Strayhorn Songbook Something to Live For",
+            "recording_year": "1997",
+            "asset_path": "john_hicks_001_107",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "111. My Monday Date (1 appearances)",
+            "album_name": "Fathas Day An Earl Hines Songbook",
+            "recording_year": "2003",
+            "asset_path": "john_hicks_001_108",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "112. Autumn Leaves (1 appearances)",
+            "album_name": "Is That So",
+            "recording_year": "1990",
+            "asset_path": "john_hicks_001_109",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "113. I Remember You  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_001_111",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "114. I Remember You  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_001_112",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "115. I Remember You  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_001_114",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "116. I Remember You  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_001_115",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "117. I Remember You  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_001_116",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "118. I Remember You  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_001_117",
+            "n_appearances_in_track": 1
+        }
+    ],
+    "[5, 4, 3]": [
+        {
+            "track_name": "1. Blue In Green  Live At Maybeck Recital Hall Berkeley CA  August 1990 (4 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_002_030",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "2. Emily (3 appearances)",
+            "album_name": "Is That So",
+            "recording_year": "1990",
+            "asset_path": "john_hicks_002_060",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "3. RhythmANing  Live At Maybeck Recital Hall Berkeley CA  August 1990 (3 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_002_066",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "4. I Didnt Know What Time It Was (3 appearances)",
+            "album_name": "Ill Give You Something to Remember Me By",
+            "recording_year": "1987",
+            "asset_path": "john_hicks_002_076",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "5. A Nightingale Sang in Berkeley Square  Recorded Live in Concert 2006 (3 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_002_099",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "6. Speak Low  Live At Maybeck Recital Hall Berkeley CA  August 1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_002_007",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "7. Expectations (2 appearances)",
+            "album_name": "Beyond Expectations",
+            "recording_year": "1993",
+            "asset_path": "john_hicks_002_008",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "8. After The Rain  Live At Maybeck Recital Hall Berkeley CA  August 1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_002_019",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "9. Blues For Maybeck Recital Hall  Live At Maybeck Recital Hall Berkeley CA  August 1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_002_022",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "10. All Of You  Live At Maybeck Recital Hall Berkeley CA  August 1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_002_025",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "11. Hicks Time (2 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_002_027",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "12. Blue In Green  Live At Maybeck Recital Hall Berkeley CA  August 1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_002_029",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "13. Peanut Butter (2 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_002_046",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "14. Peanut Butter (2 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_002_048",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "15. Two Heart Beats (2 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_002_050",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "16. Oblivion  Live At Maybeck Recital Hall Berkeley CA  August 1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_002_054",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "17. Medi II (2 appearances)",
+            "album_name": "Impressions of Mary Lou",
+            "recording_year": "1998",
+            "asset_path": "john_hicks_002_055",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "18. Emily (2 appearances)",
+            "album_name": "Is That So",
+            "recording_year": "1990",
+            "asset_path": "john_hicks_002_061",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "19. Naomis Love Song (2 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_002_070",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "20. Pocket Full of Blues (2 appearances)",
+            "album_name": "Music in the Key of Clark",
+            "recording_year": "2001",
+            "asset_path": "john_hicks_002_074",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "21. After The Morning (2 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_002_092",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "22. Heart to Heart (2 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_002_106",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "23. I Remember You  Recorded Live in Concert 2006 (2 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_002_113",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "24. All of You  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_002_000",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "25. Softly as in a Morning Sunrise (1 appearances)",
+            "album_name": "Softly as in a Morning Sunrise",
+            "recording_year": "1990",
+            "asset_path": "john_hicks_002_001",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "26. Bookie Please (1 appearances)",
+            "album_name": "Inc 1",
+            "recording_year": "1985",
+            "asset_path": "john_hicks_002_002",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "27. Bookie Please (1 appearances)",
+            "album_name": "Inc 1",
+            "recording_year": "1985",
+            "asset_path": "john_hicks_002_003",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "28. Bookie Please (1 appearances)",
+            "album_name": "Inc 1",
+            "recording_year": "1985",
+            "asset_path": "john_hicks_002_004",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "29. Speak Low  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_002_005",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "30. Speak Low  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_002_006",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "31. Expectations (1 appearances)",
+            "album_name": "Beyond Expectations",
+            "recording_year": "1993",
+            "asset_path": "john_hicks_002_009",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "32. Expectations (1 appearances)",
+            "album_name": "Beyond Expectations",
+            "recording_year": "1993",
+            "asset_path": "john_hicks_002_010",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "33. Expectations (1 appearances)",
+            "album_name": "Beyond Expectations",
+            "recording_year": "1993",
+            "asset_path": "john_hicks_002_011",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "34. Heroes  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_002_012",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "35. Heroes  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_002_013",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "36. Heroes  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_002_014",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "37. Au Privave (1 appearances)",
+            "album_name": "Beyond Expectations",
+            "recording_year": "1993",
+            "asset_path": "john_hicks_002_015",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "38. I Deal (1 appearances)",
+            "album_name": "Music in the Key of Clark",
+            "recording_year": "2001",
+            "asset_path": "john_hicks_002_016",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "39. Airegin (1 appearances)",
+            "album_name": "Ill Give You Something to Remember Me By",
+            "recording_year": "1987",
+            "asset_path": "john_hicks_002_017",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "40. Airegin (1 appearances)",
+            "album_name": "Ill Give You Something to Remember Me By",
+            "recording_year": "1987",
+            "asset_path": "john_hicks_002_018",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "41. Minor Mishap (1 appearances)",
+            "album_name": "On the Wings of an Eagle",
+            "recording_year": "2006",
+            "asset_path": "john_hicks_002_020",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "42. Blues For Maybeck Recital Hall  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_002_021",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "43. Blues For Maybeck Recital Hall  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_002_023",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "44. All Of You  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_002_024",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "45. All Of You  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_002_026",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "46. Hicks Time (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_002_028",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "47. Blue In Green  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_002_031",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "48. Blue In Green  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_002_032",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "49. Blue In Green  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_002_033",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "50. Solar  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_002_034",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "51. Solar  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_002_035",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "52. Solar  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_002_036",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "53. Solar  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_002_037",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "54. Solar  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_002_038",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "55. Serenata (1 appearances)",
+            "album_name": "Fathas Day An Earl Hines Songbook",
+            "recording_year": "2003",
+            "asset_path": "john_hicks_002_039",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "56. Hold It Down (1 appearances)",
+            "album_name": "Ill Give You Something to Remember Me By",
+            "recording_year": "1987",
+            "asset_path": "john_hicks_002_040",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "57. Hold It Down (1 appearances)",
+            "album_name": "Ill Give You Something to Remember Me By",
+            "recording_year": "1987",
+            "asset_path": "john_hicks_002_041",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "58. Hold It Down (1 appearances)",
+            "album_name": "Ill Give You Something to Remember Me By",
+            "recording_year": "1987",
+            "asset_path": "john_hicks_002_042",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "59. Fly Little Bird Fly (1 appearances)",
+            "album_name": "On the Wings of an Eagle",
+            "recording_year": "2006",
+            "asset_path": "john_hicks_002_043",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "60. Fly Little Bird Fly (1 appearances)",
+            "album_name": "On the Wings of an Eagle",
+            "recording_year": "2006",
+            "asset_path": "john_hicks_002_044",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "61. Reflections  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_002_045",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "62. Peanut Butter (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_002_047",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "63. Two Heart Beats (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_002_049",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "64. Two Heart Beats (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_002_051",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "65. Two Heart Beats (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_002_052",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "66. Oblivion  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_002_053",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "67. There Is No Greater Love (1 appearances)",
+            "album_name": "Beyond Expectations",
+            "recording_year": "1993",
+            "asset_path": "john_hicks_002_056",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "68. There Is No Greater Love (1 appearances)",
+            "album_name": "Beyond Expectations",
+            "recording_year": "1993",
+            "asset_path": "john_hicks_002_057",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "69. There Is No Greater Love (1 appearances)",
+            "album_name": "Beyond Expectations",
+            "recording_year": "1993",
+            "asset_path": "john_hicks_002_058",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "70. Emily (1 appearances)",
+            "album_name": "Is That So",
+            "recording_year": "1990",
+            "asset_path": "john_hicks_002_059",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "71. Something Happens (1 appearances)",
+            "album_name": "Nightwind An Erroll Garner Songbook",
+            "recording_year": "1997",
+            "asset_path": "john_hicks_002_062",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "72. Yesterdays (1 appearances)",
+            "album_name": "Is That So",
+            "recording_year": "1990",
+            "asset_path": "john_hicks_002_063",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "73. Yesterdays (1 appearances)",
+            "album_name": "Is That So",
+            "recording_year": "1990",
+            "asset_path": "john_hicks_002_064",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "74. RhythmANing  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_002_065",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "75. Duke Ellingtons Sound Of Love  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_002_067",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "76. Duke Ellingtons Sound Of Love  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_002_068",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "77. Duke Ellingtons Sound Of Love  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_002_069",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "78. April Eyes (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_002_071",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "79. April Eyes (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_002_072",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "80. April Eyes (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_002_073",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "81. Stella by Starlight (1 appearances)",
+            "album_name": "Beyond Expectations",
+            "recording_year": "1993",
+            "asset_path": "john_hicks_002_075",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "82. I Didnt Know What Time It Was (1 appearances)",
+            "album_name": "Ill Give You Something to Remember Me By",
+            "recording_year": "1987",
+            "asset_path": "john_hicks_002_077",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "83. I Didnt Know What Time It Was (1 appearances)",
+            "album_name": "Ill Give You Something to Remember Me By",
+            "recording_year": "1987",
+            "asset_path": "john_hicks_002_078",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "84. I Didnt Know What Time It Was (1 appearances)",
+            "album_name": "Ill Give You Something to Remember Me By",
+            "recording_year": "1987",
+            "asset_path": "john_hicks_002_079",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "85. Nutty  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_002_080",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "86. Nutty  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_002_081",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "87. Nutty  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_002_082",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "88. Contemplation  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_002_083",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "89. Redds Blues (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_002_084",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "90. Redds Blues (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_002_085",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "91. Teds Delight (1 appearances)",
+            "album_name": "Ill Give You Something to Remember Me By",
+            "recording_year": "1987",
+            "asset_path": "john_hicks_002_086",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "92. Upper Manhattan Medical Group  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_002_087",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "93. Upper Manhattan Medical Group  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_002_088",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "94. Upper Manhattan Medical Group  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_002_089",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "95. Kids Know (1 appearances)",
+            "album_name": "Newklear Music",
+            "recording_year": "1997",
+            "asset_path": "john_hicks_002_090",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "96. Kids Know (1 appearances)",
+            "album_name": "Newklear Music",
+            "recording_year": "1997",
+            "asset_path": "john_hicks_002_091",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "97. After The Morning (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_002_093",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "98. After The Morning (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_002_094",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "99. Pas de Trois (1 appearances)",
+            "album_name": "Ill Give You Something to Remember Me By",
+            "recording_year": "1987",
+            "asset_path": "john_hicks_002_095",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "100. Pas de Trois (1 appearances)",
+            "album_name": "Ill Give You Something to Remember Me By",
+            "recording_year": "1987",
+            "asset_path": "john_hicks_002_096",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "101. Dukes Place (1 appearances)",
+            "album_name": "Power Trio",
+            "recording_year": "1990",
+            "asset_path": "john_hicks_002_097",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "102. Dukes Place (1 appearances)",
+            "album_name": "Power Trio",
+            "recording_year": "1990",
+            "asset_path": "john_hicks_002_098",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "103. Sonnymoon for Two (1 appearances)",
+            "album_name": "Is That So",
+            "recording_year": "1990",
+            "asset_path": "john_hicks_002_100",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "104. Times Slimes (1 appearances)",
+            "album_name": "Newklear Music",
+            "recording_year": "1997",
+            "asset_path": "john_hicks_002_101",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "105. Paris Lover (1 appearances)",
+            "album_name": "Nightwind An Erroll Garner Songbook",
+            "recording_year": "1997",
+            "asset_path": "john_hicks_002_102",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "106. Straighten Up And Fly Right  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_002_103",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "107. Daydream (1 appearances)",
+            "album_name": "A Billy Strayhorn Songbook Something to Live For",
+            "recording_year": "1997",
+            "asset_path": "john_hicks_002_104",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "108. Heart to Heart (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_002_105",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "109. Heart to Heart (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_002_107",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "110. Autumn Leaves (1 appearances)",
+            "album_name": "Is That So",
+            "recording_year": "1990",
+            "asset_path": "john_hicks_002_108",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "111. Autumn Leaves (1 appearances)",
+            "album_name": "Is That So",
+            "recording_year": "1990",
+            "asset_path": "john_hicks_002_109",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "112. I Remember You  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_002_110",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "113. I Remember You  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_002_111",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "114. I Remember You  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_002_112",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "115. I Remember You  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_002_114",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "116. I Remember You  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_002_115",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "117. I Remember You  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_002_116",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "118. I Remember You  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_002_117",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "119. I Remember You  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_002_118",
+            "n_appearances_in_track": 1
+        }
+    ],
+    "[2, 2, -2, -2]": [
+        {
+            "track_name": "1. After The Rain  Live At Maybeck Recital Hall Berkeley CA  August 1990 (3 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_003_013",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "2. Naomis Love Song (3 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_003_036",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "3. Steadfast (2 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_003_006",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "4. Bookie Please (2 appearances)",
+            "album_name": "Inc 1",
+            "recording_year": "1985",
+            "asset_path": "john_hicks_003_007",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "5. Expectations (2 appearances)",
+            "album_name": "Beyond Expectations",
+            "recording_year": "1993",
+            "asset_path": "john_hicks_003_010",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "6. After The Rain  Live At Maybeck Recital Hall Berkeley CA  August 1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_003_012",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "7. Blue In Green  Live At Maybeck Recital Hall Berkeley CA  August 1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_003_018",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "8. Peanut Butter (2 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_003_021",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "9. Duke Ellingtons Sound Of Love  Live At Maybeck Recital Hall Berkeley CA  August 1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_003_032",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "10. Pocket Full of Blues (2 appearances)",
+            "album_name": "Music in the Key of Clark",
+            "recording_year": "2001",
+            "asset_path": "john_hicks_003_043",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "11. Upper Manhattan Medical Group  Recorded Live in Concert 2006 (2 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_003_052",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "12. Heart to Heart (2 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_003_061",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "13. Heart to Heart (2 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_003_062",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "14. Steadfast (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_003_000",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "15. Steadfast (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_003_001",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "16. Steadfast (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_003_002",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "17. Steadfast (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_003_003",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "18. Steadfast (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_003_004",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "19. Steadfast (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_003_005",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "20. Speak Low  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_003_008",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "21. Misty (1 appearances)",
+            "album_name": "Nightwind An Erroll Garner Songbook",
+            "recording_year": "1997",
+            "asset_path": "john_hicks_003_009",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "22. Au Privave (1 appearances)",
+            "album_name": "Beyond Expectations",
+            "recording_year": "1993",
+            "asset_path": "john_hicks_003_011",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "23. After The Rain  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_003_014",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "24. All Of You  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_003_015",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "25. Reminds Me (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_003_016",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "26. Hicks Time (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_003_017",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "27. Solar  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_003_019",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "28. Serenata (1 appearances)",
+            "album_name": "Fathas Day An Earl Hines Songbook",
+            "recording_year": "2003",
+            "asset_path": "john_hicks_003_020",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "29. Two Heart Beats (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_003_022",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "30. Two Heart Beats (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_003_023",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "31. Two Heart Beats (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_003_024",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "32. Two Heart Beats (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_003_025",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "33. Two Heart Beats (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_003_026",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "34. Minor Blues (1 appearances)",
+            "album_name": "A Billy Strayhorn Songbook Something to Live For",
+            "recording_year": "1997",
+            "asset_path": "john_hicks_003_027",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "35. Something Happens (1 appearances)",
+            "album_name": "Nightwind An Erroll Garner Songbook",
+            "recording_year": "1997",
+            "asset_path": "john_hicks_003_028",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "36. Something Happens (1 appearances)",
+            "album_name": "Nightwind An Erroll Garner Songbook",
+            "recording_year": "1997",
+            "asset_path": "john_hicks_003_029",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "37. Duke Ellingtons Sound Of Love  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_003_030",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "38. Duke Ellingtons Sound Of Love  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_003_031",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "39. Duke Ellingtons Sound Of Love  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_003_033",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "40. Duke Ellingtons Sound Of Love  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_003_034",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "41. Naomis Love Song (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_003_035",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "42. April Eyes (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_003_037",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "43. April Eyes (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_003_038",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "44. April Eyes (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_003_039",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "45. April Eyes (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_003_040",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "46. April Eyes (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_003_041",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "47. April Eyes (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_003_042",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "48. I Didnt Know What Time It Was (1 appearances)",
+            "album_name": "Ill Give You Something to Remember Me By",
+            "recording_year": "1987",
+            "asset_path": "john_hicks_003_044",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "49. Jest A Little (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_003_045",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "50. Nutty  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_003_046",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "51. Contemplation  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_003_047",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "52. Contemplation  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_003_048",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "53. Redds Blues (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_003_049",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "54. Teds Delight (1 appearances)",
+            "album_name": "Ill Give You Something to Remember Me By",
+            "recording_year": "1987",
+            "asset_path": "john_hicks_003_050",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "55. Upper Manhattan Medical Group  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_003_051",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "56. Kids Know (1 appearances)",
+            "album_name": "Newklear Music",
+            "recording_year": "1997",
+            "asset_path": "john_hicks_003_053",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "57. After The Morning (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_003_054",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "58. Pas de Trois (1 appearances)",
+            "album_name": "Ill Give You Something to Remember Me By",
+            "recording_year": "1987",
+            "asset_path": "john_hicks_003_055",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "59. Dukes Place (1 appearances)",
+            "album_name": "Power Trio",
+            "recording_year": "1990",
+            "asset_path": "john_hicks_003_056",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "60. A Nightingale Sang in Berkeley Square  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_003_057",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "61. Straighten Up And Fly Right  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_003_058",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "62. Heart to Heart (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_003_059",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "63. Heart to Heart (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_003_060",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "64. Heart to Heart (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_003_063",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "65. Heart to Heart (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_003_064",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "66. I Remember You  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_003_065",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "67. I Remember You  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_003_066",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "68. I Remember You  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_003_067",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "69. I Remember You  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_003_068",
+            "n_appearances_in_track": 1
+        }
+    ],
+    "[-4, -3, -5]": [
+        {
+            "track_name": "1. Fly Little Bird Fly (4 appearances)",
+            "album_name": "On the Wings of an Eagle",
+            "recording_year": "2006",
+            "asset_path": "john_hicks_004_041",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "2. RhythmANing  Live At Maybeck Recital Hall Berkeley CA  August 1990 (3 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_004_058",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "3. Straighten Up And Fly Right  Live At Maybeck Recital Hall Berkeley CA  August 1990 (3 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_004_087",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "4. Expectations (2 appearances)",
+            "album_name": "Beyond Expectations",
+            "recording_year": "1993",
+            "asset_path": "john_hicks_004_010",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "5. Airegin (2 appearances)",
+            "album_name": "Ill Give You Something to Remember Me By",
+            "recording_year": "1987",
+            "asset_path": "john_hicks_004_015",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "6. All Of You  Live At Maybeck Recital Hall Berkeley CA  August 1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_004_020",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "7. All Of You  Live At Maybeck Recital Hall Berkeley CA  August 1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_004_022",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "8. Hicks Time (2 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_004_024",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "9. Hicks Time (2 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_004_025",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "10. Blue In Green  Live At Maybeck Recital Hall Berkeley CA  August 1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_004_028",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "11. Blue In Green  Live At Maybeck Recital Hall Berkeley CA  August 1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_004_029",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "12. Solar  Recorded Live in Concert 2006 (2 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_004_032",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "13. Solar  Recorded Live in Concert 2006 (2 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_004_036",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "14. Hold It Down (2 appearances)",
+            "album_name": "Ill Give You Something to Remember Me By",
+            "recording_year": "1987",
+            "asset_path": "john_hicks_004_040",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "15. Oblivion  Live At Maybeck Recital Hall Berkeley CA  August 1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_004_046",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "16. Medi II (2 appearances)",
+            "album_name": "Impressions of Mary Lou",
+            "recording_year": "1998",
+            "asset_path": "john_hicks_004_049",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "17. Yesterdays (2 appearances)",
+            "album_name": "Is That So",
+            "recording_year": "1990",
+            "asset_path": "john_hicks_004_055",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "18. RhythmANing  Live At Maybeck Recital Hall Berkeley CA  August 1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_004_057",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "19. RhythmANing  Live At Maybeck Recital Hall Berkeley CA  August 1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_004_059",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "20. Up Jumped Spring (2 appearances)",
+            "album_name": "Beyond Expectations",
+            "recording_year": "1993",
+            "asset_path": "john_hicks_004_063",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "21. Redds Blues (2 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_004_074",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "22. After The Morning (2 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_004_077",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "23. After The Morning (2 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_004_079",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "24. Dukes Place (2 appearances)",
+            "album_name": "Power Trio",
+            "recording_year": "1990",
+            "asset_path": "john_hicks_004_082",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "25. Dukes Place (2 appearances)",
+            "album_name": "Power Trio",
+            "recording_year": "1990",
+            "asset_path": "john_hicks_004_083",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "26. Straighten Up And Fly Right  Live At Maybeck Recital Hall Berkeley CA  August 1990 (2 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_004_085",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "27. Autumn Leaves (2 appearances)",
+            "album_name": "Is That So",
+            "recording_year": "1990",
+            "asset_path": "john_hicks_004_089",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "28. Steadfast (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_004_000",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "29. Softly as in a Morning Sunrise (1 appearances)",
+            "album_name": "Softly as in a Morning Sunrise",
+            "recording_year": "1990",
+            "asset_path": "john_hicks_004_001",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "30. Softly as in a Morning Sunrise (1 appearances)",
+            "album_name": "Softly as in a Morning Sunrise",
+            "recording_year": "1990",
+            "asset_path": "john_hicks_004_002",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "31. Bookie Please (1 appearances)",
+            "album_name": "Inc 1",
+            "recording_year": "1985",
+            "asset_path": "john_hicks_004_003",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "32. Speak Low  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_004_004",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "33. Speak Low  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_004_005",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "34. Speak Low  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_004_006",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "35. Speak Low  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_004_007",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "36. Misty (1 appearances)",
+            "album_name": "Nightwind An Erroll Garner Songbook",
+            "recording_year": "1997",
+            "asset_path": "john_hicks_004_008",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "37. Misty (1 appearances)",
+            "album_name": "Nightwind An Erroll Garner Songbook",
+            "recording_year": "1997",
+            "asset_path": "john_hicks_004_009",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "38. Expectations (1 appearances)",
+            "album_name": "Beyond Expectations",
+            "recording_year": "1993",
+            "asset_path": "john_hicks_004_011",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "39. Heroes  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_004_012",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "40. I Deal (1 appearances)",
+            "album_name": "Music in the Key of Clark",
+            "recording_year": "2001",
+            "asset_path": "john_hicks_004_013",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "41. Airegin (1 appearances)",
+            "album_name": "Ill Give You Something to Remember Me By",
+            "recording_year": "1987",
+            "asset_path": "john_hicks_004_014",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "42. Not Too Straight (1 appearances)",
+            "album_name": "Impressions of Mary Lou",
+            "recording_year": "1998",
+            "asset_path": "john_hicks_004_016",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "43. Rosetta (1 appearances)",
+            "album_name": "Fathas Day An Earl Hines Songbook",
+            "recording_year": "2003",
+            "asset_path": "john_hicks_004_017",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "44. Rosetta (1 appearances)",
+            "album_name": "Fathas Day An Earl Hines Songbook",
+            "recording_year": "2003",
+            "asset_path": "john_hicks_004_018",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "45. Bouncing With Bud (1 appearances)",
+            "album_name": "Beyond Expectations",
+            "recording_year": "1993",
+            "asset_path": "john_hicks_004_019",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "46. All Of You  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_004_021",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "47. All Of You  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_004_023",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "48. Hicks Time (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_004_026",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "49. Blue In Green  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_004_027",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "50. Blue In Green  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_004_030",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "51. Solar  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_004_031",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "52. Solar  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_004_033",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "53. Solar  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_004_034",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "54. Solar  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_004_035",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "55. Solar  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_004_037",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "56. Serenata (1 appearances)",
+            "album_name": "Fathas Day An Earl Hines Songbook",
+            "recording_year": "2003",
+            "asset_path": "john_hicks_004_038",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "57. Hold It Down (1 appearances)",
+            "album_name": "Ill Give You Something to Remember Me By",
+            "recording_year": "1987",
+            "asset_path": "john_hicks_004_039",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "58. Fly Little Bird Fly (1 appearances)",
+            "album_name": "On the Wings of an Eagle",
+            "recording_year": "2006",
+            "asset_path": "john_hicks_004_042",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "59. Two Heart Beats (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_004_043",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "60. Two Heart Beats (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_004_044",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "61. Two Heart Beats (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_004_045",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "62. UMMG (1 appearances)",
+            "album_name": "A Billy Strayhorn Songbook Something to Live For",
+            "recording_year": "1997",
+            "asset_path": "john_hicks_004_047",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "63. Medi II (1 appearances)",
+            "album_name": "Impressions of Mary Lou",
+            "recording_year": "1998",
+            "asset_path": "john_hicks_004_048",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "64. Medi II (1 appearances)",
+            "album_name": "Impressions of Mary Lou",
+            "recording_year": "1998",
+            "asset_path": "john_hicks_004_050",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "65. There Is No Greater Love (1 appearances)",
+            "album_name": "Beyond Expectations",
+            "recording_year": "1993",
+            "asset_path": "john_hicks_004_051",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "66. Minor Blues (1 appearances)",
+            "album_name": "A Billy Strayhorn Songbook Something to Live For",
+            "recording_year": "1997",
+            "asset_path": "john_hicks_004_052",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "67. Emily (1 appearances)",
+            "album_name": "Is That So",
+            "recording_year": "1990",
+            "asset_path": "john_hicks_004_053",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "68. Emily (1 appearances)",
+            "album_name": "Is That So",
+            "recording_year": "1990",
+            "asset_path": "john_hicks_004_054",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "69. RhythmANing  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_004_056",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "70. Duke Ellingtons Sound Of Love  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_004_060",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "71. Duke Ellingtons Sound Of Love  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_004_061",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "72. Everytime We Say Goodbye  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_004_062",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "73. Stella by Starlight (1 appearances)",
+            "album_name": "Beyond Expectations",
+            "recording_year": "1993",
+            "asset_path": "john_hicks_004_064",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "74. I Didnt Know What Time It Was (1 appearances)",
+            "album_name": "Ill Give You Something to Remember Me By",
+            "recording_year": "1987",
+            "asset_path": "john_hicks_004_065",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "75. I Didnt Know What Time It Was (1 appearances)",
+            "album_name": "Ill Give You Something to Remember Me By",
+            "recording_year": "1987",
+            "asset_path": "john_hicks_004_066",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "76. Jest A Little (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_004_067",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "77. Nutty  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_004_068",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "78. Nutty  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_004_069",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "79. Nutty  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_004_070",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "80. Nutty  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_004_071",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "81. Redds Blues (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_004_072",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "82. Redds Blues (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_004_073",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "83. Teds Delight (1 appearances)",
+            "album_name": "Ill Give You Something to Remember Me By",
+            "recording_year": "1987",
+            "asset_path": "john_hicks_004_075",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "84. Kids Know (1 appearances)",
+            "album_name": "Newklear Music",
+            "recording_year": "1997",
+            "asset_path": "john_hicks_004_076",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "85. After The Morning (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_004_078",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "86. After The Morning (1 appearances)",
+            "album_name": "Hicks Time",
+            "recording_year": 1998,
+            "asset_path": "john_hicks_004_080",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "87. Pas de Trois (1 appearances)",
+            "album_name": "Ill Give You Something to Remember Me By",
+            "recording_year": "1987",
+            "asset_path": "john_hicks_004_081",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "88. Paris Lover (1 appearances)",
+            "album_name": "Nightwind An Erroll Garner Songbook",
+            "recording_year": "1997",
+            "asset_path": "john_hicks_004_084",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "89. Straighten Up And Fly Right  Live At Maybeck Recital Hall Berkeley CA  August 1990 (1 appearances)",
+            "album_name": "The Maybeck Recital Series Vol 7",
+            "recording_year": 1991,
+            "asset_path": "john_hicks_004_086",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "90. My Monday Date (1 appearances)",
+            "album_name": "Fathas Day An Earl Hines Songbook",
+            "recording_year": "2003",
+            "asset_path": "john_hicks_004_088",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "91. Autumn Leaves (1 appearances)",
+            "album_name": "Is That So",
+            "recording_year": "1990",
+            "asset_path": "john_hicks_004_090",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "92. Autumn Leaves (1 appearances)",
+            "album_name": "Is That So",
+            "recording_year": "1990",
+            "asset_path": "john_hicks_004_091",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "93. I Remember You  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_004_092",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "94. I Remember You  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_004_093",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "95. I Remember You  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_004_094",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "96. I Remember You  Recorded Live in Concert 2006 (1 appearances)",
+            "album_name": "I Remember You Recorded Live in Concert 2006",
+            "recording_year": 2009,
+            "asset_path": "john_hicks_004_095",
+            "n_appearances_in_track": 1
         }
     ]
 }

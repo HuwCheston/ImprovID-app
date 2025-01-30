@@ -1,479 +1,1790 @@
 {
-    "[-6, -5, 10]": [
+    "[12, -11]": [
         {
-            "track_name": "1. Bemsha Swing",
-            "album_name": "Home Grown",
-            "recording_year": 1985,
-            "asset_path": "geri_allen_000_000"
-        },
-        {
-            "track_name": "2. Dancing Mystic Poets at Twilight",
+            "track_name": "1. Dancing Mystic Poets at Midnight (15 appearances)",
             "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
             "recording_year": 2010,
-            "asset_path": "geri_allen_000_001"
+            "asset_path": "geri_allen_000_001",
+            "n_appearances_in_track": 15
         },
         {
-            "track_name": "3. Alone Together",
-            "album_name": "Home Grown",
-            "recording_year": 1985,
-            "asset_path": "geri_allen_000_002"
+            "track_name": "2. Gods Ancient Sky (15 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_000_024",
+            "n_appearances_in_track": 15
         },
         {
-            "track_name": "4. Alone Together",
+            "track_name": "3. Dancing Mystic Poets at Midnight (9 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_000_004",
+            "n_appearances_in_track": 9
+        },
+        {
+            "track_name": "4. Dancing Mystic Poets at Midnight (7 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_000_000",
+            "n_appearances_in_track": 7
+        },
+        {
+            "track_name": "5. Dancing Mystic Poets at Midnight (6 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_000_002",
+            "n_appearances_in_track": 6
+        },
+        {
+            "track_name": "6. Dancing Mystic Poets at Dawn (6 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_000_022",
+            "n_appearances_in_track": 6
+        },
+        {
+            "track_name": "7. Dancing Mystic Poets at Midnight (4 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_000_005",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "8. Dancing Mystic Poets at Dawn (4 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_000_018",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "9. Dancing Mystic Poets at Midnight (3 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_000_003",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "10. Dancing Mystic Poets at Dawn (3 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_000_016",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "11. Dancing Mystic Poets at Dawn (3 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_000_017",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "12. Dancing Mystic Poets at Twilight (2 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_000_011",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "13. Dancing Mystic Poets at Dawn (2 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_000_019",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "14. Dancing Mystic Poets at Dawn (2 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_000_020",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "15. Round Midnight (1 appearances)",
             "album_name": "Home Grown",
             "recording_year": 1985,
-            "asset_path": "geri_allen_000_003"
+            "asset_path": "geri_allen_000_006",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "16. Round Midnight (1 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_000_007",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "17. Blue (1 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_000_008",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "18. Home Grown (1 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_000_009",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "19. Dancing Mystic Poets at Twilight (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_000_010",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "20. Dancing Mystic Poets at Twilight (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_000_012",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "21. Your Pure Self Mother to Son (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_000_013",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "22. Flying Toward the Sound (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_000_014",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "23. Mammas Babies (1 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_000_015",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "24. Dancing Mystic Poets at Dawn (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_000_021",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "25. Alone Together (1 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_000_023",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "26. Gods Ancient Sky (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_000_025",
+            "n_appearances_in_track": 1
         }
     ],
-    "[-1, -3, 1]": [
+    "[1, 2, 1]": [
         {
-            "track_name": "1. No More Mr",
-            "album_name": "Home Grown",
-            "recording_year": 1985,
-            "asset_path": "geri_allen_001_000"
-        },
-        {
-            "track_name": "2. Dancing Mystic Poets at Midnight",
+            "track_name": "1. Dancing Mystic Poets at Twilight (17 appearances)",
             "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
             "recording_year": 2010,
-            "asset_path": "geri_allen_001_001"
+            "asset_path": "geri_allen_001_024",
+            "n_appearances_in_track": 17
         },
         {
-            "track_name": "3. Round Midnight",
-            "album_name": "Home Grown",
-            "recording_year": 1985,
-            "asset_path": "geri_allen_001_002"
-        },
-        {
-            "track_name": "4. Faithful Carriers of Life",
+            "track_name": "2. Dancing Mystic Poets at Twilight (15 appearances)",
             "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
             "recording_year": 2010,
-            "asset_path": "geri_allen_001_003"
+            "asset_path": "geri_allen_001_026",
+            "n_appearances_in_track": 15
         },
         {
-            "track_name": "5. Faithful Carriers of Life",
+            "track_name": "3. Gods Ancient Sky (12 appearances)",
             "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
             "recording_year": 2010,
-            "asset_path": "geri_allen_001_004"
+            "asset_path": "geri_allen_001_064",
+            "n_appearances_in_track": 12
         },
         {
-            "track_name": "6. Blue",
-            "album_name": "Home Grown",
-            "recording_year": 1985,
-            "asset_path": "geri_allen_001_005"
+            "track_name": "4. Dancing Mystic Poets at Dawn (11 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_001_038",
+            "n_appearances_in_track": 11
         },
         {
-            "track_name": "7. Dance of the Infidels",
+            "track_name": "5. Dancing Mystic Poets at Twilight (10 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_001_025",
+            "n_appearances_in_track": 10
+        },
+        {
+            "track_name": "6. Faithful Carriers of Life (9 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_001_011",
+            "n_appearances_in_track": 9
+        },
+        {
+            "track_name": "7. Dancing Mystic Poets at Twilight (8 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_001_027",
+            "n_appearances_in_track": 8
+        },
+        {
+            "track_name": "8. Dancing Mystic Poets at Dawn (8 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_001_040",
+            "n_appearances_in_track": 8
+        },
+        {
+            "track_name": "9. Gods Ancient Sky (8 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_001_053",
+            "n_appearances_in_track": 8
+        },
+        {
+            "track_name": "10. Faithful Carriers of Life (7 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_001_009",
+            "n_appearances_in_track": 7
+        },
+        {
+            "track_name": "11. Flying Toward the Sound Reprise (7 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_001_031",
+            "n_appearances_in_track": 7
+        },
+        {
+            "track_name": "12. Dancing Mystic Poets at Dawn (7 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_001_034",
+            "n_appearances_in_track": 7
+        },
+        {
+            "track_name": "13. Dancing Mystic Poets at Dawn (7 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_001_036",
+            "n_appearances_in_track": 7
+        },
+        {
+            "track_name": "14. Red Velvet in Winter (7 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_001_049",
+            "n_appearances_in_track": 7
+        },
+        {
+            "track_name": "15. Dancing Mystic Poets at Dawn (6 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_001_039",
+            "n_appearances_in_track": 6
+        },
+        {
+            "track_name": "16. Red Velvet in Winter (6 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_001_047",
+            "n_appearances_in_track": 6
+        },
+        {
+            "track_name": "17. Gods Ancient Sky (6 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_001_054",
+            "n_appearances_in_track": 6
+        },
+        {
+            "track_name": "18. Dance of the Infidels (5 appearances)",
             "album_name": "The Life of a Song",
             "recording_year": "2004",
-            "asset_path": "geri_allen_001_006"
+            "asset_path": "geri_allen_001_018",
+            "n_appearances_in_track": 5
         },
         {
-            "track_name": "8. Dance of the Infidels",
+            "track_name": "19. Dancing Mystic Poets at Dawn (5 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_001_037",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "20. Red Velvet in Winter (5 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_001_048",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "21. Gods Ancient Sky (5 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_001_056",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "22. Gods Ancient Sky (5 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_001_057",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "23. Round Midnight (4 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_001_005",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "24. Faithful Carriers of Life (4 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_001_012",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "25. Gods Ancient Sky (4 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_001_055",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "26. Gods Ancient Sky (4 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_001_061",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "27. Faithful Carriers of Life (3 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_001_014",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "28. Faithful Carriers of Life (3 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_001_016",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "29. Flying Toward the Sound (3 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_001_030",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "30. Red Velvet in Winter (3 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_001_046",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "31. Red Velvet in Winter (3 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_001_051",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "32. Gods Ancient Sky (3 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_001_059",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "33. Dancing Mystic Poets at Midnight (2 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_001_002",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "34. Round Midnight (2 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_001_008",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "35. Faithful Carriers of Life (2 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_001_015",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "36. Dance of the Infidels (2 appearances)",
             "album_name": "The Life of a Song",
             "recording_year": "2004",
-            "asset_path": "geri_allen_001_007"
+            "asset_path": "geri_allen_001_017",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "9. Dance of the Infidels",
+            "track_name": "37. Dance of the Infidels (2 appearances)",
             "album_name": "The Life of a Song",
             "recording_year": "2004",
-            "asset_path": "geri_allen_001_008"
+            "asset_path": "geri_allen_001_019",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "10. Black Man",
+            "track_name": "38. Dance of the Infidels (2 appearances)",
+            "album_name": "The Life of a Song",
+            "recording_year": "2004",
+            "asset_path": "geri_allen_001_020",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "39. Dancing Mystic Poets at Twilight (2 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_001_023",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "40. Gods Ancient Sky (2 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_001_060",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "41. No More Mr (1 appearances)",
             "album_name": "Home Grown",
             "recording_year": 1985,
-            "asset_path": "geri_allen_001_009"
+            "asset_path": "geri_allen_001_000",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "11. Dancing Mystic Poets at Twilight",
-            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
-            "recording_year": 2010,
-            "asset_path": "geri_allen_001_010"
-        },
-        {
-            "track_name": "12. Dancing Mystic Poets at Twilight",
-            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
-            "recording_year": 2010,
-            "asset_path": "geri_allen_001_011"
-        },
-        {
-            "track_name": "13. Dancing Mystic Poets at Twilight",
-            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
-            "recording_year": 2010,
-            "asset_path": "geri_allen_001_012"
-        },
-        {
-            "track_name": "14. Dancing Mystic Poets at Twilight",
-            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
-            "recording_year": 2010,
-            "asset_path": "geri_allen_001_013"
-        },
-        {
-            "track_name": "15. Flying Toward the Sound",
-            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
-            "recording_year": 2010,
-            "asset_path": "geri_allen_001_014"
-        },
-        {
-            "track_name": "16. Flying Toward the Sound Reprise",
-            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
-            "recording_year": 2010,
-            "asset_path": "geri_allen_001_015"
-        },
-        {
-            "track_name": "17. Flying Toward the Sound Reprise",
-            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
-            "recording_year": 2010,
-            "asset_path": "geri_allen_001_016"
-        },
-        {
-            "track_name": "18. Flying Toward the Sound Reprise",
-            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
-            "recording_year": 2010,
-            "asset_path": "geri_allen_001_017"
-        },
-        {
-            "track_name": "19. Dancing Mystic Poets at Dawn",
-            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
-            "recording_year": 2010,
-            "asset_path": "geri_allen_001_018"
-        },
-        {
-            "track_name": "20. Dancing Mystic Poets at Dawn",
-            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
-            "recording_year": 2010,
-            "asset_path": "geri_allen_001_019"
-        },
-        {
-            "track_name": "21. Dancing Mystic Poets at Dawn",
-            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
-            "recording_year": 2010,
-            "asset_path": "geri_allen_001_020"
-        },
-        {
-            "track_name": "22. Dancing Mystic Poets at Dawn",
-            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
-            "recording_year": 2010,
-            "asset_path": "geri_allen_001_021"
-        },
-        {
-            "track_name": "23. Dancing Mystic Poets at Dawn",
-            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
-            "recording_year": 2010,
-            "asset_path": "geri_allen_001_022"
-        },
-        {
-            "track_name": "24. Dancing Mystic Poets at Dawn",
-            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
-            "recording_year": 2010,
-            "asset_path": "geri_allen_001_023"
-        },
-        {
-            "track_name": "25. Alone Together",
+            "track_name": "42. No More Mr (1 appearances)",
             "album_name": "Home Grown",
             "recording_year": 1985,
-            "asset_path": "geri_allen_001_024"
+            "asset_path": "geri_allen_001_001",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "26. Alone Together",
+            "track_name": "43. Dancing Mystic Poets at Midnight (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_001_003",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "44. Round Midnight (1 appearances)",
             "album_name": "Home Grown",
             "recording_year": 1985,
-            "asset_path": "geri_allen_001_025"
+            "asset_path": "geri_allen_001_004",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "27. Red Velvet in Winter",
-            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
-            "recording_year": 2010,
-            "asset_path": "geri_allen_001_026"
+            "track_name": "45. Round Midnight (1 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_001_006",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "28. Red Velvet in Winter",
-            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
-            "recording_year": 2010,
-            "asset_path": "geri_allen_001_027"
+            "track_name": "46. Round Midnight (1 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_001_007",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "29. Red Velvet in Winter",
+            "track_name": "47. Faithful Carriers of Life (1 appearances)",
             "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
             "recording_year": 2010,
-            "asset_path": "geri_allen_001_028"
+            "asset_path": "geri_allen_001_010",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "30. Gods Ancient Sky",
+            "track_name": "48. Faithful Carriers of Life (1 appearances)",
             "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
             "recording_year": 2010,
-            "asset_path": "geri_allen_001_029"
+            "asset_path": "geri_allen_001_013",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "31. Gods Ancient Sky",
-            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
-            "recording_year": 2010,
-            "asset_path": "geri_allen_001_030"
+            "track_name": "49. Black Man (1 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_001_021",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "32. Gods Ancient Sky",
-            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
-            "recording_year": 2010,
-            "asset_path": "geri_allen_001_031"
+            "track_name": "50. Home Grown (1 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_001_022",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "33. Gods Ancient Sky",
+            "track_name": "51. Flying Toward the Sound (1 appearances)",
             "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
             "recording_year": 2010,
-            "asset_path": "geri_allen_001_032"
+            "asset_path": "geri_allen_001_028",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "34. Gods Ancient Sky",
+            "track_name": "52. Flying Toward the Sound (1 appearances)",
             "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
             "recording_year": 2010,
-            "asset_path": "geri_allen_001_033"
+            "asset_path": "geri_allen_001_029",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "35. Gods Ancient Sky",
+            "track_name": "53. Flying Toward the Sound Reprise (1 appearances)",
             "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
             "recording_year": 2010,
-            "asset_path": "geri_allen_001_034"
+            "asset_path": "geri_allen_001_032",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "36. Gods Ancient Sky",
+            "track_name": "54. Mammas Babies (1 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_001_033",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "55. Dancing Mystic Poets at Dawn (1 appearances)",
             "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
             "recording_year": 2010,
-            "asset_path": "geri_allen_001_035"
+            "asset_path": "geri_allen_001_035",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "56. Dancing Mystic Poets at Dawn (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_001_041",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "57. Dancing Mystic Poets at Dawn (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_001_042",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "58. Alone Together (1 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_001_043",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "59. Alone Together (1 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_001_044",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "60. Alone Together (1 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_001_045",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "61. Red Velvet in Winter (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_001_050",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "62. Red Velvet in Winter (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_001_052",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "63. Gods Ancient Sky (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_001_058",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "64. Gods Ancient Sky (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_001_062",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "65. Gods Ancient Sky (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_001_063",
+            "n_appearances_in_track": 1
         }
     ],
-    "[-6, -5]": [
+    "[-11, 12, -10]": [
         {
-            "track_name": "1. No More Mr",
-            "album_name": "Home Grown",
-            "recording_year": 1985,
-            "asset_path": "geri_allen_002_000"
-        },
-        {
-            "track_name": "2. Dancing Mystic Poets at Midnight",
+            "track_name": "1. Dancing Mystic Poets at Midnight (9 appearances)",
             "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
             "recording_year": 2010,
-            "asset_path": "geri_allen_002_001"
+            "asset_path": "geri_allen_002_001",
+            "n_appearances_in_track": 9
         },
         {
-            "track_name": "3. Round Midnight",
-            "album_name": "Home Grown",
-            "recording_year": 1985,
-            "asset_path": "geri_allen_002_002"
-        },
-        {
-            "track_name": "4. Faithful Carriers of Life",
+            "track_name": "2. Dancing Mystic Poets at Midnight (4 appearances)",
             "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
             "recording_year": 2010,
-            "asset_path": "geri_allen_002_003"
+            "asset_path": "geri_allen_002_004",
+            "n_appearances_in_track": 4
         },
         {
-            "track_name": "5. Faithful Carriers of Life",
+            "track_name": "3. Dancing Mystic Poets at Midnight (3 appearances)",
             "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
             "recording_year": 2010,
-            "asset_path": "geri_allen_002_004"
+            "asset_path": "geri_allen_002_000",
+            "n_appearances_in_track": 3
         },
         {
-            "track_name": "6. Faithful Carriers of Life",
+            "track_name": "4. Dancing Mystic Poets at Midnight (2 appearances)",
             "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
             "recording_year": 2010,
-            "asset_path": "geri_allen_002_005"
+            "asset_path": "geri_allen_002_002",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "7. Blue",
-            "album_name": "Home Grown",
-            "recording_year": 1985,
-            "asset_path": "geri_allen_002_006"
-        },
-        {
-            "track_name": "8. Blue",
-            "album_name": "Home Grown",
-            "recording_year": 1985,
-            "asset_path": "geri_allen_002_007"
-        },
-        {
-            "track_name": "9. Black Man",
-            "album_name": "Home Grown",
-            "recording_year": 1985,
-            "asset_path": "geri_allen_002_008"
-        },
-        {
-            "track_name": "10. Home Grown",
-            "album_name": "Home Grown",
-            "recording_year": 1985,
-            "asset_path": "geri_allen_002_009"
-        },
-        {
-            "track_name": "11. Home Grown",
-            "album_name": "Home Grown",
-            "recording_year": 1985,
-            "asset_path": "geri_allen_002_010"
-        },
-        {
-            "track_name": "12. Home Grown",
-            "album_name": "Home Grown",
-            "recording_year": 1985,
-            "asset_path": "geri_allen_002_011"
-        },
-        {
-            "track_name": "13. Bemsha Swing",
-            "album_name": "Home Grown",
-            "recording_year": 1985,
-            "asset_path": "geri_allen_002_012"
-        },
-        {
-            "track_name": "14. Dancing Mystic Poets at Twilight",
+            "track_name": "5. Dancing Mystic Poets at Midnight (2 appearances)",
             "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
             "recording_year": 2010,
-            "asset_path": "geri_allen_002_013"
+            "asset_path": "geri_allen_002_003",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "15. Dancing Mystic Poets at Twilight",
+            "track_name": "6. Dancing Mystic Poets at Dawn (2 appearances)",
             "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
             "recording_year": 2010,
-            "asset_path": "geri_allen_002_014"
+            "asset_path": "geri_allen_002_006",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "16. Dancing Mystic Poets at Twilight",
+            "track_name": "7. Dancing Mystic Poets at Midnight (1 appearances)",
             "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
             "recording_year": 2010,
-            "asset_path": "geri_allen_002_015"
+            "asset_path": "geri_allen_002_005",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "17. Flying Toward the Sound",
+            "track_name": "8. Dancing Mystic Poets at Dawn (1 appearances)",
             "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
             "recording_year": 2010,
-            "asset_path": "geri_allen_002_016"
+            "asset_path": "geri_allen_002_007",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "18. Flying Toward the Sound",
+            "track_name": "9. Dancing Mystic Poets at Dawn (1 appearances)",
             "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
             "recording_year": 2010,
-            "asset_path": "geri_allen_002_017"
-        },
-        {
-            "track_name": "19. Flying Toward the Sound",
-            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
-            "recording_year": 2010,
-            "asset_path": "geri_allen_002_018"
-        },
-        {
-            "track_name": "20. Flying Toward the Sound Reprise",
-            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
-            "recording_year": 2010,
-            "asset_path": "geri_allen_002_019"
-        },
-        {
-            "track_name": "21. Mammas Babies",
-            "album_name": "Home Grown",
-            "recording_year": 1985,
-            "asset_path": "geri_allen_002_020"
-        },
-        {
-            "track_name": "22. Mammas Babies",
-            "album_name": "Home Grown",
-            "recording_year": 1985,
-            "asset_path": "geri_allen_002_021"
-        },
-        {
-            "track_name": "23. Mammas Babies",
-            "album_name": "Home Grown",
-            "recording_year": 1985,
-            "asset_path": "geri_allen_002_022"
-        },
-        {
-            "track_name": "24. Alone Together",
-            "album_name": "Home Grown",
-            "recording_year": 1985,
-            "asset_path": "geri_allen_002_023"
-        },
-        {
-            "track_name": "25. Alone Together",
-            "album_name": "Home Grown",
-            "recording_year": 1985,
-            "asset_path": "geri_allen_002_024"
-        },
-        {
-            "track_name": "26. Alone Together",
-            "album_name": "Home Grown",
-            "recording_year": 1985,
-            "asset_path": "geri_allen_002_025"
-        },
-        {
-            "track_name": "27. Alone Together",
-            "album_name": "Home Grown",
-            "recording_year": 1985,
-            "asset_path": "geri_allen_002_026"
-        },
-        {
-            "track_name": "28. Alone Together",
-            "album_name": "Home Grown",
-            "recording_year": 1985,
-            "asset_path": "geri_allen_002_027"
-        },
-        {
-            "track_name": "29. Alone Together",
-            "album_name": "Home Grown",
-            "recording_year": 1985,
-            "asset_path": "geri_allen_002_028"
-        },
-        {
-            "track_name": "30. Alone Together",
-            "album_name": "Home Grown",
-            "recording_year": 1985,
-            "asset_path": "geri_allen_002_029"
-        },
-        {
-            "track_name": "31. Alone Together",
-            "album_name": "Home Grown",
-            "recording_year": 1985,
-            "asset_path": "geri_allen_002_030"
-        },
-        {
-            "track_name": "32. Alone Together",
-            "album_name": "Home Grown",
-            "recording_year": 1985,
-            "asset_path": "geri_allen_002_031"
-        },
-        {
-            "track_name": "33. Red Velvet in Winter",
-            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
-            "recording_year": 2010,
-            "asset_path": "geri_allen_002_032"
-        },
-        {
-            "track_name": "34. Gods Ancient Sky",
-            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
-            "recording_year": 2010,
-            "asset_path": "geri_allen_002_033"
+            "asset_path": "geri_allen_002_008",
+            "n_appearances_in_track": 1
         }
     ],
-    "[-4, 3, -10]": [],
-    "[-12, 2, 1]": [
+    "[7, -7]": [
         {
-            "track_name": "1. Blue",
+            "track_name": "1. Flying Toward the Sound Reprise (8 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_003_046",
+            "n_appearances_in_track": 8
+        },
+        {
+            "track_name": "2. Flying Toward the Sound (7 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_003_034",
+            "n_appearances_in_track": 7
+        },
+        {
+            "track_name": "3. Your Pure Self Mother to Son (5 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_003_031",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "4. Flying Toward the Sound (5 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_003_035",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "5. Flying Toward the Sound (5 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_003_038",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "6. No More Mr (4 appearances)",
             "album_name": "Home Grown",
             "recording_year": 1985,
-            "asset_path": "geri_allen_004_000"
+            "asset_path": "geri_allen_003_004",
+            "n_appearances_in_track": 4
         },
         {
-            "track_name": "2. Dance of the Infidels",
-            "album_name": "The Life of a Song",
-            "recording_year": "2004",
-            "asset_path": "geri_allen_004_001"
+            "track_name": "7. No More Mr (4 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_003_008",
+            "n_appearances_in_track": 4
         },
         {
-            "track_name": "3. Your Pure Self Mother to Son",
+            "track_name": "8. Flying Toward the Sound Reprise (4 appearances)",
             "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
             "recording_year": 2010,
-            "asset_path": "geri_allen_004_002"
+            "asset_path": "geri_allen_003_045",
+            "n_appearances_in_track": 4
         },
         {
-            "track_name": "4. Dancing Mystic Poets at Dawn",
+            "track_name": "9. Flying Toward the Sound Reprise (4 appearances)",
             "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
             "recording_year": 2010,
-            "asset_path": "geri_allen_004_003"
+            "asset_path": "geri_allen_003_048",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "10. Mammas Babies (4 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_003_049",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "11. Red Velvet in Winter (4 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_003_061",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "12. Faithful Carriers of Life (3 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_003_014",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "13. Faithful Carriers of Life (3 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_003_017",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "14. Blue (3 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_003_021",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "15. Flying Toward the Sound (3 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_003_037",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "16. Flying Toward the Sound Reprise (3 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_003_044",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "17. Red Velvet in Winter (3 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_003_058",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "18. Red Velvet in Winter (3 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_003_059",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "19. Dancing Mystic Poets at Midnight (2 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_003_010",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "20. Faithful Carriers of Life (2 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_003_019",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "21. Black Man (2 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_003_023",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "22. Your Pure Self Mother to Son (2 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_003_028",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "23. Flying Toward the Sound (2 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_003_036",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "24. Flying Toward the Sound (2 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_003_039",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "25. Flying Toward the Sound Reprise (2 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_003_043",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "26. Flying Toward the Sound Reprise (2 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_003_047",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "27. Alone Together (2 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_003_056",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "28. Red Velvet in Winter (2 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_003_057",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "29. Red Velvet in Winter (2 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_003_060",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "30. Red Velvet in Winter (2 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_003_062",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "31. Red Velvet in Winter (2 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_003_063",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "32. No More Mr (1 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_003_000",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "33. No More Mr (1 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_003_001",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "34. No More Mr (1 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_003_002",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "35. No More Mr (1 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_003_003",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "36. No More Mr (1 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_003_005",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "37. No More Mr (1 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_003_006",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "38. No More Mr (1 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_003_007",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "39. No More Mr (1 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_003_009",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "40. Dancing Mystic Poets at Midnight (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_003_011",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "41. Round Midnight (1 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_003_012",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "42. Faithful Carriers of Life (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_003_013",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "43. Faithful Carriers of Life (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_003_015",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "44. Faithful Carriers of Life (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_003_016",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "45. Faithful Carriers of Life (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_003_018",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "46. Faithful Carriers of Life (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_003_020",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "47. Blue (1 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_003_022",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "48. Home Grown (1 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_003_024",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "49. Home Grown (1 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_003_025",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "50. Home Grown (1 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_003_026",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "51. Dancing Mystic Poets at Twilight (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_003_027",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "52. Your Pure Self Mother to Son (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_003_029",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "53. Your Pure Self Mother to Son (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_003_030",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "54. Your Pure Self Mother to Son (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_003_032",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "55. Flying Toward the Sound (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_003_033",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "56. Flying Toward the Sound (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_003_040",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "57. Flying Toward the Sound Reprise (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_003_041",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "58. Flying Toward the Sound Reprise (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_003_042",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "59. Mammas Babies (1 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_003_050",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "60. Mammas Babies (1 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_003_051",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "61. Dancing Mystic Poets at Dawn (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_003_052",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "62. Dancing Mystic Poets at Dawn (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_003_053",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "63. Dancing Mystic Poets at Dawn (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_003_054",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "64. Alone Together (1 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_003_055",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "65. Red Velvet in Winter (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_003_064",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "66. Gods Ancient Sky (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_003_065",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "67. Gods Ancient Sky (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_003_066",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "68. Gods Ancient Sky (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_003_067",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "69. Gods Ancient Sky (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_003_068",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "70. Gods Ancient Sky (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_003_069",
+            "n_appearances_in_track": 1
+        }
+    ],
+    "[-7, 7]": [
+        {
+            "track_name": "1. No More Mr (8 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_004_008",
+            "n_appearances_in_track": 8
+        },
+        {
+            "track_name": "2. Flying Toward the Sound Reprise (7 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_004_049",
+            "n_appearances_in_track": 7
+        },
+        {
+            "track_name": "3. Mammas Babies (7 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_004_059",
+            "n_appearances_in_track": 7
+        },
+        {
+            "track_name": "4. Faithful Carriers of Life (6 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_004_017",
+            "n_appearances_in_track": 6
+        },
+        {
+            "track_name": "5. Flying Toward the Sound (6 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_004_040",
+            "n_appearances_in_track": 6
+        },
+        {
+            "track_name": "6. Mammas Babies (6 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_004_056",
+            "n_appearances_in_track": 6
+        },
+        {
+            "track_name": "7. Dancing Mystic Poets at Midnight (5 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_004_013",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "8. Faithful Carriers of Life (5 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_004_020",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "9. Flying Toward the Sound (5 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_004_036",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "10. Flying Toward the Sound (5 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_004_037",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "11. Faithful Carriers of Life (4 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_004_021",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "12. Home Grown (4 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_004_029",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "13. Red Velvet in Winter (4 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_004_076",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "14. Red Velvet in Winter (4 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_004_077",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "15. No More Mr (3 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_004_006",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "16. Dancing Mystic Poets at Midnight (3 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_004_014",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "17. Flying Toward the Sound (3 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_004_039",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "18. Flying Toward the Sound Reprise (3 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_004_046",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "19. Flying Toward the Sound Reprise (3 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_004_051",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "20. Flying Toward the Sound Reprise (3 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_004_052",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "21. Mammas Babies (3 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_004_053",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "22. Mammas Babies (3 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_004_057",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "23. Mammas Babies (3 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_004_058",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "24. Dancing Mystic Poets at Dawn (3 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_004_062",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "25. Dancing Mystic Poets at Dawn (3 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_004_063",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "26. Dancing Mystic Poets at Dawn (3 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_004_069",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "27. No More Mr (2 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_004_000",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "28. No More Mr (2 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_004_004",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "29. Dancing Mystic Poets at Midnight (2 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_004_010",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "30. Dancing Mystic Poets at Midnight (2 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_004_012",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "31. Faithful Carriers of Life (2 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_004_018",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "32. Faithful Carriers of Life (2 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_004_024",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "33. Home Grown (2 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_004_031",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "34. Dancing Mystic Poets at Twilight (2 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_004_033",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "35. Flying Toward the Sound (2 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_004_042",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "36. Flying Toward the Sound Reprise (2 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_004_045",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "37. Flying Toward the Sound Reprise (2 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_004_048",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "38. Flying Toward the Sound Reprise (2 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_004_050",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "39. Dancing Mystic Poets at Dawn (2 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_004_061",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "40. Dancing Mystic Poets at Dawn (2 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_004_067",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "41. Alone Together (2 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_004_071",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "42. Red Velvet in Winter (2 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_004_074",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "43. Red Velvet in Winter (2 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_004_075",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "44. Red Velvet in Winter (2 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_004_078",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "45. Gods Ancient Sky (2 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_004_083",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "46. No More Mr (1 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_004_001",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "47. No More Mr (1 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_004_002",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "48. No More Mr (1 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_004_003",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "49. No More Mr (1 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_004_005",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "50. No More Mr (1 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_004_007",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "51. No More Mr (1 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_004_009",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "52. Dancing Mystic Poets at Midnight (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_004_011",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "53. Round Midnight (1 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_004_015",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "54. Round Midnight (1 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_004_016",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "55. Faithful Carriers of Life (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_004_019",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "56. Faithful Carriers of Life (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_004_022",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "57. Faithful Carriers of Life (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_004_023",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "58. Blue (1 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_004_025",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "59. Blue (1 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_004_026",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "60. Black Man (1 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_004_027",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "61. Home Grown (1 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_004_028",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "62. Home Grown (1 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_004_030",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "63. Dancing Mystic Poets at Twilight (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_004_032",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "64. Your Pure Self Mother to Son (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_004_034",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "65. Your Pure Self Mother to Son (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_004_035",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "66. Flying Toward the Sound (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_004_038",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "67. Flying Toward the Sound (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_004_041",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "68. Flying Toward the Sound (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_004_043",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "69. Flying Toward the Sound Reprise (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_004_044",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "70. Flying Toward the Sound Reprise (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_004_047",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "71. Mammas Babies (1 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_004_054",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "72. Mammas Babies (1 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_004_055",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "73. Dancing Mystic Poets at Dawn (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_004_060",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "74. Dancing Mystic Poets at Dawn (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_004_064",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "75. Dancing Mystic Poets at Dawn (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_004_065",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "76. Dancing Mystic Poets at Dawn (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_004_066",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "77. Dancing Mystic Poets at Dawn (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_004_068",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "78. Alone Together (1 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_004_070",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "79. Alone Together (1 appearances)",
+            "album_name": "Home Grown",
+            "recording_year": 1985,
+            "asset_path": "geri_allen_004_072",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "80. Red Velvet in Winter (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_004_073",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "81. Gods Ancient Sky (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_004_079",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "82. Gods Ancient Sky (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_004_080",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "83. Gods Ancient Sky (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_004_081",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "84. Gods Ancient Sky (1 appearances)",
+            "album_name": "Flying Toward the Sound A Solo Piano Excursion Inspired by Cecil Taylor Mccoy Tyner and Herbie Hancock",
+            "recording_year": 2010,
+            "asset_path": "geri_allen_004_082",
+            "n_appearances_in_track": 1
         }
     ]
 }

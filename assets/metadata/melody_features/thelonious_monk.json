@@ -1,498 +1,1825 @@
 {
-    "[-2, -3, -3]": [
+    "[-2, -2, -2]": [
         {
-            "track_name": "1. Sweet And Lovely Take 1",
+            "track_name": "1. Round Lights (19 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_000_039",
+            "n_appearances_in_track": 19
+        },
+        {
+            "track_name": "2. Ruby My Dear (18 appearances)",
             "album_name": "Solo Monk",
             "recording_year": 2014,
-            "asset_path": "thelonious_monk_000_000"
+            "asset_path": "thelonious_monk_000_047",
+            "n_appearances_in_track": 18
         },
         {
-            "track_name": "2. Well You Neednt",
-            "album_name": "19441948",
-            "recording_year": "1948",
-            "asset_path": "thelonious_monk_000_001"
+            "track_name": "3. Ruby My Dear Take 1 (14 appearances)",
+            "album_name": "Solo Monk",
+            "recording_year": 2014,
+            "asset_path": "thelonious_monk_000_022",
+            "n_appearances_in_track": 14
         },
         {
-            "track_name": "3. Bluehawk",
-            "album_name": "Thelonious Alone In San Francisco",
-            "recording_year": 1960,
-            "asset_path": "thelonious_monk_000_002"
-        },
-        {
-            "track_name": "4. Bluehawk",
-            "album_name": "Thelonious Alone In San Francisco",
-            "recording_year": 1960,
-            "asset_path": "thelonious_monk_000_003"
-        },
-        {
-            "track_name": "5. I Mean You",
-            "album_name": "The Complete Black Lion and Vogue Recordings of Thelonious Monk",
-            "recording_year": "1971",
-            "asset_path": "thelonious_monk_000_004"
-        },
-        {
-            "track_name": "6. I Mean You",
-            "album_name": "The Complete Black Lion and Vogue Recordings of Thelonious Monk",
-            "recording_year": "1971",
-            "asset_path": "thelonious_monk_000_005"
-        },
-        {
-            "track_name": "7. I Mean You",
-            "album_name": "The Complete Black Lion and Vogue Recordings of Thelonious Monk",
-            "recording_year": "1971",
-            "asset_path": "thelonious_monk_000_006"
-        },
-        {
-            "track_name": "8. Theres Danger In Your Eyes Cherie  Take 1",
-            "album_name": "Thelonious Alone In San Francisco",
-            "recording_year": 1960,
-            "asset_path": "thelonious_monk_000_007"
-        },
-        {
-            "track_name": "9. April in Paris",
+            "track_name": "4. April in Paris (13 appearances)",
             "album_name": "The Complete Genius",
             "recording_year": "1949",
-            "asset_path": "thelonious_monk_000_008"
+            "asset_path": "thelonious_monk_000_008",
+            "n_appearances_in_track": 13
         },
         {
-            "track_name": "10. Reflections",
-            "album_name": "The High Priest",
-            "recording_year": "1952",
-            "asset_path": "thelonious_monk_000_009"
-        },
-        {
-            "track_name": "11. Reflections",
+            "track_name": "5. Pannonica (11 appearances)",
             "album_name": "Thelonious Alone In San Francisco",
             "recording_year": 1960,
-            "asset_path": "thelonious_monk_000_010"
+            "asset_path": "thelonious_monk_000_031",
+            "n_appearances_in_track": 11
         },
         {
-            "track_name": "12. Reflections",
-            "album_name": "Thelonious Alone In San Francisco",
-            "recording_year": 1960,
-            "asset_path": "thelonious_monk_000_011"
+            "track_name": "6. Introspection (7 appearances)",
+            "album_name": "19441948",
+            "recording_year": "1948",
+            "asset_path": "thelonious_monk_000_006",
+            "n_appearances_in_track": 7
         },
         {
-            "track_name": "13. Reflections",
-            "album_name": "Thelonious Alone In San Francisco",
-            "recording_year": 1960,
-            "asset_path": "thelonious_monk_000_012"
+            "track_name": "7. Introspection (7 appearances)",
+            "album_name": "19441948",
+            "recording_year": "1948",
+            "asset_path": "thelonious_monk_000_007",
+            "n_appearances_in_track": 7
         },
         {
-            "track_name": "14. Reflections",
-            "album_name": "Thelonious Alone In San Francisco",
-            "recording_year": 1960,
-            "asset_path": "thelonious_monk_000_013"
-        },
-        {
-            "track_name": "15. Blue Monk",
-            "album_name": "The High Priest",
-            "recording_year": "1952",
-            "asset_path": "thelonious_monk_000_014"
-        },
-        {
-            "track_name": "16. Blue Monk",
-            "album_name": "The High Priest",
-            "recording_year": "1952",
-            "asset_path": "thelonious_monk_000_015"
-        },
-        {
-            "track_name": "17. Blue Monk",
-            "album_name": "The High Priest",
-            "recording_year": "1952",
-            "asset_path": "thelonious_monk_000_016"
-        },
-        {
-            "track_name": "18. Blue Monk",
-            "album_name": "The High Priest",
-            "recording_year": "1952",
-            "asset_path": "thelonious_monk_000_017"
-        },
-        {
-            "track_name": "19. Hackensack",
-            "album_name": "The Complete Black Lion and Vogue Recordings of Thelonious Monk",
-            "recording_year": "1971",
-            "asset_path": "thelonious_monk_000_018"
-        },
-        {
-            "track_name": "20. Hackensack",
-            "album_name": "The Complete Black Lion and Vogue Recordings of Thelonious Monk",
-            "recording_year": "1971",
-            "asset_path": "thelonious_monk_000_019"
-        },
-        {
-            "track_name": "21. Hackensack",
-            "album_name": "The Complete Black Lion and Vogue Recordings of Thelonious Monk",
-            "recording_year": "1971",
-            "asset_path": "thelonious_monk_000_020"
-        },
-        {
-            "track_name": "22. Dinah Take 1",
-            "album_name": "Solo Monk",
-            "recording_year": 2014,
-            "asset_path": "thelonious_monk_000_021"
-        },
-        {
-            "track_name": "23. April in Paris alternate take",
-            "album_name": "Complete 1947  1952 Blue Note Recordings",
-            "recording_year": "1949",
-            "asset_path": "thelonious_monk_000_022"
-        },
-        {
-            "track_name": "24. Just You Just Me",
+            "track_name": "8. Just You Just Me (7 appearances)",
             "album_name": "The Complete Riverside Recordings",
             "recording_year": "1958",
-            "asset_path": "thelonious_monk_000_023"
+            "asset_path": "thelonious_monk_000_021",
+            "n_appearances_in_track": 7
         },
         {
-            "track_name": "25. Ruby My Dear Take 1",
+            "track_name": "9. Reflections (6 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_000_016",
+            "n_appearances_in_track": 6
+        },
+        {
+            "track_name": "10. Ask Me Now (6 appearances)",
             "album_name": "Solo Monk",
             "recording_year": 2014,
-            "asset_path": "thelonious_monk_000_024"
+            "asset_path": "thelonious_monk_000_043",
+            "n_appearances_in_track": 6
         },
         {
-            "track_name": "26. Everything Happens To Me ReTake 1",
+            "track_name": "11. Bluehawk (5 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_000_003",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "12. Reflections (5 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_000_013",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "13. I Hadnt Anyone Till You (5 appearances)",
             "album_name": "Solo Monk",
             "recording_year": 2014,
-            "asset_path": "thelonious_monk_000_025"
+            "asset_path": "thelonious_monk_000_034",
+            "n_appearances_in_track": 5
         },
         {
-            "track_name": "27. Honeysuckle Rose",
-            "album_name": "85th Birthday Celebration",
-            "recording_year": "1957",
-            "asset_path": "thelonious_monk_000_026"
+            "track_name": "14. I Hadnt Anyone Till You Take 2 (5 appearances)",
+            "album_name": "Solo Monk",
+            "recording_year": 2014,
+            "asset_path": "thelonious_monk_000_042",
+            "n_appearances_in_track": 5
         },
         {
-            "track_name": "28. Ill Follow You",
+            "track_name": "15. Nutty (4 appearances)",
+            "album_name": "Blue Monk Vol 2",
+            "recording_year": "1954",
+            "asset_path": "thelonious_monk_000_009",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "16. Reflections (4 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_000_010",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "17. Reflections (4 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_000_012",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "18. April in Paris alternate take (4 appearances)",
+            "album_name": "Complete 1947  1952 Blue Note Recordings",
+            "recording_year": "1949",
+            "asset_path": "thelonious_monk_000_020",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "19. Monks Point (4 appearances)",
+            "album_name": "Solo Monk",
+            "recording_year": 2014,
+            "asset_path": "thelonious_monk_000_032",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "20. Round Lights (4 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_000_041",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "21. Nutty (4 appearances)",
+            "album_name": "The Complete Black Lion and Vogue Recordings of Thelonious Monk",
+            "recording_year": "1971",
+            "asset_path": "thelonious_monk_000_054",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "22. Reflections (3 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_000_011",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "23. Work (3 appearances)",
+            "album_name": "Four in One",
+            "recording_year": "1952",
+            "asset_path": "thelonious_monk_000_026",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "24. Work (3 appearances)",
+            "album_name": "Four in One",
+            "recording_year": "1952",
+            "asset_path": "thelonious_monk_000_027",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "25. Ill Follow You (3 appearances)",
             "album_name": "Modern Jazz Archive Thelonious Monk",
             "recording_year": "1950",
-            "asset_path": "thelonious_monk_000_027"
+            "asset_path": "thelonious_monk_000_029",
+            "n_appearances_in_track": 3
         },
         {
-            "track_name": "29. Caravan",
-            "album_name": "The Best of Thelonious Monk",
-            "recording_year": "1958",
-            "asset_path": "thelonious_monk_000_028"
-        },
-        {
-            "track_name": "30. Pannonica",
+            "track_name": "26. Pannonica (3 appearances)",
             "album_name": "Thelonious Alone In San Francisco",
             "recording_year": 1960,
-            "asset_path": "thelonious_monk_000_029"
+            "asset_path": "thelonious_monk_000_030",
+            "n_appearances_in_track": 3
         },
         {
-            "track_name": "31. Theres Danger In Your Eyes Cherie  Take 2",
+            "track_name": "27. Blue Monk (3 appearances)",
             "album_name": "Thelonious Alone In San Francisco",
             "recording_year": 1960,
-            "asset_path": "thelonious_monk_000_030"
+            "asset_path": "thelonious_monk_000_036",
+            "n_appearances_in_track": 3
         },
         {
-            "track_name": "32. Everything Happens To Me",
-            "album_name": "Thelonious Alone In San Francisco",
-            "recording_year": 1960,
-            "asset_path": "thelonious_monk_000_031"
-        },
-        {
-            "track_name": "33. Blue Monk",
-            "album_name": "Thelonious Alone In San Francisco",
-            "recording_year": 1960,
-            "asset_path": "thelonious_monk_000_032"
-        },
-        {
-            "track_name": "34. Dinah Take 2",
+            "track_name": "28. Ask Me Now (3 appearances)",
             "album_name": "Solo Monk",
             "recording_year": 2014,
-            "asset_path": "thelonious_monk_000_033"
+            "asset_path": "thelonious_monk_000_044",
+            "n_appearances_in_track": 3
         },
         {
-            "track_name": "35. Round Lights",
-            "album_name": "Thelonious Alone In San Francisco",
-            "recording_year": 1960,
-            "asset_path": "thelonious_monk_000_034"
-        },
-        {
-            "track_name": "36. Remember",
-            "album_name": "Thelonious Alone In San Francisco",
-            "recording_year": 1960,
-            "asset_path": "thelonious_monk_000_035"
-        },
-        {
-            "track_name": "37. Monks Dream",
+            "track_name": "29. Monks Dream (3 appearances)",
             "album_name": "The High Priest",
             "recording_year": "1952",
-            "asset_path": "thelonious_monk_000_036"
+            "asset_path": "thelonious_monk_000_045",
+            "n_appearances_in_track": 3
         },
         {
-            "track_name": "38. Monks Dream",
+            "track_name": "30. Well You Neednt (2 appearances)",
+            "album_name": "19441948",
+            "recording_year": "1948",
+            "asset_path": "thelonious_monk_000_000",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "31. Reflections (2 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_000_014",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "32. Reflections (2 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_000_015",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "33. Hackensack (2 appearances)",
+            "album_name": "The Complete Black Lion and Vogue Recordings of Thelonious Monk",
+            "recording_year": "1971",
+            "asset_path": "thelonious_monk_000_017",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "34. Hackensack (2 appearances)",
+            "album_name": "The Complete Black Lion and Vogue Recordings of Thelonious Monk",
+            "recording_year": "1971",
+            "asset_path": "thelonious_monk_000_018",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "35. Darn That Dream (2 appearances)",
+            "album_name": "Solo Monk",
+            "recording_year": 2014,
+            "asset_path": "thelonious_monk_000_033",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "36. Trinkle Tinkle (2 appearances)",
             "album_name": "The High Priest",
             "recording_year": "1952",
-            "asset_path": "thelonious_monk_000_037"
+            "asset_path": "thelonious_monk_000_037",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "39. Ruby My Dear",
+            "track_name": "37. Off Minor (2 appearances)",
+            "album_name": "The Complete Genius",
+            "recording_year": "1949",
+            "asset_path": "thelonious_monk_000_046",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "38. Im Confessin That I Love You Take 1 (2 appearances)",
             "album_name": "Solo Monk",
             "recording_year": 2014,
-            "asset_path": "thelonious_monk_000_038"
+            "asset_path": "thelonious_monk_000_049",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "40. Tea for Two",
-            "album_name": "The Essential Thelonious Monk",
-            "recording_year": "1966",
-            "asset_path": "thelonious_monk_000_039"
-        },
-        {
-            "track_name": "41. Tea for Two",
-            "album_name": "The Essential Thelonious Monk",
-            "recording_year": "1966",
-            "asset_path": "thelonious_monk_000_040"
-        },
-        {
-            "track_name": "42. Im Confessin That I Love You Take 1",
-            "album_name": "Solo Monk",
-            "recording_year": 2014,
-            "asset_path": "thelonious_monk_000_041"
-        },
-        {
-            "track_name": "43. These Foolish Things",
+            "track_name": "39. These Foolish Things (2 appearances)",
             "album_name": "Thelonious",
             "recording_year": "1952",
-            "asset_path": "thelonious_monk_000_042"
+            "asset_path": "thelonious_monk_000_053",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "44. Nutty",
+            "track_name": "40. Nutty (2 appearances)",
             "album_name": "The Complete Black Lion and Vogue Recordings of Thelonious Monk",
             "recording_year": "1971",
-            "asset_path": "thelonious_monk_000_043"
+            "asset_path": "thelonious_monk_000_055",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "45. Nutty",
-            "album_name": "The Complete Black Lion and Vogue Recordings of Thelonious Monk",
-            "recording_year": "1971",
-            "asset_path": "thelonious_monk_000_044"
+            "track_name": "41. Well You Neednt (1 appearances)",
+            "album_name": "19441948",
+            "recording_year": "1948",
+            "asset_path": "thelonious_monk_000_001",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "46. Nutty",
+            "track_name": "42. Well You Neednt (1 appearances)",
+            "album_name": "19441948",
+            "recording_year": "1948",
+            "asset_path": "thelonious_monk_000_002",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "43. I Mean You (1 appearances)",
             "album_name": "The Complete Black Lion and Vogue Recordings of Thelonious Monk",
             "recording_year": "1971",
-            "asset_path": "thelonious_monk_000_045"
+            "asset_path": "thelonious_monk_000_004",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "44. Theres Danger In Your Eyes Cherie  Take 1 (1 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_000_005",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "45. Hackensack (1 appearances)",
+            "album_name": "The Complete Black Lion and Vogue Recordings of Thelonious Monk",
+            "recording_year": "1971",
+            "asset_path": "thelonious_monk_000_019",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "46. Honeysuckle Rose (1 appearances)",
+            "album_name": "85th Birthday Celebration",
+            "recording_year": "1957",
+            "asset_path": "thelonious_monk_000_023",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "47. Evidence (1 appearances)",
+            "album_name": "The Complete Black Lion and Vogue Recordings of Thelonious Monk",
+            "recording_year": "1971",
+            "asset_path": "thelonious_monk_000_024",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "48. Evidence (1 appearances)",
+            "album_name": "The Complete Black Lion and Vogue Recordings of Thelonious Monk",
+            "recording_year": "1971",
+            "asset_path": "thelonious_monk_000_025",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "49. Sweet And Lovely Take 2 (1 appearances)",
+            "album_name": "Solo Monk",
+            "recording_year": 2014,
+            "asset_path": "thelonious_monk_000_028",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "50. Blue Monk (1 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_000_035",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "51. Round Lights (1 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_000_038",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "52. Round Lights (1 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_000_040",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "53. Tea for Two (1 appearances)",
+            "album_name": "The Essential Thelonious Monk",
+            "recording_year": "1966",
+            "asset_path": "thelonious_monk_000_048",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "54. You Took The Words Right Out Of My Heart (1 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_000_050",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "55. You Took The Words Right Out Of My Heart (1 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_000_051",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "56. Introspection (1 appearances)",
+            "album_name": "Solo Monk",
+            "recording_year": 2014,
+            "asset_path": "thelonious_monk_000_052",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "57. Nice Work If You Can Get It alternate take (1 appearances)",
+            "album_name": "Complete 1947  1952 Blue Note Recordings",
+            "recording_year": "1949",
+            "asset_path": "thelonious_monk_000_056",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "58. Nice Work If You Can Get It alternate take (1 appearances)",
+            "album_name": "Complete 1947  1952 Blue Note Recordings",
+            "recording_year": "1949",
+            "asset_path": "thelonious_monk_000_057",
+            "n_appearances_in_track": 1
         }
     ],
-    "[-3, 4, 7]": [
+    "[-2, -2, -2, -2]": [
         {
-            "track_name": "1. Ill Follow You",
+            "track_name": "1. Round Lights (15 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_001_027",
+            "n_appearances_in_track": 15
+        },
+        {
+            "track_name": "2. Ruby My Dear (15 appearances)",
+            "album_name": "Solo Monk",
+            "recording_year": 2014,
+            "asset_path": "thelonious_monk_001_033",
+            "n_appearances_in_track": 15
+        },
+        {
+            "track_name": "3. Ruby My Dear Take 1 (11 appearances)",
+            "album_name": "Solo Monk",
+            "recording_year": 2014,
+            "asset_path": "thelonious_monk_001_016",
+            "n_appearances_in_track": 11
+        },
+        {
+            "track_name": "4. April in Paris (10 appearances)",
+            "album_name": "The Complete Genius",
+            "recording_year": "1949",
+            "asset_path": "thelonious_monk_001_004",
+            "n_appearances_in_track": 10
+        },
+        {
+            "track_name": "5. Pannonica (7 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_001_021",
+            "n_appearances_in_track": 7
+        },
+        {
+            "track_name": "6. Introspection (5 appearances)",
+            "album_name": "19441948",
+            "recording_year": "1948",
+            "asset_path": "thelonious_monk_001_002",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "7. Ask Me Now (5 appearances)",
+            "album_name": "Solo Monk",
+            "recording_year": 2014,
+            "asset_path": "thelonious_monk_001_030",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "8. Bluehawk (4 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_001_001",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "9. Introspection (4 appearances)",
+            "album_name": "19441948",
+            "recording_year": "1948",
+            "asset_path": "thelonious_monk_001_003",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "10. Reflections (4 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_001_012",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "11. I Hadnt Anyone Till You (4 appearances)",
+            "album_name": "Solo Monk",
+            "recording_year": 2014,
+            "asset_path": "thelonious_monk_001_024",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "12. Nutty (3 appearances)",
+            "album_name": "Blue Monk Vol 2",
+            "recording_year": "1954",
+            "asset_path": "thelonious_monk_001_005",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "13. Reflections (3 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_001_006",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "14. Reflections (3 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_001_008",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "15. Reflections (3 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_001_009",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "16. Just You Just Me (3 appearances)",
+            "album_name": "The Complete Riverside Recordings",
+            "recording_year": "1958",
+            "asset_path": "thelonious_monk_001_015",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "17. Round Lights (3 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_001_028",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "18. Reflections (2 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_001_007",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "19. April in Paris alternate take (2 appearances)",
+            "album_name": "Complete 1947  1952 Blue Note Recordings",
+            "recording_year": "1949",
+            "asset_path": "thelonious_monk_001_014",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "20. Ill Follow You (2 appearances)",
             "album_name": "Modern Jazz Archive Thelonious Monk",
             "recording_year": "1950",
-            "asset_path": "thelonious_monk_001_000"
+            "asset_path": "thelonious_monk_001_019",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "21. I Hadnt Anyone Till You Take 2 (2 appearances)",
+            "album_name": "Solo Monk",
+            "recording_year": 2014,
+            "asset_path": "thelonious_monk_001_029",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "22. Monks Dream (2 appearances)",
+            "album_name": "The High Priest",
+            "recording_year": "1952",
+            "asset_path": "thelonious_monk_001_032",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "23. Nutty (2 appearances)",
+            "album_name": "The Complete Black Lion and Vogue Recordings of Thelonious Monk",
+            "recording_year": "1971",
+            "asset_path": "thelonious_monk_001_036",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "24. Well You Neednt (1 appearances)",
+            "album_name": "19441948",
+            "recording_year": "1948",
+            "asset_path": "thelonious_monk_001_000",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "25. Reflections (1 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_001_010",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "26. Reflections (1 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_001_011",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "27. Hackensack (1 appearances)",
+            "album_name": "The Complete Black Lion and Vogue Recordings of Thelonious Monk",
+            "recording_year": "1971",
+            "asset_path": "thelonious_monk_001_013",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "28. Work (1 appearances)",
+            "album_name": "Four in One",
+            "recording_year": "1952",
+            "asset_path": "thelonious_monk_001_017",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "29. Work (1 appearances)",
+            "album_name": "Four in One",
+            "recording_year": "1952",
+            "asset_path": "thelonious_monk_001_018",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "30. Pannonica (1 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_001_020",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "31. Monks Point (1 appearances)",
+            "album_name": "Solo Monk",
+            "recording_year": 2014,
+            "asset_path": "thelonious_monk_001_022",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "32. Darn That Dream (1 appearances)",
+            "album_name": "Solo Monk",
+            "recording_year": 2014,
+            "asset_path": "thelonious_monk_001_023",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "33. Blue Monk (1 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_001_025",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "34. Trinkle Tinkle (1 appearances)",
+            "album_name": "The High Priest",
+            "recording_year": "1952",
+            "asset_path": "thelonious_monk_001_026",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "35. Ask Me Now (1 appearances)",
+            "album_name": "Solo Monk",
+            "recording_year": 2014,
+            "asset_path": "thelonious_monk_001_031",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "36. Im Confessin That I Love You Take 1 (1 appearances)",
+            "album_name": "Solo Monk",
+            "recording_year": 2014,
+            "asset_path": "thelonious_monk_001_034",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "37. These Foolish Things (1 appearances)",
+            "album_name": "Thelonious",
+            "recording_year": "1952",
+            "asset_path": "thelonious_monk_001_035",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "38. Nutty (1 appearances)",
+            "album_name": "The Complete Black Lion and Vogue Recordings of Thelonious Monk",
+            "recording_year": "1971",
+            "asset_path": "thelonious_monk_001_037",
+            "n_appearances_in_track": 1
+        }
+    ],
+    "[-4, -2]": [
+        {
+            "track_name": "1. Pannonica (5 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_002_040",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "2. Sweet And Lovely Take 1 (4 appearances)",
+            "album_name": "Solo Monk",
+            "recording_year": 2014,
+            "asset_path": "thelonious_monk_002_000",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "3. April in Paris alternate take (4 appearances)",
+            "album_name": "Complete 1947  1952 Blue Note Recordings",
+            "recording_year": "1949",
+            "asset_path": "thelonious_monk_002_029",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "4. Just You Just Me (4 appearances)",
+            "album_name": "The Complete Riverside Recordings",
+            "recording_year": "1958",
+            "asset_path": "thelonious_monk_002_031",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "5. Ruby My Dear Take 1 (4 appearances)",
+            "album_name": "Solo Monk",
+            "recording_year": 2014,
+            "asset_path": "thelonious_monk_002_032",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "6. Off Minor (4 appearances)",
+            "album_name": "The Complete Genius",
+            "recording_year": "1949",
+            "asset_path": "thelonious_monk_002_073",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "7. Ruby My Dear (4 appearances)",
+            "album_name": "Solo Monk",
+            "recording_year": 2014,
+            "asset_path": "thelonious_monk_002_075",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "8. Introspection (3 appearances)",
+            "album_name": "19441948",
+            "recording_year": "1948",
+            "asset_path": "thelonious_monk_002_010",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "9. Reflections (3 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_002_015",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "10. Reflections (3 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_002_017",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "11. I Hadnt Anyone Till You (3 appearances)",
+            "album_name": "Solo Monk",
+            "recording_year": 2014,
+            "asset_path": "thelonious_monk_002_046",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "12. Theres Danger In Your Eyes Cherie  Take 2 (3 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_002_049",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "13. Round Lights (3 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_002_058",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "14. Ask Me Now (3 appearances)",
+            "album_name": "Solo Monk",
+            "recording_year": 2014,
+            "asset_path": "thelonious_monk_002_069",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "15. Nutty (3 appearances)",
+            "album_name": "The Complete Black Lion and Vogue Recordings of Thelonious Monk",
+            "recording_year": "1971",
+            "asset_path": "thelonious_monk_002_083",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "16. I Mean You (2 appearances)",
+            "album_name": "The Complete Black Lion and Vogue Recordings of Thelonious Monk",
+            "recording_year": "1971",
+            "asset_path": "thelonious_monk_002_001",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "17. Introspection (2 appearances)",
+            "album_name": "19441948",
+            "recording_year": "1948",
+            "asset_path": "thelonious_monk_002_009",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "18. April in Paris (2 appearances)",
+            "album_name": "The Complete Genius",
+            "recording_year": "1949",
+            "asset_path": "thelonious_monk_002_011",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "19. Nutty (2 appearances)",
+            "album_name": "Blue Monk Vol 2",
+            "recording_year": "1954",
+            "asset_path": "thelonious_monk_002_012",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "20. Reflections (2 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_002_014",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "21. Reflections (2 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_002_018",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "22. Caravan (2 appearances)",
+            "album_name": "The Best of Thelonious Monk",
+            "recording_year": "1958",
+            "asset_path": "thelonious_monk_002_039",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "23. Monks Point (2 appearances)",
+            "album_name": "Solo Monk",
+            "recording_year": 2014,
+            "asset_path": "thelonious_monk_002_041",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "24. Everything Happens To Me (2 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_002_052",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "25. Trinkle Tinkle (2 appearances)",
+            "album_name": "The High Priest",
+            "recording_year": "1952",
+            "asset_path": "thelonious_monk_002_057",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "26. Round Lights (2 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_002_059",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "27. Remember (2 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_002_061",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "28. Liza All the Cloudsll Roll Away (2 appearances)",
+            "album_name": "The Unique Thelonious Monk",
+            "recording_year": "1956",
+            "asset_path": "thelonious_monk_002_062",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "29. Well You Neednt alternate take (2 appearances)",
+            "album_name": "Complete 1947  1952 Blue Note Recordings",
+            "recording_year": "1949",
+            "asset_path": "thelonious_monk_002_063",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "30. I Hadnt Anyone Till You Take 2 (2 appearances)",
+            "album_name": "Solo Monk",
+            "recording_year": 2014,
+            "asset_path": "thelonious_monk_002_067",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "31. I Hadnt Anyone Till You Take 2 (2 appearances)",
+            "album_name": "Solo Monk",
+            "recording_year": 2014,
+            "asset_path": "thelonious_monk_002_068",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "32. Off Minor (2 appearances)",
+            "album_name": "The Complete Genius",
+            "recording_year": "1949",
+            "asset_path": "thelonious_monk_002_072",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "33. Im Confessin That I Love You Take 1 (2 appearances)",
+            "album_name": "Solo Monk",
+            "recording_year": 2014,
+            "asset_path": "thelonious_monk_002_079",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "34. Introspection (2 appearances)",
+            "album_name": "Solo Monk",
+            "recording_year": 2014,
+            "asset_path": "thelonious_monk_002_081",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "35. These Foolish Things (2 appearances)",
+            "album_name": "Thelonious",
+            "recording_year": "1952",
+            "asset_path": "thelonious_monk_002_082",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "36. I Mean You (1 appearances)",
+            "album_name": "The Complete Black Lion and Vogue Recordings of Thelonious Monk",
+            "recording_year": "1971",
+            "asset_path": "thelonious_monk_002_002",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "37. I Mean You (1 appearances)",
+            "album_name": "The Complete Black Lion and Vogue Recordings of Thelonious Monk",
+            "recording_year": "1971",
+            "asset_path": "thelonious_monk_002_003",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "38. I Mean You (1 appearances)",
+            "album_name": "The Complete Black Lion and Vogue Recordings of Thelonious Monk",
+            "recording_year": "1971",
+            "asset_path": "thelonious_monk_002_004",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "39. Theres Danger In Your Eyes Cherie  Take 1 (1 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_002_005",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "40. Theres Danger In Your Eyes Cherie  Take 1 (1 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_002_006",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "41. Theres Danger In Your Eyes Cherie  Take 1 (1 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_002_007",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "42. Theres Danger In Your Eyes Cherie  Take 1 (1 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_002_008",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "43. Reflections (1 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_002_013",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "44. Reflections (1 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_002_016",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "45. Ask Me Now Take 1 (1 appearances)",
+            "album_name": "Solo Monk",
+            "recording_year": 2014,
+            "asset_path": "thelonious_monk_002_019",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "46. Blue Monk (1 appearances)",
+            "album_name": "The High Priest",
+            "recording_year": "1952",
+            "asset_path": "thelonious_monk_002_020",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "47. Blue Monk (1 appearances)",
+            "album_name": "The High Priest",
+            "recording_year": "1952",
+            "asset_path": "thelonious_monk_002_021",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "48. Little Rootie Tootie (1 appearances)",
+            "album_name": "The High Priest",
+            "recording_year": "1952",
+            "asset_path": "thelonious_monk_002_022",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "49. Criss Cross (1 appearances)",
+            "album_name": "The Complete Black Lion and Vogue Recordings of Thelonious Monk",
+            "recording_year": "1971",
+            "asset_path": "thelonious_monk_002_023",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "50. Hackensack (1 appearances)",
+            "album_name": "The Complete Black Lion and Vogue Recordings of Thelonious Monk",
+            "recording_year": "1971",
+            "asset_path": "thelonious_monk_002_024",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "51. Hackensack (1 appearances)",
+            "album_name": "The Complete Black Lion and Vogue Recordings of Thelonious Monk",
+            "recording_year": "1971",
+            "asset_path": "thelonious_monk_002_025",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "52. Hackensack (1 appearances)",
+            "album_name": "The Complete Black Lion and Vogue Recordings of Thelonious Monk",
+            "recording_year": "1971",
+            "asset_path": "thelonious_monk_002_026",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "53. Dinah Take 1 (1 appearances)",
+            "album_name": "Solo Monk",
+            "recording_year": 2014,
+            "asset_path": "thelonious_monk_002_027",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "54. Everything Happens To Me Take 3 (1 appearances)",
+            "album_name": "Solo Monk",
+            "recording_year": 2014,
+            "asset_path": "thelonious_monk_002_028",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "55. Im Confessin That I Love You (1 appearances)",
+            "album_name": "Solo Monk",
+            "recording_year": 2014,
+            "asset_path": "thelonious_monk_002_030",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "56. Everything Happens To Me ReTake 1 (1 appearances)",
+            "album_name": "Solo Monk",
+            "recording_year": 2014,
+            "asset_path": "thelonious_monk_002_033",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "57. Everything Happens To Me ReTake 1 (1 appearances)",
+            "album_name": "Solo Monk",
+            "recording_year": 2014,
+            "asset_path": "thelonious_monk_002_034",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "58. Evidence (1 appearances)",
+            "album_name": "The Complete Black Lion and Vogue Recordings of Thelonious Monk",
+            "recording_year": "1971",
+            "asset_path": "thelonious_monk_002_035",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "59. Evidence (1 appearances)",
+            "album_name": "The Complete Black Lion and Vogue Recordings of Thelonious Monk",
+            "recording_year": "1971",
+            "asset_path": "thelonious_monk_002_036",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "60. Sweet And Lovely Take 2 (1 appearances)",
+            "album_name": "Solo Monk",
+            "recording_year": 2014,
+            "asset_path": "thelonious_monk_002_037",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "61. Ill Follow You (1 appearances)",
+            "album_name": "Modern Jazz Archive Thelonious Monk",
+            "recording_year": "1950",
+            "asset_path": "thelonious_monk_002_038",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "62. Darn That Dream (1 appearances)",
+            "album_name": "Solo Monk",
+            "recording_year": 2014,
+            "asset_path": "thelonious_monk_002_042",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "63. I Hadnt Anyone Till You (1 appearances)",
+            "album_name": "Solo Monk",
+            "recording_year": 2014,
+            "asset_path": "thelonious_monk_002_043",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "64. I Hadnt Anyone Till You (1 appearances)",
+            "album_name": "Solo Monk",
+            "recording_year": 2014,
+            "asset_path": "thelonious_monk_002_044",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "65. I Hadnt Anyone Till You (1 appearances)",
+            "album_name": "Solo Monk",
+            "recording_year": 2014,
+            "asset_path": "thelonious_monk_002_045",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "66. Theres Danger In Your Eyes Cherie  Take 2 (1 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_002_047",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "67. Theres Danger In Your Eyes Cherie  Take 2 (1 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_002_048",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "68. Theres Danger In Your Eyes Cherie  Take 2 (1 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_002_050",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "69. Everything Happens To Me (1 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_002_051",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "70. Raise Four (1 appearances)",
+            "album_name": "Underground",
+            "recording_year": "1968",
+            "asset_path": "thelonious_monk_002_053",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "71. Raise Four (1 appearances)",
+            "album_name": "Underground",
+            "recording_year": "1968",
+            "asset_path": "thelonious_monk_002_054",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "72. Raise Four (1 appearances)",
+            "album_name": "Underground",
+            "recording_year": "1968",
+            "asset_path": "thelonious_monk_002_055",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "73. Blue Monk (1 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_002_056",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "74. Round Lights (1 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_002_060",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "75. Well You Neednt alternate take (1 appearances)",
+            "album_name": "Complete 1947  1952 Blue Note Recordings",
+            "recording_year": "1949",
+            "asset_path": "thelonious_monk_002_064",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "76. Well You Neednt alternate take (1 appearances)",
+            "album_name": "Complete 1947  1952 Blue Note Recordings",
+            "recording_year": "1949",
+            "asset_path": "thelonious_monk_002_065",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "77. I Hadnt Anyone Till You Take 2 (1 appearances)",
+            "album_name": "Solo Monk",
+            "recording_year": 2014,
+            "asset_path": "thelonious_monk_002_066",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "78. Ask Me Now (1 appearances)",
+            "album_name": "Solo Monk",
+            "recording_year": 2014,
+            "asset_path": "thelonious_monk_002_070",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "79. Monks Dream (1 appearances)",
+            "album_name": "The High Priest",
+            "recording_year": "1952",
+            "asset_path": "thelonious_monk_002_071",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "80. Off Minor (1 appearances)",
+            "album_name": "The Complete Genius",
+            "recording_year": "1949",
+            "asset_path": "thelonious_monk_002_074",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "81. Tea for Two (1 appearances)",
+            "album_name": "The Essential Thelonious Monk",
+            "recording_year": "1966",
+            "asset_path": "thelonious_monk_002_076",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "82. Tea for Two (1 appearances)",
+            "album_name": "The Essential Thelonious Monk",
+            "recording_year": "1966",
+            "asset_path": "thelonious_monk_002_077",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "83. Tea for Two (1 appearances)",
+            "album_name": "The Essential Thelonious Monk",
+            "recording_year": "1966",
+            "asset_path": "thelonious_monk_002_078",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "84. Im Confessin That I Love You Take 1 (1 appearances)",
+            "album_name": "Solo Monk",
+            "recording_year": 2014,
+            "asset_path": "thelonious_monk_002_080",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "85. Nutty (1 appearances)",
+            "album_name": "The Complete Black Lion and Vogue Recordings of Thelonious Monk",
+            "recording_year": "1971",
+            "asset_path": "thelonious_monk_002_084",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "86. Nice Work If You Can Get It alternate take (1 appearances)",
+            "album_name": "Complete 1947  1952 Blue Note Recordings",
+            "recording_year": "1949",
+            "asset_path": "thelonious_monk_002_085",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "87. Nice Work If You Can Get It alternate take (1 appearances)",
+            "album_name": "Complete 1947  1952 Blue Note Recordings",
+            "recording_year": "1949",
+            "asset_path": "thelonious_monk_002_086",
+            "n_appearances_in_track": 1
+        }
+    ],
+    "[-2, -3, -3]": [
+        {
+            "track_name": "1. Honeysuckle Rose (3 appearances)",
+            "album_name": "85th Birthday Celebration",
+            "recording_year": "1957",
+            "asset_path": "thelonious_monk_003_026",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "2. Reflections (2 appearances)",
+            "album_name": "The High Priest",
+            "recording_year": "1952",
+            "asset_path": "thelonious_monk_003_009",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "3. Hackensack (2 appearances)",
+            "album_name": "The Complete Black Lion and Vogue Recordings of Thelonious Monk",
+            "recording_year": "1971",
+            "asset_path": "thelonious_monk_003_019",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "4. Remember (2 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_003_035",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "5. Monks Dream (2 appearances)",
+            "album_name": "The High Priest",
+            "recording_year": "1952",
+            "asset_path": "thelonious_monk_003_037",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "6. Tea for Two (2 appearances)",
+            "album_name": "The Essential Thelonious Monk",
+            "recording_year": "1966",
+            "asset_path": "thelonious_monk_003_040",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "7. Im Confessin That I Love You Take 1 (2 appearances)",
+            "album_name": "Solo Monk",
+            "recording_year": 2014,
+            "asset_path": "thelonious_monk_003_041",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "8. These Foolish Things (2 appearances)",
+            "album_name": "Thelonious",
+            "recording_year": "1952",
+            "asset_path": "thelonious_monk_003_042",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "9. Sweet And Lovely Take 1 (1 appearances)",
+            "album_name": "Solo Monk",
+            "recording_year": 2014,
+            "asset_path": "thelonious_monk_003_000",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "10. Well You Neednt (1 appearances)",
+            "album_name": "19441948",
+            "recording_year": "1948",
+            "asset_path": "thelonious_monk_003_001",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "11. Bluehawk (1 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_003_002",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "12. Bluehawk (1 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_003_003",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "13. I Mean You (1 appearances)",
+            "album_name": "The Complete Black Lion and Vogue Recordings of Thelonious Monk",
+            "recording_year": "1971",
+            "asset_path": "thelonious_monk_003_004",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "14. I Mean You (1 appearances)",
+            "album_name": "The Complete Black Lion and Vogue Recordings of Thelonious Monk",
+            "recording_year": "1971",
+            "asset_path": "thelonious_monk_003_005",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "15. I Mean You (1 appearances)",
+            "album_name": "The Complete Black Lion and Vogue Recordings of Thelonious Monk",
+            "recording_year": "1971",
+            "asset_path": "thelonious_monk_003_006",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "16. Theres Danger In Your Eyes Cherie  Take 1 (1 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_003_007",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "17. April in Paris (1 appearances)",
+            "album_name": "The Complete Genius",
+            "recording_year": "1949",
+            "asset_path": "thelonious_monk_003_008",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "18. Reflections (1 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_003_010",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "19. Reflections (1 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_003_011",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "20. Reflections (1 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_003_012",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "21. Reflections (1 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_003_013",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "22. Blue Monk (1 appearances)",
+            "album_name": "The High Priest",
+            "recording_year": "1952",
+            "asset_path": "thelonious_monk_003_014",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "23. Blue Monk (1 appearances)",
+            "album_name": "The High Priest",
+            "recording_year": "1952",
+            "asset_path": "thelonious_monk_003_015",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "24. Blue Monk (1 appearances)",
+            "album_name": "The High Priest",
+            "recording_year": "1952",
+            "asset_path": "thelonious_monk_003_016",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "25. Blue Monk (1 appearances)",
+            "album_name": "The High Priest",
+            "recording_year": "1952",
+            "asset_path": "thelonious_monk_003_017",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "26. Hackensack (1 appearances)",
+            "album_name": "The Complete Black Lion and Vogue Recordings of Thelonious Monk",
+            "recording_year": "1971",
+            "asset_path": "thelonious_monk_003_018",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "27. Hackensack (1 appearances)",
+            "album_name": "The Complete Black Lion and Vogue Recordings of Thelonious Monk",
+            "recording_year": "1971",
+            "asset_path": "thelonious_monk_003_020",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "28. Dinah Take 1 (1 appearances)",
+            "album_name": "Solo Monk",
+            "recording_year": 2014,
+            "asset_path": "thelonious_monk_003_021",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "29. April in Paris alternate take (1 appearances)",
+            "album_name": "Complete 1947  1952 Blue Note Recordings",
+            "recording_year": "1949",
+            "asset_path": "thelonious_monk_003_022",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "30. Just You Just Me (1 appearances)",
+            "album_name": "The Complete Riverside Recordings",
+            "recording_year": "1958",
+            "asset_path": "thelonious_monk_003_023",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "31. Ruby My Dear Take 1 (1 appearances)",
+            "album_name": "Solo Monk",
+            "recording_year": 2014,
+            "asset_path": "thelonious_monk_003_024",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "32. Everything Happens To Me ReTake 1 (1 appearances)",
+            "album_name": "Solo Monk",
+            "recording_year": 2014,
+            "asset_path": "thelonious_monk_003_025",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "33. Ill Follow You (1 appearances)",
+            "album_name": "Modern Jazz Archive Thelonious Monk",
+            "recording_year": "1950",
+            "asset_path": "thelonious_monk_003_027",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "34. Caravan (1 appearances)",
+            "album_name": "The Best of Thelonious Monk",
+            "recording_year": "1958",
+            "asset_path": "thelonious_monk_003_028",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "35. Pannonica (1 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_003_029",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "36. Theres Danger In Your Eyes Cherie  Take 2 (1 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_003_030",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "37. Everything Happens To Me (1 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_003_031",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "38. Blue Monk (1 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_003_032",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "39. Dinah Take 2 (1 appearances)",
+            "album_name": "Solo Monk",
+            "recording_year": 2014,
+            "asset_path": "thelonious_monk_003_033",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "40. Round Lights (1 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_003_034",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "41. Monks Dream (1 appearances)",
+            "album_name": "The High Priest",
+            "recording_year": "1952",
+            "asset_path": "thelonious_monk_003_036",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "42. Ruby My Dear (1 appearances)",
+            "album_name": "Solo Monk",
+            "recording_year": 2014,
+            "asset_path": "thelonious_monk_003_038",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "43. Tea for Two (1 appearances)",
+            "album_name": "The Essential Thelonious Monk",
+            "recording_year": "1966",
+            "asset_path": "thelonious_monk_003_039",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "44. Nutty (1 appearances)",
+            "album_name": "The Complete Black Lion and Vogue Recordings of Thelonious Monk",
+            "recording_year": "1971",
+            "asset_path": "thelonious_monk_003_043",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "45. Nutty (1 appearances)",
+            "album_name": "The Complete Black Lion and Vogue Recordings of Thelonious Monk",
+            "recording_year": "1971",
+            "asset_path": "thelonious_monk_003_044",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "46. Nutty (1 appearances)",
+            "album_name": "The Complete Black Lion and Vogue Recordings of Thelonious Monk",
+            "recording_year": "1971",
+            "asset_path": "thelonious_monk_003_045",
+            "n_appearances_in_track": 1
         }
     ],
     "[-4, -2, -2]": [
         {
-            "track_name": "1. Sweet And Lovely Take 1",
+            "track_name": "1. Ruby My Dear Take 1 (4 appearances)",
             "album_name": "Solo Monk",
             "recording_year": 2014,
-            "asset_path": "thelonious_monk_002_000"
+            "asset_path": "thelonious_monk_004_013",
+            "n_appearances_in_track": 4
         },
         {
-            "track_name": "2. I Mean You",
-            "album_name": "The Complete Black Lion and Vogue Recordings of Thelonious Monk",
-            "recording_year": "1971",
-            "asset_path": "thelonious_monk_002_001"
+            "track_name": "2. Pannonica (3 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_004_014",
+            "n_appearances_in_track": 3
         },
         {
-            "track_name": "3. Introspection",
-            "album_name": "19441948",
-            "recording_year": "1948",
-            "asset_path": "thelonious_monk_002_002"
+            "track_name": "3. I Hadnt Anyone Till You (3 appearances)",
+            "album_name": "Solo Monk",
+            "recording_year": 2014,
+            "asset_path": "thelonious_monk_004_016",
+            "n_appearances_in_track": 3
         },
         {
-            "track_name": "4. April in Paris",
+            "track_name": "4. Off Minor (3 appearances)",
             "album_name": "The Complete Genius",
             "recording_year": "1949",
-            "asset_path": "thelonious_monk_002_003"
+            "asset_path": "thelonious_monk_004_024",
+            "n_appearances_in_track": 3
         },
         {
-            "track_name": "5. Nutty",
+            "track_name": "5. Ruby My Dear (3 appearances)",
+            "album_name": "Solo Monk",
+            "recording_year": 2014,
+            "asset_path": "thelonious_monk_004_025",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "6. Nutty (3 appearances)",
+            "album_name": "The Complete Black Lion and Vogue Recordings of Thelonious Monk",
+            "recording_year": "1971",
+            "asset_path": "thelonious_monk_004_028",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "7. April in Paris (2 appearances)",
+            "album_name": "The Complete Genius",
+            "recording_year": "1949",
+            "asset_path": "thelonious_monk_004_003",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "8. Nutty (2 appearances)",
             "album_name": "Blue Monk Vol 2",
             "recording_year": "1954",
-            "asset_path": "thelonious_monk_002_004"
+            "asset_path": "thelonious_monk_004_004",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "6. Reflections",
+            "track_name": "9. Reflections (2 appearances)",
             "album_name": "Thelonious Alone In San Francisco",
             "recording_year": 1960,
-            "asset_path": "thelonious_monk_002_005"
+            "asset_path": "thelonious_monk_004_006",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "7. Reflections",
+            "track_name": "10. Reflections (2 appearances)",
             "album_name": "Thelonious Alone In San Francisco",
             "recording_year": 1960,
-            "asset_path": "thelonious_monk_002_006"
+            "asset_path": "thelonious_monk_004_007",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "8. Reflections",
+            "track_name": "11. Reflections (2 appearances)",
             "album_name": "Thelonious Alone In San Francisco",
             "recording_year": 1960,
-            "asset_path": "thelonious_monk_002_007"
+            "asset_path": "thelonious_monk_004_008",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "9. Reflections",
+            "track_name": "12. Reflections (2 appearances)",
             "album_name": "Thelonious Alone In San Francisco",
             "recording_year": 1960,
-            "asset_path": "thelonious_monk_002_008"
+            "asset_path": "thelonious_monk_004_009",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "10. Reflections",
-            "album_name": "Thelonious Alone In San Francisco",
-            "recording_year": 1960,
-            "asset_path": "thelonious_monk_002_009"
-        },
-        {
-            "track_name": "11. Blue Monk",
-            "album_name": "The High Priest",
-            "recording_year": "1952",
-            "asset_path": "thelonious_monk_002_010"
-        },
-        {
-            "track_name": "12. April in Paris alternate take",
+            "track_name": "13. April in Paris alternate take (2 appearances)",
             "album_name": "Complete 1947  1952 Blue Note Recordings",
             "recording_year": "1949",
-            "asset_path": "thelonious_monk_002_011"
+            "asset_path": "thelonious_monk_004_011",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "13. Just You Just Me",
+            "track_name": "14. Just You Just Me (2 appearances)",
             "album_name": "The Complete Riverside Recordings",
             "recording_year": "1958",
-            "asset_path": "thelonious_monk_002_012"
+            "asset_path": "thelonious_monk_004_012",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "14. Ruby My Dear Take 1",
-            "album_name": "Solo Monk",
-            "recording_year": 2014,
-            "asset_path": "thelonious_monk_002_013"
-        },
-        {
-            "track_name": "15. Pannonica",
+            "track_name": "15. Round Lights (2 appearances)",
             "album_name": "Thelonious Alone In San Francisco",
             "recording_year": 1960,
-            "asset_path": "thelonious_monk_002_014"
+            "asset_path": "thelonious_monk_004_017",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "16. I Hadnt Anyone Till You",
+            "track_name": "16. I Hadnt Anyone Till You Take 2 (2 appearances)",
             "album_name": "Solo Monk",
             "recording_year": 2014,
-            "asset_path": "thelonious_monk_002_015"
+            "asset_path": "thelonious_monk_004_020",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "17. I Hadnt Anyone Till You",
+            "track_name": "17. Ask Me Now (2 appearances)",
             "album_name": "Solo Monk",
             "recording_year": 2014,
-            "asset_path": "thelonious_monk_002_016"
+            "asset_path": "thelonious_monk_004_021",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "18. Round Lights",
-            "album_name": "Thelonious Alone In San Francisco",
-            "recording_year": 1960,
-            "asset_path": "thelonious_monk_002_017"
-        },
-        {
-            "track_name": "19. Round Lights",
-            "album_name": "Thelonious Alone In San Francisco",
-            "recording_year": 1960,
-            "asset_path": "thelonious_monk_002_018"
-        },
-        {
-            "track_name": "20. Liza All the Cloudsll Roll Away",
-            "album_name": "The Unique Thelonious Monk",
-            "recording_year": "1956",
-            "asset_path": "thelonious_monk_002_019"
-        },
-        {
-            "track_name": "21. I Hadnt Anyone Till You Take 2",
+            "track_name": "18. Sweet And Lovely Take 1 (1 appearances)",
             "album_name": "Solo Monk",
             "recording_year": 2014,
-            "asset_path": "thelonious_monk_002_020"
+            "asset_path": "thelonious_monk_004_000",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "22. Ask Me Now",
-            "album_name": "Solo Monk",
-            "recording_year": 2014,
-            "asset_path": "thelonious_monk_002_021"
-        },
-        {
-            "track_name": "23. Ask Me Now",
-            "album_name": "Solo Monk",
-            "recording_year": 2014,
-            "asset_path": "thelonious_monk_002_022"
-        },
-        {
-            "track_name": "24. Off Minor",
-            "album_name": "The Complete Genius",
-            "recording_year": "1949",
-            "asset_path": "thelonious_monk_002_023"
-        },
-        {
-            "track_name": "25. Off Minor",
-            "album_name": "The Complete Genius",
-            "recording_year": "1949",
-            "asset_path": "thelonious_monk_002_024"
-        },
-        {
-            "track_name": "26. Ruby My Dear",
-            "album_name": "Solo Monk",
-            "recording_year": 2014,
-            "asset_path": "thelonious_monk_002_025"
-        },
-        {
-            "track_name": "27. Im Confessin That I Love You Take 1",
-            "album_name": "Solo Monk",
-            "recording_year": 2014,
-            "asset_path": "thelonious_monk_002_026"
-        },
-        {
-            "track_name": "28. Introspection",
-            "album_name": "Solo Monk",
-            "recording_year": 2014,
-            "asset_path": "thelonious_monk_002_027"
-        },
-        {
-            "track_name": "29. Nutty",
+            "track_name": "19. I Mean You (1 appearances)",
             "album_name": "The Complete Black Lion and Vogue Recordings of Thelonious Monk",
             "recording_year": "1971",
-            "asset_path": "thelonious_monk_002_028"
+            "asset_path": "thelonious_monk_004_001",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "30. Nutty",
-            "album_name": "The Complete Black Lion and Vogue Recordings of Thelonious Monk",
-            "recording_year": "1971",
-            "asset_path": "thelonious_monk_002_029"
-        }
-    ],
-    "[2, -11, 5]": [
-        {
-            "track_name": "1. Introspection",
+            "track_name": "20. Introspection (1 appearances)",
             "album_name": "19441948",
             "recording_year": "1948",
-            "asset_path": "thelonious_monk_003_000"
+            "asset_path": "thelonious_monk_004_002",
+            "n_appearances_in_track": 1
         },
         {
-            "track_name": "2. Introspection take 3",
-            "album_name": "The Complete Black Lion and Vogue Recordings of Thelonious Monk",
-            "recording_year": "1971",
-            "asset_path": "thelonious_monk_003_001"
-        }
-    ],
-    "[-4, 3, -9]": [
-        {
-            "track_name": "1. Criss Cross",
-            "album_name": "The Complete Black Lion and Vogue Recordings of Thelonious Monk",
-            "recording_year": "1971",
-            "asset_path": "thelonious_monk_004_000"
-        },
-        {
-            "track_name": "2. Remember",
+            "track_name": "21. Reflections (1 appearances)",
             "album_name": "Thelonious Alone In San Francisco",
             "recording_year": 1960,
-            "asset_path": "thelonious_monk_004_001"
+            "asset_path": "thelonious_monk_004_005",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "22. Blue Monk (1 appearances)",
+            "album_name": "The High Priest",
+            "recording_year": "1952",
+            "asset_path": "thelonious_monk_004_010",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "23. I Hadnt Anyone Till You (1 appearances)",
+            "album_name": "Solo Monk",
+            "recording_year": 2014,
+            "asset_path": "thelonious_monk_004_015",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "24. Round Lights (1 appearances)",
+            "album_name": "Thelonious Alone In San Francisco",
+            "recording_year": 1960,
+            "asset_path": "thelonious_monk_004_018",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "25. Liza All the Cloudsll Roll Away (1 appearances)",
+            "album_name": "The Unique Thelonious Monk",
+            "recording_year": "1956",
+            "asset_path": "thelonious_monk_004_019",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "26. Ask Me Now (1 appearances)",
+            "album_name": "Solo Monk",
+            "recording_year": 2014,
+            "asset_path": "thelonious_monk_004_022",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "27. Off Minor (1 appearances)",
+            "album_name": "The Complete Genius",
+            "recording_year": "1949",
+            "asset_path": "thelonious_monk_004_023",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "28. Im Confessin That I Love You Take 1 (1 appearances)",
+            "album_name": "Solo Monk",
+            "recording_year": 2014,
+            "asset_path": "thelonious_monk_004_026",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "29. Introspection (1 appearances)",
+            "album_name": "Solo Monk",
+            "recording_year": 2014,
+            "asset_path": "thelonious_monk_004_027",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "30. Nutty (1 appearances)",
+            "album_name": "The Complete Black Lion and Vogue Recordings of Thelonious Monk",
+            "recording_year": "1971",
+            "asset_path": "thelonious_monk_004_029",
+            "n_appearances_in_track": 1
         }
     ]
 }

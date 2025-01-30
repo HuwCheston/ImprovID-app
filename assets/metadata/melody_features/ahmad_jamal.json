@@ -1,66 +1,1755 @@
 {
-    "[1, -11, 3]": [
+    "[1, 1, 1]": [
         {
-            "track_name": "1. Concern",
-            "album_name": "Emerald City Nights Live At The Penthouse 19651966",
-            "recording_year": "1966",
-            "asset_path": "ahmad_jamal_000_000"
+            "track_name": "1. Bellows (16 appearances)",
+            "album_name": "Chicago Revisited",
+            "recording_year": "1992",
+            "asset_path": "ahmad_jamal_000_027",
+            "n_appearances_in_track": 16
         },
         {
-            "track_name": "2. Medley Alone Together  Love Walked In",
-            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
-            "recording_year": "1960",
-            "asset_path": "ahmad_jamal_000_001"
-        }
-    ],
-    "[-12, 1, 3]": [
-        {
-            "track_name": "1. Like Someone In Love",
-            "album_name": "Emerald City Nights Live At The Penthouse 19651966",
-            "recording_year": "1966",
-            "asset_path": "ahmad_jamal_001_000"
+            "track_name": "2. Broadway (10 appearances)",
+            "album_name": "Ahmad Jamals Alhambra",
+            "recording_year": "1961",
+            "asset_path": "ahmad_jamal_000_009",
+            "n_appearances_in_track": 10
         },
         {
-            "track_name": "2. So Rare",
-            "album_name": "Ballades",
-            "recording_year": 2019,
-            "asset_path": "ahmad_jamal_001_001"
-        }
-    ],
-    "[-7, -1, 12]": [
-        {
-            "track_name": "1. Im Old Fashioned",
-            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
-            "recording_year": "1960",
-            "asset_path": "ahmad_jamal_002_000"
-        }
-    ],
-    "[12, -11, 10]": [
-        {
-            "track_name": "1. Waltz for Debbie",
-            "album_name": "Live at Bubbas",
-            "recording_year": "1980",
-            "asset_path": "ahmad_jamal_003_000"
-        }
-    ],
-    "[9, -2, -6]": [
-        {
-            "track_name": "1. Spring is Here  Your Story",
-            "album_name": "Ballades",
-            "recording_year": 2019,
-            "asset_path": "ahmad_jamal_004_000"
+            "track_name": "3. Tater Pie (10 appearances)",
+            "album_name": "Chicago Revisited",
+            "recording_year": "1992",
+            "asset_path": "ahmad_jamal_000_025",
+            "n_appearances_in_track": 10
         },
         {
-            "track_name": "2. Spring is Here  Your Story",
-            "album_name": "Ballades",
-            "recording_year": 2019,
-            "asset_path": "ahmad_jamal_004_001"
+            "track_name": "4. Bellows (9 appearances)",
+            "album_name": "Chicago Revisited",
+            "recording_year": "1992",
+            "asset_path": "ahmad_jamal_000_028",
+            "n_appearances_in_track": 9
         },
         {
-            "track_name": "3. Isnt It Romantic",
+            "track_name": "5. Stella by Starlight (8 appearances)",
             "album_name": "The Complete 1961 Alhambra Performances",
             "recording_year": "1961",
-            "asset_path": "ahmad_jamal_004_002"
+            "asset_path": "ahmad_jamal_000_032",
+            "n_appearances_in_track": 8
+        },
+        {
+            "track_name": "6. All of You (8 appearances)",
+            "album_name": "Ahmad Jamal Eight Classic Albums",
+            "recording_year": "1960",
+            "asset_path": "ahmad_jamal_000_042",
+            "n_appearances_in_track": 8
+        },
+        {
+            "track_name": "7. Whisperings (7 appearances)",
+            "album_name": "Ballades",
+            "recording_year": 2019,
+            "asset_path": "ahmad_jamal_000_067",
+            "n_appearances_in_track": 7
+        },
+        {
+            "track_name": "8. Jim Loves Sue (5 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1959",
+            "asset_path": "ahmad_jamal_000_002",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "9. Dance to the Lady (5 appearances)",
+            "album_name": "Chicago Revisited",
+            "recording_year": "1992",
+            "asset_path": "ahmad_jamal_000_022",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "10. Stella by Starlight (5 appearances)",
+            "album_name": "The Complete 1961 Alhambra Performances",
+            "recording_year": "1961",
+            "asset_path": "ahmad_jamal_000_031",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "11. I Didnt Know What Time It Was (5 appearances)",
+            "album_name": "Emerald City Nights Live At The Penthouse 19651966",
+            "recording_year": "1966",
+            "asset_path": "ahmad_jamal_000_053",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "12. Whisperings (5 appearances)",
+            "album_name": "Ballades",
+            "recording_year": 2019,
+            "asset_path": "ahmad_jamal_000_069",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "13. Jim Loves Sue (4 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1959",
+            "asset_path": "ahmad_jamal_000_001",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "14. Broadway (4 appearances)",
+            "album_name": "Ahmad Jamals Alhambra",
+            "recording_year": "1961",
+            "asset_path": "ahmad_jamal_000_010",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "15. Im Old Fashioned (4 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1960",
+            "asset_path": "ahmad_jamal_000_017",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "16. April in Paris (4 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1960",
+            "asset_path": "ahmad_jamal_000_037",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "17. You Go to My Head (4 appearances)",
+            "album_name": "Ahmad Jamal Eight Classic Albums",
+            "recording_year": "1960",
+            "asset_path": "ahmad_jamal_000_051",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "18. Milan (4 appearances)",
+            "album_name": "After Fajr",
+            "recording_year": "2004",
+            "asset_path": "ahmad_jamal_000_071",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "19. Angel Eyes (3 appearances)",
+            "album_name": "All of You",
+            "recording_year": "1961",
+            "asset_path": "ahmad_jamal_000_006",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "20. Beat Out One (3 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1960",
+            "asset_path": "ahmad_jamal_000_029",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "21. Where Are You (3 appearances)",
+            "album_name": "In Search of Momentum 110",
+            "recording_year": "2002",
+            "asset_path": "ahmad_jamal_000_033",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "22. Angel Eyes (3 appearances)",
+            "album_name": "Ahmad Jamal Eight Classic Albums",
+            "recording_year": "1960",
+            "asset_path": "ahmad_jamal_000_040",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "23. Be My Love (3 appearances)",
+            "album_name": "Chicago Revisited",
+            "recording_year": "1992",
+            "asset_path": "ahmad_jamal_000_044",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "24. Whats New (3 appearances)",
+            "album_name": "Ballades",
+            "recording_year": 2019,
+            "asset_path": "ahmad_jamal_000_060",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "25. Dolphin Dance (3 appearances)",
+            "album_name": "Freeflight",
+            "recording_year": "1971",
+            "asset_path": "ahmad_jamal_000_066",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "26. Lullaby of Birdland (3 appearances)",
+            "album_name": "Chicago Revisited",
+            "recording_year": "1992",
+            "asset_path": "ahmad_jamal_000_075",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "27. I Should Care (2 appearances)",
+            "album_name": "Ballades",
+            "recording_year": 2019,
+            "asset_path": "ahmad_jamal_000_000",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "28. Star Eyes (2 appearances)",
+            "album_name": "Ahmad Jamal Eight Classic Albums",
+            "recording_year": "1960",
+            "asset_path": "ahmad_jamal_000_004",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "29. On Green Dolphin Street (2 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1959",
+            "asset_path": "ahmad_jamal_000_015",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "30. On Green Dolphin Street (2 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1959",
+            "asset_path": "ahmad_jamal_000_016",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "31. Im Old Fashioned (2 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1960",
+            "asset_path": "ahmad_jamal_000_019",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "32. Dance to the Lady (2 appearances)",
+            "album_name": "Chicago Revisited",
+            "recording_year": "1992",
+            "asset_path": "ahmad_jamal_000_021",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "33. Concern (2 appearances)",
+            "album_name": "Emerald City Nights Live At The Penthouse 19651966",
+            "recording_year": "1966",
+            "asset_path": "ahmad_jamal_000_023",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "34. Where Are You (2 appearances)",
+            "album_name": "In Search of Momentum 110",
+            "recording_year": "2002",
+            "asset_path": "ahmad_jamal_000_034",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "35. Darn That Dream (2 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1959",
+            "asset_path": "ahmad_jamal_000_041",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "36. The Girl Next Door (2 appearances)",
+            "album_name": "Heat Wave",
+            "recording_year": "1965",
+            "asset_path": "ahmad_jamal_000_043",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "37. Whisper Not (2 appearances)",
+            "album_name": "Emerald City Nights Live At The Penthouse 19651966",
+            "recording_year": "1966",
+            "asset_path": "ahmad_jamal_000_048",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "38. Ill Take Romance  My Funny Valentine (2 appearances)",
+            "album_name": "The Complete Collection Part Two 1959  1962",
+            "recording_year": "1960",
+            "asset_path": "ahmad_jamal_000_058",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "39. Whats New (2 appearances)",
+            "album_name": "Ballades",
+            "recording_year": 2019,
+            "asset_path": "ahmad_jamal_000_059",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "40. Little Old Lady (2 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1959",
+            "asset_path": "ahmad_jamal_000_062",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "41. Little Old Lady (2 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1959",
+            "asset_path": "ahmad_jamal_000_063",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "42. But Not for Me (2 appearances)",
+            "album_name": "But Not For Me",
+            "recording_year": "1957",
+            "asset_path": "ahmad_jamal_000_074",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "43. One for Miles (1 appearances)",
+            "album_name": "Naked City Theme",
+            "recording_year": "1964",
+            "asset_path": "ahmad_jamal_000_003",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "44. Star Eyes (1 appearances)",
+            "album_name": "Ahmad Jamal Eight Classic Albums",
+            "recording_year": "1960",
+            "asset_path": "ahmad_jamal_000_005",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "45. Broadway (1 appearances)",
+            "album_name": "The Complete 1961 Alhambra Performances",
+            "recording_year": "1961",
+            "asset_path": "ahmad_jamal_000_007",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "46. Broadway (1 appearances)",
+            "album_name": "Ahmad Jamals Alhambra",
+            "recording_year": "1961",
+            "asset_path": "ahmad_jamal_000_008",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "47. All the Things You Are (1 appearances)",
+            "album_name": "Chicago Revisited",
+            "recording_year": "1992",
+            "asset_path": "ahmad_jamal_000_011",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "48. All the Things You Are (1 appearances)",
+            "album_name": "Chicago Revisited",
+            "recording_year": "1992",
+            "asset_path": "ahmad_jamal_000_012",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "49. All the Things You Are (1 appearances)",
+            "album_name": "Chicago Revisited",
+            "recording_year": "1992",
+            "asset_path": "ahmad_jamal_000_013",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "50. On Green Dolphin Street (1 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1959",
+            "asset_path": "ahmad_jamal_000_014",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "51. Im Old Fashioned (1 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1960",
+            "asset_path": "ahmad_jamal_000_018",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "52. What Is This Thing Called Love (1 appearances)",
+            "album_name": "The Complete 1961 Alhambra Performances",
+            "recording_year": "1961",
+            "asset_path": "ahmad_jamal_000_020",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "53. Poor Butterfly (1 appearances)",
+            "album_name": "Complete Live at the Pershing Lounge 1958",
+            "recording_year": "1958",
+            "asset_path": "ahmad_jamal_000_024",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "54. Emily (1 appearances)",
+            "album_name": "Ballades",
+            "recording_year": 2019,
+            "asset_path": "ahmad_jamal_000_026",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "55. Beat Out One (1 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1960",
+            "asset_path": "ahmad_jamal_000_030",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "56. Stolen Moments (1 appearances)",
+            "album_name": "The Awakening",
+            "recording_year": "1970",
+            "asset_path": "ahmad_jamal_000_035",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "57. Franks Tune (1 appearances)",
+            "album_name": "At the Top Poinciana Revisited",
+            "recording_year": "1967",
+            "asset_path": "ahmad_jamal_000_036",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "58. April in Paris (1 appearances)",
+            "album_name": "Ahmad Jamal at the Blackhawk",
+            "recording_year": "1961",
+            "asset_path": "ahmad_jamal_000_038",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "59. April in Paris (1 appearances)",
+            "album_name": "Ahmad Jamal at the Blackhawk",
+            "recording_year": "1961",
+            "asset_path": "ahmad_jamal_000_039",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "60. Be My Love (1 appearances)",
+            "album_name": "Chicago Revisited",
+            "recording_year": "1992",
+            "asset_path": "ahmad_jamal_000_045",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "61. Tranquility (1 appearances)",
+            "album_name": "Tranquility",
+            "recording_year": "1967",
+            "asset_path": "ahmad_jamal_000_046",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "62. Tranquility (1 appearances)",
+            "album_name": "Tranquility",
+            "recording_year": "1967",
+            "asset_path": "ahmad_jamal_000_047",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "63. Raincheck (1 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1959",
+            "asset_path": "ahmad_jamal_000_049",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "64. You Go to My Head (1 appearances)",
+            "album_name": "Ahmad Jamal Eight Classic Albums",
+            "recording_year": "1960",
+            "asset_path": "ahmad_jamal_000_050",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "65. I Didnt Know What Time It Was (1 appearances)",
+            "album_name": "Emerald City Nights Live At The Penthouse 19651966",
+            "recording_year": "1966",
+            "asset_path": "ahmad_jamal_000_052",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "66. I Didnt Know What Time It Was (1 appearances)",
+            "album_name": "Emerald City Nights Live At The Penthouse 19651966",
+            "recording_year": "1966",
+            "asset_path": "ahmad_jamal_000_054",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "67. Youre My Everything (1 appearances)",
+            "album_name": "The Awakening",
+            "recording_year": "1970",
+            "asset_path": "ahmad_jamal_000_055",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "68. Volga Boatman (1 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1960",
+            "asset_path": "ahmad_jamal_000_056",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "69. Volga Boatman (1 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1960",
+            "asset_path": "ahmad_jamal_000_057",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "70. Whats New (1 appearances)",
+            "album_name": "Ballades",
+            "recording_year": 2019,
+            "asset_path": "ahmad_jamal_000_061",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "71. So Rare (1 appearances)",
+            "album_name": "Ballades",
+            "recording_year": 2019,
+            "asset_path": "ahmad_jamal_000_064",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "72. Ray of Light (1 appearances)",
+            "album_name": "Some of My Best Friends Are the Piano Players",
+            "recording_year": "1994",
+            "asset_path": "ahmad_jamal_000_065",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "73. Whisperings (1 appearances)",
+            "album_name": "Ballades",
+            "recording_year": 2019,
+            "asset_path": "ahmad_jamal_000_068",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "74. Whisperings (1 appearances)",
+            "album_name": "Ballades",
+            "recording_year": 2019,
+            "asset_path": "ahmad_jamal_000_070",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "75. Im Old Fashioned (1 appearances)",
+            "album_name": "The Complete 1961 Alhambra Performances",
+            "recording_year": "1961",
+            "asset_path": "ahmad_jamal_000_072",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "76. Like Someone in Love alternative take 2 (1 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1959",
+            "asset_path": "ahmad_jamal_000_073",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "77. My First Love Song (1 appearances)",
+            "album_name": "Emerald City Nights Live At The Penthouse 19651966",
+            "recording_year": "1966",
+            "asset_path": "ahmad_jamal_000_076",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "78. My First Love Song (1 appearances)",
+            "album_name": "Emerald City Nights Live At The Penthouse 19651966",
+            "recording_year": "1966",
+            "asset_path": "ahmad_jamal_000_077",
+            "n_appearances_in_track": 1
+        }
+    ],
+    "[5, 5, 2]": [
+        {
+            "track_name": "1. Whats New (3 appearances)",
+            "album_name": "Ballades",
+            "recording_year": 2019,
+            "asset_path": "ahmad_jamal_001_017",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "2. Stolen Moments (2 appearances)",
+            "album_name": "The Awakening",
+            "recording_year": "1970",
+            "asset_path": "ahmad_jamal_001_010",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "3. Because I Love You (2 appearances)",
+            "album_name": "Ballades",
+            "recording_year": 2019,
+            "asset_path": "ahmad_jamal_001_025",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "4. Poinciana (1 appearances)",
+            "album_name": "Ballades",
+            "recording_year": 2019,
+            "asset_path": "ahmad_jamal_001_000",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "5. Poinciana (1 appearances)",
+            "album_name": "Ballades",
+            "recording_year": 2019,
+            "asset_path": "ahmad_jamal_001_001",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "6. Poinciana (1 appearances)",
+            "album_name": "Ballades",
+            "recording_year": 2019,
+            "asset_path": "ahmad_jamal_001_002",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "7. Invitation (1 appearances)",
+            "album_name": "Emerald City Nights Live At The Penthouse 19651966",
+            "recording_year": "1966",
+            "asset_path": "ahmad_jamal_001_003",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "8. Broadway (1 appearances)",
+            "album_name": "The Complete 1961 Alhambra Performances",
+            "recording_year": "1961",
+            "asset_path": "ahmad_jamal_001_004",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "9. All the Things You Are (1 appearances)",
+            "album_name": "Chicago Revisited",
+            "recording_year": "1992",
+            "asset_path": "ahmad_jamal_001_005",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "10. Bellows (1 appearances)",
+            "album_name": "Chicago Revisited",
+            "recording_year": "1992",
+            "asset_path": "ahmad_jamal_001_006",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "11. Marseille (1 appearances)",
+            "album_name": "Ballades",
+            "recording_year": 2019,
+            "asset_path": "ahmad_jamal_001_007",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "12. Where Are You (1 appearances)",
+            "album_name": "In Search of Momentum 110",
+            "recording_year": "2002",
+            "asset_path": "ahmad_jamal_001_008",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "13. Where Are You (1 appearances)",
+            "album_name": "In Search of Momentum 110",
+            "recording_year": "2002",
+            "asset_path": "ahmad_jamal_001_009",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "14. Whisper Not (1 appearances)",
+            "album_name": "Extensions",
+            "recording_year": "1965",
+            "asset_path": "ahmad_jamal_001_011",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "15. Angel Eyes (1 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1960",
+            "asset_path": "ahmad_jamal_001_012",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "16. Angel Eyes (1 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1960",
+            "asset_path": "ahmad_jamal_001_013",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "17. All of You (1 appearances)",
+            "album_name": "Ahmad Jamal Eight Classic Albums",
+            "recording_year": "1960",
+            "asset_path": "ahmad_jamal_001_014",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "18. Tranquility (1 appearances)",
+            "album_name": "Tranquility",
+            "recording_year": "1967",
+            "asset_path": "ahmad_jamal_001_015",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "19. Volga Boatman (1 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1960",
+            "asset_path": "ahmad_jamal_001_016",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "20. Little Old Lady (1 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1959",
+            "asset_path": "ahmad_jamal_001_018",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "21. So Rare (1 appearances)",
+            "album_name": "Ballades",
+            "recording_year": 2019,
+            "asset_path": "ahmad_jamal_001_019",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "22. Whisperings (1 appearances)",
+            "album_name": "Ballades",
+            "recording_year": 2019,
+            "asset_path": "ahmad_jamal_001_020",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "23. Like Someone in Love alternative take 1 (1 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1960",
+            "asset_path": "ahmad_jamal_001_021",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "24. My First Love Song (1 appearances)",
+            "album_name": "Emerald City Nights Live At The Penthouse 19651966",
+            "recording_year": "1966",
+            "asset_path": "ahmad_jamal_001_022",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "25. My First Love Song (1 appearances)",
+            "album_name": "Emerald City Nights Live At The Penthouse 19651966",
+            "recording_year": "1966",
+            "asset_path": "ahmad_jamal_001_023",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "26. Because I Love You (1 appearances)",
+            "album_name": "Ballades",
+            "recording_year": 2019,
+            "asset_path": "ahmad_jamal_001_024",
+            "n_appearances_in_track": 1
+        }
+    ],
+    "[1, -1, 1]": [
+        {
+            "track_name": "1. Invitation (11 appearances)",
+            "album_name": "Emerald City Nights Live At The Penthouse 19651966",
+            "recording_year": "1966",
+            "asset_path": "ahmad_jamal_002_009",
+            "n_appearances_in_track": 11
+        },
+        {
+            "track_name": "2. Little Old Lady (8 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1959",
+            "asset_path": "ahmad_jamal_002_054",
+            "n_appearances_in_track": 8
+        },
+        {
+            "track_name": "3. Broadway (7 appearances)",
+            "album_name": "Ahmad Jamals Alhambra",
+            "recording_year": "1961",
+            "asset_path": "ahmad_jamal_002_017",
+            "n_appearances_in_track": 7
+        },
+        {
+            "track_name": "4. Invitation (6 appearances)",
+            "album_name": "Emerald City Nights Live At The Penthouse 19651966",
+            "recording_year": "1966",
+            "asset_path": "ahmad_jamal_002_010",
+            "n_appearances_in_track": 6
+        },
+        {
+            "track_name": "5. Invitation (6 appearances)",
+            "album_name": "Emerald City Nights Live At The Penthouse 19651966",
+            "recording_year": "1966",
+            "asset_path": "ahmad_jamal_002_011",
+            "n_appearances_in_track": 6
+        },
+        {
+            "track_name": "6. Be My Love (6 appearances)",
+            "album_name": "Chicago Revisited",
+            "recording_year": "1992",
+            "asset_path": "ahmad_jamal_002_043",
+            "n_appearances_in_track": 6
+        },
+        {
+            "track_name": "7. Broadway (5 appearances)",
+            "album_name": "The Complete 1961 Alhambra Performances",
+            "recording_year": "1961",
+            "asset_path": "ahmad_jamal_002_014",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "8. Rain Check (4 appearances)",
+            "album_name": "Ahmad Jamal Eight Classic Albums",
+            "recording_year": "1960",
+            "asset_path": "ahmad_jamal_002_032",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "9. One for Miles (3 appearances)",
+            "album_name": "Naked City Theme",
+            "recording_year": "1964",
+            "asset_path": "ahmad_jamal_002_005",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "10. One for Miles (3 appearances)",
+            "album_name": "Naked City Theme",
+            "recording_year": "1964",
+            "asset_path": "ahmad_jamal_002_006",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "11. Broadway (3 appearances)",
+            "album_name": "Ahmad Jamals Alhambra",
+            "recording_year": "1961",
+            "asset_path": "ahmad_jamal_002_016",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "12. Tater Pie (3 appearances)",
+            "album_name": "Chicago Revisited",
+            "recording_year": "1992",
+            "asset_path": "ahmad_jamal_002_025",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "13. Whisper Not (3 appearances)",
+            "album_name": "Emerald City Nights Live At The Penthouse 19651966",
+            "recording_year": "1966",
+            "asset_path": "ahmad_jamal_002_044",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "14. You Go to My Head (3 appearances)",
+            "album_name": "Ahmad Jamal Eight Classic Albums",
+            "recording_year": "1960",
+            "asset_path": "ahmad_jamal_002_047",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "15. Whats New (3 appearances)",
+            "album_name": "Ballades",
+            "recording_year": 2019,
+            "asset_path": "ahmad_jamal_002_052",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "16. I Should Care (2 appearances)",
+            "album_name": "Ballades",
+            "recording_year": 2019,
+            "asset_path": "ahmad_jamal_002_001",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "17. Broadway (2 appearances)",
+            "album_name": "The Complete 1961 Alhambra Performances",
+            "recording_year": "1961",
+            "asset_path": "ahmad_jamal_002_013",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "18. Marseille (2 appearances)",
+            "album_name": "Ballades",
+            "recording_year": 2019,
+            "asset_path": "ahmad_jamal_002_033",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "19. Marseille (2 appearances)",
+            "album_name": "Ballades",
+            "recording_year": 2019,
+            "asset_path": "ahmad_jamal_002_034",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "20. Marseille (2 appearances)",
+            "album_name": "Ballades",
+            "recording_year": 2019,
+            "asset_path": "ahmad_jamal_002_036",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "21. Be My Love (2 appearances)",
+            "album_name": "Chicago Revisited",
+            "recording_year": "1992",
+            "asset_path": "ahmad_jamal_002_042",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "22. Raincheck (2 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1959",
+            "asset_path": "ahmad_jamal_002_045",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "23. Youre My Everything (2 appearances)",
+            "album_name": "The Awakening",
+            "recording_year": "1970",
+            "asset_path": "ahmad_jamal_002_049",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "24. Whats New (2 appearances)",
+            "album_name": "Ballades",
+            "recording_year": 2019,
+            "asset_path": "ahmad_jamal_002_053",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "25. I Should Care (1 appearances)",
+            "album_name": "Ballades",
+            "recording_year": 2019,
+            "asset_path": "ahmad_jamal_002_000",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "26. I Should Care (1 appearances)",
+            "album_name": "Ballades",
+            "recording_year": 2019,
+            "asset_path": "ahmad_jamal_002_002",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "27. I Should Care (1 appearances)",
+            "album_name": "Ballades",
+            "recording_year": 2019,
+            "asset_path": "ahmad_jamal_002_003",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "28. On Green Dolphin Street (1 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1960",
+            "asset_path": "ahmad_jamal_002_004",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "29. Poinciana (1 appearances)",
+            "album_name": "Ballades",
+            "recording_year": 2019,
+            "asset_path": "ahmad_jamal_002_007",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "30. Invitation (1 appearances)",
+            "album_name": "Emerald City Nights Live At The Penthouse 19651966",
+            "recording_year": "1966",
+            "asset_path": "ahmad_jamal_002_008",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "31. Spring is Here  Your Story (1 appearances)",
+            "album_name": "Ballades",
+            "recording_year": 2019,
+            "asset_path": "ahmad_jamal_002_012",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "32. Broadway (1 appearances)",
+            "album_name": "The Complete 1961 Alhambra Performances",
+            "recording_year": "1961",
+            "asset_path": "ahmad_jamal_002_015",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "33. All the Things You Are (1 appearances)",
+            "album_name": "Chicago Revisited",
+            "recording_year": "1992",
+            "asset_path": "ahmad_jamal_002_018",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "34. Im Old Fashioned (1 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1960",
+            "asset_path": "ahmad_jamal_002_019",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "35. The Partys Over (1 appearances)",
+            "album_name": "Ahmad Jamals Alhambra",
+            "recording_year": "1961",
+            "asset_path": "ahmad_jamal_002_020",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "36. What Is This Thing Called Love (1 appearances)",
+            "album_name": "The Complete 1961 Alhambra Performances",
+            "recording_year": "1961",
+            "asset_path": "ahmad_jamal_002_021",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "37. Dance to the Lady (1 appearances)",
+            "album_name": "Chicago Revisited",
+            "recording_year": "1992",
+            "asset_path": "ahmad_jamal_002_022",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "38. Concern (1 appearances)",
+            "album_name": "Emerald City Nights Live At The Penthouse 19651966",
+            "recording_year": "1966",
+            "asset_path": "ahmad_jamal_002_023",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "39. Concern (1 appearances)",
+            "album_name": "Emerald City Nights Live At The Penthouse 19651966",
+            "recording_year": "1966",
+            "asset_path": "ahmad_jamal_002_024",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "40. Speak Low (1 appearances)",
+            "album_name": "Ahmad Jamal Eight Classic Albums",
+            "recording_year": "1960",
+            "asset_path": "ahmad_jamal_002_026",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "41. Waltz for Debbie (1 appearances)",
+            "album_name": "Live at Bubbas",
+            "recording_year": "1980",
+            "asset_path": "ahmad_jamal_002_027",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "42. Stella by Starlight (1 appearances)",
+            "album_name": "The Complete 1961 Alhambra Performances",
+            "recording_year": "1961",
+            "asset_path": "ahmad_jamal_002_028",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "43. Stella by Starlight (1 appearances)",
+            "album_name": "The Complete 1961 Alhambra Performances",
+            "recording_year": "1961",
+            "asset_path": "ahmad_jamal_002_029",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "44. Stella by Starlight (1 appearances)",
+            "album_name": "The Complete 1961 Alhambra Performances",
+            "recording_year": "1961",
+            "asset_path": "ahmad_jamal_002_030",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "45. Stella by Starlight (1 appearances)",
+            "album_name": "The Complete 1961 Alhambra Performances",
+            "recording_year": "1961",
+            "asset_path": "ahmad_jamal_002_031",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "46. Marseille (1 appearances)",
+            "album_name": "Ballades",
+            "recording_year": 2019,
+            "asset_path": "ahmad_jamal_002_035",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "47. Marseille (1 appearances)",
+            "album_name": "Ballades",
+            "recording_year": 2019,
+            "asset_path": "ahmad_jamal_002_037",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "48. April in Paris (1 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1960",
+            "asset_path": "ahmad_jamal_002_038",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "49. ChiTown aka Gem (1 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1960",
+            "asset_path": "ahmad_jamal_002_039",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "50. Darn That Dream (1 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1959",
+            "asset_path": "ahmad_jamal_002_040",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "51. The Girl Next Door (1 appearances)",
+            "album_name": "Heat Wave",
+            "recording_year": "1965",
+            "asset_path": "ahmad_jamal_002_041",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "52. You Go to My Head (1 appearances)",
+            "album_name": "Ahmad Jamal Eight Classic Albums",
+            "recording_year": "1960",
+            "asset_path": "ahmad_jamal_002_046",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "53. I Didnt Know What Time It Was (1 appearances)",
+            "album_name": "Emerald City Nights Live At The Penthouse 19651966",
+            "recording_year": "1966",
+            "asset_path": "ahmad_jamal_002_048",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "54. Volga Boatman (1 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1960",
+            "asset_path": "ahmad_jamal_002_050",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "55. Ill Take Romance  My Funny Valentine (1 appearances)",
+            "album_name": "The Complete Collection Part Two 1959  1962",
+            "recording_year": "1960",
+            "asset_path": "ahmad_jamal_002_051",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "56. Little Old Lady (1 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1959",
+            "asset_path": "ahmad_jamal_002_055",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "57. Whisperings (1 appearances)",
+            "album_name": "Ballades",
+            "recording_year": 2019,
+            "asset_path": "ahmad_jamal_002_056",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "58. Spring Will Be a Little Late This Year (1 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1960",
+            "asset_path": "ahmad_jamal_002_057",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "59. Im Old Fashioned (1 appearances)",
+            "album_name": "The Complete 1961 Alhambra Performances",
+            "recording_year": "1961",
+            "asset_path": "ahmad_jamal_002_058",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "60. Like Someone in Love alternative take 1 (1 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1960",
+            "asset_path": "ahmad_jamal_002_059",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "61. Because I Love You (1 appearances)",
+            "album_name": "Ballades",
+            "recording_year": 2019,
+            "asset_path": "ahmad_jamal_002_060",
+            "n_appearances_in_track": 1
+        }
+    ],
+    "[2, 1, 1]": [
+        {
+            "track_name": "1. Bellows (7 appearances)",
+            "album_name": "Chicago Revisited",
+            "recording_year": "1992",
+            "asset_path": "ahmad_jamal_003_022",
+            "n_appearances_in_track": 7
+        },
+        {
+            "track_name": "2. But Not for Me (7 appearances)",
+            "album_name": "But Not For Me",
+            "recording_year": "1957",
+            "asset_path": "ahmad_jamal_003_057",
+            "n_appearances_in_track": 7
+        },
+        {
+            "track_name": "3. I Didnt Know What Time It Was (6 appearances)",
+            "album_name": "Emerald City Nights Live At The Penthouse 19651966",
+            "recording_year": "1966",
+            "asset_path": "ahmad_jamal_003_040",
+            "n_appearances_in_track": 6
+        },
+        {
+            "track_name": "4. You Go to My Head (3 appearances)",
+            "album_name": "Ahmad Jamal Eight Classic Albums",
+            "recording_year": "1960",
+            "asset_path": "ahmad_jamal_003_035",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "5. Broadway (2 appearances)",
+            "album_name": "Ahmad Jamals Alhambra",
+            "recording_year": "1961",
+            "asset_path": "ahmad_jamal_003_010",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "6. All the Things You Are (2 appearances)",
+            "album_name": "Chicago Revisited",
+            "recording_year": "1992",
+            "asset_path": "ahmad_jamal_003_011",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "7. Concern (2 appearances)",
+            "album_name": "Emerald City Nights Live At The Penthouse 19651966",
+            "recording_year": "1966",
+            "asset_path": "ahmad_jamal_003_019",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "8. Stella by Starlight (2 appearances)",
+            "album_name": "The Complete 1961 Alhambra Performances",
+            "recording_year": "1961",
+            "asset_path": "ahmad_jamal_003_024",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "9. I Didnt Know What Time It Was (2 appearances)",
+            "album_name": "Emerald City Nights Live At The Penthouse 19651966",
+            "recording_year": "1966",
+            "asset_path": "ahmad_jamal_003_037",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "10. So Rare (2 appearances)",
+            "album_name": "Ballades",
+            "recording_year": 2019,
+            "asset_path": "ahmad_jamal_003_048",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "11. So Rare (2 appearances)",
+            "album_name": "Ballades",
+            "recording_year": 2019,
+            "asset_path": "ahmad_jamal_003_050",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "12. My First Love Song (2 appearances)",
+            "album_name": "Emerald City Nights Live At The Penthouse 19651966",
+            "recording_year": "1966",
+            "asset_path": "ahmad_jamal_003_059",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "13. Jim Loves Sue (1 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1959",
+            "asset_path": "ahmad_jamal_003_000",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "14. Star Eyes (1 appearances)",
+            "album_name": "Ahmad Jamal Eight Classic Albums",
+            "recording_year": "1960",
+            "asset_path": "ahmad_jamal_003_001",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "15. Star Eyes (1 appearances)",
+            "album_name": "Ahmad Jamal Eight Classic Albums",
+            "recording_year": "1960",
+            "asset_path": "ahmad_jamal_003_002",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "16. Angel Eyes (1 appearances)",
+            "album_name": "All of You",
+            "recording_year": "1961",
+            "asset_path": "ahmad_jamal_003_003",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "17. Invitation (1 appearances)",
+            "album_name": "Emerald City Nights Live At The Penthouse 19651966",
+            "recording_year": "1966",
+            "asset_path": "ahmad_jamal_003_004",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "18. Spring Will Be a Little Late This Year (1 appearances)",
+            "album_name": "Complete Recordings",
+            "recording_year": "1955",
+            "asset_path": "ahmad_jamal_003_005",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "19. Broadway (1 appearances)",
+            "album_name": "Ahmad Jamals Alhambra",
+            "recording_year": "1961",
+            "asset_path": "ahmad_jamal_003_006",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "20. Broadway (1 appearances)",
+            "album_name": "Ahmad Jamals Alhambra",
+            "recording_year": "1961",
+            "asset_path": "ahmad_jamal_003_007",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "21. Broadway (1 appearances)",
+            "album_name": "Ahmad Jamals Alhambra",
+            "recording_year": "1961",
+            "asset_path": "ahmad_jamal_003_008",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "22. Broadway (1 appearances)",
+            "album_name": "Ahmad Jamals Alhambra",
+            "recording_year": "1961",
+            "asset_path": "ahmad_jamal_003_009",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "23. All the Things You Are (1 appearances)",
+            "album_name": "Chicago Revisited",
+            "recording_year": "1992",
+            "asset_path": "ahmad_jamal_003_012",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "24. On Green Dolphin Street (1 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1959",
+            "asset_path": "ahmad_jamal_003_013",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "25. Im Old Fashioned (1 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1960",
+            "asset_path": "ahmad_jamal_003_014",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "26. Im Old Fashioned (1 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1960",
+            "asset_path": "ahmad_jamal_003_015",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "27. Dance to the Lady (1 appearances)",
+            "album_name": "Chicago Revisited",
+            "recording_year": "1992",
+            "asset_path": "ahmad_jamal_003_016",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "28. Concern (1 appearances)",
+            "album_name": "Emerald City Nights Live At The Penthouse 19651966",
+            "recording_year": "1966",
+            "asset_path": "ahmad_jamal_003_017",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "29. Concern (1 appearances)",
+            "album_name": "Emerald City Nights Live At The Penthouse 19651966",
+            "recording_year": "1966",
+            "asset_path": "ahmad_jamal_003_018",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "30. Poor Butterfly (1 appearances)",
+            "album_name": "Complete Live at the Pershing Lounge 1958",
+            "recording_year": "1958",
+            "asset_path": "ahmad_jamal_003_020",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "31. Tater Pie (1 appearances)",
+            "album_name": "Chicago Revisited",
+            "recording_year": "1992",
+            "asset_path": "ahmad_jamal_003_021",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "32. Beat Out One (1 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1960",
+            "asset_path": "ahmad_jamal_003_023",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "33. Rain Check (1 appearances)",
+            "album_name": "Ahmad Jamal Eight Classic Albums",
+            "recording_year": "1960",
+            "asset_path": "ahmad_jamal_003_025",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "34. Stolen Moments (1 appearances)",
+            "album_name": "The Awakening",
+            "recording_year": "1970",
+            "asset_path": "ahmad_jamal_003_026",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "35. April in Paris (1 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1960",
+            "asset_path": "ahmad_jamal_003_027",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "36. Angel Eyes (1 appearances)",
+            "album_name": "Ahmad Jamal Eight Classic Albums",
+            "recording_year": "1960",
+            "asset_path": "ahmad_jamal_003_028",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "37. The Girl Next Door (1 appearances)",
+            "album_name": "Heat Wave",
+            "recording_year": "1965",
+            "asset_path": "ahmad_jamal_003_029",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "38. Easy to Remember (1 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1959",
+            "asset_path": "ahmad_jamal_003_030",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "39. Tranquility (1 appearances)",
+            "album_name": "Tranquility",
+            "recording_year": "1967",
+            "asset_path": "ahmad_jamal_003_031",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "40. Tranquility (1 appearances)",
+            "album_name": "Tranquility",
+            "recording_year": "1967",
+            "asset_path": "ahmad_jamal_003_032",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "41. Whisper Not (1 appearances)",
+            "album_name": "Emerald City Nights Live At The Penthouse 19651966",
+            "recording_year": "1966",
+            "asset_path": "ahmad_jamal_003_033",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "42. Raincheck (1 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1959",
+            "asset_path": "ahmad_jamal_003_034",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "43. You Go to My Head (1 appearances)",
+            "album_name": "Ahmad Jamal Eight Classic Albums",
+            "recording_year": "1960",
+            "asset_path": "ahmad_jamal_003_036",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "44. I Didnt Know What Time It Was (1 appearances)",
+            "album_name": "Emerald City Nights Live At The Penthouse 19651966",
+            "recording_year": "1966",
+            "asset_path": "ahmad_jamal_003_038",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "45. I Didnt Know What Time It Was (1 appearances)",
+            "album_name": "Emerald City Nights Live At The Penthouse 19651966",
+            "recording_year": "1966",
+            "asset_path": "ahmad_jamal_003_039",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "46. I Didnt Know What Time It Was (1 appearances)",
+            "album_name": "Emerald City Nights Live At The Penthouse 19651966",
+            "recording_year": "1966",
+            "asset_path": "ahmad_jamal_003_041",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "47. I Didnt Know What Time It Was (1 appearances)",
+            "album_name": "Emerald City Nights Live At The Penthouse 19651966",
+            "recording_year": "1966",
+            "asset_path": "ahmad_jamal_003_042",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "48. Volga Boatman (1 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1960",
+            "asset_path": "ahmad_jamal_003_043",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "49. Whats New (1 appearances)",
+            "album_name": "Ballades",
+            "recording_year": 2019,
+            "asset_path": "ahmad_jamal_003_044",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "50. Little Old Lady (1 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1959",
+            "asset_path": "ahmad_jamal_003_045",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "51. Little Old Lady (1 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1959",
+            "asset_path": "ahmad_jamal_003_046",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "52. Soft Winds (1 appearances)",
+            "album_name": "The Complete 1961 Alhambra Performances",
+            "recording_year": "1961",
+            "asset_path": "ahmad_jamal_003_047",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "53. So Rare (1 appearances)",
+            "album_name": "Ballades",
+            "recording_year": 2019,
+            "asset_path": "ahmad_jamal_003_049",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "54. So Rare (1 appearances)",
+            "album_name": "Ballades",
+            "recording_year": 2019,
+            "asset_path": "ahmad_jamal_003_051",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "55. So Rare (1 appearances)",
+            "album_name": "Ballades",
+            "recording_year": 2019,
+            "asset_path": "ahmad_jamal_003_052",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "56. Dolphin Dance (1 appearances)",
+            "album_name": "Freeflight",
+            "recording_year": "1971",
+            "asset_path": "ahmad_jamal_003_053",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "57. Whisperings (1 appearances)",
+            "album_name": "Ballades",
+            "recording_year": 2019,
+            "asset_path": "ahmad_jamal_003_054",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "58. Spring Will Be a Little Late This Year (1 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1960",
+            "asset_path": "ahmad_jamal_003_055",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "59. Im Old Fashioned (1 appearances)",
+            "album_name": "The Complete 1961 Alhambra Performances",
+            "recording_year": "1961",
+            "asset_path": "ahmad_jamal_003_056",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "60. Like Someone in Love alternative take 1 (1 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1960",
+            "asset_path": "ahmad_jamal_003_058",
+            "n_appearances_in_track": 1
+        }
+    ],
+    "[3, 3, 3]": [
+        {
+            "track_name": "1. On Green Dolphin Street (7 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1959",
+            "asset_path": "ahmad_jamal_004_002",
+            "n_appearances_in_track": 7
+        },
+        {
+            "track_name": "2. Beat Out One (6 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1960",
+            "asset_path": "ahmad_jamal_004_008",
+            "n_appearances_in_track": 6
+        },
+        {
+            "track_name": "3. Beat Out One (5 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1960",
+            "asset_path": "ahmad_jamal_004_007",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "4. I Didnt Know What Time It Was (5 appearances)",
+            "album_name": "Emerald City Nights Live At The Penthouse 19651966",
+            "recording_year": "1966",
+            "asset_path": "ahmad_jamal_004_013",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "5. Jim Loves Sue (4 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1959",
+            "asset_path": "ahmad_jamal_004_000",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "6. On Green Dolphin Street (4 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1959",
+            "asset_path": "ahmad_jamal_004_003",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "7. Angel Eyes (4 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1960",
+            "asset_path": "ahmad_jamal_004_011",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "8. Speak Low (2 appearances)",
+            "album_name": "Ahmad Jamal Eight Classic Albums",
+            "recording_year": "1960",
+            "asset_path": "ahmad_jamal_004_005",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "9. Stella by Starlight (2 appearances)",
+            "album_name": "The Complete 1961 Alhambra Performances",
+            "recording_year": "1961",
+            "asset_path": "ahmad_jamal_004_009",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "10. Stolen Moments (2 appearances)",
+            "album_name": "The Awakening",
+            "recording_year": "1970",
+            "asset_path": "ahmad_jamal_004_010",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "11. Whats New (2 appearances)",
+            "album_name": "Ballades",
+            "recording_year": 2019,
+            "asset_path": "ahmad_jamal_004_017",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "12. Little Old Lady (2 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1959",
+            "asset_path": "ahmad_jamal_004_019",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "13. So Rare (2 appearances)",
+            "album_name": "Ballades",
+            "recording_year": 2019,
+            "asset_path": "ahmad_jamal_004_020",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "14. Smoke Gets in Your Eyes (2 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1960",
+            "asset_path": "ahmad_jamal_004_023",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "15. Broadway (1 appearances)",
+            "album_name": "Ahmad Jamals Alhambra",
+            "recording_year": "1961",
+            "asset_path": "ahmad_jamal_004_001",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "16. Concern (1 appearances)",
+            "album_name": "Emerald City Nights Live At The Penthouse 19651966",
+            "recording_year": "1966",
+            "asset_path": "ahmad_jamal_004_004",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "17. Beat Out One (1 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1960",
+            "asset_path": "ahmad_jamal_004_006",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "18. All of You (1 appearances)",
+            "album_name": "Ahmad Jamal Eight Classic Albums",
+            "recording_year": "1960",
+            "asset_path": "ahmad_jamal_004_012",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "19. Volga Boatman (1 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1960",
+            "asset_path": "ahmad_jamal_004_014",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "20. Ill Take Romance  My Funny Valentine (1 appearances)",
+            "album_name": "The Complete Collection Part Two 1959  1962",
+            "recording_year": "1960",
+            "asset_path": "ahmad_jamal_004_015",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "21. Whats New (1 appearances)",
+            "album_name": "Ballades",
+            "recording_year": 2019,
+            "asset_path": "ahmad_jamal_004_016",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "22. It Could Happen to You (1 appearances)",
+            "album_name": "Ahmads Blues",
+            "recording_year": "1958",
+            "asset_path": "ahmad_jamal_004_018",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "23. Medley Alone Together  Love Walked In (1 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1960",
+            "asset_path": "ahmad_jamal_004_021",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "24. Like Someone in Love alternative take 2 (1 appearances)",
+            "album_name": "The Complete Ahmad Jamal Trio Argo Sessions 195662",
+            "recording_year": "1959",
+            "asset_path": "ahmad_jamal_004_022",
+            "n_appearances_in_track": 1
         }
     ]
 }

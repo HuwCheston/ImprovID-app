@@ -1,324 +1,3645 @@
 {
-    "[11, -3, 3]": [
+    "[7, 5]": [
         {
-            "track_name": "1. Ocean  The River",
+            "track_name": "1. InTempo (11 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_000_128",
+            "n_appearances_in_track": 11
+        },
+        {
+            "track_name": "2. Did You Hear That Sound (6 appearances)",
+            "album_name": "Did You Hear That Sound",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_000_026",
+            "n_appearances_in_track": 6
+        },
+        {
+            "track_name": "3. In The Evening (6 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_000_041",
+            "n_appearances_in_track": 6
+        },
+        {
+            "track_name": "4. Nisa (5 appearances)",
             "album_name": "Senzo",
             "recording_year": 2008,
-            "asset_path": "abdullah_ibrahim_000_000"
+            "asset_path": "abdullah_ibrahim_000_072",
+            "n_appearances_in_track": 5
         },
         {
-            "track_name": "2. Trieste My Love",
+            "track_name": "5. Pula (4 appearances)",
             "album_name": "Solotude",
             "recording_year": 2021,
-            "asset_path": "abdullah_ibrahim_000_001"
+            "asset_path": "abdullah_ibrahim_000_001",
+            "n_appearances_in_track": 4
         },
         {
-            "track_name": "3. Trieste My Love",
+            "track_name": "6. What Really Happened in the Cornfields Is That the Birds Made Music All the Day and so I Let a Song Go out of My Heart at Dukes Place (4 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_000_015",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "7. Impressions on a Caravan (4 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_000_051",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "8. Once Upon A Midnight (4 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_000_082",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "9. Once Upon A Midnight (4 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_000_083",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "10. Kalahari Pleiades (4 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_000_094",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "11. InTempo (4 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_000_126",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "12. Corridors Radiant (4 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_000_129",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "13. Open Door Within (4 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_000_134",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "14. What Really Happened in the Cornfields Is That the Birds Made Music All the Day and so I Let a Song Go out of My Heart at Dukes Place (3 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_000_013",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "15. What Really Happened in the Cornfields Is That the Birds Made Music All the Day and so I Let a Song Go out of My Heart at Dukes Place (3 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_000_014",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "16. What Really Happened in the Cornfields Is That the Birds Made Music All the Day and so I Let a Song Go out of My Heart at Dukes Place (3 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_000_017",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "17. Blues For A Hip King (3 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_000_021",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "18. Did You Hear That Sound (3 appearances)",
+            "album_name": "Did You Hear That Sound",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_000_028",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "19. Prelude For Coltrane (3 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_000_036",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "20. In the Evening (3 appearances)",
             "album_name": "Dream Time",
             "recording_year": 2019,
-            "asset_path": "abdullah_ibrahim_000_002"
+            "asset_path": "abdullah_ibrahim_000_042",
+            "n_appearances_in_track": 3
         },
         {
-            "track_name": "4. Trieste My Love",
+            "track_name": "21. Blue Bolero (3 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_000_076",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "22. Once Upon A Midnight (3 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_000_085",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "23. Two Spirituals (3 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_000_102",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "24. Pula (3 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_000_118",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "25. Dust (3 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_000_136",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "26. Blue Bolero  Blue Bolero IV (2 appearances)",
             "album_name": "Dream Time",
             "recording_year": 2019,
-            "asset_path": "abdullah_ibrahim_000_003"
-        }
-    ],
-    "[5, 4, -4]": [
-        {
-            "track_name": "1. Pula",
-            "album_name": "Solotude",
-            "recording_year": 2021,
-            "asset_path": "abdullah_ibrahim_001_000"
+            "asset_path": "abdullah_ibrahim_000_002",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "2. Trieste My Love",
-            "album_name": "Solotude",
-            "recording_year": 2021,
-            "asset_path": "abdullah_ibrahim_001_001"
+            "track_name": "27. What Really Happened in the Cornfields Is That the Birds Made Music All the Day and so I Let a Song Go out of My Heart at Dukes Place (2 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_000_012",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "3. Anatomy of a South African Village",
+            "track_name": "28. What Really Happened in the Cornfields Is That the Birds Made Music All the Day and so I Let a Song Go out of My Heart at Dukes Place (2 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_000_016",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "29. Did You Hear That Sound (2 appearances)",
+            "album_name": "Did You Hear That Sound",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_000_025",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "30. Did You Hear That Sound (2 appearances)",
+            "album_name": "Did You Hear That Sound",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_000_027",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "31. Aspen (2 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_000_037",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "32. In the Evening (2 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_000_046",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "33. Trieste My Love (2 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_000_047",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "34. Impressions on a Caravan (2 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_000_053",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "35. Blue Bolero First Reprise (2 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_000_058",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "36. Genesis (2 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_000_059",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "37. Rose Got It Bad in Harlem (2 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_000_066",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "38. Blue Bolero (2 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_000_075",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "39. Aspen (2 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_000_079",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "40. Once Upon A Midnight (2 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_000_084",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "41. Tintinyana (2 appearances)",
             "album_name": "Anatomy of a South African Village",
             "recording_year": "1965",
-            "asset_path": "abdullah_ibrahim_001_002"
+            "asset_path": "abdullah_ibrahim_000_095",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "4. Capetown District Six",
-            "album_name": "Dream Time",
-            "recording_year": 2019,
-            "asset_path": "abdullah_ibrahim_001_003"
+            "track_name": "42. Phambili  Looking Ahead (2 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_000_096",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "5. Nisa",
+            "track_name": "43. Unfettered Muken (2 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_000_097",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "44. Blues For A Hip King (2 appearances)",
             "album_name": "Senzo",
             "recording_year": 2008,
-            "asset_path": "abdullah_ibrahim_001_004"
+            "asset_path": "abdullah_ibrahim_000_105",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "6. Tokai",
-            "album_name": "Solotude",
-            "recording_year": 2021,
-            "asset_path": "abdullah_ibrahim_001_005"
+            "track_name": "45. Blues For A Hip King (2 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_000_106",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "7. Did You Hear That Sound",
-            "album_name": "Solotude",
-            "recording_year": 2021,
-            "asset_path": "abdullah_ibrahim_001_006"
-        },
-        {
-            "track_name": "8. In a Sentimental Mood",
-            "album_name": "Ode to Duke Ellington At Dukes Place",
-            "recording_year": 1998,
-            "asset_path": "abdullah_ibrahim_001_007"
-        },
-        {
-            "track_name": "9. In a Sentimental Mood",
-            "album_name": "Ode to Duke Ellington At Dukes Place",
-            "recording_year": 1998,
-            "asset_path": "abdullah_ibrahim_001_008"
-        },
-        {
-            "track_name": "10. In a Sentimental Mood",
-            "album_name": "Ode to Duke Ellington At Dukes Place",
-            "recording_year": 1998,
-            "asset_path": "abdullah_ibrahim_001_009"
-        },
-        {
-            "track_name": "11. Trieste My Love",
+            "track_name": "46. Blues for a Hip King (2 appearances)",
             "album_name": "Dream Time",
             "recording_year": 2019,
-            "asset_path": "abdullah_ibrahim_001_010"
+            "asset_path": "abdullah_ibrahim_000_109",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "12. Blues for a Hip King",
-            "album_name": "Dream Time",
-            "recording_year": 2019,
-            "asset_path": "abdullah_ibrahim_001_011"
+            "track_name": "47. For Coltrane (2 appearances)",
+            "album_name": "African Magic",
+            "recording_year": "2001",
+            "asset_path": "abdullah_ibrahim_000_115",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "13. Blues for a Hip King",
-            "album_name": "Dream Time",
-            "recording_year": 2019,
-            "asset_path": "abdullah_ibrahim_001_012"
+            "track_name": "48. For Coltrane (2 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_000_121",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "14. Open Door Within",
+            "track_name": "49. Senzo  Contours And Time (2 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_000_122",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "50. For Coltrane Pt (2 appearances)",
             "album_name": "The Song Is My Story",
             "recording_year": 2014,
-            "asset_path": "abdullah_ibrahim_001_013"
+            "asset_path": "abdullah_ibrahim_000_123",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "15. Open Door Within",
+            "track_name": "51. For Coltrane Pt (2 appearances)",
             "album_name": "The Song Is My Story",
             "recording_year": 2014,
-            "asset_path": "abdullah_ibrahim_001_014"
+            "asset_path": "abdullah_ibrahim_000_124",
+            "n_appearances_in_track": 2
         },
         {
-            "track_name": "16. For Coltrane",
+            "track_name": "52. InTempo (2 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_000_125",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "53. Open Door Within (2 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_000_131",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "54. For Coltrane (2 appearances)",
             "album_name": "Dream Time",
             "recording_year": 2019,
-            "asset_path": "abdullah_ibrahim_001_015"
+            "asset_path": "abdullah_ibrahim_000_135",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "55. Sotho Blue (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_000_000",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "56. Blue Bolero  Blue Bolero IV (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_000_003",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "57. Blue Bolero  Blue Bolero IV (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_000_004",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "58. The Wedding (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_000_005",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "59. Dust Reprise (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_000_006",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "60. District 6 (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_000_007",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "61. Shadows Lean Against My Song (1 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_000_008",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "62. What Really Happened in the Cornfields Is That the Birds Made Music All the Day and so I Let a Song Go out of My Heart at Dukes Place (1 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_000_009",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "63. What Really Happened in the Cornfields Is That the Birds Made Music All the Day and so I Let a Song Go out of My Heart at Dukes Place (1 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_000_010",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "64. What Really Happened in the Cornfields Is That the Birds Made Music All the Day and so I Let a Song Go out of My Heart at Dukes Place (1 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_000_011",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "65. What Really Happened in the Cornfields Is That the Birds Made Music All the Day and so I Let a Song Go out of My Heart at Dukes Place (1 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_000_018",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "66. Just Arrived (1 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_000_019",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "67. Signal On The Hill (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_000_020",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "68. Marinska (1 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_000_022",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "69. Marinska (1 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_000_023",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "70. Marinska (1 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_000_024",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "71. Nisa (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_000_029",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "72. Nisa (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_000_030",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "73. Nisa (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_000_031",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "74. Nisa (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_000_032",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "75. The Ballance (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_000_033",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "76. The Ballance (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_000_034",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "77. The Ballance (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_000_035",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "78. Aspen (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_000_038",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "79. In A Sentimental Mood (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_000_039",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "80. In The Evening (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_000_040",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "81. In the Evening (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_000_043",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "82. In the Evening (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_000_044",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "83. In the Evening (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_000_045",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "84. Ode to Duke (1 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_000_048",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "85. Ode to Duke (1 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_000_049",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "86. Third Line Samba (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_000_050",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "87. Impressions on a Caravan (1 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_000_052",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "88. Impressions on a Caravan (1 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_000_054",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "89. Impressions on a Caravan (1 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_000_055",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "90. Twelve By Twelve (1 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_000_056",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "91. Twelve By Twelve (1 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_000_057",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "92. Solitude (1 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_000_060",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "93. Capetown District Six (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_000_061",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "94. Capetown District Six (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_000_062",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "95. Mindiff (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_000_063",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "96. Mindiff (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_000_064",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "97. Mindiff (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_000_065",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "98. Rose Got It Bad in Harlem (1 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_000_067",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "99. Rose Got It Bad in Harlem (1 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_000_068",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "100. Rose Got It Bad in Harlem (1 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_000_069",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "101. Nisa (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_000_070",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "102. Nisa (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_000_071",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "103. Nisa (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_000_073",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "104. Blue Bolero (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_000_074",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "105. Blue Bolero (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_000_077",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "106. Blue Bolero (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_000_078",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "107. Aspen (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_000_080",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "108. Aspen (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_000_081",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "109. Once Upon A Midnight (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_000_086",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "110. Once Upon A Midnight (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_000_087",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "111. Airolo Blue (1 appearances)",
+            "album_name": "Round Midnight at the Montmartre",
+            "recording_year": "1965",
+            "asset_path": "abdullah_ibrahim_000_088",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "112. Blue Bolero (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_000_089",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "113. Blue Bolero (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_000_090",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "114. In a Sentimental Mood (1 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_000_091",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "115. In a Sentimental Mood (1 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_000_092",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "116. Kalahari Pleiades (1 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_000_093",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "117. Unfettered Muken (1 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_000_098",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "118. Two Spirituals (1 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_000_099",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "119. Two Spirituals (1 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_000_100",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "120. Two Spirituals (1 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_000_101",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "121. Nisa (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_000_103",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "122. Nisa (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_000_104",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "123. Blues For A Hip King (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_000_107",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "124. Blues for a Hip King (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_000_108",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "125. Blues for a Hip King (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_000_110",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "126. Blues for a Hip King (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_000_111",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "127. Blues for a Hip King (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_000_112",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "128. Jabulani (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_000_113",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "129. Jabulani (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_000_114",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "130. Blue Bolero  Blue Bolero I (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_000_116",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "131. Blue Bolero  Blue Bolero I (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_000_117",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "132. Pula (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_000_119",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "133. Spiral Mist (1 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_000_120",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "134. InTempo (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_000_127",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "135. Corridors Radiant (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_000_130",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "136. Open Door Within (1 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_000_132",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "137. Open Door Within (1 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_000_133",
+            "n_appearances_in_track": 1
         }
     ],
-    "[-12, 11, -7]": [
+    "[-7, 7]": [
         {
-            "track_name": "1. Blue Bolero  Blue Bolero II",
+            "track_name": "1. Capetown District Six (17 appearances)",
             "album_name": "Dream Time",
             "recording_year": 2019,
-            "asset_path": "abdullah_ibrahim_002_000"
+            "asset_path": "abdullah_ibrahim_001_070",
+            "n_appearances_in_track": 17
         },
         {
-            "track_name": "2. Blue Bolero",
+            "track_name": "2. Two Spirituals (13 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_001_114",
+            "n_appearances_in_track": 13
+        },
+        {
+            "track_name": "3. What Really Happened in the Cornfields Is That the Birds Made Music All the Day and so I Let a Song Go out of My Heart at Dukes Place (11 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_001_026",
+            "n_appearances_in_track": 11
+        },
+        {
+            "track_name": "4. Capetown District Six (10 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_001_069",
+            "n_appearances_in_track": 10
+        },
+        {
+            "track_name": "5. Two Spirituals (9 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_001_108",
+            "n_appearances_in_track": 9
+        },
+        {
+            "track_name": "6. Two Spirituals (8 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_001_109",
+            "n_appearances_in_track": 8
+        },
+        {
+            "track_name": "7. What Really Happened in the Cornfields Is That the Birds Made Music All the Day and so I Let a Song Go out of My Heart at Dukes Place (7 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_001_025",
+            "n_appearances_in_track": 7
+        },
+        {
+            "track_name": "8. In The Evening (6 appearances)",
             "album_name": "Senzo",
             "recording_year": 2008,
-            "asset_path": "abdullah_ibrahim_002_001"
+            "asset_path": "abdullah_ibrahim_001_007",
+            "n_appearances_in_track": 6
         },
         {
-            "track_name": "3. Blue Bolero",
+            "track_name": "9. In the Evening (6 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_001_049",
+            "n_appearances_in_track": 6
+        },
+        {
+            "track_name": "10. Corridors Radiant (6 appearances)",
             "album_name": "Senzo",
             "recording_year": 2008,
-            "asset_path": "abdullah_ibrahim_002_002"
+            "asset_path": "abdullah_ibrahim_001_149",
+            "n_appearances_in_track": 6
         },
         {
-            "track_name": "4. Once Upon A Midnight",
-            "album_name": "Solotude",
-            "recording_year": 2021,
-            "asset_path": "abdullah_ibrahim_002_003"
+            "track_name": "11. Capetown District Six (5 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_001_072",
+            "n_appearances_in_track": 5
         },
         {
-            "track_name": "5. Blue Bolero",
-            "album_name": "Solotude",
-            "recording_year": 2021,
-            "asset_path": "abdullah_ibrahim_002_004"
-        }
-    ],
-    "[-2, 12, -5]": [
-        {
-            "track_name": "1. Trieste My Love",
-            "album_name": "Solotude",
-            "recording_year": 2021,
-            "asset_path": "abdullah_ibrahim_003_000"
+            "track_name": "12. Aspen (5 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_001_088",
+            "n_appearances_in_track": 5
         },
         {
-            "track_name": "2. Blue Bolero First Reprise",
-            "album_name": "Solotude",
-            "recording_year": 2021,
-            "asset_path": "abdullah_ibrahim_003_001"
-        }
-    ],
-    "[5, 7, -7]": [
-        {
-            "track_name": "1. Pula",
-            "album_name": "Solotude",
-            "recording_year": 2021,
-            "asset_path": "abdullah_ibrahim_004_000"
-        },
-        {
-            "track_name": "2. What Really Happened in the Cornfields Is That the Birds Made Music All the Day and so I Let a Song Go out of My Heart at Dukes Place",
+            "track_name": "13. In a Sentimental Mood (5 appearances)",
             "album_name": "Ode to Duke Ellington At Dukes Place",
             "recording_year": 1998,
-            "asset_path": "abdullah_ibrahim_004_001"
+            "asset_path": "abdullah_ibrahim_001_100",
+            "n_appearances_in_track": 5
         },
         {
-            "track_name": "3. What Really Happened in the Cornfields Is That the Birds Made Music All the Day and so I Let a Song Go out of My Heart at Dukes Place",
+            "track_name": "14. Two Spirituals (5 appearances)",
             "album_name": "Ode to Duke Ellington At Dukes Place",
             "recording_year": 1998,
-            "asset_path": "abdullah_ibrahim_004_002"
+            "asset_path": "abdullah_ibrahim_001_111",
+            "n_appearances_in_track": 5
         },
         {
-            "track_name": "4. What Really Happened in the Cornfields Is That the Birds Made Music All the Day and so I Let a Song Go out of My Heart at Dukes Place",
+            "track_name": "15. Two Spirituals (5 appearances)",
             "album_name": "Ode to Duke Ellington At Dukes Place",
             "recording_year": 1998,
-            "asset_path": "abdullah_ibrahim_004_003"
+            "asset_path": "abdullah_ibrahim_001_112",
+            "n_appearances_in_track": 5
         },
         {
-            "track_name": "5. Just Arrived",
-            "album_name": "The Song Is My Story",
-            "recording_year": 2014,
-            "asset_path": "abdullah_ibrahim_004_004"
+            "track_name": "16. Two Spirituals (5 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_001_116",
+            "n_appearances_in_track": 5
         },
         {
-            "track_name": "6. In A Sentimental Mood",
+            "track_name": "17. Blues For A Hip King (5 appearances)",
             "album_name": "Senzo",
             "recording_year": 2008,
-            "asset_path": "abdullah_ibrahim_004_005"
+            "asset_path": "abdullah_ibrahim_001_122",
+            "n_appearances_in_track": 5
         },
         {
-            "track_name": "7. Ode to Duke",
+            "track_name": "18. Dust Reprise (4 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_001_013",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "19. District 6 (4 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_001_015",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "20. InTempo (4 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_001_147",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "21. Dust Reprise (3 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_001_011",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "22. District 6 (3 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_001_014",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "23. Sotho Blue (3 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_001_018",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "24. What Really Happened in the Cornfields Is That the Birds Made Music All the Day and so I Let a Song Go out of My Heart at Dukes Place (3 appearances)",
             "album_name": "Ode to Duke Ellington At Dukes Place",
             "recording_year": 1998,
-            "asset_path": "abdullah_ibrahim_004_006"
+            "asset_path": "abdullah_ibrahim_001_024",
+            "n_appearances_in_track": 3
         },
         {
-            "track_name": "8. Impressions on a Caravan",
+            "track_name": "25. Nisa (3 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_001_039",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "26. Aspen (3 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_001_044",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "27. Solitude (3 appearances)",
             "album_name": "Ode to Duke Ellington At Dukes Place",
             "recording_year": 1998,
-            "asset_path": "abdullah_ibrahim_004_007"
+            "asset_path": "abdullah_ibrahim_001_066",
+            "n_appearances_in_track": 3
         },
         {
-            "track_name": "9. Twelve By Twelve",
-            "album_name": "The Song Is My Story",
-            "recording_year": 2014,
-            "asset_path": "abdullah_ibrahim_004_008"
+            "track_name": "28. Capetown District Six (3 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_001_067",
+            "n_appearances_in_track": 3
         },
         {
-            "track_name": "10. Twelve By Twelve",
-            "album_name": "The Song Is My Story",
-            "recording_year": 2014,
-            "asset_path": "abdullah_ibrahim_004_009"
+            "track_name": "29. Capetown District Six (3 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_001_068",
+            "n_appearances_in_track": 3
         },
         {
-            "track_name": "11. Anatomy of a South African Village",
+            "track_name": "30. Mindiff (3 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_001_073",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "31. Once Upon A Midnight (3 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_001_094",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "32. Tintinyana (3 appearances)",
             "album_name": "Anatomy of a South African Village",
             "recording_year": "1965",
-            "asset_path": "abdullah_ibrahim_004_010"
+            "asset_path": "abdullah_ibrahim_001_103",
+            "n_appearances_in_track": 3
         },
         {
-            "track_name": "12. Song for Lawrence Brown",
-            "album_name": "Dream Time",
-            "recording_year": 2019,
-            "asset_path": "abdullah_ibrahim_004_011"
-        },
-        {
-            "track_name": "13. Song for Lawrence Brown",
-            "album_name": "Dream Time",
-            "recording_year": 2019,
-            "asset_path": "abdullah_ibrahim_004_012"
-        },
-        {
-            "track_name": "14. Capetown District Six",
-            "album_name": "Dream Time",
-            "recording_year": 2019,
-            "asset_path": "abdullah_ibrahim_004_013"
-        },
-        {
-            "track_name": "15. Nisa",
-            "album_name": "Senzo",
-            "recording_year": 2008,
-            "asset_path": "abdullah_ibrahim_004_014"
-        },
-        {
-            "track_name": "16. Threshold",
-            "album_name": "The Song Is My Story",
-            "recording_year": 2014,
-            "asset_path": "abdullah_ibrahim_004_015"
-        },
-        {
-            "track_name": "17. Threshold",
-            "album_name": "The Song Is My Story",
-            "recording_year": 2014,
-            "asset_path": "abdullah_ibrahim_004_016"
-        },
-        {
-            "track_name": "18. Did You Hear That Sound",
-            "album_name": "Solotude",
-            "recording_year": 2021,
-            "asset_path": "abdullah_ibrahim_004_017"
-        },
-        {
-            "track_name": "19. Kalahari Pleiades",
-            "album_name": "The Song Is My Story",
-            "recording_year": 2014,
-            "asset_path": "abdullah_ibrahim_004_018"
-        },
-        {
-            "track_name": "20. Two Spirituals",
+            "track_name": "33. Two Spirituals (3 appearances)",
             "album_name": "Ode to Duke Ellington At Dukes Place",
             "recording_year": 1998,
-            "asset_path": "abdullah_ibrahim_004_019"
+            "asset_path": "abdullah_ibrahim_001_110",
+            "n_appearances_in_track": 3
         },
         {
-            "track_name": "21. Blues for a Hip King",
-            "album_name": "Dream Time",
-            "recording_year": 2019,
-            "asset_path": "abdullah_ibrahim_004_020"
+            "track_name": "34. Two Spirituals (3 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_001_113",
+            "n_appearances_in_track": 3
         },
         {
-            "track_name": "22. Blues for a Hip King",
-            "album_name": "Dream Time",
-            "recording_year": 2019,
-            "asset_path": "abdullah_ibrahim_004_021"
-        },
-        {
-            "track_name": "23. Spiral Mist",
-            "album_name": "The Song Is My Story",
-            "recording_year": 2014,
-            "asset_path": "abdullah_ibrahim_004_022"
-        },
-        {
-            "track_name": "24. Corridors Radiant",
+            "track_name": "35. Pula (3 appearances)",
             "album_name": "Senzo",
             "recording_year": 2008,
-            "asset_path": "abdullah_ibrahim_004_023"
+            "asset_path": "abdullah_ibrahim_001_132",
+            "n_appearances_in_track": 3
         },
         {
-            "track_name": "25. Open Door Within",
+            "track_name": "36. Senzo  Contours And Time (3 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_001_141",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "37. Open Door Within (3 appearances)",
             "album_name": "The Song Is My Story",
             "recording_year": 2014,
-            "asset_path": "abdullah_ibrahim_004_024"
+            "asset_path": "abdullah_ibrahim_001_153",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "38. Dust (3 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_001_159",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "39. Sotho Blue (2 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_001_000",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "40. Sotho Blue (2 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_001_001",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "41. Pula (2 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_001_004",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "42. Ocean  The River (2 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_001_006",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "43. Sotho Blue (2 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_001_017",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "44. What Really Happened in the Cornfields Is That the Birds Made Music All the Day and so I Let a Song Go out of My Heart at Dukes Place (2 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_001_020",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "45. What Really Happened in the Cornfields Is That the Birds Made Music All the Day and so I Let a Song Go out of My Heart at Dukes Place (2 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_001_022",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "46. Did You Hear That Sound (2 appearances)",
+            "album_name": "Did You Hear That Sound",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_001_033",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "47. In The Evening (2 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_001_048",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "48. Dreamtime (2 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_001_058",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "49. Twelve By Twelve (2 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_001_059",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "50. Dedication to Duke Ellington (2 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_001_062",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "51. Mindiff (2 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_001_076",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "52. Nisa (2 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_001_082",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "53. Blue Bolero (2 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_001_085",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "54. Once Upon A Midnight (2 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_001_093",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "55. Kalahari Pleiades (2 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_001_101",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "56. Unfettered Muken (2 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_001_107",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "57. Blues For A Hip King (2 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_001_123",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "58. Blues For A Hip King (2 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_001_124",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "59. Blues for a Hip King (2 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_001_125",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "60. For Coltrane (2 appearances)",
+            "album_name": "African Magic",
+            "recording_year": "2001",
+            "asset_path": "abdullah_ibrahim_001_129",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "61. Did You Hear That Sound (2 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_001_140",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "62. Corridors Radiant (2 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_001_150",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "63. Open Door Within (2 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_001_151",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "64. Open Door Within (2 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_001_152",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "65. Sotho Blue (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_001_002",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "66. Blue Bolero  Blue Bolero III (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_001_003",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "67. Ocean  The River (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_001_005",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "68. In The Evening (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_001_008",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "69. Blue Bolero  Blue Bolero IV (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_001_009",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "70. Blue Bolero  Blue Bolero IV (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_001_010",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "71. Dust Reprise (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_001_012",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "72. Shadows Lean Against My Song (1 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_001_016",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "73. Sotho Blue (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_001_019",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "74. What Really Happened in the Cornfields Is That the Birds Made Music All the Day and so I Let a Song Go out of My Heart at Dukes Place (1 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_001_021",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "75. What Really Happened in the Cornfields Is That the Birds Made Music All the Day and so I Let a Song Go out of My Heart at Dukes Place (1 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_001_023",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "76. Blue Bolero  Blue Bolero II (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_001_027",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "77. Signal On The Hill (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_001_028",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "78. Boulevard East (1 appearances)",
+            "album_name": "Dollar Brand Plays Sphere Jazz  Jazz Epistle  Verse 1",
+            "recording_year": "1960",
+            "asset_path": "abdullah_ibrahim_001_029",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "79. Boulevard East (1 appearances)",
+            "album_name": "Dollar Brand Plays Sphere Jazz  Jazz Epistle  Verse 1",
+            "recording_year": "1960",
+            "asset_path": "abdullah_ibrahim_001_030",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "80. Blues For Bea (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_001_031",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "81. Blues For A Hip King (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_001_032",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "82. Did You Hear That Sound (1 appearances)",
+            "album_name": "Did You Hear That Sound",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_001_034",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "83. Did You Hear That Sound (1 appearances)",
+            "album_name": "Did You Hear That Sound",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_001_035",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "84. Did You Hear That Sound (1 appearances)",
+            "album_name": "Did You Hear That Sound",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_001_036",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "85. Nisa (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_001_037",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "86. Nisa (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_001_038",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "87. Nisa (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_001_040",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "88. Nisa (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_001_041",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "89. Nisa (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_001_042",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "90. Nisa (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_001_043",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "91. In A Sentimental Mood (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_001_045",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "92. In A Sentimental Mood (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_001_046",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "93. In The Evening (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_001_047",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "94. Ode to Duke (1 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_001_050",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "95. Ode to Duke (1 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_001_051",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "96. Third Line Samba (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_001_052",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "97. Impressions on a Caravan (1 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_001_053",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "98. Impressions on a Caravan (1 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_001_054",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "99. Impressions on a Caravan (1 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_001_055",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "100. Impressions on a Caravan (1 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_001_056",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "101. Impressions on a Caravan (1 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_001_057",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "102. Twelve By Twelve (1 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_001_060",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "103. Dedication to Duke Ellington (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_001_061",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "104. Genesis (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_001_063",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "105. Genesis (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_001_064",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "106. Anatomy of a South African Village (1 appearances)",
+            "album_name": "Anatomy of a South African Village",
+            "recording_year": "1965",
+            "asset_path": "abdullah_ibrahim_001_065",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "107. Capetown District Six (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_001_071",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "108. Mindiff (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_001_074",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "109. Mindiff (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_001_075",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "110. Mindiff (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_001_077",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "111. Rose Got It Bad in Harlem (1 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_001_078",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "112. Rose Got It Bad in Harlem (1 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_001_079",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "113. Rose Got It Bad in Harlem (1 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_001_080",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "114. Rose Got It Bad in Harlem (1 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_001_081",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "115. Nisa (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_001_083",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "116. Blue Bolero (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_001_084",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "117. Blue Bolero (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_001_086",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "118. Aspen (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_001_087",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "119. Once Upon A Midnight (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_001_089",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "120. Once Upon A Midnight (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_001_090",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "121. Once Upon A Midnight (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_001_091",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "122. Once Upon A Midnight (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_001_092",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "123. Once Upon A Midnight (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_001_095",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "124. Once Upon A Midnight (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_001_096",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "125. Blue Bolero (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_001_097",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "126. Threshold (1 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_001_098",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "127. In a Sentimental Mood (1 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_001_099",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "128. Kalahari Pleiades (1 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_001_102",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "129. Phambili  Looking Ahead (1 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_001_104",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "130. Phambili  Looking Ahead (1 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_001_105",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "131. Unfettered Muken (1 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_001_106",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "132. Two Spirituals (1 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_001_115",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "133. Two Spirituals (1 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_001_117",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "134. Nisa (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_001_118",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "135. Blues For A Hip King (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_001_119",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "136. Blues For A Hip King (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_001_120",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "137. Blues For A Hip King (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_001_121",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "138. Blues for a Hip King (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_001_126",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "139. Blues for a Hip King (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_001_127",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "140. Blues for a Hip King (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_001_128",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "141. Dream Time (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_001_130",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "142. Blue Bolero  Blue Bolero I (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_001_131",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "143. Pula (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_001_133",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "144. For Coltrane (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_001_134",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "145. For Coltrane (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_001_135",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "146. For Coltrane (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_001_136",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "147. For Coltrane (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_001_137",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "148. For Coltrane (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_001_138",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "149. Monk in Harlem (1 appearances)",
+            "album_name": "Cape Town Flowers",
+            "recording_year": "1996",
+            "asset_path": "abdullah_ibrahim_001_139",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "150. Senzo  Contours And Time (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_001_142",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "151. Senzo  Contours And Time (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_001_143",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "152. For Coltrane Pt (1 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_001_144",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "153. For Coltrane Pt (1 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_001_145",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "154. For Coltrane Pt (1 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_001_146",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "155. InTempo (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_001_148",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "156. For Coltrane (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_001_154",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "157. For Coltrane (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_001_155",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "158. For Coltrane (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_001_156",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "159. For Coltrane (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_001_157",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "160. For Coltrane (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_001_158",
+            "n_appearances_in_track": 1
+        }
+    ],
+    "[7, -7]": [
+        {
+            "track_name": "1. What Really Happened in the Cornfields Is That the Birds Made Music All the Day and so I Let a Song Go out of My Heart at Dukes Place (18 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_002_018",
+            "n_appearances_in_track": 18
+        },
+        {
+            "track_name": "2. Capetown District Six (17 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_002_066",
+            "n_appearances_in_track": 17
+        },
+        {
+            "track_name": "3. Open Door Within (11 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_002_135",
+            "n_appearances_in_track": 11
+        },
+        {
+            "track_name": "4. Threshold (10 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_002_084",
+            "n_appearances_in_track": 10
+        },
+        {
+            "track_name": "5. Two Spirituals (10 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_002_096",
+            "n_appearances_in_track": 10
+        },
+        {
+            "track_name": "6. What Really Happened in the Cornfields Is That the Birds Made Music All the Day and so I Let a Song Go out of My Heart at Dukes Place (9 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_002_015",
+            "n_appearances_in_track": 9
+        },
+        {
+            "track_name": "7. Two Spirituals (9 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_002_102",
+            "n_appearances_in_track": 9
+        },
+        {
+            "track_name": "8. Two Spirituals (7 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_002_098",
+            "n_appearances_in_track": 7
+        },
+        {
+            "track_name": "9. What Really Happened in the Cornfields Is That the Birds Made Music All the Day and so I Let a Song Go out of My Heart at Dukes Place (6 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_002_017",
+            "n_appearances_in_track": 6
+        },
+        {
+            "track_name": "10. Capetown District Six (6 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_002_065",
+            "n_appearances_in_track": 6
+        },
+        {
+            "track_name": "11. Pula (4 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_002_001",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "12. In The Evening (4 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_002_003",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "13. Dust Reprise (4 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_002_007",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "14. What Really Happened in the Cornfields Is That the Birds Made Music All the Day and so I Let a Song Go out of My Heart at Dukes Place (4 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_002_014",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "15. What Really Happened in the Cornfields Is That the Birds Made Music All the Day and so I Let a Song Go out of My Heart at Dukes Place (4 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_002_016",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "16. Solitude (4 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_002_062",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "17. Threshold (4 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_002_085",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "18. In a Sentimental Mood (4 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_002_088",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "19. Two Spirituals (4 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_002_097",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "20. Corridors Radiant (4 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_002_133",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "21. In The Evening (3 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_002_038",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "22. In the Evening (3 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_002_039",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "23. Capetown District Six (3 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_002_068",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "24. Blues For A Hip King (3 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_002_110",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "25. For Coltrane (3 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_002_120",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "26. InTempo (3 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_002_129",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "27. Corridors Radiant (3 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_002_134",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "28. Dust Reprise (2 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_002_008",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "29. What Really Happened in the Cornfields Is That the Birds Made Music All the Day and so I Let a Song Go out of My Heart at Dukes Place (2 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_002_011",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "30. What Really Happened in the Cornfields Is That the Birds Made Music All the Day and so I Let a Song Go out of My Heart at Dukes Place (2 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_002_013",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "31. Blues For Bea (2 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_002_024",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "32. Nisa (2 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_002_027",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "33. In A Sentimental Mood (2 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_002_036",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "34. Ode to Duke (2 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_002_040",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "35. Ode to Duke (2 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_002_041",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "36. Ode to Duke (2 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_002_044",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "37. Impressions on a Caravan (2 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_002_050",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "38. Twelve By Twelve (2 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_002_054",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "39. Twelve By Twelve (2 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_002_055",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "40. Twelve By Twelve (2 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_002_056",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "41. Anatomy of a South African Village (2 appearances)",
+            "album_name": "Anatomy of a South African Village",
+            "recording_year": "1965",
+            "asset_path": "abdullah_ibrahim_002_059",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "42. Nisa (2 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_002_071",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "43. Nisa (2 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_002_075",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "44. Unfettered Muken (2 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_002_094",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "45. Two Spirituals (2 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_002_099",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "46. Two Spirituals (2 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_002_100",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "47. Two Spirituals (2 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_002_101",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "48. Two Spirituals (2 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_002_103",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "49. Two Spirituals (2 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_002_104",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "50. Blues For A Hip King (2 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_002_109",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "51. Blues For A Hip King (2 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_002_112",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "52. Blues For A Hip King (2 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_002_113",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "53. Dream Time (2 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_002_117",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "54. Pula (2 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_002_118",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "55. For Coltrane (2 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_002_125",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "56. For Coltrane (2 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_002_138",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "57. Sotho Blue (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_002_000",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "58. Ocean  The River (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_002_002",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "59. In The Evening (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_002_004",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "60. Blue Bolero  Blue Bolero IV (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_002_005",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "61. Honey (1 appearances)",
+            "album_name": "Anatomy of a South African Village",
+            "recording_year": "1965",
+            "asset_path": "abdullah_ibrahim_002_006",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "62. District 6 (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_002_009",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "63. District 6 (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_002_010",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "64. What Really Happened in the Cornfields Is That the Birds Made Music All the Day and so I Let a Song Go out of My Heart at Dukes Place (1 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_002_012",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "65. Blue Bolero  Blue Bolero II (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_002_019",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "66. Just Arrived (1 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_002_020",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "67. Just Arrived (1 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_002_021",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "68. Just Arrived (1 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_002_022",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "69. Signal On The Hill (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_002_023",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "70. Did You Hear That Sound (1 appearances)",
+            "album_name": "Did You Hear That Sound",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_002_025",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "71. Did You Hear That Sound (1 appearances)",
+            "album_name": "Did You Hear That Sound",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_002_026",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "72. Nisa (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_002_028",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "73. Nisa (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_002_029",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "74. Nisa (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_002_030",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "75. Nisa (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_002_031",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "76. Nisa (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_002_032",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "77. Nisa (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_002_033",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "78. The Ballance (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_002_034",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "79. In A Sentimental Mood (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_002_035",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "80. In A Sentimental Mood (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_002_037",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "81. Ode to Duke (1 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_002_042",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "82. Ode to Duke (1 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_002_043",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "83. Third Line Samba (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_002_045",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "84. Impressions on a Caravan (1 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_002_046",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "85. Impressions on a Caravan (1 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_002_047",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "86. Impressions on a Caravan (1 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_002_048",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "87. Impressions on a Caravan (1 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_002_049",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "88. Impressions on a Caravan (1 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_002_051",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "89. Dreamtime (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_002_052",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "90. Dreamtime (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_002_053",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "91. Dedication to Duke Ellington (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_002_057",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "92. Dedication to Duke Ellington (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_002_058",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "93. Song for Lawrence Brown (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_002_060",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "94. Song for Lawrence Brown (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_002_061",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "95. Capetown District Six (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_002_063",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "96. Capetown District Six (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_002_064",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "97. Capetown District Six (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_002_067",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "98. Mindiff (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_002_069",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "99. Rose Got It Bad in Harlem (1 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_002_070",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "100. Nisa (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_002_072",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "101. Nisa (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_002_073",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "102. Nisa (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_002_074",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "103. Nisa (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_002_076",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "104. Blue Bolero (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_002_077",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "105. Blue Bolero (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_002_078",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "106. Blue Bolero (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_002_079",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "107. Once Upon A Midnight (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_002_080",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "108. Once Upon A Midnight (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_002_081",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "109. Once Upon A Midnight (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_002_082",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "110. Once Upon A Midnight (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_002_083",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "111. Threshold (1 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_002_086",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "112. Did You Hear That Sound (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_002_087",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "113. Kalahari Pleiades (1 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_002_089",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "114. Kalahari Pleiades (1 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_002_090",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "115. Kalahari Pleiades (1 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_002_091",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "116. Tintinyana (1 appearances)",
+            "album_name": "Anatomy of a South African Village",
+            "recording_year": "1965",
+            "asset_path": "abdullah_ibrahim_002_092",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "117. Phambili  Looking Ahead (1 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_002_093",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "118. Two Spirituals (1 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_002_095",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "119. Nisa (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_002_105",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "120. Nisa (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_002_106",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "121. Blues For A Hip King (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_002_107",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "122. Blues For A Hip King (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_002_108",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "123. Blues For A Hip King (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_002_111",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "124. Blues for a Hip King (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_002_114",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "125. Blues for a Hip King (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_002_115",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "126. Blues for a Hip King (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_002_116",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "127. Spiral Mist (1 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_002_119",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "128. For Coltrane (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_002_121",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "129. For Coltrane (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_002_122",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "130. For Coltrane (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_002_123",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "131. For Coltrane (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_002_124",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "132. Did You Hear That Sound (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_002_126",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "133. Senzo  Contours And Time (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_002_127",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "134. Senzo  Contours And Time (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_002_128",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "135. InTempo (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_002_130",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "136. InTempo (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_002_131",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "137. InTempo (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_002_132",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "138. Open Door Within (1 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_002_136",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "139. For Coltrane (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_002_137",
+            "n_appearances_in_track": 1
+        }
+    ],
+    "[5, 7]": [
+        {
+            "track_name": "1. Twelve By Twelve (49 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_003_031",
+            "n_appearances_in_track": 49
+        },
+        {
+            "track_name": "2. Twelve By Twelve (33 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_003_032",
+            "n_appearances_in_track": 33
+        },
+        {
+            "track_name": "3. Threshold (8 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_003_053",
+            "n_appearances_in_track": 8
+        },
+        {
+            "track_name": "4. Open Door Within (6 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_003_076",
+            "n_appearances_in_track": 6
+        },
+        {
+            "track_name": "5. Kalahari Pleiades (5 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_003_056",
+            "n_appearances_in_track": 5
+        },
+        {
+            "track_name": "6. Once Upon A Midnight (4 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_003_050",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "7. InTempo (4 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_003_072",
+            "n_appearances_in_track": 4
+        },
+        {
+            "track_name": "8. What Really Happened in the Cornfields Is That the Birds Made Music All the Day and so I Let a Song Go out of My Heart at Dukes Place (3 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_003_006",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "9. What Really Happened in the Cornfields Is That the Birds Made Music All the Day and so I Let a Song Go out of My Heart at Dukes Place (3 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_003_011",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "10. Capetown District Six (3 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_003_041",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "11. Threshold (3 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_003_054",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "12. Blues For A Hip King (3 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_003_062",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "13. Blues for a Hip King (3 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_003_065",
+            "n_appearances_in_track": 3
+        },
+        {
+            "track_name": "14. Pula (2 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_003_000",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "15. What Really Happened in the Cornfields Is That the Birds Made Music All the Day and so I Let a Song Go out of My Heart at Dukes Place (2 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_003_010",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "16. Did You Hear That Sound (2 appearances)",
+            "album_name": "Did You Hear That Sound",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_003_014",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "17. Nisa (2 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_003_015",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "18. Prelude For Coltrane (2 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_003_017",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "19. In A Sentimental Mood (2 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_003_019",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "20. Mamma (2 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_003_020",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "21. Ode to Duke (2 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_003_025",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "22. Impressions on a Caravan (2 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_003_028",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "23. Impressions on a Caravan (2 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_003_029",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "24. Dedication to Duke Ellington (2 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_003_034",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "25. Blue Bolero First Reprise (2 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_003_035",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "26. Solitude (2 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_003_040",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "27. Once Upon A Midnight (2 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_003_048",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "28. Did You Hear That Sound (2 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_003_055",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "29. Unfettered Muken (2 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_003_059",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "30. Two Spirituals (2 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_003_060",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "31. Blues for a Hip King (2 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_003_064",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "32. Spiral Mist (2 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_003_069",
+            "n_appearances_in_track": 2
+        },
+        {
+            "track_name": "33. Blue Bolero  Blue Bolero IV (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_003_001",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "34. Blue Bolero  Blue Bolero IV (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_003_002",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "35. The Wedding (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_003_003",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "36. The Wedding (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_003_004",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "37. The Wedding (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_003_005",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "38. What Really Happened in the Cornfields Is That the Birds Made Music All the Day and so I Let a Song Go out of My Heart at Dukes Place (1 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_003_007",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "39. What Really Happened in the Cornfields Is That the Birds Made Music All the Day and so I Let a Song Go out of My Heart at Dukes Place (1 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_003_008",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "40. What Really Happened in the Cornfields Is That the Birds Made Music All the Day and so I Let a Song Go out of My Heart at Dukes Place (1 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_003_009",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "41. Just Arrived (1 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_003_012",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "42. Blues For A Hip King (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_003_013",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "43. Nisa (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_003_016",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "44. In A Sentimental Mood (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_003_018",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "45. In The Evening (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_003_021",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "46. In the Evening (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_003_022",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "47. Tookah (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_003_023",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "48. Ode to Duke (1 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_003_024",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "49. Third Line Samba (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_003_026",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "50. Impressions on a Caravan (1 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_003_027",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "51. Impressions on a Caravan (1 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_003_030",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "52. Dedication to Duke Ellington (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_003_033",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "53. Genesis (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_003_036",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "54. Anatomy of a South African Village (1 appearances)",
+            "album_name": "Anatomy of a South African Village",
+            "recording_year": "1965",
+            "asset_path": "abdullah_ibrahim_003_037",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "55. Song for Lawrence Brown (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_003_038",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "56. Song for Lawrence Brown (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_003_039",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "57. Rose Got It Bad in Harlem (1 appearances)",
+            "album_name": "Ode to Duke Ellington At Dukes Place",
+            "recording_year": 1998,
+            "asset_path": "abdullah_ibrahim_003_042",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "58. Nisa (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_003_043",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "59. Nisa (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_003_044",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "60. Nisa (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_003_045",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "61. Nisa (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_003_046",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "62. Once Upon A Midnight (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_003_047",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "63. Once Upon A Midnight (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_003_049",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "64. Blue Bolero (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_003_051",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "65. Blue Bolero (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_003_052",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "66. Phambili  Looking Ahead (1 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_003_057",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "67. Phambili  Looking Ahead (1 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_003_058",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "68. Nisa (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_003_061",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "69. Blues For A Hip King (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_003_063",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "70. Blues for a Hip King (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_003_066",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "71. Blue Bolero  Blue Bolero I (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_003_067",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "72. Pula (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_003_068",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "73. Did You Hear That Sound (1 appearances)",
+            "album_name": "Dream Time",
+            "recording_year": 2019,
+            "asset_path": "abdullah_ibrahim_003_070",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "74. For Coltrane Pt (1 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_003_071",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "75. InTempo (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_003_073",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "76. InTempo (1 appearances)",
+            "album_name": "Solotude",
+            "recording_year": 2021,
+            "asset_path": "abdullah_ibrahim_003_074",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "77. Corridors Radiant (1 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_003_075",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "78. Open Door Within (1 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_003_077",
+            "n_appearances_in_track": 1
+        },
+        {
+            "track_name": "79. Open Door Within (1 appearances)",
+            "album_name": "The Song Is My Story",
+            "recording_year": 2014,
+            "asset_path": "abdullah_ibrahim_003_078",
+            "n_appearances_in_track": 1
+        }
+    ],
+    "[7, -6, 7]": [
+        {
+            "track_name": "1. Third Line Samba (10 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_004_001",
+            "n_appearances_in_track": 10
+        },
+        {
+            "track_name": "2. Third Line Samba (9 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_004_000",
+            "n_appearances_in_track": 9
+        },
+        {
+            "track_name": "3. Third Line Samba (6 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_004_002",
+            "n_appearances_in_track": 6
+        },
+        {
+            "track_name": "4. Third Line Samba (6 appearances)",
+            "album_name": "Senzo",
+            "recording_year": 2008,
+            "asset_path": "abdullah_ibrahim_004_003",
+            "n_appearances_in_track": 6
         }
     ]
 }
