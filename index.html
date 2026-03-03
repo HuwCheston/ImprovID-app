@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Understanding Jazz Style</title>
+    <title>Deconstructing Jazz Style</title>
     <script src="https://cdn.jsdelivr.net/combine/npm/tone@14.7.58,npm/@magenta/music@1.23.1/es6/core.js,npm/focus-visible@5,npm/html-midi-player@1.5.0"></script>
     <style>
         * {
@@ -268,7 +268,7 @@
 <body>
 <div class="overlay" id="overlay"></div>
 <div class="container" id="content">
-    <div class="title">Understanding Jazz Style</div>
+    <div class="title">Deconstructing Jazz Style</div>
     <div class="gallery">
         <a href="#" alt="Abdullah Ibrahim"
            onclick="showPopup('Abdullah Ibrahim', 'assets/images/pianists/abdullah_ibrahim.png')"><img
@@ -337,9 +337,9 @@
             <div>
                 <button id="popupMelody" onclick="navigate('melody', 'Abdullah Ibrahim')">Melody</button>
                 <em style="font-size: 16px">Listen to their distinctive melodic phrases and licks</em></div>
-            <div>
-                <button id="popupHarmony" onclick="navigate('harmony', 'Abdullah Ibrahim')">Harmony</button>
-                <em style="font-size: 16px">Hear their use of different harmonic progressions</em></div>
+<!--            <div>-->
+<!--                <button id="popupHarmony" onclick="navigate('harmony', 'Abdullah Ibrahim')">Harmony</button>-->
+<!--                <em style="font-size: 16px">Hear their use of different harmonic progressions</em></div>-->
         </div>
         <img id="popupImg" src="assets/images/pianists/abdullah_ibrahim.png" alt="Pianist"/>
     </div>
@@ -357,9 +357,9 @@
         document.getElementById("popupMelody").onclick = function () {
             navigate("melody", name)
         }
-        document.getElementById("popupHarmony").onclick = function () {
-            navigate("harmony", name)
-        }
+        // document.getElementById("popupHarmony").onclick = function () {
+        //     navigate("harmony", name)
+        // }
         console.log(document.getElementById("popupStyle").onclick)
     }
 
@@ -400,12 +400,11 @@
         const infoPopup = document.createElement('div');
         infoPopup.classList.add('info-popup');
         infoPopup.innerHTML = `
-                <h2>Understanding Jazz Style</h2>
+                <h2>Deconstructing Jazz Style</h2>
                 <p>
                     Click the image of each pianist to learn more about their style of improvisation.
                     Toggle audio by clicking the 🔊/🔈 button.
                 </p>
-                <h3><em>For the best experience, use a desktop or laptop computer on this website, not a mobile device.</em></h3>
                 <button class="closeButton" onclick="closeInfoPopup()">✖</button>
             `;
         document.body.appendChild(infoPopup);

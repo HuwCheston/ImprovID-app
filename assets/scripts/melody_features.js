@@ -88,6 +88,8 @@ function setTrack(assetPath) {
         } catch (err) {
         }
     }, 100);
+
+    setXAxis()
 }
 
 function backToSelection() {
@@ -102,4 +104,51 @@ function getCurrentX() {
         }
     }
     return vis.visualizer.svg.children[svgIndex].getAttribute('x')
+}
+
+function setXAxis() {
+    let dur = player.duration;
+    let xDur = Array()
+
+    if (dur < 5) {
+        xDur = [0, 5, 10, 15, 20, 25, 30]
+        dur = 30
+    } else {
+        let createArray = (x) => Array.from({length: Math.floor(x / 5) + 1}, (_, i) => i * 5);
+        xDur = createArray(dur);
+    }
+
+    const mvis = document.getElementById("mvis");
+
+    // Remove any previously rendered axis labels
+    const existing = document.getElementById("xaxis-labels");
+    if (existing) existing.remove();
+
+    const labelContainer = document.createElement("div");
+    labelContainer.id = "xaxis-labels";
+    labelContainer.style.cssText = `
+        position: relative;
+        width: 100%;
+        height: 20px;
+        pointer-events: none;
+    `;
+
+    xDur.forEach(t => {
+        const xPos = (t / dur) * 100;
+
+        const label = document.createElement("span");
+        label.innerText = `0:${String(t).padStart(2, "0")}`;
+        label.style.cssText = `
+            position: absolute;
+            left: ${xPos}%;
+            transform: translateX(-50%);
+            font-size: 11px;
+            color: #888;
+            user-select: none;
+        `;
+
+        labelContainer.appendChild(label);
+    });
+
+    mvis.insertAdjacentElement("afterend", labelContainer);
 }
