@@ -90,6 +90,44 @@ function setTrack(assetPath) {
     }, 100);
 
     setXAxis()
+    addDownloadLink(midPath, assetPath)
+}
+
+function addDownloadLink(midPath, assetName) {
+    const existing = document.getElementById("downloader-row");
+    if (existing) {
+        existing.remove();
+    }
+
+    const link = document.createElement('a');
+    link.href = midPath;
+    link.download = assetName;
+    link.textContent = 'Download MIDI';
+
+    link.style.cssText = `
+        font-size: 16px;
+        color: #888;
+        user-select: none;
+        text-decoration: underline;
+    `;
+
+    const row = document.createElement("div");
+    row.id = "downloader-row";
+    row.style.cssText = `
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 4px;
+    `;
+    row.appendChild(link);
+
+    const xaxisLabels = document.getElementById("xaxis-labels");
+    if (xaxisLabels) {
+        xaxisLabels.insertAdjacentElement("afterend", row);
+    } else {
+        document.getElementById("mvis").insertAdjacentElement("afterend", row);
+    }
 }
 
 function backToSelection() {
