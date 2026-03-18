@@ -5,7 +5,7 @@
     <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
     <title>McCoy Tyner – Melody</title>
     <script charset="utf-8" src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/combine/npm/tone@14.7.58,npm/@magenta/music@1.23.1/es6/core.js,npm/focus-visible@5,npm/html-midi-player@1.5.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/wave-roll@latest/dist/wave-roll.umd.js"></script>
     <link href="../../assets/css/melody_features.css" rel="stylesheet" type="text/css"/>
 </head>
 <body>
@@ -45,11 +45,12 @@
                 <option>Select a track...</option>
             </select>
         </div>
-        <midi-player class="mplayer" id="mplayer"
-                     sound-font="https://storage.googleapis.com/magentadata/js/soundfonts/sgm_plus"
-                     style="width:100%"></midi-player>
-        <midi-visualizer id="mvis" type="piano-roll"></midi-visualizer>
-        <div class="vl" id="playback-line" style="display: none"></div>
+        <wave-roll
+                id="mplayer"
+                style="width: 100%;"
+                readonly
+        >
+        </wave-roll>
     </div>
     <button class="info-button" onclick="showInfoPopup()" style="bottom: 2%; left: 97%">i</button>
     <button class="return-button" onclick="backToSelection()">Select another pianist...</button>
@@ -69,7 +70,7 @@
             </span>
             <h2>Examples</h2>
             <span>
-                Use the dropdown menu to show all available recordings. Click a performance to load audio and a special type of graph called a <strong>piano roll</strong>. The piano roll shows the notes played on the piano in the performance. You can use the playback bar to seek the audio.<br><br>Notes contained in the pattern are shown in <strong>red</strong> on the piano roll; all other notes are shown in <strong>grey</strong>.
+                Use the dropdown menu to show all available recordings. Click a performance to load audio and a special type of graph called a <strong>piano roll</strong>. The piano roll shows the notes played on the piano in the performance. You can use the playback bar to seek the audio.<br><br>Notes contained in the pattern are shown in <strong>red</strong> on the piano roll; all other notes are shown in <strong>blue</strong>.
             </span>
         </div>
     </div>

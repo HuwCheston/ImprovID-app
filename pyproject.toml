@@ -1,0 +1,24 @@
+[project]
+name = "improvid-app"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "huwcheston",email = "hwc31@cam.ac.uk"}
+]
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pretty-midi (>=0.2.11,<0.3.0)",
+    "tqdm (>=4.67.3,<5.0.0)",
+    "symusic (>=0.5.9,<0.6.0)",
+    "music21 (>=9.9.1,<10.0.0)"
+]
+package_mode = "f"
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry]
+package-mode = false
