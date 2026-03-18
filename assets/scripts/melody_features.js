@@ -5,10 +5,13 @@ let player = document.getElementById("mplayer");
 
 function setTrack(assetPath) {
     let midPath = `../../assets/midi/melody_examples/${assetPath}`;
+    let midPath2 = `../../assets/midi/melody_examples/${assetPath.replace(".mid", "_ex.mid")}`;
     // wave-roll uses `files` (JSON array), not `src`
     player.setAttribute('files', JSON.stringify([
-        {path: midPath, type: 'midi', name: assetPath,}
+        {path: midPath, type: 'midi', name: assetPath,},
+        {path: midPath2, type: "midi", name: "ex"}
     ]));
+    addDownloadLink(midPath, assetPath)
 }
 function formatPianistName(pianist) {
     return pianist.replace(/ /g, "_").toLowerCase()
@@ -79,39 +82,33 @@ function intervalsToPitches(intervals) {
 
 function addDownloadLink(midPath, assetName) {
     const existing = document.getElementById("downloader-row");
-    if (existing) {
-        existing.remove();
-    }
-
-    const link = document.createElement('a');
-    link.href = midPath;
-    link.download = assetName;
-    link.textContent = 'Download MIDI';
-
-    link.style.cssText = `
-        font-size: 16px;
-        color: #888;
-        user-select: none;
-        text-decoration: underline;
-    `;
+    if (existing) existing.remove();
 
     const row = document.createElement("div");
     row.id = "downloader-row";
     row.style.cssText = `
         width: 100%;
         display: flex;
-        justify-content: center;
+        flex-direction: column;
         align-items: center;
+        gap: 3px;
         margin-top: 4px;
     `;
+
+    const label = document.createElement("p");
+    label.style.cssText = `margin: 0; font-size: 14px; color: #555;`;
+    label.innerHTML = `Appearances of the pattern are shown in <strong style="color: #b91c1c;">red</strong>. All other notes are shown in <strong style="color: #1d4ed8;">blue</strong>.`;
+
+    const link = document.createElement("a");
+    link.href = midPath;
+    link.download = assetName;
+    link.textContent = 'Download MIDI';
+    link.style.cssText = `font-size: 14px; color: #888; text-decoration: underline;`;
+
+    row.appendChild(label);
     row.appendChild(link);
 
-    const xaxisLabels = document.getElementById("xaxis-labels");
-    if (xaxisLabels) {
-        xaxisLabels.insertAdjacentElement("afterend", row);
-    } else {
-        document.getElementById("mvis").insertAdjacentElement("afterend", row);
-    }
+    player.insertAdjacentElement("afterend", row);
 }
 
 function backToSelection() {
@@ -130,8 +127,8 @@ function initPlayer() {
 
     // Remove A-B loop controls
     const shadow = player.shadowRoot;
-    const abButton = shadow?.querySelector('[title="Toggle A-B Loop Mode"]');
-    if (abButton) abButton.closest('div[style*="gap: 6px"]')?.remove();
+    // const abButton = shadow?.querySelector('[title="Toggle A-B Loop Mode"]');
+    // if (abButton) abButton.closest('div[style*="gap: 6px"]')?.remove();
 
     const showNotesSelect = shadow?.querySelector('select[title*="True Positive"]');
     if (showNotesSelect) showNotesSelect.closest('div[style*="font-size: 12px"]')?.remove();
@@ -140,18 +137,7 @@ function initPlayer() {
     if (settingsBtn) settingsBtn.closest('div[style*="gap: 4px"]')?.remove();
 
     patchTempoControl(shadow)
-    applyMidiColor(shadow, '#1d4ed8'); // blue
 }
-
-function applyMidiColor(shadow, colorHex) {
-    const files = player.player?.stateManager?.getState?.()?.files;
-    if (!files?.length) return;
-    files.forEach(file => {
-        const colorNum = parseInt(colorHex.replace('#', ''), 16);
-        player.player.updateColor?.(file.id, colorNum);
-    });
-}
-
 
 function patchTempoControl(shadow, baseBpm = 120) {
     const tempoBtn = shadow?.querySelector('button[title="Playback Tempo"]');
