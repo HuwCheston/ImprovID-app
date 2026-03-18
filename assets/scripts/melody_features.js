@@ -1,15 +1,15 @@
+// Remove the setAttribute + console.log lines entirely from the top
 let player = document.getElementById("mplayer");
-let vis = document.getElementById("mvis");
-let playbackLine = document.getElementById("playback-line")
-player.addEventListener("load", _playHandler);
+// let player2 = document.getElementById("mplayer2")
+// player2.addEventListener("load", _playHandler);
 
-
-function _playHandler() {
-    player.stop();
-    player.currentTime = 0.0;
-    player.start();
+function setTrack(assetPath) {
+    let midPath = `../../assets/midi/melody_examples/${assetPath}`;
+    // wave-roll uses `files` (JSON array), not `src`
+    player.setAttribute('files', JSON.stringify([
+        {path: midPath, type: 'midi', name: assetPath,}
+    ]));
 }
-
 function formatPianistName(pianist) {
     return pianist.replace(/ /g, "_").toLowerCase()
 }
@@ -24,7 +24,11 @@ function parseJSON(jsName) {
 function playExampleMidi(concept, pianist) {
     let conceptPadded = String(concept).padStart(3, '0')
     let pianistFmt = formatPianistName(pianist)
-    player.src = `../../assets/midi/melody_features/${pianistFmt}_${conceptPadded}.mid`
+    let src = `../../assets/midi/melody_features/${pianistFmt}_${conceptPadded}.mid`
+    // wave-roll uses `files` (JSON array), not `src`
+    player.setAttribute('files', JSON.stringify([
+        {path: src, type: 'midi', name: `${pianistFmt}_${conceptPadded}.mid`}
+    ]));
 }
 
 function showInfoPopup() {
@@ -73,26 +77,6 @@ function intervalsToPitches(intervals) {
     return "(" + pitch_set.join(", ") + ")"
 }
 
-function setTrack(assetPath) {
-    let midPath = `../../assets/midi/melody_examples/${assetPath}`
-    player.src = midPath
-    vis.src = midPath
-    playbackLine.style.display = 'block'
-
-    setInterval(() => {
-        try {
-            var xPos = getCurrentX();
-            let rect = document.getElementById("mvis").getBoundingClientRect();
-            playbackLine.style.left = Number(xPos) + Number(rect.left) + 'px';
-            playbackLine.style.height = (Number(rect.height) - 5) + 'px';
-        } catch (err) {
-        }
-    }, 100);
-
-    setXAxis()
-    addDownloadLink(midPath, assetPath)
-}
-
 function addDownloadLink(midPath, assetName) {
     const existing = document.getElementById("downloader-row");
     if (existing) {
@@ -134,59 +118,118 @@ function backToSelection() {
     window.location.href = '../../index.html';
 }
 
-function getCurrentX() {
-    let svgIndex = null
-    for (const [index, element] of vis.noteSequence.notes.entries()) {
-        if (element.startTime === player.currentTime) {
-            svgIndex = index
-        }
-    }
-    return vis.visualizer.svg.children[svgIndex].getAttribute('x')
+function initPlayer() {
+    player.player?.setPermissions?.({canAddFiles: false, canRemoveFiles: false});
+
+    // Hide the files panel entirely
+    const fileToggle = player.shadowRoot?.querySelector('[data-role="file-toggle"]');
+    if (fileToggle) fileToggle.style.display = 'none';
+
+    // Also re-apply permissions as before
+    player.player?.setPermissions?.({canAddFiles: false, canRemoveFiles: false});
+
+    // Remove A-B loop controls
+    const shadow = player.shadowRoot;
+    const abButton = shadow?.querySelector('[title="Toggle A-B Loop Mode"]');
+    if (abButton) abButton.closest('div[style*="gap: 6px"]')?.remove();
+
+    const showNotesSelect = shadow?.querySelector('select[title*="True Positive"]');
+    if (showNotesSelect) showNotesSelect.closest('div[style*="font-size: 12px"]')?.remove();
+
+    const settingsBtn = shadow?.querySelector('button[title="Settings"]');
+    if (settingsBtn) settingsBtn.closest('div[style*="gap: 4px"]')?.remove();
+
+    patchTempoControl(shadow)
+    applyMidiColor(shadow, '#1d4ed8'); // blue
 }
 
-function setXAxis() {
-    let dur = player.duration;
-    let xDur = Array()
-
-    if (dur < 5) {
-        xDur = [0, 5, 10, 15, 20, 25, 30]
-        dur = 30
-    } else {
-        let createArray = (x) => Array.from({length: Math.floor(x / 5) + 1}, (_, i) => i * 5);
-        xDur = createArray(dur);
-    }
-
-    const mvis = document.getElementById("mvis");
-
-    // Remove any previously rendered axis labels
-    const existing = document.getElementById("xaxis-labels");
-    if (existing) existing.remove();
-
-    const labelContainer = document.createElement("div");
-    labelContainer.id = "xaxis-labels";
-    labelContainer.style.cssText = `
-        position: relative;
-        width: 100%;
-        height: 20px;
-        pointer-events: none;
-    `;
-
-    xDur.forEach(t => {
-        const xPos = (t / dur) * 100;
-
-        const label = document.createElement("span");
-        label.innerText = `0:${String(t).padStart(2, "0")}`;
-        label.style.cssText = `
-            position: absolute;
-            left: ${xPos}%;
-            transform: translateX(-50%);
-            font-size: 11px;
-            color: #888;
-            user-select: none;
-        `;
-
-        labelContainer.appendChild(label);
+function applyMidiColor(shadow, colorHex) {
+    const files = player.player?.stateManager?.getState?.()?.files;
+    if (!files?.length) return;
+    files.forEach(file => {
+        const colorNum = parseInt(colorHex.replace('#', ''), 16);
+        player.player.updateColor?.(file.id, colorNum);
     });
-
-    mvis.insertAdjacentElement("afterend", labelContainer);
 }
+
+
+function patchTempoControl(shadow, baseBpm = 120) {
+    const tempoBtn = shadow?.querySelector('button[title="Playback Tempo"]');
+    if (!tempoBtn) return;
+
+    const popover = tempoBtn.nextElementSibling;
+    const bpmInput = popover?.querySelector('input[type="number"]');
+    let decBtn = popover?.querySelector('button[title="Decrease tempo"]');
+    let incBtn = popover?.querySelector('button[title="Increase tempo"]');
+    if (!bpmInput) return;
+
+    const toFraction = (bpm) => (bpm / baseBpm).toFixed(2);
+    const toBpm = (frac) => Math.round(parseFloat(frac) * baseBpm);
+
+    const updateBtn = (bpm) => {
+        tempoBtn.textContent = `${toFraction(bpm)}x`;
+        tempoBtn.setAttribute('aria-label', `Playback speed: ${toFraction(bpm)}x`);
+    };
+    updateBtn(parseFloat(bpmInput.value) || baseBpm);
+
+    // Create a fraction input to replace the BPM one visually
+    const fracInput = document.createElement('input');
+    fracInput.type = 'number';
+    fracInput.min = '0.10';
+    fracInput.max = '2.50';
+    fracInput.step = '0.05';
+    fracInput.value = toFraction(parseFloat(bpmInput.value) || baseBpm);
+    fracInput.style.cssText = bpmInput.style.cssText;
+    fracInput.className = bpmInput.className;
+    bpmInput.style.display = 'none';
+    bpmInput.insertAdjacentElement('afterend', fracInput);
+
+    // Change "BPM" label to "x speed"
+    const bpmLabel = popover?.querySelector('span');
+    if (bpmLabel) bpmLabel.textContent = 'x speed';
+
+    const syncToBpm = (frac) => {
+        const bpm = toBpm(frac);
+        bpmInput.value = bpm;
+        bpmInput.dispatchEvent(new Event('input', { bubbles: true }));
+        bpmInput.dispatchEvent(new Event('change', { bubbles: true }));
+        updateBtn(bpm);
+    };
+
+    fracInput.addEventListener('input', (e) => syncToBpm(e.target.value));
+    fracInput.addEventListener('change', (e) => syncToBpm(e.target.value));
+
+    // Clone +/- buttons to strip original BPM handlers, replace with fraction ones
+    [decBtn, incBtn].forEach((btn, i) => {
+        const clone = btn.cloneNode(true);
+        btn.parentNode.replaceChild(clone, btn);
+        clone.addEventListener('click', () => {
+            const delta = i === 0 ? -0.05 : 0.05;
+            const newVal = Math.min(2.5, Math.max(0.1, parseFloat(fracInput.value) + delta)).toFixed(2);
+            fracInput.value = newVal;
+            syncToBpm(newVal);
+        });
+    });
+}
+
+
+// Re-apply readonly after every load, since initializePlayer()
+// may call setPermissions before uiDeps is fully ready
+player.addEventListener('load', () => {
+    initPlayer()
+});
+
+initPlayer()
+
+
+document.addEventListener('keydown', (e) => {
+    if (e.code !== 'Space') return;
+    // Don't fire if user is typing in an input
+    if (e.target instanceof HTMLInputElement || e.target instanceof HTMLSelectElement) return;
+    e.preventDefault();
+
+    const playBtn = player.shadowRoot?.querySelector(
+        'button[style*="rgb(37, 99, 235)"], button[style*="rgb(40, 167, 69)"]'
+    );
+    playBtn?.click();
+});
