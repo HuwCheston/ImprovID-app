@@ -199,6 +199,10 @@ function patchTempoControl(shadow, baseBpm = 120) {
 }
 
 
+function toStylePage() {
+    window.location.href = window.location.href.replace("/melody/", "/style/");
+}
+
 // Re-apply readonly after every load, since initializePlayer()
 // may call setPermissions before uiDeps is fully ready
 player.addEventListener('load', () => {

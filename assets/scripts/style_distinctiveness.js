@@ -97,3 +97,7 @@ function stopTrack() {
     player.stop()
     document.getElementById('play-button').style.background = 'lightblue'
 }
+
+function toMelodyPage() {
+    window.location.href = window.location.href.replace("/style/", "/melody/");
+}

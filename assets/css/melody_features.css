@@ -189,10 +189,10 @@ body {
     background-color: darkred;
 }
 
+.style-button,
 .return-button {
     position: fixed;
-    top: 20px;
-    right: 20px;
+    bottom: 20px;
     padding: 20px;
     background-color: #333;
     color: white;
@@ -203,10 +203,20 @@ body {
     transition: transform 0.3s ease, background-color 0.3s ease;
 }
 
+.style-button:hover,
 .return-button:hover {
     transform: scale(1.05);
     background-color: #555;
 }
+
+.style-button {
+    left: 20px;
+}
+
+.return-button {
+    left: calc(20px + 170px + 10px);
+}
+
 
 .concept-gallery {
     display: inline-block;

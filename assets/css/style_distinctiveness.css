@@ -213,10 +213,10 @@ body {
     background-color: darkred;
 }
 
+.melody-button,
 .return-button {
     position: fixed;
     bottom: 20px;
-    left: 20px;
     padding: 20px;
     background-color: #333;
     color: white;
@@ -227,9 +227,18 @@ body {
     transition: transform 0.3s ease, background-color 0.3s ease;
 }
 
+.melody-button:hover,
 .return-button:hover {
     transform: scale(1.05);
     background-color: #555;
+}
+
+.melody-button {
+    left: 20px;
+}
+
+.return-button {
+    left: calc(20px + 220px + 10px);
 }
 
 .listen-button {

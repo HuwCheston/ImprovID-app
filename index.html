@@ -322,7 +322,7 @@
            onclick="showPopup('Tommy Flanagan', 'assets/images/pianists/tommy_flanagan.png')"><img
                 src="assets/images/pianists/tommy_flanagan.png" alt="Tommy Flanagan"></a>
         <button class="info-button" onclick="showInfoPopup(true)">i</button>
-        <button class="mute-button" id="mute-button">🔈</button>
+<!--        <button class="mute-button" id="mute-button">🔈</button>-->
     </div>
 </div>
 
@@ -345,8 +345,8 @@
     </div>
 </div>
 <div style="display: none">
-    <midi-player id="mplayer" class="mplayer"
-                 sound-font="https://storage.googleapis.com/magentadata/js/soundfonts/sgm_plus"></midi-player>
+<!--    <midi-player id="mplayer" class="mplayer"-->
+<!--                 sound-font="https://storage.googleapis.com/magentadata/js/soundfonts/sgm_plus"></midi-player>-->
 </div>
 
 <script>
@@ -364,15 +364,16 @@
     }
 
     function showPopup(name, img) {
-        document.getElementById('popupTitle').innerText = name;
-        let imgPane = document.getElementById('popupImg')
-        imgPane.src = img
-        imgPane.alt = name
-        document.getElementById('popup').style.display = 'block';
-        document.getElementById('overlay').style.display = 'block';
-        document.getElementById('content').classList.add('blurred');
-        editPopupButtons(name)
-        playMidi(name)
+        navigate("style", name)
+        // document.getElementById('popupTitle').innerText = name;
+        // let imgPane = document.getElementById('popupImg')
+        // imgPane.src = img
+        // imgPane.alt = name
+        // document.getElementById('popup').style.display = 'block';
+        // document.getElementById('overlay').style.display = 'block';
+        // document.getElementById('content').classList.add('blurred');
+        // editPopupButtons(name)
+        // playMidi(name)
     }
 
     function _playHandler() {
@@ -419,7 +420,7 @@
                 <h2>Learning Jazz Fingerprints</h2>
                 <p>
                     Click the image of each pianist to learn more about how they improvise.
-                    Toggle audio by clicking the 🔊/🔈 button.
+<!--                    Toggle audio by clicking the 🔊/🔈 button.-->
                 </p>
                 <button class="closeButton" onclick="closeInfoPopup()">✖</button>
             `;
@@ -442,7 +443,6 @@
     function navigate(page, pianist) {
         let pianistFmt = pianist.replace(' ', '_').toLowerCase()
         let navPage = `pages/${page}/${pianistFmt}.html`
-        console.log(navPage)
         window.location.href = navPage;
     }
 
