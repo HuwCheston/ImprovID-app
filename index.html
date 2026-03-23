@@ -321,7 +321,7 @@
         <a href="#" alt="Tommy Flanagan"
            onclick="showPopup('Tommy Flanagan', 'assets/images/pianists/tommy_flanagan.png')"><img
                 src="assets/images/pianists/tommy_flanagan.png" alt="Tommy Flanagan"></a>
-        <button class="info-button" onclick="showInfoPopup()">i</button>
+        <button class="info-button" onclick="showInfoPopup(true)">i</button>
         <button class="mute-button" id="mute-button">🔈</button>
     </div>
 </div>
@@ -407,9 +407,9 @@
         }
     }
 
-    function showInfoPopup() {
+    function showInfoPopup(alwaysShow = false) {
         let returnedHome = getURLParameter("noIntro")
-        if (returnedHome === "true") {
+        if (returnedHome === "true" && !alwaysShow){
             return
         }
 
