@@ -54,11 +54,13 @@ function updateConcept(index, pianist, prediction_acc) {
     let pianist_fmt = fmtPianistName(pianist)
     player.src = `../../assets/midi/style_examples/${pianist_fmt}_${concept}.mid`
 
-    document.getElementById('choose-a-concept').innerText = "Similar Pianists"
+    // document.getElementById('choose-a-concept').innerText = "Similar Pianists"
     let innerText = `Click to play ${pianist}'s most distinctive use of ${concept}`
     if (typeof prediction_acc !== "undefined") {
         innerText = `${innerText} (${prediction_acc}% confidence)`
     }
+
+    document.getElementById("yaxis-text").innerText = `Similar to ${pianist}'s ${concept}`
 
     document.getElementById('click-to-play').innerText = innerText
     document.getElementById('click-to-play').style.visibility = 'visible'

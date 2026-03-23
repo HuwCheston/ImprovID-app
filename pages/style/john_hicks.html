@@ -32,15 +32,16 @@
                 src="../../assets/plots/style/barplots/barplot_john_hicks_rhythm.html"></iframe>
         <iframe class="barplot" id="plot4" scrolling="no"
                 src="../../assets/plots/style/barplots/barplot_john_hicks_dynamics.html"></iframe>
-        <div>
-            <span id="click-to-play" style="visibility: hidden">Click to play most distinctive track</span>
-            <button class="listen-button" id="play-button" onclick="playTrack()" style="visibility:hidden">🔊</button>
-            <button class="listen-button" id="stop-button" onclick="stopTrack()" style="visibility:hidden">🟥</button>
-            <!--            <br><br>-->
-        </div>
-        <button class="info-button" onclick="showInfoPopup()" style="bottom: 10%; left: 89%">i</button>
+        <span class="yaxis-text" id="yaxis-text"></span>
     </div>
-    <button class="melody-button" onclick="toMelodyPage()">Show melodic patterns...</button>
+    <button class="info-button" onclick="showInfoPopup()" style="bottom: 10%; left: 89%">i</button>
+    <div>
+        <span id="click-to-play" style="visibility: hidden">Click to play most distinctive track</span>
+        <button class="listen-button" id="play-button" onclick="playTrack()" style="visibility:hidden">🔊</button>
+        <button class="listen-button" id="stop-button" onclick="stopTrack()" style="visibility:hidden">🟥</button>
+        <!--            <br><br>-->
+    </div>
+        <button class="melody-button" onclick="toMelodyPage()">Show melodic patterns...</button>
     <button class="return-button" onclick="backToSelection()">Select another pianist...</button>
     <midi-player class="mplayer" id="mplayer"
                  sound-font="https://storage.googleapis.com/magentadata/js/soundfonts/sgm_plus"
