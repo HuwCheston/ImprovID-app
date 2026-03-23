@@ -230,7 +230,7 @@ body {
 }
 
 .concept-gallery a:hover img {
-    transform: scale(200%);
+    transform: scale(1.1);
     z-index: 9999;
 }
 
