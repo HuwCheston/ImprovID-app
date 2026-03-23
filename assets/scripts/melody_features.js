@@ -127,8 +127,8 @@ function initPlayer() {
 
     // Remove A-B loop controls
     const shadow = player.shadowRoot;
-    // const abButton = shadow?.querySelector('[title="Toggle A-B Loop Mode"]');
-    // if (abButton) abButton.closest('div[style*="gap: 6px"]')?.remove();
+    const abButton = shadow?.querySelector('[title="Toggle A-B Loop Mode"]');
+    if (abButton) abButton.closest('div[style*="gap: 6px"]')?.remove();
 
     const showNotesSelect = shadow?.querySelector('select[title*="True Positive"]');
     if (showNotesSelect) showNotesSelect.closest('div[style*="font-size: 12px"]')?.remove();
