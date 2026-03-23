@@ -90,25 +90,31 @@ def extend_short_notes(track, min_ticks, orphan_ticks):
     return to_delta(all_events)
 
 
-mid_root = Path("assets/midi/melody_examples")
-for mid_path in tqdm(list(mid_root.rglob("**/*.mid")), desc="Processing MIDI..."):
-    ex_path = mid_path.with_stem(mid_path.stem + "_ex")
+def main():
+    mid_root = Path("assets/midi/melody_examples")
+    for mid_path in tqdm(list(mid_root.rglob("**/*.mid")), desc="Processing MIDI..."):
+        ex_path = mid_path.with_stem(mid_path.stem + "_ex")
 
-    raw = mido.MidiFile(mid_path)
-    tempo = get_tempo(raw)
-    tpb = raw.ticks_per_beat
-    min_ticks = secs_to_ticks(0.1, tpb, tempo)
-    orphan_ticks = secs_to_ticks(0.1, tpb, tempo)
+        raw = mido.MidiFile(mid_path)
+        tempo = get_tempo(raw)
+        tpb = raw.ticks_per_beat
+        min_ticks = secs_to_ticks(0.1, tpb, tempo)
+        orphan_ticks = secs_to_ticks(0.1, tpb, tempo)
 
-    # Track 0 is the tempo track, track 1 is melody, track 2 is accompaniment
-    tempo_track = raw.tracks[0]
-    track1 = extend_short_notes(raw.tracks[1], min_ticks, orphan_ticks)
-    track2 = extend_short_notes(raw.tracks[2], min_ticks, orphan_ticks)
+        # Track 0 is the tempo track, track 1 is melody, track 2 is accompaniment
+        tempo_track = raw.tracks[0]
+        track1 = extend_short_notes(raw.tracks[1], min_ticks, orphan_ticks)
+        track2 = extend_short_notes(raw.tracks[2], min_ticks, orphan_ticks)
 
-    mid1 = mido.MidiFile(type=raw.type, ticks_per_beat=tpb)
-    mid1.tracks = [tempo_track, track1]
-    mid1.save(str(mid_path))
+        mid1 = mido.MidiFile(type=raw.type, ticks_per_beat=tpb)
+        mid1.tracks = [tempo_track, track1]
+        mid1.save(str(mid_path))
 
-    mid2 = mido.MidiFile(type=raw.type, ticks_per_beat=tpb)
-    mid2.tracks = [tempo_track, track2]
-    mid2.save(str(ex_path))
+        mid2 = mido.MidiFile(type=raw.type, ticks_per_beat=tpb)
+        mid2.tracks = [tempo_track, track2]
+        mid2.save(str(ex_path))
+
+
+if __name__ == "__main__":
+    main()
+
