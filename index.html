@@ -396,7 +396,23 @@
         stopMidi();
     }
 
+    function getURLParameter(sParam) {
+        let sPageURL = window.location.search.substring(1);
+        let sURLVariables = sPageURL.split('&');
+        for (let i = 0; i < sURLVariables.length; i++) {
+            let sParameterName = sURLVariables[i].split('=');
+            if (sParameterName[0] === sParam) {
+                return sParameterName[1];
+            }
+        }
+    }
+
     function showInfoPopup() {
+        let returnedHome = getURLParameter("noIntro")
+        if (returnedHome === "true") {
+            return
+        }
+
         const infoPopup = document.createElement('div');
         infoPopup.classList.add('info-popup');
         infoPopup.innerHTML = `

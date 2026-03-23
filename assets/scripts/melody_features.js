@@ -112,7 +112,7 @@ function addDownloadLink(midPath, assetName) {
 }
 
 function backToSelection() {
-    window.location.href = '../../index.html';
+    window.location.href = '../../index.html?noIntro=true';
 }
 
 function initPlayer() {

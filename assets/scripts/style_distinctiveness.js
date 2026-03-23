@@ -80,7 +80,7 @@ function closeInfoPopup() {
 }
 
 function backToSelection() {
-    window.location.href = '../../index.html';
+    window.location.href = '../../index.html?noIntro=true';
 }
 
 function playTrack() {
