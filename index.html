@@ -408,9 +408,10 @@
         }
     }
 
-    function showInfoPopup(alwaysShow = false) {
+    // force=true bypasses the noIntro check (used by the info button)
+    function showInfoPopup(force = false) {
         let returnedHome = getURLParameter("noIntro")
-        if (returnedHome === "true" && !alwaysShow){
+        if (!force && returnedHome === "true") {
             return
         }
 
@@ -466,10 +467,13 @@
         }
     }
 
-    player = document.getElementById("mplayer")
-    isMute = true
-    document.getElementById('mute-button').addEventListener('click', setMute)
-    showInfoPopup()
+    // player = document.getElementById("mplayer")
+    // isMute = true
+    // document.getElementById('mute-button').addEventListener('click', setMute)
+    let returnedHome = getURLParameter("noIntro")
+    if (returnedHome !== "true") {
+        showInfoPopup()
+    }
 
 </script>
 </body>
