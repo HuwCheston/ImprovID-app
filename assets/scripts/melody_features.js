@@ -268,8 +268,13 @@ function initPlayer() {
     if (abButton) abButton.closest('div[style*="gap: 6px"]')?.remove();
 
     // Remove "Show notes" dropdown
-    const showNotesSelect = shadow?.querySelector('select[title*="True Positive"]');
-    if (showNotesSelect) showNotesSelect.closest('div[style*="font-size: 12px"]')?.remove();
+// Find the span containing "Show notes:" and get the next select sibling
+    const showNotesLabel = Array.from(shadow?.querySelectorAll('span') || [])
+        .find(span => span.textContent.includes('Show notes:'));
+    const showNotesSelect = showNotesLabel?.nextElementSibling;
+    if (showNotesSelect?.tagName === 'SELECT') {
+        showNotesSelect.closest('div[style*="gap: 8px"]')?.remove();
+    }
 
     // Remove settings button
     const settingsBtn = shadow?.querySelector('button[title="Settings"]');
