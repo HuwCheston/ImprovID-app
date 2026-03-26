@@ -126,6 +126,22 @@ function parseJSON(jsName) {
     return JSON.parse(request.responseText);
 }
 
+function addPianistAcc() {
+    // easily grab pianist name from title
+    let pianist = document.getElementsByClassName("page-title")[0].innerText.split(" –")[0]
+
+    // open the JSON up
+    let jsRead = parseJSON(`../../assets/metadata/melody_perclass_acc.json`)
+    let pianistAcc = `${jsRead[pianist] * 100}%`
+
+    // modify the element
+    let pianistElm = document.getElementsByClassName("perclass-acc")
+    if (pianistElm.length === 1) {
+        let pianistElmer = pianistElm[0]
+        pianistElmer.firstChild.textContent = `Prediction Accuracy: ${pianistAcc} `;
+    }
+}
+
 /**
  * Play a specific example MIDI for a melody concept
  * @param {string|number} concept - Melody concept identifier
@@ -366,4 +382,8 @@ document.addEventListener('keydown', (e) => {
         'button[style*="rgb(37, 99, 235)"], button[style*="rgb(40, 167, 69)"]'
     );
     playBtn?.click();
+});
+
+document.addEventListener("DOMContentLoaded", function() {
+    addPianistAcc()
 });
