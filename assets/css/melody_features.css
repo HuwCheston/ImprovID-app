@@ -153,7 +153,9 @@ body {
 }
 
 .info-button {
-    position: absolute;
+    position: fixed;
+    bottom: 30px;
+    right: 20px;
     background-color: #007BFF;
     color: white;
     border: none;
@@ -276,7 +278,7 @@ body {
 }
 
 .return-button {
-    left: calc(20px + 170px + 10px);
+    left: calc(20px + 90px + 10px);
 }
 
 

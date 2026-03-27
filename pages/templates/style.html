@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Abdullah Ibrahim – Fingerprint</title>
+    <title>Abdullah Ibrahim</title>
     <link rel="stylesheet" type="text/css" href="../../assets/css/style_distinctiveness.css"/>
     <script src="https://cdn.jsdelivr.net/combine/npm/tone@14.7.58,npm/@magenta/music@1.23.1/es6/core.js,npm/focus-visible@5,npm/html-midi-player@1.5.0"></script>
 </head>
 <body>
-<div class="page-title">Abdullah Ibrahim – Fingerprint</div>
+<div class="page-title">Abdullah Ibrahim</div>
 <div class="grid-container">
     <div class="static-figure">
         <div><h2>Distinctiveness</h2></div>
@@ -16,7 +16,7 @@
                 scrolling="no"></iframe>
     </div>
     <div class="tab-container">
-        <h2 id="choose-a-concept">Choose a musical concept</h2>
+<h2 id="choose-a-concept">Choose a musical domain</h2>
         <div class="tabs">
             <div class="tab" onclick="updateConcept(0, 'Abdullah Ibrahim', 50)">Melody</div>
             <div class="tab" onclick="updateConcept(1, 'Abdullah Ibrahim', 60)">Harmony</div>
@@ -38,7 +38,7 @@
             <button class="listen-button" style="visibility:hidden" id="stop-button" onclick="stopTrack()">🟥</button>
 <!--            <br><br>-->
         </div>
-        <button class="info-button" style="bottom: 10%; left: 89%" onclick="showInfoPopup()">i</button>
+        <button class="info-button"  onclick="showInfoPopup()">i</button>
     </div>
     <button class="return-button" onclick="backToSelection()">Select another pianist...</button>
     <midi-player id="mplayer" style="width:100%; display:none" class="mplayer"
@@ -62,7 +62,7 @@
                 For clarity, we only show the <strong>top-5 most similar pianists</strong> on these plots.<br><br>
                 We also show the most <strong>distinctive</strong> track by each pianist for every musical detail. The "confidence" metric here refers to how accurate our model is at identifiying the current pianist using <strong>only the given musical detail</strong>. The higher the confidence, the more certain we can be that the given track best represents the particular style of the current pianist.
         </span>
-        <h2>For nerds 🧠</h2>
+        <h2>Technical Details</h2>
         <span>
                 We created a novel neural network architecture that uses individual subnetworks to learn from four <strong>factorised input representations</strong> extracted from a single performance (<em>harmony, melody, rhythm, and dynamics</em>). We can then compute the distinctiveness of a performer's use of a single musical domain by masking the outputs of the other three subnetworks at inference time and computing the accuracy of the model's predictions.
         </span>

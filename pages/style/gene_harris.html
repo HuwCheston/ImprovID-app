@@ -3,12 +3,12 @@
 <head>
     <meta charset="utf-8"/>
     <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-    <title>Gene Harris – Fingerprint</title>
+    <title>Gene Harris</title>
     <link href="../../assets/css/style_distinctiveness.css" rel="stylesheet" type="text/css"/>
     <script src="https://cdn.jsdelivr.net/combine/npm/tone@14.7.58,npm/@magenta/music@1.23.1/es6/core.js,npm/focus-visible@5,npm/html-midi-player@1.5.0"></script>
 </head>
 <body>
-<div class="page-title">Gene Harris – Fingerprint</div>
+<div class="page-title">Gene Harris</div>
 <div class="grid-container">
     <div class="static-figure">
         <div><h2>Distinctiveness</h2></div>
@@ -16,12 +16,17 @@
                 src="../../assets/plots/style/radarplots/radarplot_gene_harris.html"></iframe>
     </div>
     <div class="tab-container">
-        <h2 id="choose-a-concept">Choose a musical concept</h2>
+<h2 id="choose-a-concept">Choose a musical domain</h2>
         <div class="tabs">
             <div class="tab" onclick="updateConcept(0, 'Gene Harris', 28.4)">Melody</div>
             <div class="tab" onclick="updateConcept(1, 'Gene Harris', 47.0)">Harmony</div>
             <div class="tab" onclick="updateConcept(2, 'Gene Harris', 17.9)">Rhythm</div>
             <div class="tab" onclick="updateConcept(3, 'Gene Harris', 17.6)">Dynamics</div>
+        </div>
+                <div style="position: relative; height: 0;">
+            <a onclick="toMelodyPage()" style="visibility: hidden; position: absolute;" id="melodic-pattern-link">Click
+                to show distinctive
+                melodic patterns</a>
         </div>
         <!--        <div><span style="visibility:hidden" id="view-similar-pianists">View similar pianists</span></div>-->
         <iframe class="barplot" id="plot1" scrolling="no"
@@ -33,15 +38,15 @@
         <iframe class="barplot" id="plot4" scrolling="no"
                 src="../../assets/plots/style/barplots/barplot_gene_harris_dynamics.html"></iframe>
         <span class="yaxis-text" id="yaxis-text"></span>
+        <div>
+            <span id="click-to-play" style="visibility: hidden">Click to play most distinctive track</span>
+            <button class="listen-button" id="play-button" onclick="playTrack()" style="visibility:hidden">🔊</button>
+            <button class="listen-button" id="stop-button" onclick="stopTrack()" style="visibility:hidden">🟥</button>
+            <!--            <br><br>-->
+        </div>
     </div>
-    <button class="info-button" onclick="showInfoPopup()" style="bottom: 10%; left: 89%">i</button>
-    <div>
-        <span id="click-to-play" style="visibility: hidden">Click to play most distinctive track</span>
-        <button class="listen-button" id="play-button" onclick="playTrack()" style="visibility:hidden">🔊</button>
-        <button class="listen-button" id="stop-button" onclick="stopTrack()" style="visibility:hidden">🟥</button>
-        <!--            <br><br>-->
-    </div>
-        <button class="melody-button" onclick="toMelodyPage()">Show melodic patterns...</button>
+    <button class="info-button" onclick="showInfoPopup()" >i</button>
+    <!--    <button class="melody-button" onclick="toMelodyPage()">Show distinctive patterns...</button>-->
     <button class="return-button" onclick="backToSelection()">Select another pianist...</button>
     <midi-player class="mplayer" id="mplayer"
                  sound-font="https://storage.googleapis.com/magentadata/js/soundfonts/sgm_plus"
@@ -64,7 +69,7 @@
                 For clarity, we only show the <strong>top-5 most similar pianists</strong> on these plots.<br/><br/>
                 We also show the most <strong>distinctive</strong> track by each pianist for every musical detail. The "confidence" metric here refers to how accurate our model is at identifiying the current pianist using <strong>only the given musical detail</strong>. The higher the confidence, the more certain we can be that the given track best represents the particular style of the current pianist.
         </span>
-        <h2>For nerds 🧠</h2>
+        <h2>Technical Details</h2>
         <span>
                 We created a novel neural network architecture that uses individual subnetworks to learn from four <strong>factorised input representations</strong> extracted from a single performance (<em>harmony, melody, rhythm, and dynamics</em>). We can then compute the distinctiveness of a performer's use of a single musical domain by masking the outputs of the other three subnetworks at inference time and computing the accuracy of the model's predictions.
         </span>

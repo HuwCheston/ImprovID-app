@@ -66,6 +66,16 @@ function updateConcept(index, pianist, prediction_acc) {
     document.getElementById('click-to-play').style.visibility = 'visible'
     document.getElementById('play-button').style.visibility = 'visible'
     document.getElementById('stop-button').style.visibility = 'visible'
+
+    // show the links to melodic patterns
+    let selector = document.getElementById("melodic-pattern-link")
+    if (index === 0) {
+        selector.style["visibility"] = "visible"
+    }
+    else {
+        selector.style["visibility"] = "hidden"
+    }
+    selector.innerText = `Click to show ${pianist}'s most distinctive melodic patterns`
 }
 
 function showInfoPopup() {
