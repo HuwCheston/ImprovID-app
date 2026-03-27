@@ -78,17 +78,33 @@ function updateConcept(index, pianist, prediction_acc) {
     selector.innerText = `Click to show ${pianist}'s most distinctive melodic patterns`
 }
 
+/**
+ * Show the info popup
+ */
 function showInfoPopup() {
     document.getElementById('popupTitle').innerText = name;
     document.getElementById('popup').style.display = 'block';
-    document.getElementById('overlay').style.display = 'block';
-    document.getElementById('content').classList.add('blurred');
+    // document.getElementById('grid-container').style.display = 'block';
+    ["grid-container", "page-title", "return-button", "info-button"].forEach(fn => {
+        document.getElementsByClassName(fn)[0].classList.add('blurred');
+    });
+    ["return-button", "info-button"].forEach(btn => {
+        document.getElementsByClassName(btn)[0].disabled = true
+    })
 }
 
+/**
+ * Close the info popup
+ */
 function closeInfoPopup() {
     document.getElementById('popup').style.display = 'none';
-    document.getElementById('overlay').style.display = 'none';
-    document.getElementById('content').classList.remove('blurred');
+    // document.getElementById('overlay').style.display = 'none';
+    ["grid-container", "page-title", "return-button", "info-button"].forEach(fn => {
+        document.getElementsByClassName(fn)[0].classList.remove('blurred');
+    });
+    ["return-button", "info-button"].forEach(btn => {
+        document.getElementsByClassName(btn)[0].disabled = false
+    })
 }
 
 function backToSelection() {
