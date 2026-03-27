@@ -132,7 +132,8 @@ function addPianistAcc() {
 
     // open the JSON up
     let jsRead = parseJSON(`../../assets/metadata/melody_perclass_acc.json`)
-    let pianistAcc = `${jsRead[pianist] * 100}%`
+    let acc = Math.round(jsRead[pianist] * 100)
+    let pianistAcc = `${acc}%`
 
     // modify the element
     let pianistElm = document.getElementsByClassName("perclass-acc")
@@ -163,8 +164,13 @@ function playExampleMidi(concept, pianist) {
 function showInfoPopup() {
     document.getElementById('popupTitle').innerText = name;
     document.getElementById('popup').style.display = 'block';
-    document.getElementById('overlay').style.display = 'block';
-    document.getElementById('content').classList.add('blurred');
+    // document.getElementById('grid-container').style.display = 'block';
+    ["grid-container", "page-title", "perclass-acc", "style-button", "return-button", "info-button"].forEach(fn => {
+        document.getElementsByClassName(fn)[0].classList.add('blurred');
+    });
+    ["style-button", "return-button", "info-button"].forEach(btn => {
+        document.getElementsByClassName(btn)[0].disabled = true
+    })
 }
 
 /**
@@ -172,8 +178,13 @@ function showInfoPopup() {
  */
 function closeInfoPopup() {
     document.getElementById('popup').style.display = 'none';
-    document.getElementById('overlay').style.display = 'none';
-    document.getElementById('content').classList.remove('blurred');
+    // document.getElementById('overlay').style.display = 'none';
+    ["grid-container", "page-title", "perclass-acc", "style-button", "return-button", "info-button"].forEach(fn => {
+        document.getElementsByClassName(fn)[0].classList.remove('blurred');
+    });
+    ["style-button", "return-button", "info-button"].forEach(btn => {
+        document.getElementsByClassName(btn)[0].disabled = false
+    })
 }
 
 /**
