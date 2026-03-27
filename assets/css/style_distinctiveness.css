@@ -112,7 +112,9 @@ body {
 }
 
 .info-button {
-    position: absolute;
+    position: fixed;
+    bottom: 30px;
+    right: 20px;
     background-color: #007BFF;
     color: white;
     border: none;
@@ -239,7 +241,7 @@ body {
 }
 
 .return-button {
-    left: calc(20px + 220px + 10px);
+    left: 20px;
 }
 
 .listen-button {
@@ -269,4 +271,19 @@ body {
     left: 30px;
     transform-origin: 0 0;
     transform: rotate(-90deg);
+}
+
+#melodic-pattern-link {
+    display: inline-block;
+    font-size: 1.0rem;
+    color: #4a90d9;
+    text-decoration: underline;
+    cursor: pointer;
+    transition: color 0.2s ease;
+}
+
+#melodic-pattern-link:hover {
+    color: #2c6fad;
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
 }
