@@ -356,7 +356,8 @@
             Desktop / Laptop Required
         </h2>
         <p style="color: #374151; margin-bottom: 16px;">
-            This website is <strong>only supported on desktop or laptop computers</strong>. Mobile phones and tablets are <strong>not supported</strong>.
+            This website is <strong>only supported on desktop or laptop computers</strong>. Mobile phones and tablets
+            are <strong>not supported</strong>.
         </p>
         <p style="font-size: 0.875rem; color: #6b7280;">
             Please access this site using a desktop or laptop computer.
@@ -378,9 +379,10 @@
                 container.classList.add("blurred")
                 warning.style.display = 'flex';
             }
-        }
-        else {
+            return true
+        } else {
             console.log("No warning")
+            return false
         }
     }
 
@@ -505,10 +507,12 @@
     // isMute = true
     // document.getElementById('mute-button').addEventListener('click', setMute)
     document.addEventListener('DOMContentLoaded', () => {
-        mobileWarning()
-        let returnedHome = getURLParameter("noIntro")
-        if (returnedHome !== "true") {
-            showInfoPopup()
+        let isMobile = mobileWarning()
+        if (!isMobile) {
+            let returnedHome = getURLParameter("noIntro")
+            if (returnedHome !== "true") {
+                showInfoPopup()
+            }
         }
     })
 
